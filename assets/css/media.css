@@ -1,0 +1,169 @@
+@media screen and (max-width: 991px) {
+  /* intro */
+  .intro {
+    height: 75vh;
+  }
+  .introTitle {
+    font-size: 60px;
+  }
+
+  /* about */
+  .aboutBlock {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .aboutBlock:nth-child(even) {
+    flex-direction: column-reverse;
+  }
+  .aboutBlockText {
+    width: 100%;
+  }
+  .aboutBlockImgs {
+    width: 100%;
+  }
+
+  /* info */
+  .infoContent {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .infoLeft {
+    width: 100%;
+  }
+  .infoText {
+    width: 100%;
+  }
+
+  /* tourism */
+  .tourismContent {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .tourismLeft {
+    width: 100%;
+  }
+  .tourismRight {
+    width: 100%;
+  }
+
+  /* marzer */
+  .marzerSlider .slick-slide {
+    width: 310px !important;
+  }
+}
+@media screen and (max-width: 767px) {
+  /* intro */
+  .intro {
+    height: 50vh;
+  }
+  .introTitle {
+    font-size: 30px;
+  }
+  .introSlider .slick-dots li button {
+    width: 10px;
+    height: 10px;
+  }
+
+  /* about */
+  .about {
+    margin-top: 30px;
+  }
+  .aboutTitle,
+  .infoTitle,
+  .infoSub,
+  .tourismTitle,
+  .tourismSub,
+  .marzerTitle,
+  .marzerSub,
+  .footerSub,
+  .footerTitle {
+    font-size: 30px;
+  }
+  .aboutSub {
+    font-size: 25px;
+    margin-top: 30px;
+  }
+  .aboutBlocks {
+    gap: 30px;
+    margin-top: 30px;
+  }
+  .aboutBlockTitle {
+    font-size: 22px;
+  }
+  .aboutBlockImgs {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .aboutBlockImg {
+    width: 100%;
+  }
+  .aboutBlockImgTitle {
+    width: 100%;
+  }
+  .aboutBlockSub {
+    font-size: 18px;
+  }
+
+  /* info */
+  .info {
+    margin-top: 30px;
+  }
+  .infoLeftTitle {
+    font-size: 23px;
+  }
+  .infoText {
+    gap: 30px;
+  }
+  .infoTextBoxTitle {
+    font-size: 20px;
+  }
+  .infoTextBoxSub {
+    font-size: 18px;
+  }
+
+  /* tourism */
+  .tourism {
+    margin-top: 30px;
+  }
+  .tourismRightImgs {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .tourismRightImg {
+    width: 100%;
+  }
+
+  /* marzer */
+  .marzer {
+    margin-top: 30px;
+  }
+  .marzerTitle1 {
+    font-size: 25px;
+    margin-top: 30px;
+  }
+  .marzerSub1 {
+    font-size: 16px;
+  }
+  .marzerBox {
+    flex-direction: column;
+    row-gap: 30px;
+  }
+  .marzerBox:last-child {
+    flex-direction: column-reverse;
+  }
+  .marzerImg {
+    width: 100%;
+  }
+  .marzerBoxText {
+    width: 100%;
+  }
+  .marziAnvanum {
+    font-size: 16px;
+  }
+  .marzerSlider .slick-list {
+    max-width: 100%;
+  }
+  .marzerSlider .slick-slide {
+    width: 300px !important;
+  }
+}

@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  text-decoration: none;
+  scroll-behavior: smooth;
+  font-family: "Times New Roman", Times, serif;
+}
+a,
+button:active,
+button:focus,
+input:active,
+input:focus {
+  outline: 0 !important;
+}
+a:hover {
+  text-decoration: none;
+}
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
