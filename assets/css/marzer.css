@@ -605,6 +605,12 @@
   background-size: cover;
   background-position: 0 0;
 }
+.turizm3 {
+  background: url("../../assets/img/marzer/gegharquniq/gegharquniq1.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 0;
+}
 .turizm .container {
   max-width: 100%;
   padding: 0 20px;
