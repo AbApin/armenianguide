@@ -772,11 +772,153 @@
   max-width: 100%;
 }
 
-/* media */
+/* cank */
+
+.cank {
+  background: #fff;
+  padding-top: 200px;
+  padding-bottom: 100px;
+  min-height: 100vh;
+}
+.cankTitle {
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 30px;
+  letter-spacing: 1px;
+}
+.cankGrid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+.cankCard {
+  position: relative;
+  height: 260px;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 1);
+  transition: all 0.3s ease;
+}
+.cankCard1 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/1.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard2 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/2.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard3 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/3.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard4 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/4.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard5 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/5.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard6 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/6.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard7 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/7.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard8 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/8.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard9 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/9.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard10 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/10.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard11 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/11.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard12 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/12.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard13 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/13.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard14 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/bnutyan-hushardzanner/14.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankCard:hover {
+  transform: scale(1.03);
+}
+.cankCard:hover::before {
+  content: none;
+}
+.cankCardTitle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  letter-spacing: 5px;
+  font-style: italic;
+  z-index: 2;
+  text-align: center;
+  width: 100%;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4));
+  padding: 10px;
+  min-height: 75px;
+  word-break: break-word;
+}
+
+/* Responsive */
 @media screen and (max-width: 1024px) {
   /* turizm */
   .turizmBoxLinks1-1 .turizmBoxLink {
     width: 48%;
+  }
+  .cankGrid {
+    grid-template-columns: repeat(2, 1fr);
   }
 }
 @media screen and (max-width: 991px) {
@@ -811,6 +953,11 @@
   }
   .contentBoxGridImg .contentBoxImg:nth-child(1n) {
     grid-row: span 2;
+  }
+
+  /* cank */
+  .cank {
+    padding-bottom: 50px;
   }
 }
 @media screen and (max-width: 767px) {
@@ -904,5 +1051,17 @@
   .contentBoxSub,
   .contentBoxSub1 {
     word-break: break-word;
+  }
+
+  /* cank */
+  .cank {
+    padding-top: 150px;
+    padding-bottom: 30px;
+  }
+  .cankGrid {
+    grid-template-columns: 1fr;
+  }
+  .cankCard {
+    height: 220px;
   }
 }
