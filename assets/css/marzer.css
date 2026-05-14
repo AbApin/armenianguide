@@ -773,7 +773,6 @@
 }
 
 /* cank */
-
 .cank {
   background: #fff;
   padding-top: 200px;
@@ -783,13 +782,16 @@
 .cankTitle {
   text-align: center;
   font-size: 36px;
-  margin-bottom: 30px;
+  line-height: 1.45;
+  font-style: italic;
   letter-spacing: 1px;
+  word-break: break-word;
 }
 .cankGrid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
+  margin: 30px 0;
 }
 .cankCard {
   position: relative;
@@ -909,6 +911,301 @@
   padding: 10px;
   min-height: 75px;
   word-break: break-word;
+}
+
+.cankChartAragacotn .cankCard1 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/69.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard2 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/70.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard3 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/71.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard4 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/72.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard5 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/73.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard6 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/73_1.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard7 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/75.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard8 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/76.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard9 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/77.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard10 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/78.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard11 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/79.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard12 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/80.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard13 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/81.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard14 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/82.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard15 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/83.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard16 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/84.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard17 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/85.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard18 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/86.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard19 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/87.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard20 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/88.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard21 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/89.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard22 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/90.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard23 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/91.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard24 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/92.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard25 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/93.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard26 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/94.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard27 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/95.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard28 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/96.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard29 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/97.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard30 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/98.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard31 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/99.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard32 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/100.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard33 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/101.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard34 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/102.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard35 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/103.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard36 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/104.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard37 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/105.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard38 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/116.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard39 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/117.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard40 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/118.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard41 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/119.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard42 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/122.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard43 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/123.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard44 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/124.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard45 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/125.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard46 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/126.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard47 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/127.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard48 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/128.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+.cankChartAragacotn .cankCard49 {
+  background: url("../../assets/img/marzer/aragacotn/turizm/chartarapetakan-hushardzanner/129.webp");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 /* Responsive */
@@ -1057,6 +1354,9 @@
   .cank {
     padding-top: 150px;
     padding-bottom: 30px;
+  }
+  .cankTitle {
+    font-size: 20px;
   }
   .cankGrid {
     grid-template-columns: 1fr;

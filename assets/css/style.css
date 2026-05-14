@@ -109,6 +109,8 @@
   font-weight: 700;
   font-size: 72px;
   line-height: 1.2;
+  letter-spacing: 5px;
+  font-style: italic;
   position: relative;
   z-index: 4;
 }
