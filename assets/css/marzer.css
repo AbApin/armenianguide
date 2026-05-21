@@ -401,6 +401,11 @@
   height: 100%;
   object-fit: cover;
 }
+.fullWidth img {
+  max-width: 100%;
+  width: 100%;
+  max-height: initial;
+}
 .contentBoxImgDzel img {
   max-height: initial;
 }
@@ -769,10 +774,6 @@
   height: 100%;
   aspect-ratio: 16 / 9;
   border: none;
-}
-.fullWidth img {
-  width: 100%;
-  max-width: 100%;
 }
 
 /* cank */
