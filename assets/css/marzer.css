@@ -64,6 +64,12 @@
   background-size: cover;
   background-position: 0 0;
 }
+.intro11 {
+  background: url("../../assets/img/marzer/yerevan/1.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 0;
+}
 .introTitle {
   color: #fff;
   font-size: 80px;
@@ -1302,6 +1308,10 @@
   }
   .contentBoxList {
     gap: 10px;
+  }
+  .contentBoxListBox {
+    flex: 1;
+    min-width: 0;
   }
   .contentBoxSub {
     font-size: 16px;
