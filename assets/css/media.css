@@ -78,6 +78,7 @@
   .footerSub,
   .footerTitle {
     font-size: 30px;
+    word-wrap: break-word;
   }
   .aboutSub {
     font-size: 25px;

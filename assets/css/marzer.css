@@ -625,6 +625,12 @@
   background-size: cover;
   background-position: 0 0;
 }
+.turizmHayastan {
+  background: url("../../assets/img/tourism2.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 0;
+}
 .turizm .container {
   max-width: 100%;
   padding: 0 20px;
@@ -634,6 +640,10 @@
   justify-content: space-between;
   align-items: flex-start;
 }
+.turizmHayastan .turizmInner {
+  flex-wrap: wrap;
+  row-gap: 30px;
+}
 .turizmBox {
   width: 49%;
   background: rgba(0, 0, 0, 0.35);
@@ -641,6 +651,9 @@
   border-radius: 25px;
   padding: 20px;
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
+}
+.turizmHayastan .turizmBox {
+  width: 100%;
 }
 .turizmBoxTitle {
   color: #fff;
@@ -1377,5 +1390,9 @@
   }
   .cankCard {
     height: 220px;
+  }
+
+  .turizmBoxTitle {
+    font-size: 20px;
   }
 }

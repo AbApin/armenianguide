@@ -5,9 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="shortcut icon" href="../favicon.webp" type="image/webp" />
-    <title>Կլիմա</title>
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
+    <title data-i18n="hayastan_climate_head_title">Կլիմա</title>
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/slick-slider@1.8.2/slick/slick.min.css"
@@ -21,21 +19,32 @@
     <link rel="stylesheet" href="../assets/css/hayastan.css" />
   </head>
   <body>
-    <!-- header -->
     <header class="header">
       <div class="container">
         <div class="headerInner">
-          <a href="../" class="logo">
-            <img src="../assets/img/logo.webp" alt="Logo" />
-          </a>
+          <a href="../" class="logo"
+            ><img src="../assets/img/logo.webp" alt="Logo"
+          /></a>
           <div class="headerLinks">
-            <a href="../#home" class="headerLink">Գլխավոր</a>
-            <a href="../#hayastan" class="headerLink">Հայաստան</a>
-            <a href="../#marzer" class="headerLink">ՀՀ Մարզեր</a>
-            <a href="../#turizm" class="headerLink">Տուրիզմ</a>
-            <a href="#" class="headerLink">Բլոգ</a>
-            <a href="#" class="headerLink">Info booklet</a>
-            <a href="../#footer" class="headerLink">Կապ</a>
+            <a href="../#home" class="headerLink" data-i18n="nav_home"
+              >Գլխավոր</a
+            >
+            <a href="../#hayastan" class="headerLink" data-i18n="nav_hayastan"
+              >Հայաստան</a
+            >
+            <a href="../#marzer" class="headerLink" data-i18n="nav_marzer"
+              >ՀՀ Մարզեր</a
+            >
+            <a href="../#turizm" class="headerLink" data-i18n="nav_turizm"
+              >Տուրիզմ</a
+            >
+            <a href="#" class="headerLink" data-i18n="nav_blog">Բլոգ</a>
+            <a href="#" class="headerLink" data-i18n="nav_booklet"
+              >Info booklet</a
+            >
+            <a href="../#footer" class="headerLink" data-i18n="nav_contact"
+              >Կապ</a
+            >
           </div>
           <div class="headerRight">
             <select class="languageDropdown">
@@ -43,25 +52,23 @@
               <option value="en">Eng</option>
               <option value="ru">Rus</option>
             </select>
-            <button class="burgerMenu">
-              <i class="fa-solid fa-bars"></i>
-            </button>
+            <button class="burgerMenu"><i class="fa-solid fa-bars"></i></button>
           </div>
         </div>
       </div>
     </header>
-    <!--  -->
 
-    <!-- content -->
     <section class="content">
       <div class="container">
         <div class="contentInner">
           <div class="contentBox contentBox1">
             <div class="contentBoxLeft">
               <div class="contentBoxSubs20">
-                <p class="contentTitle1">ԲՆՈՒԹԱԳԻՐ</p>
-                <p class="contentTitle2">Կլիմա</p>
-                <p class="contentBoxSub">
+                <p class="contentTitle1" data-i18n="climate_label">ԲՆՈՒԹԱԳԻՐ</p>
+                <p class="contentTitle2" data-i18n="climate_page_title">
+                  Կլիմա
+                </p>
+                <p class="contentBoxSub" data-i18n="climate_intro">
                   Հայաստանը, լինելով լեռնային երկիր, ունի բացառիկ կլիմայական
                   բազմազանություն։ Այստեղ հանդիպում են գրեթե բոլոր կլիմայական
                   գոտիները՝ մերձարևադարձայինից մինչև ալպիական։
@@ -72,51 +79,74 @@
               <img src="../assets/img/hayastan/climate1.webp" alt="" />
             </div>
           </div>
+
           <div class="contentBox">
             <h2 class="contentBoxTitle">
-              <i class="fa-solid fa-cloud-sun"></i> Կլիմայական գոտիներ՝ ըստ
-              բարձրության
+              <i class="fa-solid fa-cloud-sun"></i>
+              <span data-i18n="climate_zones_title"
+                >Կլիմայական գոտիներ՝ ըստ բարձրության</span
+              >
             </h2>
             <div class="contentBoxTable">
               <div class="contentBoxTableRow2">
-                <p class="contentBoxTableBoxTitle">Կլիմայի տեսակը</p>
-                <p class="contentBoxTableBoxTitle">
+                <p class="contentBoxTableBoxTitle" data-i18n="climate_col1">
+                  Կլիմայի տեսակը
+                </p>
+                <p class="contentBoxTableBoxTitle" data-i18n="climate_col2">
                   Բարձրությունը ծովի մակերևույթից
                 </p>
               </div>
               <div class="contentBoxTableRow2">
                 <p class="contentBoxSub">
-                  <strong>Չոր մերձարևադարձային</strong>
+                  <strong data-i18n="climate_row1_type"
+                    >Չոր մերձարևադարձային</strong
+                  >
                 </p>
-                <p class="contentBoxSub">Մինչև 900 մ</p>
+                <p class="contentBoxSub" data-i18n="climate_row1_alt">
+                  Մինչև 900 մ
+                </p>
               </div>
               <div class="contentBoxTableRow2">
                 <p class="contentBoxSub">
-                  <strong>Չոր ցամաքային</strong>
+                  <strong data-i18n="climate_row2_type">Չոր ցամաքային</strong>
                 </p>
-                <p class="contentBoxSub">Մինչև 1300 մ</p>
+                <p class="contentBoxSub" data-i18n="climate_row2_alt">
+                  Մինչև 1300 մ
+                </p>
               </div>
               <div class="contentBoxTableRow2">
                 <p class="contentBoxSub">
-                  <strong>Չափավոր տաք չորային</strong>
+                  <strong data-i18n="climate_row3_type"
+                    >Չափավոր տաք չորային</strong
+                  >
                 </p>
-                <p class="contentBoxSub">1200 – 1700 մ</p>
-              </div>
-              <div class="contentBoxTableRow2">
-                <p class="contentBoxSub"><strong>Բարեխառն</strong></p>
-                <p class="contentBoxSub">Մինչև 2000 մ</p>
-              </div>
-              <div class="contentBoxTableRow2">
-                <p class="contentBoxSub">
-                  <strong>Լեռնային ցուրտ</strong>
+                <p class="contentBoxSub" data-i18n="climate_row3_alt">
+                  1200 – 1700 մ
                 </p>
-                <p class="contentBoxSub">Մինչև 3500 մ</p>
               </div>
               <div class="contentBoxTableRow2">
                 <p class="contentBoxSub">
-                  <strong>Բարձրլեռնային</strong>
+                  <strong data-i18n="climate_row4_type">Բարեխառն</strong>
                 </p>
-                <p class="contentBoxSub">Ավելի քան 3500մ</p>
+                <p class="contentBoxSub" data-i18n="climate_row4_alt">
+                  Մինչև 2000 մ
+                </p>
+              </div>
+              <div class="contentBoxTableRow2">
+                <p class="contentBoxSub">
+                  <strong data-i18n="climate_row5_type">Լեռնային ցուրտ</strong>
+                </p>
+                <p class="contentBoxSub" data-i18n="climate_row5_alt">
+                  Մինչև 3500 մ
+                </p>
+              </div>
+              <div class="contentBoxTableRow2">
+                <p class="contentBoxSub">
+                  <strong data-i18n="climate_row6_type">Բարձրլեռնային</strong>
+                </p>
+                <p class="contentBoxSub" data-i18n="climate_row6_alt">
+                  Ավելի քան 3500մ
+                </p>
               </div>
             </div>
             <div class="contentBoxListImg1">
@@ -131,21 +161,30 @@
               </div>
             </div>
           </div>
+
           <div class="contentBox">
             <h2 class="contentBoxTitle">
-              <i class="fa-solid fa-temperature-high"></i>Ջերմաստիճան
+              <i class="fa-solid fa-temperature-high"></i
+              ><span data-i18n="climate_temp_title">Ջերմաստիճան</span>
             </h2>
             <div class="tempSubs">
               <p class="tempSub">
-                <strong>Ամառը՝</strong> շոգ ու արևոտ (+30°–+35°C)
+                <strong data-i18n="climate_temp_summer"
+                  >Ամառը՝ շոգ ու արևոտ (+30°–+35°C)</strong
+                >
               </p>
               <p class="tempSub">
-                <strong>Ձմեռը՝</strong> կարճ, բայց ցուրտ (-15°–-20°C)
+                <strong data-i18n="climate_temp_winter"
+                  >Ձմեռը՝ կարճ, բայց ցուրտ (-15°–-20°C)</strong
+                >
               </p>
-              <p class="tempSub">Տարեկան միջին արևոտ օրերի քանակը՝ մոտ 270</p>
+              <p class="tempSub" data-i18n="climate_temp_sunny">
+                Տարեկան միջին արևոտ օրերի քանակը՝ մոտ 270
+              </p>
               <p class="tempSub">
-                <strong>Ամենաշոգ շրջանը՝</strong> Արարատյան դաշտ, երբեմն մինչև
-                +42°C
+                <strong data-i18n="climate_temp_hottest"
+                  >Ամենաշոգ շրջանը՝ Արարատյան դաշտ, երբեմն մինչև +42°C</strong
+                >
               </p>
             </div>
             <div class="contentBoxListImg1">
@@ -160,22 +199,28 @@
               </div>
             </div>
           </div>
+
           <div class="contentBox">
             <h2 class="contentBoxTitle">
-              <i class="fa-solid fa-cloud-sun-rain"></i>Տեղումներ
+              <i class="fa-solid fa-cloud-sun-rain"></i
+              ><span data-i18n="climate_precip_title">Տեղումներ</span>
             </h2>
             <div class="tempSubs">
-              <p class="tempSub">
-                Տարեկան տեղումների միջին քանակը՝ ~ <strong>640 մմ</strong>
+              <p class="tempSub" data-i18n="climate_precip1">
+                Տարեկան տեղումների միջին քանակը՝ ~ 640 մմ
               </p>
-              <p class="tempSub">
+              <p class="tempSub" data-i18n="climate_precip2">
                 Անհավասարաչափ տեղումներ ՝ 250–850 մմ՝ կախված տարածքից
               </p>
-              <p class="tempSub">
+              <p class="tempSub" data-i18n="climate_precip3">
                 Առավել խոնավ վայրը՝ Հանքավանի սարեր (մինչև 850 մմ)
               </p>
-              <p class="tempSub">Ամենաչորը՝ Մեղրու գետահովիտ (~250 մմ)</p>
-              <p class="tempSub">Որոշ վայրերում ձյուն գրեթե չի լինում</p>
+              <p class="tempSub" data-i18n="climate_precip4">
+                Ամենաչորը՝ Մեղրու գետահովիտ (~250 մմ)
+              </p>
+              <p class="tempSub" data-i18n="climate_precip5">
+                Որոշ վայրերում ձյուն գրեթե չի լինում
+              </p>
             </div>
             <div class="contentBoxListImg">
               <div class="contentBoxImg1">
@@ -186,22 +231,24 @@
               </div>
             </div>
           </div>
+
           <div class="contentBox">
             <h2 class="contentBoxTitle">
-              <i class="fa-solid fa-wind"></i>Քամիներ
+              <i class="fa-solid fa-wind"></i
+              ><span data-i18n="climate_wind_title">Քամիներ</span>
             </h2>
             <div class="contentBoxSubs20">
               <ul class="contentBoxSubList">
-                <li class="contentBoxSub">
+                <li class="contentBoxSub" data-i18n="climate_wind1">
                   Երևանում՝ լեռնահովտային քամիներ՝ կեսօրից հետո
                 </li>
-                <li class="contentBoxSub">
+                <li class="contentBoxSub" data-i18n="climate_wind2">
                   «Մանթաշի քամի»՝ Արագածի շրջաններից
                 </li>
-                <li class="contentBoxSub">
+                <li class="contentBoxSub" data-i18n="climate_wind3">
                   Մրրիկներ՝ մինչև 40 մ/վրկ ուժգնությամբ ՝ լեռնանցքներում
                 </li>
-                <li class="contentBoxSub">
+                <li class="contentBoxSub" data-i18n="climate_wind4">
                   Լեռնային քամիներ՝ Գյումրիում, Եղնախաղում, Շիրակի լեռներում
                 </li>
               </ul>
@@ -210,22 +257,25 @@
               <img src="../assets/img/hayastan/climate10.webp" alt="" />
             </div>
           </div>
+
           <div class="contentBox">
-            <h2 class="contentBoxTitle">Կլիմայական առանձնահատկություններ</h2>
+            <h2 class="contentBoxTitle" data-i18n="climate_features_title">
+              Կլիմայական առանձնահատկություններ
+            </h2>
             <div class="contentBoxSubs20">
               <ul class="contentBoxSubList">
-                <li class="contentBoxSub">
+                <li class="contentBoxSub" data-i18n="climate_feat1">
                   1–2 ժամում հնարավոր է կլիմայի կտրուկ փոփոխություն
                 </li>
-                <li class="contentBoxSub">
+                <li class="contentBoxSub" data-i18n="climate_feat2">
                   Հյուսիս-արևմտք–հարավ-արևելք ձգվող լեռները պաշտպանում են
                   հյուսիսային քամիներից
                 </li>
-                <li class="contentBoxSub">
+                <li class="contentBoxSub" data-i18n="climate_feat3">
                   Սև և Կասպից ծովերից եկող խոնավությունը սահմանափակ է՝
                   պայմանավորելով չոր կլիմա
                 </li>
-                <li class="contentBoxSub">
+                <li class="contentBoxSub" data-i18n="climate_feat4">
                   Արարատյան դաշտը ավելի շատ ենթարկվում է Իրանական բարձրավանդակի
                   ազդեցությանը:
                 </li>
@@ -235,10 +285,13 @@
               <img src="../assets/img/hayastan/climate11.webp" alt="" />
             </div>
           </div>
+
           <div class="contentBox">
-            <h2 class="contentBoxTitle">Տեղումներ և ոռոգում</h2>
+            <h2 class="contentBoxTitle" data-i18n="climate_irrig_title">
+              Տեղումներ և ոռոգում
+            </h2>
             <div class="contentBoxSubs20">
-              <p class="contentBoxSub">
+              <p class="contentBoxSub" data-i18n="climate_irrig_text">
                 Ցածրադիր շրջաններում տեղումները քիչ են, ուստի գյուղատնտեսության
                 համար կիրառվում է արհեստական ոռոգում։ Հայաստանը դեռ հնագույն
                 ժամանակներից ունեցել է ջրանցքների զարգացած համակարգ։
@@ -251,8 +304,9 @@
         </div>
       </div>
     </section>
-    <!--  -->
 
+    <script src="../assets/js/translations.js"></script>
+    <script src="../assets/js/i18n.js"></script>
     <script src="../assets/js/header.js"></script>
   </body>
 </html>

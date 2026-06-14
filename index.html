@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="shortcut icon" href="./favicon.webp" type="image/webp" />
-    <title>Գլխավոր</title>
+    <title data-i18n="general_head_title">Գլխավոր</title>
     <meta name="description" content="" />
     <meta name="keywords" content="" />
     <link
@@ -30,13 +30,21 @@
             <img src="./assets/img/logo.webp" alt="Logo" />
           </a>
           <div class="headerLinks">
-            <a href="#home" class="headerLink">Գլխավոր</a>
-            <a href="#hayastan" class="headerLink">Հայաստան</a>
-            <a href="#marzer" class="headerLink">ՀՀ Մարզեր</a>
-            <a href="#turizm" class="headerLink">Տուրիզմ</a>
-            <a href="#" class="headerLink">Բլոգ</a>
-            <a href="#" class="headerLink">Info booklet</a>
-            <a href="#footer" class="headerLink">Կապ</a>
+            <a href="#home" class="headerLink" data-i18n="nav_home">Գլխավոր</a>
+            <a href="#hayastan" class="headerLink" data-i18n="nav_hayastan"
+              >Հայաստան</a
+            >
+            <a href="#marzer" class="headerLink" data-i18n="nav_marzer"
+              >ՀՀ Մարզեր</a
+            >
+            <a href="#turizm" class="headerLink" data-i18n="nav_turizm"
+              >Տուրիզմ</a
+            >
+            <a href="#" class="headerLink" data-i18n="nav_blog">Բլոգ</a>
+            <a href="#" class="headerLink" data-i18n="nav_booklet"
+              >Info booklet</a
+            >
+            <a href="#footer" class="headerLink" data-i18n="nav_contact">Կապ</a>
           </div>
           <div class="headerRight">
             <select class="languageDropdown">
@@ -65,7 +73,7 @@
       </div>
       <div class="container">
         <div class="introInner">
-          <h1 class="introTitle">
+          <h1 class="introTitle" data-i18n="intro_title">
             Լեռները կանչում են <br />
             Հայաստան աշխարհ...
           </h1>
@@ -78,17 +86,22 @@
     <section class="about" id="hayastan">
       <div class="container">
         <div class="aboutInner">
-          <p class="aboutSub">ԲՆՈՒԹԱԳԻՐ</p>
+          <p class="aboutSub" data-i18n="about_sub1">ԲՆՈՒԹԱԳԻՐ</p>
           <div class="aboutBlocks">
             <div class="aboutBlock">
               <div class="aboutBlockText">
-                <p class="aboutBlockTitle">Տվյալներ</p>
-                <p class="aboutBlockSub">
-                  ՀՀ տարածքը՝ ~29 743 կմ² (աշխարհում 138‑րդ տեղը): <br />
+                <p class="aboutBlockTitle" data-i18n="about_block1_title">
+                  Տվյալներ
+                </p>
+                <p class="aboutBlockSub" data-i18n="about_block1_sub">
+                  ՀՀ տարածքը՝ ~29743 կմ² (աշխարհում 138‑րդ տեղը): <br />
                   Այն կազմում է երկրագնդի ցամաքի 0,02 %-ը, Ասիա աշխարհամասի
                   տարածքի մոտ 0,7 %-ը։
                 </p>
-                <a href="./hayastan/data.html" class="aboutBlockBtn btn"
+                <a
+                  href="./hayastan/data.html"
+                  class="aboutBlockBtn btn"
+                  data-i18n="about_block1_btn"
                   >Ավելին</a
                 >
               </div>
@@ -98,7 +111,7 @@
                 </div>
                 <p class="aboutBlockImgTitle">
                   29743 <br />
-                  <span>քառ. կմ </span>
+                  <span data-i18n="about_block1_img_unit">քառ. կմ </span>
                 </p>
               </div>
             </div>
@@ -110,29 +123,39 @@
                 <p class="aboutBlockImgTitle">
                   -15° +35° C
                   <br />
-                  <span>ջերմաստիճան </span>
+                  <span data-i18n="about_block2_img_unit">ջերմաստիճան </span>
                 </p>
               </div>
               <div class="aboutBlockText">
-                <p class="aboutBlockTitle">Կլիմա</p>
-                <p class="aboutBlockSub">
+                <p class="aboutBlockTitle" data-i18n="about_block2_title">
+                  Կլիմա
+                </p>
+                <p class="aboutBlockSub" data-i18n="about_block2_sub">
                   Հայաստանը, լինելով լեռնային երկիր, ունի բացառիկ կլիմայական
                   բազմազանություն։ Այստեղ հանդիպում են գրեթե բոլոր կլիմայական
                   գոտիները՝ մերձարևադարձայինից մինչև ալպիական։
                 </p>
-                <a href="./hayastan/climate.html" class="aboutBlockBtn btn"
+                <a
+                  href="./hayastan/climate.html"
+                  class="aboutBlockBtn btn"
+                  data-i18n="about_block2_btn"
                   >Ավելին</a
                 >
               </div>
             </div>
             <div class="aboutBlock">
               <div class="aboutBlockText">
-                <p class="aboutBlockTitle">Ինչպե՞ս հասնել</p>
-                <p class="aboutBlockSub">
+                <p class="aboutBlockTitle" data-i18n="about_block3_title">
+                  Ինչպե՞ս հասնել
+                </p>
+                <p class="aboutBlockSub" data-i18n="about_block3_sub">
                   Հայաստան կարելի է հասնել տրանսպորտի գրեթե բոլոր տեսակներով,
                   բացառությամբ ջրային։
                 </p>
-                <a href="./hayastan/get.html" class="aboutBlockBtn btn"
+                <a
+                  href="./hayastan/get.html"
+                  class="aboutBlockBtn btn"
+                  data-i18n="about_block3_btn"
                   >Ավելին</a
                 >
               </div>
@@ -143,12 +166,12 @@
                 <p class="aboutBlockImgTitle">
                   EVN
                   <br />
-                  <span>ուղղությունը</span>
+                  <span data-i18n="about_block3_img_unit">ուղղությունը</span>
                 </p>
               </div>
             </div>
           </div>
-          <p class="aboutSub">ՆԿԱՐԱԳԻՐ</p>
+          <p class="aboutSub" data-i18n="about_sub2">ՆԿԱՐԱԳԻՐ</p>
           <div class="aboutBlocks">
             <div class="aboutBlock">
               <div class="aboutBlockImgs">
@@ -156,18 +179,21 @@
                   <img src="./assets/img/about4.webp" alt="" />
                 </div>
                 <p class="aboutBlockImgTitle">
-                  Հայաստան
+                  <label data-i18n="about_block4_img_title">Հայաստան</label>
                   <br />
-                  <span>Երևան</span>
+                  <span data-i18n="about_block4_img_sub">Երևան</span>
                 </p>
               </div>
               <div class="aboutBlockText">
-                <p class="aboutBlockSub">
+                <p class="aboutBlockSub" data-i18n="about_block4_sub">
                   Հայաստանն իր անվան ու պատմության խորությամբ գրավում է
                   այցելուներին առաջին իսկ պահից։ Այս հնագույն երկրի անվան ծագման
                   շուրջ շրջանառվում են մի քանի հետաքրքիր վարկածներ։
                 </p>
-                <a href="./hayastan/description.html" class="aboutBlockBtn btn"
+                <a
+                  href="./hayastan/description.html"
+                  class="aboutBlockBtn btn"
+                  data-i18n="about_block4_btn"
                   >Ավելին</a
                 >
               </div>
@@ -182,32 +208,33 @@
     <section class="info">
       <div class="container">
         <div class="infoInner">
-          <h2 class="infoTitle">ՀԱՅԱՍՏԱՆ-ԻՆՖՈ</h2>
+          <h2 class="infoTitle" data-i18n="info_title">ՀԱՅԱՍՏԱՆ-ԻՆՖՈ</h2>
           <div class="infoContent">
             <div class="infoLeft">
               <div class="infoImg">
                 <img src="./assets/img/about5.webp" alt="" />
               </div>
               <div class="textRight">
-                <a href="./hayastan/info.html" class="infoBtn btn">Ավելին</a>
+                <a
+                  href="./hayastan/info.html"
+                  class="infoBtn btn"
+                  data-i18n="info_btn"
+                  >Ավելին</a
+                >
               </div>
             </div>
             <div class="infoText">
               <div class="infoTextBox">
                 <p class="infoTextBoxSub">
-                  Հեռախոսային տեղեկատու
-                  <br />
-                  <br />
-                  Բջջային օպերատորներ
-                  <br />
-                  <br />
-                  Փոստային ծառայություն
-                  <br />
-                  <br />
-                  Տրանսպորտ
-                  <br />
-                  <br />
-                  Արժույթ / Բանկեր
+                  <span data-i18n="info_tel">Հեռախոսային տեղեկատու</span>
+                  <br /><br />
+                  <span data-i18n="info_mobile">Բջջային օպերատորներ</span>
+                  <br /><br />
+                  <span data-i18n="info_post">Փոստային ծառայություն</span>
+                  <br /><br />
+                  <span data-i18n="info_transport">Տրանսպորտ</span>
+                  <br /><br />
+                  <span data-i18n="info_currency">Արժույթ / Բանկեր</span>
                 </p>
               </div>
             </div>
@@ -222,12 +249,16 @@
       <div class="container">
         <div class="tourismInner">
           <h2 class="tourismTitle">
-            ՏՈՒՐԻԶՄ <br />
-            Բացահայտեք Հայաստանը մեզ հետ
+            <span data-i18n="tourism_title_line1">ՏՈՒՐԻԶՄ</span> <br />
+            <span data-i18n="tourism_title_line2"
+              >Բացահայտեք Հայաստանը մեզ հետ</span
+            >
           </h2>
           <p class="tourismSub">
-            <span>ՏԵՍԱՐԺԱՆ</span> ՎԱՅՐԵՐ <br />
-            ՏՈՒՐԻԶՄԻ <span>ՏԵՍԱԿՆԵՐԸ</span>
+            <span data-i18n="tourism_sub_places">ՏԵՍԱՐԺԱՆ</span>
+            <span data-i18n="tourism_sub_places2">ՎԱՅՐԵՐ</span> <br />
+            <span data-i18n="tourism_sub_types">ՏՈՒՐԻԶՄԻ</span>
+            <span data-i18n="tourism_sub_types2">ՏԵՍԱԿՆԵՐԸ</span>
           </p>
           <div class="tourismContent">
             <div class="tourismLeft">
@@ -242,7 +273,7 @@
                   <img src="./assets/img/tourism3.webp" alt="" />
                 </div>
               </div>
-              <p class="tourismRightSub">
+              <p class="tourismRightSub" data-i18n="tourism_desc">
                 <span>Հայաստանը</span> պարզապես ևս մի երկիր չէ քարտեզի վրա։ Այն
                 մի վայր է, որտեղ յուրահատուկ աշխարհագրությունն ու պատմական
                 փորձառությունները միահյուսվում են՝ ստեղծելով ճամփորդության
@@ -251,7 +282,12 @@
             </div>
           </div>
           <div class="btnContainer">
-            <a href="" class="btn tourismBtn">Ավելին</a>
+            <a
+              href="./hayastan/turizm/index.html"
+              class="btn tourismBtn"
+              data-i18n="tourism_btn"
+              >Ավելին</a
+            >
           </div>
         </div>
       </div>
@@ -262,19 +298,21 @@
     <section class="marzer" id="marzer">
       <div class="container">
         <div class="marzerInner">
-          <h2 class="marzerTitle">ՀՀ վարչատարածքային բաժանումը</h2>
+          <h2 class="marzerTitle" data-i18n="marzer_title">
+            ՀՀ վարչատարածքային բաժանումը
+          </h2>
           <div class="marzerBoxs">
             <div class="marzerBox">
               <div class="marzerImg">
                 <img src="./assets/img/marzer1.webp" alt="" />
               </div>
               <div class="marzerBoxText">
-                <p class="marzerSub1">
+                <p class="marzerSub1" data-i18n="marzer_sub1">
                   Այժմյան Հայաստանի Հանրապետությունը կազմված է 11 միավորներից՝
                   <strong>10 վարչական մարզեր և մայրաքաղաք Երևան,</strong> որը ևս
                   ունի վարչական մարզի կարգավիճակ:
                 </p>
-                <p class="marzerSub1">
+                <p class="marzerSub1" data-i18n="marzer_sub2">
                   Մակերեսով ամենամեծ մարզը Գեղարքունիքն է, ամենափոքրը՝ Արմավիրը:
                   Բնակչության թվով առաջինը Երևանն է, երկրորդը՝ Լոռին, վերջինը՝
                   Վայոց Ձորը:
@@ -284,18 +322,38 @@
             <div class="marzerBox">
               <div class="marzerBoxText">
                 <ol class="marzerAnvanumner">
-                  <li class="marziAnvanum">Արագածոտնի մարզ - ք.Աշտարակ</li>
-                  <li class="marziAnvanum">Արարատի մարզ - ք.Արարատ</li>
-                  <li class="marziAnvanum">Արմավիրի մարզ – ք. Արմավիր</li>
-                  <li class="marziAnvanum">Գեղարքունիկի մարզ - ք.Գավառ</li>
-                  <li class="marziAnvanum">Լոռու մարզ – ք.Վանաձոր</li>
-                  <li class="marziAnvanum">Կոտաըքի մարզ – ք.Հրազդան</li>
-                  <li class="marziAnvanum">Շիրակի մարզ – ք.Գյումրի</li>
-                  <li class="marziAnvanum">Սյունիքի մարզ – ք.Կապան</li>
-                  <li class="marziAnvanum">Վայոց Ձորի մարզ - ք.Եղեգնաձոր</li>
-                  <li class="marziAnvanum">Տավուշի մարզ - ք.Իջևան</li>
+                  <li class="marziAnvanum" data-i18n="marzer_list1">
+                    Արագածոտնի մարզ - ք.Աշտարակ
+                  </li>
+                  <li class="marziAnvanum" data-i18n="marzer_list2">
+                    Արարատի մարզ - ք.Արարատ
+                  </li>
+                  <li class="marziAnvanum" data-i18n="marzer_list3">
+                    Արմավիրի մարզ – ք. Արմավիր
+                  </li>
+                  <li class="marziAnvanum" data-i18n="marzer_list4">
+                    Գեղարքունիկի մարզ - ք.Գավառ
+                  </li>
+                  <li class="marziAnvanum" data-i18n="marzer_list5">
+                    Լոռու մարզ – ք.Վանաձոր
+                  </li>
+                  <li class="marziAnvanum" data-i18n="marzer_list6">
+                    Կոտաըքի մարզ – ք.Հրազդան
+                  </li>
+                  <li class="marziAnvanum" data-i18n="marzer_list7">
+                    Շիրակի մարզ – ք.Գյումրի
+                  </li>
+                  <li class="marziAnvanum" data-i18n="marzer_list8">
+                    Սյունիքի մարզ – ք.Կապան
+                  </li>
+                  <li class="marziAnvanum" data-i18n="marzer_list9">
+                    Վայոց Ձորի մարզ - ք.Եղեգնաձոր
+                  </li>
+                  <li class="marziAnvanum" data-i18n="marzer_list10">
+                    Տավուշի մարզ - ք.Իջևան
+                  </li>
                   <li class="marziAnvanum">
-                    <strong>Մայրաքաղաք Երևան</strong>
+                    <strong data-i18n="marzer_list11">Մայրաքաղաք Երևան</strong>
                   </li>
                 </ol>
               </div>
@@ -307,47 +365,69 @@
           <div class="marzerSlider">
             <a href="./marzer/aragacotn/index.html" class="marzerSliderBox">
               <img src="./assets/img/slider1.webp" alt="" />
-              <p class="marzerSliderBoxTitle">Արագածոտն</p>
+              <p class="marzerSliderBoxTitle" data-i18n="marzer_slider1">
+                Արագածոտն
+              </p>
             </a>
             <a href="./marzer/ararat/index.html" class="marzerSliderBox">
               <img src="./assets/img/slider2.webp" alt="" />
-              <p class="marzerSliderBoxTitle">Արարատ</p>
+              <p class="marzerSliderBoxTitle" data-i18n="marzer_slider2">
+                Արարատ
+              </p>
             </a>
             <a href="./marzer/armavir/index.html" class="marzerSliderBox">
               <img src="./assets/img/slider3.webp" alt="" />
-              <p class="marzerSliderBoxTitle">Արմավիր</p>
+              <p class="marzerSliderBoxTitle" data-i18n="marzer_slider3">
+                Արմավիր
+              </p>
             </a>
             <a href="./marzer/gegharquniq/index.html" class="marzerSliderBox">
               <img src="./assets/img/slider4.webp" alt="" />
-              <p class="marzerSliderBoxTitle">Գեղարքունիք</p>
+              <p class="marzerSliderBoxTitle" data-i18n="marzer_slider4">
+                Գեղարքունիք
+              </p>
             </a>
             <a href="./marzer/lori/index.html" class="marzerSliderBox">
               <img src="./assets/img/slider5.webp" alt="" />
-              <p class="marzerSliderBoxTitle">Լոռի</p>
+              <p class="marzerSliderBoxTitle" data-i18n="marzer_slider5">
+                Լոռի
+              </p>
             </a>
             <a href="./marzer/kotayq/index.html" class="marzerSliderBox">
               <img src="./assets/img/slider6.webp" alt="" />
-              <p class="marzerSliderBoxTitle">Կոտայք</p>
+              <p class="marzerSliderBoxTitle" data-i18n="marzer_slider6">
+                Կոտայք
+              </p>
             </a>
             <a href="./marzer/vayoc_dzor/index.html" class="marzerSliderBox">
               <img src="./assets/img/slider7.webp" alt="" />
-              <p class="marzerSliderBoxTitle">Վայոց ձոր</p>
+              <p class="marzerSliderBoxTitle" data-i18n="marzer_slider7">
+                Վայոց ձոր
+              </p>
             </a>
             <a href="./marzer/shirak/index.html" class="marzerSliderBox">
               <img src="./assets/img/slider8.webp" alt="" />
-              <p class="marzerSliderBoxTitle">Շիրակ</p>
+              <p class="marzerSliderBoxTitle" data-i18n="marzer_slider8">
+                Շիրակ
+              </p>
             </a>
             <a href="./marzer/tavush/index.html" class="marzerSliderBox">
               <img src="./assets/img/slider9.webp" alt="" />
-              <p class="marzerSliderBoxTitle">Տավուշ</p>
+              <p class="marzerSliderBoxTitle" data-i18n="marzer_slider9">
+                Տավուշ
+              </p>
             </a>
             <a href="./marzer/syuniq/index.html" class="marzerSliderBox">
               <img src="./assets/img/slider10.webp" alt="" />
-              <p class="marzerSliderBoxTitle">Սյունիք</p>
+              <p class="marzerSliderBoxTitle" data-i18n="marzer_slider10">
+                Սյունիք
+              </p>
             </a>
             <a href="./marzer/yerevan/index.html" class="marzerSliderBox">
               <img src="./assets/img/marzer/yerevan/1.webp" alt="" />
-              <p class="marzerSliderBoxTitle">Երևան</p>
+              <p class="marzerSliderBoxTitle" data-i18n="marzer_slider11">
+                Երևան
+              </p>
             </a>
           </div>
         </div>
@@ -359,8 +439,13 @@
     <footer class="footer" id="footer">
       <div class="container">
         <div class="footerInner">
-          <h2 class="footerTitle">24/7 հասանելիություն</h2>
-          <p class="footerSub">Կապ <span>մեզ հետ</span></p>
+          <h2 class="footerTitle" data-i18n="footer_title">
+            24/7 հասանելիություն
+          </h2>
+          <p class="footerSub">
+            <span data-i18n="footer_sub">Կապ</span>
+            <span data-i18n="footer_sub_span">մեզ հետ</span>
+          </p>
           <div class="footerLinks">
             <a href="" class="footerLink">
               <i class="fa-solid fa-phone-volume"></i>
@@ -371,7 +456,7 @@
               info@xxxxx.am
             </a>
           </div>
-          <p class="footerSub1">
+          <p class="footerSub1" data-i18n="footer_copy">
             …………. © 2004 - 2026 Բոլոր իրավունքները պաշտպանված են:
           </p>
         </div>
@@ -381,6 +466,8 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/slick-slider@1.8.2/slick/slick.min.js"></script>
+    <script src="./assets/js/translations.js"></script>
+    <script src="./assets/js/i18n.js"></script>
     <script src="./assets/js/sliders.js"></script>
     <script src="./assets/js/header.js"></script>
   </body>
