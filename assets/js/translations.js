@@ -3,7 +3,7 @@ var translations = {
     // Nav
     nav_home: "Գլխավոր",
     nav_hayastan: "Հայաստան",
-    nav_marzer: "ՀՀ Մարզեր",
+    nav_marzer: "Մարզեր",
     nav_turizm: "Տուրիզմ",
     nav_blog: "Բլոգ",
     nav_booklet: "Info booklet",
@@ -1489,12 +1489,165 @@ var translations = {
     relief55: "Ազատի կիրճ (Կոտայք–Արարատ)",
     relief56: "Արփայի կիրճ (Վայոց ձոր)",
     relief57: "Հրազդանի կիրճ (Երևան)",
+
+    // climate
+    climate1: "Կլիմա",
+    climate2:
+      "Հայաստանը գտնվում է բարեխառն գոտում, սակայն իր լեռնային ռելիեֆի շնորհիվ առանձնանում է բացառիկ կլիմայական բազմազանությամբ։ Այստեղ կարելի է հանդիպել երկրագնդի վրա տարածված գրեթե բոլոր կլիմայական գոտիները՝ չոր մերձարևադարձայինից մինչև ալպիական և ձյունամերձ բարձրլեռնային կլիմա։ Այդ պատճառով Հայաստանը հաճախ բնորոշում են որպես կլիմայական մանրակերտ, քանի որ երկրի փոքր տարածքում ներկայացված են կլիմայական պայմանների բացառիկ բազմազանություն և ուղղաձիգ գոտիականության գրեթե ամբողջ շարքը։",
+    climate3:
+      "Հայկական լեռնաշխարհի կլիման հիմնականում ցամաքային է։ Հանրապետության տարածքը հեռու է օվկիանոսներից, իսկ շրջապատող բարձր լեռնաշղթաները սահմանափակում են խոնավ օդային զանգվածների ներթափանցումը։ Արդյունքում ձևավորվել են տաք և չոր ամառներ, ինչպես նաև համեմատաբար ցուրտ ձմեռներ։ Հայաստանում գերակշռում է ցամաքային և չորային կլիման, որը բնութագրվում է տաք և չոր ամառներով (+30…+35°C), կարճ և ցուրտ ձմեռներով (-15…-20°C)։ Կլիման զգալիորեն տարբերվում է՝ կախված տեղանքից ու բարձրությունից։ Կլիմայական պայմանները մեծապես կախված են ծովի մակարդակից ունեցած բարձրությունից։ Բարձրության յուրաքանչյուր 100 մետր աճի դեպքում օդի միջին ջերմաստիճանը նվազում է մոտ 0.55°C-ով։ Այդ երևույթը կոչվում է ուղղաձիգ կլիմայական գոտիականություն։",
+    climate4: "Կլիմայական գոտիներ",
+    climate5:
+      "Հայկական լեռնաշխարհում հանդիպում են գրեթե բոլոր կլիմայական գոտիները՝ մերձարևադարձայինից մինչև ալպիական ու լեռնային տունդրաներ։ Կլիման փոխվում է՝ ըստ բարձրության (ուղղահայաց գոտիականություն)։ Հայաստանի տարածքում առանձնացվում են 8 հիմնական կլիմայական գոտիներ.",
+    climate6: "Կլիմայական գոտի",
+    climate7: "Չոր մերձարևադարձային",
+    climate8: "Չոր խիստ ցամաքային",
+    climate9: "Չոր ցամաքային",
+    climate10: "Չափավոր շոգ",
+    climate11: "Չափավոր ցամաքային",
+    climate12: "Բարեխառն լեռնային",
+    climate13: "Ցուրտ լեռնային",
+    climate14: "Ձյունամերձ խիստ ցուրտ լեռնային",
+    climate15: "Բարձրություն",
+    climate16: "380–450 մ մինչև 700 մ",
+    climate17: "մինչև 800 մ",
+    climate18: "800–1200 մ",
+    climate19: "900–1300 մ",
+    climate20: "1200–1700 մ",
+    climate21: "1700–2300 մ",
+    climate22: "2300–3500 մ",
+    climate23: "3500 մ-ից բարձր",
+    climate24: "Կլիմայի առանձնահատկությունները",
+    climate25:
+      "Արարատյան դաշտում կլիման շատ չոր ու շոգ է։ Ամռանը ջերմաստիճանը երբեմն հասնում է +42°C-ի։",
+    climate26:
+      "Լոռու և Տավուշի անտառապատ շրջաններում կլիման ավելի խոնավ է և մեղմ։",
+    climate27: "Սևանի ավազանում ամառները զով են, իսկ ձմեռները՝ ցուրտ։",
+    climate28:
+      "Բարձրլեռնային գոտիներում (Արագած, Գեղամա, Զանգեզուր) ամառը կարճ է և զով, ձմեռը՝ երկարատև ու խիստ ցուրտ։",
+    climate29:
+      "2500–3000 մետրից բարձր շատ վայրերում գարունը գրեթե անմիջապես անցնում է ձմռան, իսկ աշունը թույլ է արտահայտված։",
+    climate30: "Կլիմայական գոտիների բնութագիրը",
+    climate31:
+      "Չոր մերձարևադարձային (մինչև 380-450 մ) Բնորոշ է Արաքսի միջին հոսանքի գոգավորությանը (Արարատյան դաշտ) և Մեղրու շրջանին։ Բնութագրվում է շոգ և երկարատև ամառներով, մեղմ ձմեռներով և տարեկան քիչ քանակությամբ տեղումներով։",
+    climate32:
+      "Չոր, խիստ ցամաքային (մինչև 800 մ) Տարածված է Արարատյան գոգավորության նախալեռնային հատվածներում (Աշտարակի, Ապարանի հարավային հատվածներ, Կոտայքի սարավանդ, և Արարատի բարձրադիր գյուղեր, Երանոսի փեշերը և Արմավիրի հյուսիսային նախալեռներ)։ Ամառները շատ տաք են, իսկ ձմեռները՝ համեմատաբար ցուրտ։",
+    climate33:
+      "Չոր ցամաքային (800-1200 մ) Ձևավորվում է Արագածոտնի, Շիրակի և Վայոց ձորի նախալեռներում: Ունի չափավոր տաք ամառներ և ցուրտ ձմեռներ։ Տիպիկ բնակավայրերն են. Աշտարակ, Օշական, Ուջան, Ագարակ, Կոշ, Արթիկ (և հարող ցածրադիր գյուղեր), Մարալիկի, Ախուրյանի, Ամասիայի ցածրադիր գյուղեր. Ռինդ, Աղավնաձոր, Արենի, Գետափ, Եղեգնաձոր, Վայք:",
+    climate34:
+      "Չափավոր շոգ (900-1300 մ) Հանդիպում է հյուսիսարևելյան (Տավուշ) և հարավարևելյան (Սյունիքի ցածրադիր մասեր) շրջաններում: Ամառը արևոտ է ու չափավոր շոգ, ձմեռը՝ մեղմ։ Տիպիկ բնակավայրերն են՝ Իջևան (մոտ 750-900 մ),Բերդ (մոտ 900-1000 մ), Նոյեմբերյան (մոտ 800-950 մ), Աչաջուր, Այգեհովիտ, Դեղձավան, Կողբ, Հաղթանակ, Չինարի, Մովսես։գյուղեր, Կապան (հիմնական մասը՝ 750-1050 մ), Մեղրի (քաղաքի վերին հատվածներ), Շիկահող, Ծավ, Շվանիձոր, Ալվանք, Նռնաձոր, Վերին Խոտանան:",
+    climate35:
+      "Չափավոր ցամաքային (1200-1700 մ) Բնորոշ է Սևանի ավազանին, Լոռու և Տավուշի նախալեռներին: Ամառը զով է, իսկ ձմեռը՝ չափավոր ցուրտ։ Տիպիկ բնակավայրերն են՝ Սևան, Գավառ, Մարտունի, Լճաշեն, Նորատուս, Ծովազարդ, Վանաձորի ցածրադիր մասերը՝1350 մ, Սպիտակ, Ստեփանավան, Թումանյան, Օձուն, Կուրթան, Շնող, Գուգարք, Մարգահովիտ։ Դիլիջան քաղաքի կենտրոնական և առողջարանային հատվածները 1300-1500 մ. Հաղարծին, Գոշ, Թեղուտ, Ֆիոլետովո, Լերմոնտովո գյուղերը:",
+    climate36:
+      "Բարեխառն լեռնային (1700-2300 մ) Տարածված է հիմնականում միջին լեռնային գոտում։ Այստեղ ամառները զով են, իսկ ձմեռները՝ տևական և ցուրտ։ Այս գոտում են գտնվում Հայաստանի հանրահայտ ձմեռային և բալնեոլոգիական առողջարանները (Ծաղկաձոր (~1840 մ), Ջերմուկ (~2080 մ), Հանքավան)։ Տիպիկ բնակավայրերն են՝ Վարդենիս, Ճամբարակ, Սոթք,Մարտունի և Կարճաղբյուր գյուղեր,, Գյումրի (~1550-1600 մ), Աշոցք, Ամասիա,Փանիկ, Մուսայելյան, Բավրա, Հրազդան (~1700 մ), Ֆանտան, Մեղրաձոր, Հանքավան, Գեղարդ գյուղեր, Ապարան (~1880 մ), Արագած, Քուչակ, Ծաղկահովիտ, Նորաշեն գյուղեր, Սիսիան (~1600-1700 մ),Գորիս (~1350-1400 մ և հարակից գյուղեր՝ ~1700+ մ) Խնձորեսկ, Տաթև, Գորայք, Սարավան գյուղեր:",
+    climate37:
+      "Ցուրտ լեռնային (2300-3500 մ) Ընդգրկում է բարձրլեռնային գոտիները (Արագած, Գեղամա, Զանգեզուրի լեռներ)։ Բնութագրվում է կարճ, զով ամառներով և երկարատև, խիստ ցուրտ ձմեռներով։ Այս բարձրության վրա մշտական (տարվա բոլոր ամիսներին ապրող) բնակչությամբ գյուղեր կամ քաղաքներ գրեթե չկան։ Այս գոտում գործում են հատուկ նշանակության օբյեկտներ և սեզոնային բնակատեղիներ, բարձրլեռնային հանգստավայրեր և սպորտային համալիրներ,. պատմամշակութային և զբոսաշրջային վայրեր. ժամանակավոր (սեզոնային) բնակատեղիներ (վրանային ավաններ)։ Ծաղկաձորի լեռնադահուկային գոտու վերին հարթակները Ջերմուկի ճոպանուղու վերին կայանը և սահուղին, Արագածի բարձրլեռնային օդերևութաբանական կայանը (~3200 մ) և Տիեզերական ճառագայթների հետազոտման կայանը, Քարի լիճը (3190 մ, Արագածի գագաթի մոտ), Ամբերդ ամրոցը ( 2300 մ, Արագածի լանջին),Ուխտասարի պետրոգլիֆների տարածքը:",
+    climate38:
+      "Ձյունամերձ (նիվալ) լեռնային (3500 մետրից բարձր) Առկա է միայն ամենաբարձր լեռնագագաթներում։ Տարածքը գտնվում է հավերժական ձյան սահմանագոտում, որտեղ տիրապետում են ցածր ջերմաստիճանները և ուժեղ քամիները։ Այս բարձրության վրա որևէ բնակավայր կամ գիտական կայան, ամգամ ժամանակավոր վրանային ավաններ չկան։ Սա բնության հավերժական սառնամանիքների, քարափների, ձնածածկույթի աշխարհ է: Տիպիկ վայրեր են՝ Արագածի գագաթները (3879 մ, 3916մ, 4001մ, և 4090մ), Կապուտջուղ լեռը (3905մ), Աժդահակ լեռը (3597մ), Ծղուկը (3581մ),. Սպիտակասարը (3555մ):",
+    climate39: "Տարվա եղանակների բնութագիրը",
+    climate40:
+      "Հայաստանում տարվա բոլոր եղանակները վառ արտահայտված են՝ հագեցած գույներով և իրենց բնորոշ առանձնահատկություններով:",
+    climate41:
+      "Գարունը Հայաստանում տևում է մարտից մինչև մայիս։ Բարձրադիր շրջաններում հաճախ ձյունը դեռ պահպանվում է, իսկ ստորին գոտիներում արդեն զգալի տաքություն է։ Հաճախակի են քամիներն ու տեղումները, որոնք նպաստում են հողերի պարարտությանը։",
+    climate42:
+      "Ամառը տևում է հունիսի սկզբից մինչև օգոստոսը։ Օդի ջերմաստիճանը բարձր է, հատկապես հովտային տարածքներում՝ հասնելով +30°C-ից +35°C: Ամառը շոգ է, բայց լեռնային գոտիներում օդը մեղմ է ու հով։ Ամենաշոգ շրջանը՝ Արարատյան դաշտն է (երբեմն մինչև +42°C):",
+    climate43:
+      "Աշունը հիմնականում սեպտեմբեր-հոկտեմբեր ամիսներն են։ Ջերմաստիճանը աստիճանաբար իջնում է՝ +15-ից մինչև +5°C, մթնոլորտը մաքրվում է, բնությունը գունավորվում է ոսկեգույն ու կարմրավուն գույներով։ Աշնան քամիները հաճախակի են և զովացնում են օդը։",
+    climate44:
+      "Ձմեռը Հայաստանում կարճ է՝ դեկտեմբերից փետրվար: Ձյունն առատ է բարձրադիր շրջաններում, իսկ հովիտներում ջերմաստիճանը տատանվում է՝ -15°C-ից մինչև +2°C։ Պատահում են ձնաբքեր և ցրտահարություններ։",
+    climate45: "Տարեկան միջին ջերմաստիճանը` ըստ ամիսների (°C)",
+    climate46: "Օդի ջերմաստիճանի տատանումները՝ ըստ ամիսների",
+    climate47: "Ամենացուրտ ամիսը հունվարն է (-12.8°C-ից մինչև +0.9°C)",
+    climate48: "Ամենատաքը՝ հուլիս-օգոստոս (+25 °C-ից մինչև +35°C)",
+    climate49: "Բացարձակ նվազագույն ջերմաստիճանը՝ −42°C",
+    climate50: "Բացարձակ առավելագույն ջերմաստիճանը՝ +43°C",
+    climate51:
+      "Ամառային միջինը. Հուլիս և օգոստոս ամիսներին այս շրջաններում միջին ամսական ջերմաստիճանը կազմում է +26°C-ից +28°C, սակայն ցերեկային ժամերին օդը սովորաբար տաքանում է +35°C-ից +40°C:",
+    climate52:
+      "Տաք օրերի քանակ. Արաքսի հովտում տարեկան մինչև 130-150 օր օդի ջերմաստիճանը գերազանցում է +25°C-ը:",
+    climate53:
+      "Անսառնամանիք օրերի քանակը կախված է բարձրությունից՝ ցածրադիր գոտում մոտ 253 օր, բարձրադիրում մինչև 60 օր։",
+    climate54:
+      "Յուրաքանչյուր 100 մ բարձրանալիս ջերմաստիճանը նվազում է մոտ 0.55°C-ով։",
+    climate55: "Օդի ջերմաստիճանի տատանումները՝ ըստ տեղանքի",
+    climate56: "Ամենացուրտ վայրերը",
+    climate57:
+      "ՀՀ-ում ամենացուրտ վայրը Ախուրյան գետի վերին հոսանքում գտնվող Պաղակն գյուղն է, որտեղ գրանցվել է բացարձակ նվազագույնը՝ -46° C։ (Շիրակի մարզ, Աշոցքի սարահարթ, Ամասիայի մերձակայք):",
+    climate58:
+      "Միջին ջերմաստիճանը ձմռանը. Ամենացուրտ ամիսը հունվարն է, որի միջին ջերմաստիճանը Ջավախքի լեռներում և Արփայի բարձրադիր գոտիներում հասնում է -12° C-ի։ Հատկանշական վայրեր. Շիրակի և Գեղարքունիքի մարզերը (օրինակ՝ Աշոցքը) աչքի են ընկնում երկարատև ու ցուրտ ձմեռներով։ -2.7°C-ից (Արագածի բարձրլեռնային կայան) մինչև +13.8°C (Սյունիքի հովիտներ՝ Կապան, Մեղրի):",
+    climate59:
+      "** Դեռևս Խորհրդային Միության ժամանակ Անդրկովկասում ամենացուրտ ջերմաստիճանը արձանագրվել է Արփի լճի հարևանությամբ՝ Պաղակն գյուղում՝ -46 աստիճան ըստ Ցելսյուսի: Պաղակն գյուղը գտնվում է Արփի համայնքի մեջ, Բերդաշեն գյուղից 1 կմ հյուսիս, Արփի լճի արևելյան ափին, Ամասիա բնակավայրից 20 կմ հյուսիս-արևմուտք:",
+    climate60: "Ամենատաք վայրերը",
+    climate61:
+      "Բացարձակ առավելագույնը. Մեղրիի տարածաշրջան (Սյունիք) և Արարատյան դաշտ (Արարատի և Արմավիրի մարզեր)՝ մինչև +42° C-ից +43° C (Արարատ գյուղ):",
+    climate62:
+      "Միջին ջերմաստիճանը ամռանը. Ամենատաք ամիսը հուլիս-օգոստոսն է, երբ միջին ջերմաստիճանը Արաքսի հովտում գերազանցում է +26° C-ը։",
+    climate63:
+      "Հատկանշական վայրեր. Արաքսի ցածրադիր հովիտը (Արարատյան դաշտ), ինչպես նաև Մեղրու և Կապանի միջին ու ցածրադիր գոտիները, որտեղ գերիշխում է չոր, մերձարևադարձային կլիմա։",
+    climate64:
+      "Հարթավայրերում հուլիսյան միջին ջերմաստիճանը հասնում է +25°C-ի, իսկ լեռնային շրջաններում՝ մոտ +20°C-ի։",
+    climate65:
+      "**Հայաստանի ամենատաք վայրը Մեղրի քաղաքն է, որտեղ գրանցվել է Հայաստանի բացարձակ առավելագույն ջերմաստիճանը՝ +43.7°C: Այս ռեկորդային շոգը պայմանավորված է տարածաշրջանի ցածր աշխարհագրական դիրքով և չոր մերձարևադարձային կլիմայով։",
+    climate66: "Տեղումներ",
+    climate67:
+      "Հայաստանը փոքր, բայց շատ բազմազան տեղումներով և կլիմայով երկիր է:։",
+    climate68: "Ընդհանուր բնութագիր",
+    climate69: "Կլիման՝ ցամաքային և լեռնային",
+    climate70: "Տեղումները՝ անհավասար բաշխված",
+    climate71:
+      "Երկիրը՝ ընդհանուր առմամբ չոր, բայց լեռնային խոնավության գոտիներով հարուստ",
+    climate72:
+      "Հայաստանում տեղումները բաշխված են անհավասարաչափ։Տեղումների քանակը խիստ փոխվում է կախված բարձրությունից և տարածաշրջանից",
+    climate73: "ՀՀ միջին տարեկան տեղումները՝ մոտ 550 -600 մմ",
+    climate74: "Տատանվում են մոտ 200 մմ-ից մինչև 1000 մմ՝ ըստ տեղանքի",
+    climate75:
+      "Որոշ շրջաններում լինում են տարիներ, երբ ձյան տեղումներ գրեթե չեն լինում (Նոյեմբերյան, Իջևան, Արարատյան դաշտ, Կապան, Մեղրի)։",
+    climate76: "Տեղումները առավելապես լինում են՝",
+    climate77: "գարնանը (ապրիլ–հունիս)",
+    climate78: "աշնանը (հոկտեմբեր–նոյեմբեր)",
+    climate79: "Ամենախոնավ շրջանները",
+    climate80: "Տավուշ՝ մոտ 500-600 մմ/տարի",
+    climate81: "Տավուշ՝ մոտ 500-600 մմ/տարի",
+    climate82: "Գեղարքունիքի բարձրադիր հատվածներ՝ 440-650 մմ/տարի",
+    climate83: "Սյունիքի անտառային գոտիներ՝ 300-600 մմ/տարի",
+    climate84:
+      "Ամենախոնավ շրջաններից են Հանքավանի լեռնային տարածքները, որտեղ տարեկան տեղումները հասնում են 800–850 մմ-ի։ Այստեղ տեղումները կարող են հասնել մինչև 1000 մմ և ավելի։",
+    climate85: "Ամենաչոր շրջանները",
+    climate86: "Արարատյան դաշտավայր՝ մոտ 200–250 մմ/տարի",
+    climate87: "Սյունիքի որոշ ստորին հովիտներ՝ նույնպես ցածր տեղումներ",
+    climate88:
+      "Ամենաչոր շրջաններից է Մեղրու գետահովիտը, որտեղ տեղումները կազմում են ընդամենը 250 մմ։ Սա Հայաստանի ամենաչոր գոտին է՝ կիսաանապատային բնույթով։",
+    climate89:
+      "Բարձրության ազդեցությունը տեղումների վրա Հայաստանում գործում է հստակ օրենք․բարձրանալով 200 մետր՝ զգալի փոխվում են կլիման և տեղումները",
+    climate90: "Ցածր հովիտներում → քիչ տեղումներ, շոգ",
+    climate91:
+      "Ցածրադիր վայրերում տեղումները սակավ են, երկրագործությունն անհնար է առանց արհեստական ոռոգման։ Արարատյան դաշտում գյուղատնտեսությունը հնարավոր է հիմնականում արհեստական ոռոգման շնորհիվ։",
+    climate92: "Միջլեռնային գոտում → չափավոր խոնավություն",
+    climate93:
+      "Բարձր լեռներում → հաճախակի և առատ տեղումներ, որոնք երբեմն ուղեկցվում են ամրոպով ու կայծակով: Ձմեռները հիմնականում ձնառատ են, հաճախ մերկասառույցներով, ձյունը կարող է մնալ երկար ժամանակ, իսկ լեռնագագաթներին՝ նույնիսկ ամբողջ տարին։",
+    climate94:
+      "Ձյան առատ տեղումներ դիտվում են ՀՀ տարածքի մեծ մասում։ Եզրային լեռնաշղթաներում ձնածածկույթը պահպանվում է տարվա ողջ ցուրտ շրջանում:",
+    climate95: "Մասիս սարը ծածկված է հավերժական ձյան շերտով։",
+    climate96: "Քամիներ",
+    climate97:
+      "Սովորական քամիների արագությունը կազմում է 5–6 մ/վ, սակայն լեռնանցքներում կարող է հասնել 35–40 մ/վ-ի։ Հայտնի են Երևանի հետճաշյա քամիները, ինչպես նաև Գյումրու և Մանթաշի քամիները։",
+    climate98: "Արևոտություն",
+    climate99:
+      "Հայաստանը արևոտ երկիր է. այստեղ տարվա ընթացքում գրանցվում է միջինը 250–270 արևոտ օր, ինչը մեծապես նպաստում է զբոսաշրջության, գյուղատնտեսության և խաղողագործության զարգացմանը։ Հայաստանում արևափայլքի բարձր տարեկան տևողություն (արևային ժամերի քանակը) գրանցվում է Արարատյան դաշտում (մասնավորապես՝ Երևանում և հարակից շրջաններում), Մեղրիում (Սյունիք) և Սևանա լճի ավազանում։",
+    climate100:
+      "Արարատյան դաշտում այն կազմում է տարեկան մոտ 2500 ժամ։ Ամռանը գրեթե միշտ պարզ է, սակայն ձմռանը հաճախ լինում են երկարատև մառախուղներ (ինվերսիա), ինչը նվազեցնում է տարեկան ցուցանիշը։",
+    climate101:
+      "Արեգակնային ճառագայթման ինտենսիվությամբ և տարեկան պարզկա օրերի քանակով (տարեկան մինչև 300 արևային օր) հանրապետության առաջատար շրջաններից են նաև Սյունիքի (Մեղրիի տարածաշրջան) և Վայոց ձորի ( Եղեգնաձորի) արևոտ հովիտները:",
+    climate102:
+      "Մեղրին ունի ամենատաք կլիման և բարձր արևային ճառագայթում, սակայն լեռնային ռելիեֆի (կիրճերի) պատճառով արևափայլքի բացարձակ ժամերի քանակը փոքր-ինչ զիջում է Սևանի բաց հարթավայրերին։ Մեղրին գտնվում է խորը լեռնային կիրճում և շրջակա բարձր լեռները «գողանում են» արևի ժամերը՝ ուշ արևածագի և վաղ մայրամուտի պատճառով։ Գարնանային ամիսներին այստեղ ամպամած օրերն ավելի շատ են, քան Սևանի բարձրադիր ու բաց ավազանում։ Մեղրիի տարեկան արևափայլքի տևողությունը կազմում է մոտ 2400-2500 ժամ։",
+    climate103:
+      "Հայաստանում արևափայլքի տարեկան ամենաբարձր տևողությունը գրանցված է Մարտունիում (Սևանի ավազան): Փաստացի և պաշտոնական կլիմայական տվյալներով՝ սա Հայաստանի բացարձակ ռեկորդակիրն է՝ տարեկան մոտ 2700-2800 ժամ արևափայլքով, որտեղ այն հասնում է անգամ 2878 ժամի: Սա բացատրվում է նախ՝ բարձր դիրքով, ինչը նվազեցնում է մթնոլորտի խտությունը, և օդն ավելի թափանցիկ է։ Ամպամած օրերը չափազանց քիչ են։ Ի տարբերություն Արարատյան դաշտի, այստեղ ձմռանը չեն ձևավորվում տևական և խիտ մառախուղներ, ինչի շնորհիվ արևոտ ժամերի ընդհանուր քանակը տարվա կտրվածքով մնում է անգերազանցելի։",
   },
 
   en: {
     nav_home: "Home",
     nav_hayastan: "Armenia",
-    nav_marzer: "RA Provinces",
+    nav_marzer: "Regions",
     nav_turizm: "Tourism",
     nav_blog: "Blog",
     nav_booklet: "Info booklet",
@@ -2304,7 +2457,7 @@ var translations = {
 
     // climate.html
     hayastan_climate_head_title: "Climate",
-    climate_label: "PROFILE",
+    climate_label: "Overview",
     climate_page_title: "Climate",
     climate_intro:
       "Armenia, being a mountainous country, has an exceptional climatic diversity. Almost all climatic zones are found here, from subtropical to alpine.",
@@ -2687,7 +2840,7 @@ var translations = {
     hayastan_info271:
       "In Yerevan, you can exchange currency both at banks and at numerous 'Exchange' points and through ATMs.",
     // marz_menu
-    marz_menu1: "PROFILE",
+    marz_menu1: "Overview",
     marz_menu2: "Data",
     marz_menu3: "How to get there",
     marz_menu4: "Climate",
@@ -2965,12 +3118,170 @@ var translations = {
     relief55: "Azat Gorge (Kotayk–Ararat)",
     relief56: "Arpai Gorge (Vayots Dzor)",
     relief57: "Hrazdan Gorge (Yerevan)",
+
+    // climate
+    climate1: "Climate",
+    climate2:
+      "Armenia is located in the temperate zone, but due to its mountainous relief it is distinguished by exceptional climatic diversity. Here, one can encounter almost all of the climate zones found on Earth— ranging from dry subtropical to alpine and nival high-mountain climates. For this reason, Armenia is often described as a climatic miniature, since the country’s small territory presents an exceptional variety of climatic conditions and almost the entire range of vertical zonation.  ",
+    climate3:
+      "The climate of the Armenian Highlands is mainly continental. The territory of the republic is far from the oceans, and the surrounding high mountain ranges limit the penetration of moist air masses. As a result, hot and dry summers and relatively cold winters are formed. Continental and arid climate dominates in Armenia, characterized by hot and dry summers (+30…+35°C) and short, cold winters  (-15…-20°C). The climate varies significantly depending on the terrain and altitude. Climatic conditions largely depend on altitude above sea level. With every 100-meter increase in elevation, the average air temperature decreases by about 0.55°C. This phenomenon is is known as vertical climatic zonation. ",
+    climate4: "Climate Zones",
+    climate5:
+      "Almost all climate zones can be found in the Armenian Highlands, ranging from subtropical climates to alpine and mountain tundra zones. The climate changes with altitude, a phenomenon known as vertical climatic zonation. Within the territory of Armenia, eight main climatic zones are distinguished.",
+    climate6: "Climate Zone",
+    climate7: "Dry Subtropical",
+    climate8: "Dry Severely Continental",
+    climate9: "Dry Continental",
+    climate10: "Moderately Warm",
+    climate11: "Moderate Continental",
+    climate12: "Temperate Mountain",
+    climate13: "Cold Mountain",
+    climate14: "Nival Extremely Cold Mountain",
+    climate15: "Altitude",
+    climate16: "380–450 m to 700 m",
+    climate17: "Up to 800 m",
+    climate18: "800–1200 m",
+    climate19: "900–1300 m",
+    climate20: "1200–1700 m",
+    climate21: "1700–2300 m",
+    climate22: "2300–3500 m",
+    climate23: "Above 3500 m",
+    climate24: "Climate Characteristics",
+    climate25:
+      "The climate of the Ararat Plain is very dry and hot. In summer, temperatures sometimes reach +42°C.",
+    climate26:
+      "In the forested regions of Lori and Tavush, the climate is more humid and mild. ",
+    climate27:
+      "In the Lake Sevan Basin, summers are cool, while winters are cold. ",
+    climate28:
+      "In the high-mountain regions (Aragats, Geghama, and Zangezur mountain ranges), summers are short and cool, while winters are long and severely cold. ",
+    climate29:
+      "At elevations above 2,500–3,000 meters, spring in many areas almost transitions directly into winter, while autumn is only weakly expressed. ",
+    climate30: "Characteristics of  Climate Zones",
+    climate31:
+      "Dry Subtropical (up to 380–450 m) This climate zone is typical of the middle reaches of the Araks River basin (the Ararat Plain) and the Meghri region. It is characterized by long, hot summers, mild winters, and low annual precipitation.   It is distributed in the foothill areas of the Ararat Plain depression, including the southern parts of Ashtarak and Aparan, the Kotayk Plateau, the high-altitude villages of Ararat, the foothills of the Yeranos range, and the northern foothills of Armavir. Summers are very hot, while winters are relatively cold.",
+    climate32:
+      "Dry, strongly Continental  (up to 800 m) This zone is distributed in the foothill areas of the Ararat Depression, including the southern parts of Ashtarak and Aparan, the Kotayk Plateau, the highland villages of Ararat Province, the foothills of Yeranos Mountain, and the northern foothills of Armavir Province. Summers are very hot, while winters are relatively cold.      ",
+    climate33:
+      "Dry Continental Climate (800–1200 m).It forms in the foothill areas of the Aragatsotn, Shirak, and Vayots Dzor regions. It is characterized by moderately warm summers and cold winters. Typical settlements are Ashtarak, Oshakan, Ujan, Agarak, Kosh, Artik (and surrounding lowland villages), the lowland villages of Maralik, Akhuryan, and Amasia, as well as Rind, Aghavnadzor, Areni, Getap, Yeghegnadzor, and Vayk.",
+    climate34:
+      "Moderately Hot (900–1300 m) This climate zone is found in the northeastern regions (Tavush) and the southeastern regions (the lower parts of Syunik). It is characterized by sunny, moderately hot summers and mild winters. Typical settlements are: Ijevan (approx. 750–900 m), Berd (approx. 900–1,000 m), Noyemberyan (approx. 800–950 m), the villages of Achajur, Aygehovit, Deghdzavan, Koghb, Haghtanak, Chinari, and Movses, as well as Kapan (most of the city lies between 750–1,050 m), the upper parts of Meghri, and the villages of Shikahogh, Tsav, Shvanidzor, Alvank, Nrnadzor, and Verin Khotanan.",
+    climate35:
+      "Moderate Continental Climate (1200–1700 m) This climate zone is characteristic of the Lake Sevan basin, as well as the foothills of Lori and Tavush regions. It features cool summers and moderately cold winters. Typical settlements are: Sevan, Gavar, Martuni, Lchashen, Noratus, Tsovazard, the lower parts of Vanadzor (around 1350 m), Spitak, Stepanavan, Tumanyan, Odzun, Kurtan, Shnogh, Gugark, Margahovit, as well as Dilijan (central and resort areas at 1300–1500 m), and the villages of Haghartsin, Gosh, Teghut, Fioletovo, and Lermontovo.",
+    climate36:
+      "Temperate Mountain Climate (1700–2300 m) This climate zone is mainly distributed in the mid-mountain zone. It is characterized by cool summers and long, cold winters. This zone includes most famous winter and balneological resorts of Armenia, such as Tsaghkadzor (≈1840 m), Jermuk (≈2080 m), and Hankavan. Typical settlements are:  Vardenis, Chambarak, Sotk, Martuni, and the village of Karchaghbyur, as well as Gyumri (≈1550–1600 m), Ashotsk, Amasia, Panik, Musayelyan, Bavra, Hrazdan (≈1700 m), Fantan, Meghradzor, Hankavan, Geghard village, Aparan (≈1880 m), Aragats, Kuchak, Tsaghkահովit, Norashen villages, Sisian (≈1600–1700 m), and Goris (≈1350–1400 m, with surrounding villages reaching ~1700+ m), including villages Khndzoresk, Tatev, Gorayk, and Saravan.",
+    climate37:
+      "Cold Mountain Climate (2300–3500 m) This climate zone includes high-mountain areas such as the Aragats, Gegham, and Zangezur ranges. It is characterized by short, cool summers and long, very cold winters. At this elevation, there are almost no permanent settlements with year-round populations. Instead, the area includes special-purpose facilities, seasonal settlements, high-mountain resorts and sports complexes, as well as cultural, historical, and tourist sites, and temporary (seasonal) settlements such as tent camps.In this zone are located the upper ski areas of Tsaghkadzor, the upper cable car station and ski slope of Jermuk, the Aragats high-mountain meteorological station (≈3200 m) and the Cosmic Ray Research Station, Lake Kari (3190 m, near the summit of Mount Aragats), Amberd Fortress (2300 m, on the slopes of Aragats), and the Ukhtasar petroglyph site.",
+    climate38:
+      "Snowline (Nival) Mountain Climate (above 3500 m) This zone exists only on the highest mountain peaks. It lies within the eternal snow line, where low temperatures and strong winds dominate throughout the year. At this elevation, there are no settlements, scientific stations, or even temporary tent camps. This is a world of permanent cold, rocky cliffs, and year-round snow cover.Typical locations include the peaks of Mount Aragats (3879 m, 3916 m, 4001 m, and 4090 m), Mount Kaputjugh (3905 m), Mount Azhdahak (3597 m), Mount Tsghuk (3581 m), and Mount Spitakasar (3555 m).",
+    climate39: "Characteristics of the Seasons",
+    climate40:
+      "All four seasons in Armenia are distinctly expressed, each with its own vibrant colors and unique features.",
+    climate41:
+      "Spring lasts from March to May. In the highlands, snow often remains until late spring, while the lower elevations already enjoy pleasantly warm weather. Winds and rainfall are frequent, contributing to the fertility of the land.",
+    climate42:
+      "Summer lasts from early June to August. Air temperatures are high, especially in the valleys, typically reaching +30°C to +35°C. Summers are hot, while the mountain regions remain pleasantly mild and cool. The hottest area is the Ararat Plain, where temperatures may occasionally rise to +42°C.",
+    climate43:
+      "Autumn mainly covers the months of September and October. Temperatures gradually decrease from +15°C to +5°C, the air becomes exceptionally clear, and nature is transformed into brilliant shades of gold, orange, and crimson. Autumn winds are frequent, bringing refreshing coolness.",
+    climate44:
+      "Winter in Armenia lasts from December to February. Snowfall is abundant in the highlands, while temperatures in the valleys generally range from −15°C to +2°C. Snowstorms and severe frosts may occasionally occur.",
+    climate45: "Air Temperature Variations by Month",
+    climate46: "Coldest month: January (−12.8°C to +0.9°C)",
+    climate47: "Warmest months: July and August (+25°C to +35°C)",
+    climate48: "Absolute minimum temperature: −42°C",
+    climate49: "Absolute maximum temperature: +43°C",
+    climate50:
+      "Average summer temperatures: In July and August, the average monthly temperature in these regions ranges from +26°C to +28°C, while daytime temperatures usually rise to +35°C - +40°C.",
+    climate51:
+      "Number of hot days: In the Arax Valley, air temperatures exceed +25°C  on up to 130–150 days per year.",
+    climate52:
+      "Number of frost-free days: Depends on altitude—about 253 days in lowland areas and up to 60 days in high-mountain regions.",
+    climate53:
+      "Temperature lapse rate: Air temperature decreases by approximately 0.55°C for every 100 meters of elevation gain.",
+    climate54: "Air Temperature Variations by Location",
+    climate55: "Coldest areas",
+    climate56:
+      "The coldest place in the Republic of Armenia is Paghakn village, located in the upper reaches of the Akhuryan River, where the absolute minimum temperature of −46°C has been recorded. (Shirak Province, Ashotk Plateau, near Amasia).",
+    climate57:
+      "Average winter temperature: The coldest month is January, when the average temperature in the Javakhk Mountains and the high-altitude zones of the Arpa River reaches around −12°C.",
+    climate58:
+      "Notable areas: The Shirak and Gegharkunik provinces (for example, Ashosk) are characterized by long and cold winters. Temperatures range from −2.7°C (high-mountain station of Mount Aragats) to +13.8°C (Syunik valleys such as Kapan and Meghri).",
+    climate59:
+      "During the Soviet period, the lowest temperature recorded in the entire Transcaucasus was registered near Lake Arpi, in Paghakn village, at −46°C.Paghakn is located within the Arpi community, about 1 km north of Berdashen village, on the eastern shore of Lake Arpi, and 20 km northwest of Amasia.",
+    climate60: "Hottest Areas",
+    climate61:
+      "Absolute maximum temperature: The Meghri region (Syunik Province) and the Ararat Plain (Ararat and Armavir provinces) reach up to +42°C to +43°C (Ararat village).",
+    climate62:
+      "Average summer temperature: The hottest months are July and August, when the average temperature in the Aras Valley exceeds +26°C.",
+    climate63:
+      "Notable areas: The lower Aras Valley (Ararat Plain), as well as the middle and lower zones of Meghri and Kapan, where a dry subtropical climate prevails.",
+    climate64:
+      "In lowland areas, the average July temperature reaches about +25°C, while in mountainous regions it is around +20°C.",
+    climate65:
+      "The hottest place in Armenia is the city of Meghri, where the country’s absolute maximum temperature of +43.7°C has been recorded.This record heat is due to the region’s low elevation and dry subtropical climate.",
+    climate66: "Precipitation",
+    climate67:
+      "Armenia is a small country, but with very diverse precipitation patterns and climate zones.",
+    climate68: "General characteristics",
+    climate69: "Climate: continental and mountainous ",
+    climate70: "Precipitation: unevenly distributed ",
+    climate71:
+      "Overall, the country is relatively dry, but it includes zones with significant mountain humidity ",
+    climate72:
+      "Precipitation in Armenia is distributed unevenly. The amount of precipitation varies greatly depending on altitude and region.",
+    climate73:
+      "Average annual precipitation in Armenia: approximately 550–600 mm",
+    climate74: "It ranges from about 200 mm to 1000 mm depending on location",
+    climate75:
+      "In some areas, there are years when snowfall is almost absent (e.g., Noyemberyan, Ijevan, the Ararat Plain, Kapan, Meghri)",
+    climate76: "Precipitation occurs mainly in:",
+    climate77: "Spring (April–June) ",
+    climate78: "Autumn (October–November)",
+    climate79: "Wettest Regions",
+    climate80: "Tavush: ~500–600 mm/year",
+    climate81: "Lori: ~600–700 mm/year",
+    climate82: "High-altitude areas of Gegharkunik Province: ~440–650 mm/year",
+    climate83: "Forest zones of Syunik: ~300–600 mm/year",
+    climate84:
+      "One of the wettest areas is the Hankavan mountain area, where annual precipitation reaches 800–850 mm. In some places, it can reach up to 1000 mm or more.",
+    climate85: "Driest Regions",
+    climate86: "Ararat Plain: ~200–250 mm/year",
+    climate87:
+      "Some low-lying valleys of Syunik also receive very low precipitation",
+    climate88:
+      "One of the driest areas is the Meghri river valley, where annual precipitation is only about 250 mm. This is the driest zone in Armenia, characterized by a semi-desert climate.",
+    climate89: "Effect of Altitude on Precipitation",
+    climate90:
+      "In Armenia, there is a clear pattern: with every 200-meter increase in altitude, both climate conditions and precipitation change significantly.",
+    climate91:
+      "Low valleys → low precipitation, hot climate In lowland areas, precipitation is scarce, and agriculture is impossible without artificial irrigation. In the Ararat Plain, farming is mainly possible due to irrigation systems.",
+    climate92:
+      "Mid-mountain zones → moderate humidity These areas receive a balanced amount of precipitation and have relatively stable climatic conditions.",
+    climate93:
+      "High mountain zones → frequent and heavy precipitation High-altitude regions experience frequent and abundant precipitation, sometimes accompanied by thunderstorms and lightning. Winters are mostly snowy, often with ice conditions. Snow can remain for a long time, and on high peaks it may persist year-round.",
+    climate94:
+      "Heavy snowfall is observed in most parts of Armenia. In peripheral mountain ranges, snow cover remains throughout the cold season.",
+    climate95: "Mount Mount Ararat is covered with a permanent snow layer. ",
+    climate96: "Winds",
+    climate97:
+      "The average wind speed in Armenia is 5–6 m/s, while in mountain passes it can reach 35–40 m/s.Well-known local winds include the afternoon winds of Yerevan, as well as the winds of Gyumri and Mantash.",
+    climate98: "Sunshine",
+    climate99:
+      "Armenia is a sunny country, with an average of 250–270 sunny days per year, which significantly contributes to the development of tourism, agriculture, and viticulture.The highest annual sunshine duration (number of sunshine hours) is recorded in the Ararat Plain (especially Yerevan and surrounding areas), in Meghri (Syunik), and in the basin of Lake Sevan.",
+    climate100:
+      "In the Ararat Plain, annual sunshine duration is about 2,500 hours. Summers are mostly clear, while in winter long-lasting fogs (temperature inversions) often occur, reducing the annual total. ",
+    climate101:
+      "Regions with the highest solar radiation intensity and the largest number of clear days (up to 300 sunny days per year) also include the sunny valleys of Syunik (Meghri region) and Vayots Dzor (Yeghegnadzor).",
+    climate102:
+      "Meghri has the hottest climate and high solar radiation. However, due to its mountainous relief and deep canyon setting, the total sunshine hours are slightly lower than in the open plains of Lake Sevan. Surrounding mountains “reduce” sunlight hours by delaying sunrise and causing earlier sunset. In spring, cloudy days are more frequent than in the high and open basin of Sevan.Meghri’s annual sunshine duration is about 2,400–2,500 hours.",
+    climate103:
+      "The highest recorded annual sunshine duration in Armenia is in Martuni (Sevan basin). According to official climatic data, it is the absolute national record, with about 2,700–2,800 hours per year, reaching up to 2,878 hours in some measurements.This is explained by its high altitude, which reduces atmospheric density and makes the air more transparent. Cloudy days are very rare. Unlike the Ararat Plain, persistent and dense fogs do not form here in winter, which keeps the total sunshine duration unmatched throughout the year.",
   },
 
   ru: {
     nav_home: "Главная",
     nav_hayastan: "Армения",
-    nav_marzer: "Марзы РА",
+    nav_marzer: "Области",
     nav_turizm: "Туризм",
     nav_blog: "Блог",
     nav_booklet: "Info booklet",
@@ -3800,7 +4111,7 @@ var translations = {
 
     // climate.html
     hayastan_climate_head_title: "Климат",
-    climate_label: "ПРОФИЛЬ",
+    climate_label: "Обзор",
     climate_page_title: "Климат",
     climate_intro:
       "Армения, будучи горной страной, обладает исключительным климатическим разнообразием. Здесь встречаются почти все климатические зоны, от субтропической до альпийской.",
@@ -4190,7 +4501,7 @@ var translations = {
     hayastan_info271:
       "В Ереване можно обменять валюту как в банках, так и в многочисленных пунктах обмена и через банкоматы.",
     // marz_menu
-    marz_menu1: "ПРОФИЛЬ",
+    marz_menu1: "Обзор",
     marz_menu2: "Данные",
     marz_menu3: "Как добраться",
     marz_menu4: "Климат",
@@ -4466,5 +4777,162 @@ var translations = {
     relief55: "Ущелье Азат (Котайк-Арарат)",
     relief56: "Ущелье Арпай (Вайоц Дзор)",
     relief57: "Ущелье Раздан (Ереван)",
+
+    // climate
+    climate1: "Климат",
+    climate2:
+      "Армения находится в умеренном поясе, однако благодаря своему горному рельефу отличается исключительным климатическим разнообразием. Здесь можно встретить практически все климатические зоны Земли — от сухого субтропического до альпийского и снегового высокогорного климата. По этой причине Армению часто называют климатической миниатюрой, так как на небольшой территории страны представлено исключительное разнообразие климатических условий и почти полный ряд вертикальной поясности.",
+    climate3:
+      "Климат Армянского нагорья в основном континентальный. Территория республики удалена от океанов, а окружающие высокие горные хребты ограничивают проникновение влажных воздушных масс. В результате сформировались жаркое и сухое лето, а также относительно холодная зима.                      В Армении преобладает континентальный и засушливый климат, характеризующийся жарким и сухим летом (+30…+35°C) и короткой холодной зимой (-15…-20°C). Климат существенно различается в зависимости от рельефа и высоты над уровнем моря. Климатические условия во многом зависят от высоты над уровнем моря. С увеличением высоты на каждые 100 метров средняя температура воздуха снижается примерно на 0.55°C. Это явление носит название «вертикальная климатическая поясность».",
+    climate4: "Климатические зоны",
+    climate5:
+      "На Армянском нагорье встречаются практически все климатические зоны — от субтропических до альпийских и горно-тундровых. Климат изменяется в зависимости от высоты над уровнем моря (явление вертикальной климатической поясности). На территории Армении выделяют 8 основных климатических зон.",
+    climate6: "Климатическая зона",
+    climate7: "Сухая субтропическая",
+    climate8: "Сухая резко континентальная",
+    climate9: "Сухая континентальная",
+    climate10: "Умеренно жаркая",
+    climate11: "Умеренно континентальная",
+    climate12: "Умеренная горная",
+    climate13: "Холодная горная",
+    climate14: "Снежно-нивальная крайне холодная горная",
+    climate15: "Высота",
+    climate16: "380–450 м – 700 м",
+    climate17: "До 800 м",
+    climate18: "800–1200 м",
+    climate19: "900–1300 м",
+    climate20: "1200–1700 м",
+    climate21: "1700–2300 м",
+    climate22: "2300–3500 м",
+    climate23: "Выше 3500 м",
+    climate24: "Особенности климата",
+    climate25:
+      "В Араратская равнина климат очень сухой и жаркий. Летом температура иногда достигает +42°C.",
+    climate26:
+      "В лесистых районах Лорийская область и Тавушская область климат более влажный и мягкий.",
+    climate27: "В бассейне Озеро Севан лето прохладное, а зима холодная.",
+    climate28:
+      "В высокогорных районах (горные хребты Арагац, Гегамский хребет и Зангезурский хребет) лето короткое и прохладное, а зима продолжительная и очень холодная.",
+    climate29:
+      "На высотах более 2500–3000 м во многих местах весна практически сразу переходит в зиму, а осень выражена слабо.",
+    climate30: "Обзор климатических зон",
+    climate31:
+      "Сухая субтропическая (до 380–450 м) Характерна для долины среднего течения реки Аракс (Араратская равнина) и района Мегри. Отличается продолжительным жарким летом, мягкой зимой и небольшим количеством осадков в течение года.",
+    climate32:
+      "Сухая резко континентальная (до 800 м) Распространена в предгорьях Араратской котловины, включая южные районы Аштарака и Апарана, Котайкское плато, высокогорные сёла Араратской области, подножие хребта Еранос и северные предгорья Армавирской области. Лето здесь очень жаркое, а зима сравнительно холодная.",
+    climate33:
+      "Сухая континентальная (800–1200 м) Формируется в предгорных районах Арагацотнской, Ширакской и Вайоцдзорской областей. Характеризуется умеренно тёплым летом и холодной зимой. Типичные населённые пункты: Аштарак, Ошакан, Уджан, Агарак, Кош, Артик (и прилегающие низменные сёла), низменные сёла Маралика, Ахуряна и Амасии, а также Ринд, Агавнадзор, Арени, Гетап, Ехегнадзор и Вайк. ",
+    climate34:
+      "Умеренно жаркая (900–1300 м) Встречается в северо-восточных районах (Тавуш) и юго-восточных районах (низменные части Сюникской области). Характеризуется солнечным, умеренно жарким летом и мягкой зимой. Типичные населённые пункты: Иджеван (около 750–900 м), Берд (около 900–1 000 м), Ноемберян (около 800–950 м), сёла Ачаджур, Айгеховит, Дехдзаван, Кохб, Ахтанак, Чинари и Мовсес, а также Капан (основная часть города расположена на высоте 750–1 050 м), верхние районы Мегри, и сёла Шикаох, Цав, Шванидзор, Алванк, Нрнадзор и Верин Хотанан.",
+    climate35:
+      "Умеренно континентальная (1200–1700 м) Характерна для бассейна озера Севан, а также предгорий Лорийской и Тавушской областей. Отличается прохладным летом и умеренно холодной зимой. Типичные населённые пункты: Севан, Гавар, Мартуни, Лчашен, Норадуз, Цовазард, нижние районы Ванадзора (около 1350 м), Спитак, Степанаван, Туманян, Одзун, Куртан, Шнох, Гугарк, Маргаовит, а также Дилижан (центральная и курортная части на высоте 1300–1500 м), сёла Ахарцин, Гош, Техут, Фиолетово и Лермонтово. ",
+    climate36:
+      "Умеренно горная (1700–2300 м) Данная климатическая зона распространена преимущественно в среднегорном поясе. Характеризуется прохладным летом и продолжительной холодной зимой. Здесь расположены известные зимние и бальнеологические курорты Армении, такие как Цахкадзор (≈1840 м), Джермук (≈2080 м) и Анкаван. Типичные населённые пункты: Варденис, Чамбарак, Сотк, Мартуни и село Карчагбюр, а также Гюмри (≈1550–1600 м), Ашоцк, Амасия, Паник, Мусаелян, Бавра, Раздан (≈1700 м), Фантан, Меградзор, Анкаван, Гегард, Апаран (≈1880 м), Арагац, Кучак, Цахкаовит, Норашен, Сисиан (≈1600–1700 м) и Горис (≈1350–1400 м, а окружающие сёла достигают ~1700+ м), включая Хндзореск, Татев, Горайк и Сараван.    ",
+    climate37:
+      "Холодная горная (2300–3500 м) Данная климатическая зона охватывает высокогорные районы хребтов Арагацских, Гегамских и Зангезурских гор. Характеризуется коротким прохладным летом и продолжительной очень холодной зимой. На этой высоте практически отсутствуют постоянные населённые пункты с круглогодичным проживанием. Вместо этого здесь расположены объекты специального назначения, сезонные поселения, высокогорные курорты, спортивные комплексы, историко-культурные и туристические объекты, а также временные (сезонные) лагеря и палаточные стоянки.В этой зоне находятся верхние горнолыжные участки Цахкадзора, верхняя станция канатной дороги и трасса Джермука, высокогорная метеостанция Арагаца (≈3200 м) и станция исследования космических лучей, озеро Кари (3190 м, у вершины Арагаца), крепость Амберд (2300 м, на склонах Арагаца) и петроглифы Ухтасара.",
+    climate38:
+      "Нивальная (снежно-ледниковая) горная (выше 3500 м) Данная климатическая зона встречается только на самых высоких горных вершинах. Она расположена в пределах зоны вечных снегов, где круглый год преобладают низкие температуры и сильные ветры. На этой высоте отсутствуют какие-либо населённые пункты, научные станции и даже временные палаточные лагеря. Это мир вечного холода, скал и снежного покрова.Типичными объектами являются вершины Арагаца (3879 м, 3916 м, 4001 м и 4090 м), гора Капутджух (3905 м), гора Аждаак (3597 м), гора Цхук (3581 м) и Спитакасар (3555 м).",
+    climate39: "Характеристика времён года",
+    climate40:
+      "В Армении все четыре времени года ярко выражены, каждое отличается насыщенными красками и своими характерными особенностями.",
+    climate41:
+      "Весна длится с марта по май. В высокогорных районах снег нередко сохраняется до конца весны, тогда как в низменностях уже устанавливается тёплая погода. Часто дуют ветры и выпадают осадки, способствующие плодородию почв.",
+    climate42:
+      "Лето продолжается с начала июня до августа. Температура воздуха высокая, особенно в долинах, где обычно достигает +30…+35°C. Лето жаркое, однако в горных районах сохраняется мягкий и прохладный климат. Самым жарким районом является Араратская равнина, где температура иногда поднимается до +42°C.",
+    climate43:
+      "Осень приходится главным образом на сентябрь и октябрь. Температура постепенно снижается с +15°C до +5°C, воздух становится особенно чистым, а природа окрашивается в золотистые, оранжевые и багряные тона. Осенние ветры нередки и приносят приятную прохладу.",
+    climate44:
+      "Зима в Армении длится с декабря по февраль. В высокогорных районах выпадает много снега, а в долинах температура обычно колеблется от −15°C до +2°C. Иногда случаются сильные снегопады, метели и морозы.",
+    climate45: "Колебания температуры воздуха по месяцам",
+    climate46: "Самый холодный месяц: январь (от −12,8°C до +0,9°C)",
+    climate47: "Самые тёплые месяцы: июль и август (от +25°C до +35°C) ",
+    climate48: "Абсолютный минимум температуры: −42°C ",
+    climate49: "Абсолютный максимум температуры: +43°C ",
+    climate50:
+      "Средняя летняя температура: В июле и августе средняя месячная температура в этих районах составляет от +26°C до +28°C, однако в дневные часы воздух обычно прогревается до +35°C…+40°C.",
+    climate51:
+      "Количество жарких дней: В долине реки Аракс температура воздуха превышает +25°C в течение 130–150 дней в году.",
+    climate52:
+      "Количество безморозных дней: Зависит от высоты над уровнем моря — около 253 дней в низменных районах и до 60 дней в высокогорье.",
+    climate53:
+      "Изменение температуры с высотой: При подъёме на каждые 100 м температура воздуха понижается примерно на 0,55°C.",
+    climate54: "Колебания температуры воздуха по местоположению",
+    climate55: "Самые холодные районы",
+    climate56:
+      "Самым холодным населённым пунктом в Республике Армения является село Пахакн, расположенное в верхнем течении реки река Ахурян, где зафиксирован абсолютный минимум температуры −46°C.(Ширакская область, Ашоцкое плато, окрестности Амасии)",
+    climate57:
+      "Средняя зимняя температура: самый холодный месяц — январь, когда средняя температура в Джавахкских горах и высокогорных районах реки Арпа достигает около −12°C.",
+    climate58:
+      "Характерные районы: Ширакская и Гегаркуникская области (например, Ашоцк) отличаются продолжительными и холодными зимами. Температуры варьируются от −2,7°C (высокогорная станция горы Арагац) до +13,8°C (долины Сюника — Капан, Мегри).",
+    climate59:
+      "Ещё в советский период самая низкая температура на территории всего Закавказья была зафиксирована в районе озера Арпи, в селе Пахакн, и составила −46°C.Село Пахакн находится в составе общины Арпи, примерно в 1 км к северу от села Бердашен, на восточном берегу озера Арпи, в 20 км к северо-западу от Амасии.",
+    climate60: "Самые тёплые районы",
+    climate61:
+      "Абсолютный максимум температуры: регион Мегри (Сюникская область) и Араратская равнина (Араратская и Армавирская области) — до +42°C – +43°C (село Арарат).",
+    climate62:
+      "Средняя летняя температура: самые жаркие месяцы — июль и август, когда средняя температура в долина Аракса превышает +26°C.",
+    climate63:
+      "Характерные районы: низменная долина Аракса (Араратская равнина), а также средние и низкие высоты Мегри и Капана, где преобладает сухой субтропический климат.",
+    climate64:
+      "На равнинах средняя июльская температура достигает около +25°C, а в горных районах — около +20°C. ",
+    climate65:
+      "Самым тёплым местом Армении является город Мегри, где зафиксирована абсолютная максимальная температура страны — +43,7°C.Этот рекорд обусловлен низким географическим положением региона и сухим субтропическим климатом.",
+    climate66: "Осадки",
+    climate67:
+      "Армения — небольшая страна, но с очень разнообразными осадками и климатическими зонами.",
+    climate68: "Общая характеристика",
+    climate69: "Климат: континентальный и горный",
+    climate70: "Осадки: распределены неравномерно",
+    climate71:
+      "В целом страна засушливая, но с зонами повышенной горной влажности",
+    climate72:
+      "Осадки в Армении распределены крайне неравномерно и сильно зависят от высоты и региона.",
+    climate73: "Среднегодовое количество осадков в Армении: около 550–600 мм",
+    climate74:
+      "Колеблется от примерно 200 мм до 1000 мм в зависимости от местности",
+    climate75:
+      "В некоторых районах бывают годы, когда снег практически не выпадает (например, Нойемберян, Иджеван, Араратская равнина, Капан, Мегри)",
+    climate76: "Осадки преимущественно выпадают:",
+    climate77: "весной (апрель–июнь)",
+    climate78: "осенью (октябрь–ноябрь)",
+    climate79: "Самые влажные районы",
+    climate80: "Тавуш: ~500–600 мм/год",
+    climate81: "Лори: ~600–700 мм/год",
+    climate82: "Высокогорные районы Гегаркуникская область: ~440–650 мм/год",
+    climate83: "Лесные зоны Сюника: ~300–600 мм/год",
+    climate84:
+      "Одним из самых влажных районов являются горные территории Анкавана, где годовое количество осадков достигает 800–850 мм, а местами — до 1000 мм и более.",
+    climate85: "Самые засушливые районы",
+    climate86: "Араратская равнина: ~200–250 мм/год",
+    climate87:
+      "Некоторые нижние долины Сюника также характеризуются низким количеством осадков.",
+    climate88:
+      "Одним из самых засушливых районов является Мегрийская долина, где выпадает всего около 250 мм осадков в год. Это самая сухая зона Армении с полупустынным климатом.",
+    climate89: "Влияние высоты на осадки",
+    climate90:
+      "В Армении существует чёткая закономерность: с повышением высоты на каждые 200 метров заметно изменяются климат и количество осадков.",
+    climate91:
+      "Низкие долины → мало осадков, жаркий климат В низменных районах осадков мало, и сельское хозяйство невозможно без искусственного орошения. В Араратская равнина земледелие в основном возможно благодаря ирригации.",
+    climate92:
+      "Среднегорные зоны → умеренная влажность Здесь наблюдается средний уровень осадков и более стабильные климатические условия.",
+    climate93:
+      "Высокогорные зоны → частые и обильные осадкиВ высокогорье осадки выпадают часто и в больших количествах, иногда сопровождаются грозами и молниями. Зимы в основном снежные, нередко с гололёдом. Снег может сохраняться длительное время, а на вершинах — круглый год.",
+    climate94:
+      "Обильные снегопады характерны для большей части территории Армении. В периферийных горных хребтах снежный покров сохраняется в течение всего холодного периода.",
+    climate95: "Гора Арарат покрыта вечным снежным покровом.",
+    climate96: "Ветры",
+    climate97:
+      "Средняя скорость ветра в Армении составляет 5–6 м/с, однако в горных перевалах может достигать 35–40 м/с.Известны также послеобеденные ветры Еревана, а также ветры Гюмри и Манташa.",
+    climate98: "Солнечность",
+    climate99:
+      "Армения — солнечная страна, где в среднем фиксируется 250–270 солнечных дней в году, что значительно способствует развитию туризма, сельского хозяйства и виноградарства.Наибольшая продолжительность солнечного сияния в течение года отмечается в Араратская равнина (особенно в Ереване и окрестностях), в Мегри (Сюник) и в бассейне озеро Севан.",
+    climate100:
+      "В Араратская равнина продолжительность солнечного сияния составляет около 2500 часов в год. Летом здесь почти всегда ясно, однако зимой часто наблюдаются длительные туманы (инверсии), что снижает годовой показатель.",
+    climate101:
+      "К районам с наибольшей интенсивностью солнечной радиации и числом ясных дней (до 300 солнечных дней в год) также относятся солнечные долины Сюника (Мегри) и Вайоц Дзора (Ехегнадзор).",
+    climate102:
+      "Мегри отличается самым тёплым климатом и высокой солнечной радиацией. Однако из-за горного рельефа и расположения в глубоком ущелье общее количество солнечных часов немного уступает открытым равнинам Севанского бассейна. Окружающие высокие горы «сокращают» солнечные часы, задерживая восход и ускоряя заход солнца. Весной здесь больше облачных дней, чем в открытом высокогорном Севанском бассейне.Годовая продолжительность солнечного сияния в Мегри составляет около 2400–2500 часов.",
+    climate103:
+      "Наибольшая зарегистрированная продолжительность солнечного сияния в Армении отмечается в Мартуни (Севанский бассейн). Согласно официальным климатическим данным, это абсолютный рекорд страны — около 2700–2800 часов в год, достигая в отдельных случаях 2878 часов.Это объясняется высокой абсолютной высотой местности, что снижает плотность атмосферы и делает воздух более прозрачным. Облачных дней здесь крайне мало. В отличие от Араратской равнины, здесь зимой не формируются длительные и плотные туманы, благодаря чему общее количество солнечных часов остаётся непревзойдённым.",
   },
 };

@@ -145,6 +145,7 @@
         "Առավելագույնը՝ 18–22 մ/վ, լեռնային շրջաններում՝ մինչև 35 մ/վ, պոռթկումներով՝ մինչև 40 մ/վ։",
       marz_aragacotn_bnutagir115: "Արևափայլ",
       marz_aragacotn_bnutagir116: "Տարեկան միջին տևողությունը՝ 2471–2968 ժամ։",
+
       // marz_aragacotn_nkaragir
       marz_aragacotn_nkaragir1: "ՆԿԱՐԱԳԻՐ",
       marz_aragacotn_nkaragir2:
@@ -154,7 +155,7 @@
         "Արագածոտնի մարզը տարածվում է Հայաստանի արևմուտքում՝ վեհաշուք ու ձյունաճերմակ, քառագագաթ Արագածի լանջերին։ Արագած լեռը ոչ միայն ՀՀ ամենաբարձր գագաթն է (4,090 մ), այլև մարզի խորհրդանիշն ու հայ ժողովրդի նվիրական լեռը՝ ուժի, հույսի, երազանքի ու անմահության մարմնավորում, որի շուրջ հյուսվել են բազմաթիվ լեգենդներ (Լուսավորչի կանթեղը)։",
       marz_aragacotn_nkaragir5: "Ալպյան մարգագետիններից մինչև հրաբխային լճեր",
       marz_aragacotn_nkaragir6:
-        "Սիգապած լեռներից մինչև անդնախոր ձորեր՝ այսպիսին է Արագածոտնը՝ Հայաստանի ամենազարմանահրաշ անկյուններից մեկը: Արագած լեռան չորս գագաթները, ձյունածածկ բարձունքներն ու ալպյան մարգագետինները դարեր շարունակ հիացրել են ճանապարհորդներին ու ոգեշնչել հայ մարդու ստեղծագործ միտքը։ Մարզի տարածքում զուգակցվում են բազմազան լանդշաֆտներ՝ բերրի գետահովիտներ, ալպյան մարգագետիններ ու լեռնագագաթները պսակող հրաբխային լճեր։",
+        "Սիգապանծ լեռներից մինչև անդնախոր ձորեր՝ այսպիսին է Արագածոտնը՝ Հայաստանի ամենազարմանահրաշ անկյուններից մեկը: Արագած լեռան չորս գագաթները, ձյունածածկ բարձունքներն ու ալպյան մարգագետինները դարեր շարունակ հիացրել են ճանապարհորդներին ու ոգեշնչել հայ մարդու ստեղծագործ միտքը։ Մարզի տարածքում զուգակցվում են բազմազան լանդշաֆտներ՝ բերրի գետահովիտներ, ալպյան մարգագետիններ ու լեռնագագաթները պսակող հրաբխային լճեր։",
       marz_aragacotn_nkaragir7: "Պատմամշակութային հարստություն",
       marz_aragacotn_nkaragir8:
         "Ապշեցուցիչ է Արագածոտնի պատմամշակութային ժառանգությունը՝ կիկլոպյան ամրոցներից ու հնադարյան դամբարանադաշտերից մինչև միջնադարյան բերդեր ու եկեղեցիներ, հազարավոր խաչքարերից մինչև նոր ժամանակների հիասքանչ հուշահամալիրներ՝ բնամիջավայրի հետ ներդաշնակ և այն ամբողջացնող:",
@@ -1552,607 +1553,612 @@
     en: {
       //aragacotn
       marz_aragacotn_title: "ARAGACOTN",
-      marz_aragacotn_bnutagir1: "CHARACTERISTICS",
+      marz_aragacotn_bnutagir1: "Overview",
       marz_aragacotn_bnutagir2: "DATA",
       marz_aragacotn_bnutagir3: "Direction",
-      marz_aragacotn_bnutagir4: "From the North",
-      marz_aragacotn_bnutagir5: "From the North-East",
-      marz_aragacotn_bnutagir6: "From the East",
-      marz_aragacotn_bnutagir7: "From the South",
-      marz_aragacotn_bnutagir8: "From the South-West",
-      marz_aragacotn_bnutagir9: "From the West",
-      marz_aragacotn_bnutagir10: "Bordering region",
+      marz_aragacotn_bnutagir4: "North",
+      marz_aragacotn_bnutagir5: "North-East",
+      marz_aragacotn_bnutagir6: "East",
+      marz_aragacotn_bnutagir7: "South",
+      marz_aragacotn_bnutagir8: "South-West",
+      marz_aragacotn_bnutagir9: "West",
+      marz_aragacotn_bnutagir10: "Bordering Provinces",
       marz_aragacotn_bnutagir11: "Shirak",
       marz_aragacotn_bnutagir12: "Lori",
       marz_aragacotn_bnutagir13: "Kotayk",
       marz_aragacotn_bnutagir14: "Armavir",
       marz_aragacotn_bnutagir15: "Yerevan",
-      marz_aragacotn_bnutagir16: "Neighboring countries",
+      marz_aragacotn_bnutagir16: "Neighboring Countries",
       marz_aragacotn_bnutagir17: "Turkey (35 km)",
-      marz_aragacotn_bnutagir18: "Establishment",
+      marz_aragacotn_bnutagir18: "Foundation",
       marz_aragacotn_bnutagir19:
-        "Aragatsotn region was formed on April 12, 1995",
+        "Aragatsotn Province was established on April 12, 1995.",
       marz_aragacotn_bnutagir20: "Area",
       marz_aragacotn_bnutagir21:
-        "A medium-sized region, occupies 9.3% of the total area of ​​the Republic of Armenia (2756 km²)",
-      marz_aragacotn_bnutagir22: "Administrative center",
+        "A medium-sized region, covering 9.3% of the total territory of Armenia (2,756 km²).",
+      marz_aragacotn_bnutagir22: "Administrative Center",
       marz_aragacotn_bnutagir23:
-        "Ashtarak is the largest city in the region. It is located 20 km northwest of Yerevan. The region has been inhabited since ancient times, in written sources since the 7th century. It has been an urban settlement since the 9th–10th centuries, during the Bagratuni Kingdom.",
-      marz_aragacotn_bnutagir24: "Index",
+        "Ashtarak is the largest city of the region. It is located 20 km northwest of Yerevan. The area has been inhabited since ancient times and is mentioned in written sources from the 7th century. It became an urban settlement in the IX–X  centuries, during the Bagratid Kingdom period.",
+      marz_aragacotn_bnutagir24: "Indicator",
       marz_aragacotn_bnutagir25: "Area",
       marz_aragacotn_bnutagir26: "Coordinates",
       marz_aragacotn_bnutagir27: "Elevation",
       marz_aragacotn_bnutagir28: "Highest peak",
       marz_aragacotn_bnutagir29: "Lowest point",
       marz_aragacotn_bnutagir30: "Administrative center",
-      marz_aragacotn_bnutagir31: "Regions",
+      marz_aragacotn_bnutagir31: "Districts",
       marz_aragacotn_bnutagir32: "Cities",
       marz_aragacotn_bnutagir33: "Villages",
       marz_aragacotn_bnutagir34: "Population",
       marz_aragacotn_bnutagir35: "Distance from Yerevan",
-      marz_aragacotn_bnutagir36: "Postal code",
+      marz_aragacotn_bnutagir36: "Postal codes",
       marz_aragacotn_bnutagir37: "Hotline",
       marz_aragacotn_bnutagir38: "Website",
       marz_aragacotn_bnutagir39: "Data",
-      marz_aragacotn_bnutagir40: "2,756 sq. km (9.3%)",
-      marz_aragacotn_bnutagir41: "40°52′45″ N.E.,",
-      marz_aragacotn_bnutagir42: "950 m, 1030–4090 m",
-      marz_aragacotn_bnutagir43: "Aragats (4,090 m)",
+      marz_aragacotn_bnutagir40: "2,756 km² (9.3%)",
+      marz_aragacotn_bnutagir41: "40°52′45″ N, 45°08′34″ E",
+      marz_aragacotn_bnutagir42: "950 m, avg. 1030–4090 m",
+      marz_aragacotn_bnutagir43: "4,090 m (Mount Aragats)",
       marz_aragacotn_bnutagir44: "950 m",
       marz_aragacotn_bnutagir45: "Ashtarak",
       marz_aragacotn_bnutagir46: "Ashtarak, Aragats, Aparan, Talin",
       marz_aragacotn_bnutagir47: "Ashtarak, Talin, Aparan",
       marz_aragacotn_bnutagir48: "18 km",
       marz_aragacotn_bnutagir49: "Highest peak Aragats (4,090 m)",
-      marz_aragacotn_bnutagir50: "Regional phone codes",
-      marz_aragacotn_bnutagir51: "Residence",
+      marz_aragacotn_bnutagir50: "Regional Telephone Codes",
+      marz_aragacotn_bnutagir51: "Settlement",
       marz_aragacotn_bnutagir52: "Ashtarak",
       marz_aragacotn_bnutagir53: "Talin",
       marz_aragacotn_bnutagir54: "Aparan",
       marz_aragacotn_bnutagir55: "Tsaghkahovit",
       marz_aragacotn_bnutagir56: "Code",
-      marz_aragacotn_bnutagir57: "Regional Administration/Contact",
-      marz_aragacotn_bnutagir58: "Address: Ashtarak, 4",
-      marz_aragacotn_bnutagir59: "Web: aragatsotn.mtad.am",
-      marz_aragacotn_bnutagir60: "E-mail: aragatsotn@mta.gov.am",
-      marz_aragacotn_bnutagir61: "Tel./fax: (+374 232) 32251",
-      marz_aragacotn_bnutagir62: "HOW TO GET THERE",
+      marz_aragacotn_bnutagir57: "Governor’s  Office",
+      marz_aragacotn_bnutagir58: "Address: 4, Ashtarak",
+      marz_aragacotn_bnutagir59: "Website: aragatsotn.mtad.am",
+      marz_aragacotn_bnutagir60: "Email: aragatsotn@mta.gov.am",
+      marz_aragacotn_bnutagir61: "Phone/Fax: (+374 232) 32251",
+      marz_aragacotn_bnutagir62: "HOW TO GET",
       marz_aragacotn_bnutagir63: "Highways/roads",
       marz_aragacotn_bnutagir64:
-        "Three main national highways pass through the territory of Aragatsotn",
+        "Three main republican highways pass through Aragatsotn Province:",
       marz_aragacotn_bnutagir65: "Yerevan – Ashtarak – Talin – Gyumri (M-1)",
       marz_aragacotn_bnutagir66: "Yerevan – Ashtarak – Spitak (M-3)",
       marz_aragacotn_bnutagir67: "Yerevan – Armavir – Karakert – Gyumri",
       marz_aragacotn_bnutagir68:
-        "The North-South interstate highway also passes through the region.",
+        "The North–South interstate highway also passes through the region.",
       marz_aragacotn_bnutagir69:
-        "The region connects to the capital via the Ashtarak highway.",
+        "Through the Ashtarak highway, the province is connected to the capital.",
       marz_aragacotn_bnutagir70:
-        "Interstate roads are in relatively good condition.",
-      marz_aragacotn_bnutagir71: "How to get to Ashtarak?",
-      marz_aragacotn_bnutagir72: "The best option is a bus or minibus.",
+        "Interstate roads are generally in relatively good condition.",
+      marz_aragacotn_bnutagir71: "How to Get to Ashtarak",
+      marz_aragacotn_bnutagir72: "The best option is by bus or minibus.",
       marz_aragacotn_bnutagir73:
-        "They depart from the Kilikia bus station and the Central Railway Station.",
+        "Departures are available from Kilikiya Bus Station and the Central Railway Station.",
       marz_aragacotn_bnutagir74: "The journey takes about 40 minutes.",
-      marz_aragacotn_bnutagir75: "Ticket price: 250 drams.",
-      marz_aragacotn_bnutagir76: "Railway.",
+      marz_aragacotn_bnutagir75: "Ticket price: 250 AMD.",
+      marz_aragacotn_bnutagir76: "Railway",
       marz_aragacotn_bnutagir77:
-        "A 30-km section of the RA main railway passes through the territory of Aragatsotn.",
-      marz_aragacotn_bnutagir78: "CLIMATE.",
+        "About 30 km of Armenia’s main railway line passes through the territory of Aragatsotn Province.",
+      marz_aragacotn_bnutagir78: "CLIMATE",
       marz_aragacotn_bnutagir79:
-        "The climate of Aragatsotn is distinguished by a great variety of climatic conditions, due to large variations in altitude.",
-      marz_aragacotn_bnutagir80: "Climate features.",
+        "The climate of Aragatsotn Province is characterized by great diversity of natural and climatic conditions due to significant altitude variations.",
+      marz_aragacotn_bnutagir80: "Climate Features",
       marz_aragacotn_bnutagir81:
-        "The region has both dry and hot lowland zones and cold high mountain regions. In the lowland zones (areas adjacent to the Ararat Valley), summers are hot, winters are moderately cold. In the high mountain zone (Aragats mountain range), summers are cool, winters are severe.",
+        "The region includes both hot and dry lowland zones as well as cold high-mountain areas. In the lowlands (adjacent to the Ararat Plain), summers are hot and winters are moderately cold. In the high mountainous areas (Mount Aragats), summers are cool and winters are severe and cold.",
       marz_aragacotn_bnutagir82:
         "The region is characterized by constant cool breezes.",
       marz_aragacotn_bnutagir83:
         "In the lowland areas, a temperate mountain climate.",
       marz_aragacotn_bnutagir84:
         "In the coastal regions, the climate is milder, in the mountain passes, it is severe.",
-      marz_aragacotn_bnutagir85: "Weather characteristics.",
+      marz_aragacotn_bnutagir85: "Seasons Characteristics",
       marz_aragacotn_bnutagir86:
-        "Winter - long, cold, with snowstorms and fogs. Especially in the high mountain zones, the snow cover is stable and thick. Snowstorms - an average of 6 days in Talin, 17 days in Aparan, up to 80 days in Aragats mountain range.",
+        "Winters – long, cold, with blizzards and fog. In high-mountain areas, snow cover is stable and thick. Blizzards: on average 6 days in Talin, 17 days in Aparan, and up to 80 days in the Aragats high-mountain zone.",
       marz_aragacotn_bnutagir87:
-        "Summer - hot and dry in the lowlands, cool and rainy in the mountainous regions.",
+        "Summers – hot and dry in lowland areas, and cool with higher precipitation in mountainous regions.",
       marz_aragacotn_bnutagir88:
-        "Spring - cool, with a lot of precipitation, often with winds and thunderstorms.",
+        "Spring – cool, with abundant precipitation, often windy with thunderstorms.",
       marz_aragacotn_bnutagir89:
-        "Autumn - relatively mild, sunny at first, then more humid, with fogs.",
+        "Autumn – relatively mild; sunny at the beginning, then becoming more humid with fogs.",
       marz_aragacotn_bnutagir90: "Temperature",
-      marz_aragacotn_bnutagir91: "In the lowlands",
-      marz_aragacotn_bnutagir92: "July: average temperature: +22°C…+25°C",
-      marz_aragacotn_bnutagir93: "January: average temperature: -3°C…-4°C",
-      marz_aragacotn_bnutagir94: "In the foothills",
-      marz_aragacotn_bnutagir95: "Average annual temperature: +8°C…+11 °C",
-      marz_aragacotn_bnutagir96: "In the summer: +22…+25°C",
-      marz_aragacotn_bnutagir97: "In the mountainous zones",
+      marz_aragacotn_bnutagir91: "Lowland zone",
+      marz_aragacotn_bnutagir92: "July: average temperature +22°C…+25°C",
+      marz_aragacotn_bnutagir93: "January: average temperature −3°C…−4°C",
+      marz_aragacotn_bnutagir94: "Foothill zone",
+      marz_aragacotn_bnutagir95: "Average annual temperature: +8°C…+11°C",
+      marz_aragacotn_bnutagir96: "Summer: +22°C…+25°C",
+      marz_aragacotn_bnutagir97: "Mountain zones",
       marz_aragacotn_bnutagir98: "Average annual temperature: +4°C…+6°C",
       marz_aragacotn_bnutagir99:
-        "In the high mountain zone (Aragats mountain, above 2700 m)",
+        "High-mountain zone (Mount Aragats, above 2,700 m)",
       marz_aragacotn_bnutagir100: "Average annual temperature: below 0°C",
       marz_aragacotn_bnutagir101:
-        "On the top of Aragats (3229 m) a.s.l.: up to −2.6°C.",
-      marz_aragacotn_bnutagir102: "July: average temperature: +9°C…+15°C",
-      marz_aragacotn_bnutagir103:
-        "January: average temperature -2.6°C to -12°C",
+        "At the summit of Aragats (3,229 m): up to −2.6°C average annual temperature",
+      marz_aragacotn_bnutagir102: "July: +9°C…+15°C",
+      marz_aragacotn_bnutagir103: "January: −2.6°C to −12°C",
       marz_aragacotn_bnutagir104:
-        "Absolute temperatures in the region range from +41°C (Ashtarak) to −34°C (Aragats mountain range).",
+        "Absolute temperatures in the region range from +41°C (Ashtarak) to −34°C (high-mountain areas of Aragats).",
       marz_aragacotn_bnutagir105: "Precipitation",
-      marz_aragacotn_bnutagir106: "In the upland regions: 850–1100 mm per year",
-      marz_aragacotn_bnutagir107: "In the lowlands: 300–320 mm per year",
+      marz_aragacotn_bnutagir106: "In sub-summit regions: 850–1100 mm annually",
+      marz_aragacotn_bnutagir107: "In lowland areas: 300–320 mm annually",
       marz_aragacotn_bnutagir108:
-        "Snow patches persist in the upper reaches of Aragats even in summer",
-      marz_aragacotn_bnutagir109:
-        "Thunderstorms are often accompanied by hail.",
+        "In areas near the summit of Mount Aragats, snow patches persist even in summer",
+      marz_aragacotn_bnutagir109: "Thunderstorms are often accompanied by hail",
       marz_aragacotn_bnutagir110:
-        "The relative humidity in the region reaches 80–90% in high mountainous regions.",
-      marz_aragacotn_bnutagir111: "Fog is observed 60–160 days a year.",
-      marz_aragacotn_bnutagir112: "Winds",
+        "Relative humidity in high-mountain areas reaches 80–90%",
+      marz_aragacotn_bnutagir111:
+        "Fog is observed throughout the year for 60–160 days",
+      marz_aragacotn_bnutagir112: "Wind",
       marz_aragacotn_bnutagir113: "Average annual speed: 1–2 m/s",
       marz_aragacotn_bnutagir114:
-        "Maximum: 18–22 m/s, in mountainous regions: up to 35 m/s, with gusts: up to 40 m/s.",
+        "Maximum: 18–22 m/s, in mountainous areas up to 35 m/s, with gusts reaching up to 40 m/s",
       marz_aragacotn_bnutagir115: "Sunshine",
-      marz_aragacotn_bnutagir116: "Average annual duration: 2471–2968 hours.",
+      marz_aragacotn_bnutagir116: "Average annual duration: 2,471–2,968 hours",
+
       // marz_aragacotn_nkaragir
       marz_aragacotn_nkaragir1: "DESCRIPTION",
       marz_aragacotn_nkaragir2:
-        "Data / Nature / Economy /Science / Education / Culture / Tourism / Logistics",
+        "Data / Nature / Economy / Science, Education / Culture / Tourism / Logistics",
       marz_aragacotn_nkaragir3:
-        "Aragats - the sacred mountain of the Armenian people",
+        "Aragats — The Sacred Mountain of the Armenian People",
       marz_aragacotn_nkaragir4:
-        "Aragatsotn region extends in the west of Armenia, on the slopes of the majestic and snow-white, four-peaked Aragats. Mount Aragats is not only the highest peak of the Republic of Armenia (4,090 m), but also the symbol of the region and the sacred mountain of the Armenian people, the embodiment of strength, hope, dreams and immortality, around which numerous legends have been woven (The Lamp of the Enlightener).",
-      marz_aragacotn_nkaragir5: "From Alpine Meadows to Volcanic Lakes,",
+        "The Aragatsotn region lies in the western part of Armenia, on the slopes of the majestic, snow-white, four-peaked Mount Aragats. Mount Aragats is not only the highest peak of the Republic of Armenia (4,090 m), but also the symbol of the region and a sacred mountain of the Armenian people, embodying strength, hope, dreams, and eternity. Numerous legends are associated with it, including the well-known “Lamp of the Illuminator.”",
+      marz_aragacotn_nkaragir5: "From Alpine Meadows to Volcanic Lakes",
       marz_aragacotn_nkaragir6:
-        "From steep mountains to deep valleys, this is Aragatsotn, one of the most amazing corners of Armenia. The four peaks of Mount Aragats, snow-capped peaks and alpine meadows have fascinated travelers for centuries and inspired the creative mind of the Armenian people. The region combines diverse landscapes: fertile river valleys, alpine meadows and volcanic lakes crowning mountain peaks.",
-      marz_aragacotn_nkaragir7: "Historical and cultural wealth",
+        "From majestic mountains to deep gorges, this is Aragatsotn—one of the most remarkable regions of Armenia. The four peaks of Mount Aragats, its snow-covered heights, and alpine meadows have fascinated travelers for centuries and inspired Armenian artistic creativity. The region combines a remarkable diversity of landscapes: fertile river valleys, alpine meadows, and volcanic lakes crowning the mountain summits.",
+      marz_aragacotn_nkaragir7: "Historical and Cultural Richness",
       marz_aragacotn_nkaragir8:
-        "The historical and cultural heritage of Aragatsotn is astonishing, from Cyclopean fortresses and ancient tombs to medieval fortresses and churches, from thousands of khachkars to magnificent memorial complexes of modern times, in harmony with the natural environment and complementing it.",
-      marz_aragacotn_nkaragir9: "At the crossroads of tradition and science,",
+        "The historical and cultural heritage of Aragatsotn is astonishing—from cyclopean fortresses and ancient burial grounds to medieval castles and churches, and from thousands of khachkars to magnificent modern memorial complexes. All these monuments exist in harmony with the natural environment and complement its beauty.",
+      marz_aragacotn_nkaragir9: "At the Crossroads of Legend and Science",
       marz_aragacotn_nkaragir10:
-        "A land where legend and science come together. According to legend, Noah and his family, descending from Ararat, saw Oshakan freed from the water and exclaimed: 'Osh akan', which means 'Blessing to our eyes.' This is what the legend says. History also marked this picturesque settlement of Aragatsotn, when in the 5th century the remains of the most prominent person of the Armenian people, Mashtots, were buried here. Aragatsotn donated the Byurakan Observatory and the research stations operating on the slopes of Mount Aragats to science. And if Mashtots immortalized the village of Oshakan, then Victor Hambardzumyan gave a new meaning to Byurakan, and the brothers Artem and Abraham Alikhanyan gave a new value to the beautiful goddess of Aragats, the Stone Lake surrounded by ancient megaliths, by founding the Yerevan Institute of Physics in 1942. primary cosmic ray registration and research station. ",
+        "Aragatsotn is a land where legend and science intertwine. According to tradition, after descending from Mount Ararat, the patriarch Noah and his family saw Oshakan freed from the waters and exclaimed: “Osh akan,” meaning “Blessed are our eyes.” Thus, the legend tells the story of the place.History also marked this picturesque region when, in the 5th century, the remains of the great Armenian enlightener Mesrop Mashtots were laid to rest in Oshakan.Aragatsotn has also contributed significantly to science through the Byurakan Astrophysical Observatory and research stations located on the slopes of Mount Aragats. If Mesrop Mashtots immortalized Oshakan, then Viktor Ambartsumian gave new meaning to Byurakan, while brothers Artem Alikhanyan and Abraham Alikhanov redefined the scientific importance of Lake Kari. In 1942, they founded a high-altitude station for the registration and study of primary cosmic rays of the Yerevan Physics Institute near Lake Kari, surrounded by ancient megaliths.",
       marz_aragacotn_nkaragir11: "DATA",
-      marz_aragacotn_nkaragir12: "Geographical/Historical/Demographic/",
-      marz_aragacotn_nkaragir13: "Geographical location",
+      marz_aragacotn_nkaragir12: "Geographical / Historical / Demographic",
+      marz_aragacotn_nkaragir13: "Geographical Location",
       marz_aragacotn_nkaragir14:
-        "Aragatsotn region is located in the western part of Armenia, on the slopes of the Aragats massif, including the eastern part of the Ararat Valley, between the capital Yerevan and the country's highest peak, Aragats.",
-      marz_aragacotn_nkaragir15: "Elevations range from 950 m to 4090 m",
-      marz_aragacotn_nkaragir16: "The longest stretch is",
-      marz_aragacotn_nkaragir17: "From southwest to northeast: 60-65 km",
-      marz_aragacotn_nkaragir18: "From north to south: about 50-57 km",
-      marz_aragacotn_nkaragir19: "Bordering areas",
+        "The Aragatsotn region is located in the western part of Armenia, on the slopes of the Aragats mountain massif, including the eastern part of the Ararat plain—situated between the capital Yerevan and the highest peak of the country, Mount Aragats.",
+      marz_aragacotn_nkaragir15: "Elevations range from 950 m to 4,090 m.",
+      marz_aragacotn_nkaragir16: "Maximum extent:",
+      marz_aragacotn_nkaragir17: "from southwest to northeast — 60–65 km ",
+      marz_aragacotn_nkaragir18: "from north to south — approximately 50–57 km",
+      marz_aragacotn_nkaragir19: "Bordering regions:",
       marz_aragacotn_nkaragir20:
         "Regions: Shirak, Lori, Kotayk, Armavir, Yerevan",
-      marz_aragacotn_nkaragir21: "International borders: Turkey",
-      marz_aragacotn_nkaragir22: "Historical heritage",
+      marz_aragacotn_nkaragir21: "International border: Turkey",
+      marz_aragacotn_nkaragir22: "Historical Heritage",
       marz_aragacotn_nkaragir23:
-        "Aragatsotn got its name in honor of the historical Aragatsotn province, which meant the foot of Aragats",
+        "The name Aragatsotn originates from the historical province of Aragatsotn, meaning “at the foot of Aragats.”",
       marz_aragacotn_nkaragir24:
         "The Geghama Mountains and the Geghama Sea (present-day Lake Sevan) are also named after Gegham",
       marz_aragacotn_nkaragir25:
-        "Population: It is one of the oldest human settlements in the Armenian Highlands. The first major state in the region was Greater Armenia (331–428 BC). The current region occupies the territory of a part of the Ayrarat, Aragatsotn, Nig and Shirak provinces of Greater Armenia.",
+        "The Armenian Highlands are among the earliest centers of human settlement. In antiquity, this territory was part of the ancient Kingdom of Armenia (331 BC – 428 AD). The modern region covers parts of the historical provinces (gavar) of Greater Armenia: Ayrarat, Aragatsotn, Nig, and Shirak.",
       marz_aragacotn_nkaragir26:
-        "Historical capitals: Two ancient Armenian capitals were located in the Aragatsotn province.",
+        "Two ancient capitals of Armenia were located within the historical Aragatsotn province:",
       marz_aragacotn_nkaragir27:
-        "Armavir, the 2nd, (1032 BC-331-220 BC. Kingdom of the Yervandunis)",
+        "Armavir — the second capital (Yervanduni Dynasty, 1032 BC – 331 BC)",
       marz_aragacotn_nkaragir28:
-        "Vagharshapat, the 6th (2nd century BC,-120-336 BC. Kingdom of the Arshakunis)",
+        "Vagharshapat — the sixth capital (2nd century BC – 120–336 AD, Arsacid Dynasty)",
       marz_aragacotn_nkaragir29: "Population",
       marz_aragacotn_nkaragir30:
-        "The region exceeds Vayots Dzor and Tavush in terms of population",
+        "The region’s population exceeds that of the Vayots Dzor and Tavush regions.",
       marz_aragacotn_nkaragir31:
-        "The territory is distinguished by favorable living conditions, thanks to which it has attracted large flows of people for centuries.",
+        "Due to its favorable living conditions, the area has historically attracted significant waves of settlement over centuries.",
       marz_aragacotn_nkaragir32:
-        "The main mass of the population has traditionally been concentrated in the middle basin of the Kasakh River and its tributaries.",
+        "The majority of the population has traditionally been concentrated in the middle basin of the Kasakh River and its tributaries.",
       marz_aragacotn_nkaragir33:
-        "The ancestors of the current Armenian population immigrated here from the Sasun, Mush and Alashkert provinces of Western Armenia from the late 18th to the early 20th centuries.",
-      marz_aragacotn_nkaragir34: "NATURE,",
+        "The ancestors of the present-day Armenian population migrated here from the late 18th to the early 20th centuries from the provinces of Western Armenia, including Sasun, Mush, and Alashkert.",
+      marz_aragacotn_nkaragir34: "NATURE",
       marz_aragacotn_nkaragir35:
-        "Aragatsotn is located on the slopes of the Aragats massif, surrounded by mountains on three sides. The region includes the northeastern, eastern and southern slopes of Aragats, starting from the mountain peak and reaching heights of 1000m. In the south, the area merges with the Ararat Valley, and in the north, it stretches to the peak of Aragats, the highest point in the country. The Aragats massif is dissected by large valleys spreading radially, such as Gegharot, Amberd, Mantash, etc. The region also includes the areas between the Pambak and Tsaghkunyats mountain ranges, the Aparan plain, the Talin plateau, and the basins of the upper and middle reaches of the Kasakh. Aragatsotn is connected to Lori region through the Pambak and Spitak mountain passes. In the west, the area stretches to the Turkish border.",
-      marz_aragacotn_nkaragir36: "Zones",
+        "The Aragatsotn region is located on the slopes of the Aragats mountain massif and is surrounded by mountains on three sides. It covers the northeastern, eastern, and southern slopes of Mount Aragats—from the summit down to elevations of around 1,000 meters. In the south, the territory gradually merges into the Ararat Plain, while in the north it extends up to the summit of Mount Aragats, the highest point in Armenia.The Aragats massif is deeply dissected by large radial valleys, including the Gegharot, Amberd, and Mantash valleys. The region also includes the areas between the Pambak and Tsaghkunyats mountain ranges, the Aparan Plain, the Talin Plateau, and the basins of the upper and middle Kasakh River.Through the Pambak and Spitak mountain passes, Aragatsotn is connected to the Lori region. In the west, its territory extends to the border with Turkey.",
+      marz_aragacotn_nkaragir36: "Zonation",
       marz_aragacotn_nkaragir37:
-        "Aragatsotn is one of the unique regions of Armenia, where due to the relief of the terrain and its altitude above sea level (▲ 4000 m +), all 6 ascending landscape zones known in the Republic are expressed, from semi-desert to snowy (nival) and 5 climatic zones. The region is notable for its sharp contrasts of natural conditions and zonal diversity, which also determines its rich flora and fauna.",
-      marz_aragacotn_nkaragir38: "Landscape zones",
-      marz_aragacotn_nkaragir39: "Semi-desert – ▲ 950–1200 m",
-      marz_aragacotn_nkaragir40: "Dry steppe – ▲ 1200–1400 m",
-      marz_aragacotn_nkaragir41: "Mountain steppe – ▲ 1400–1800 m",
-      marz_aragacotn_nkaragir42:
-        "Highland steppe (black soil) and forest steppe – ▲ 1800–2200 m",
-      marz_aragacotn_nkaragir43: "Subalpine and alpine zone – ▲ 2200–3500 m",
-      marz_aragacotn_nkaragir44: "Snowy (nival) zone – ▲ above 3500 m",
-      marz_aragacotn_nkaragir45: "Climatic zones",
-      marz_aragacotn_nkaragir46: "Dry, very dry – ▲ up to 1000 m",
-      marz_aragacotn_nkaragir47: "Moderately dry – ▲ 1000–1400 m",
-      marz_aragacotn_nkaragir48: "Temperate mountain – ▲ 1400–2400 m",
-      marz_aragacotn_nkaragir49: "Cold mountain – ▲ 2400–3500 m",
+        "Aragatsotn is one of the few regions in Armenia where all six landscape zones and five climatic zones of the country are clearly represented. This vertical zonation creates an exceptional diversity of flora and fauna throughout the region.",
+      marz_aragacotn_nkaragir38: "Landscape Zones",
+      marz_aragacotn_nkaragir39: "Dry steppe — ▲900–1200 m (foothill zone)",
+      marz_aragacotn_nkaragir40:
+        "Mountain steppe — ▲1200–1400 m (foothill zone)",
+      marz_aragacotn_nkaragir41: "Mountain forest — ▲1500–2000 m",
+      marz_aragacotn_nkaragir42: "Mountain meadow & subalpine — ▲2000–2600 m",
+      marz_aragacotn_nkaragir43: "High-mountain alpine — ▲2700 m and above",
+      marz_aragacotn_nkaragir44: "Nival ( snow-covered) zone — ▲above 3000 m.",
+      marz_aragacotn_nkaragir45: "Climatic Zones",
+      marz_aragacotn_nkaragir46: "Dry subtropical — ▲up to ~1000 m",
+      marz_aragacotn_nkaragir47: "Moderately continental — ▲~1000–1400 m",
+      marz_aragacotn_nkaragir48: "Temperate mountain — ▲~1500–2300 m",
+      marz_aragacotn_nkaragir49: "Cold mountain — ▲~2400–2700 m",
       marz_aragacotn_nkaragir50:
-        "Snowy (very cold high mountain) – ▲ above 3500 m",
-      marz_aragacotn_nkaragir51: "Soil and vegetation",
+        "Snow-covered zone— ▲2700–3000 m and above (extremely cold high-mountain climate).",
+      marz_aragacotn_nkaragir51: "Soils and Vegetation",
       marz_aragacotn_nkaragir52:
-        "Mountain black soils, mountain meadow and alpine soils are widespread in the region.",
+        "The region is characterized by mountain black soils, mountain meadow soils, and alpine soils.",
       marz_aragacotn_nkaragir53:
-        "The dominant vegetation is steppe, subalpine and alpine plant species.",
+        "The dominant vegetation consists of steppe, subalpine, and alpine plant communities.",
       marz_aragacotn_nkaragir54:
-        "In the high mountain zones, rich meadows are widespread, sometimes interspersed with rocky outcrops and steep cliffs.",
+        "In high-altitude zones, extensive mountain meadows are common, often alternating with rocky screes and exposed cliffs.",
       marz_aragacotn_nkaragir55:
-        "In some regions, small oak forests are found.",
-      marz_aragacotn_nkaragir56: "Specially Protected Areas (SPAs).",
-      marz_aragacotn_nkaragir57: "Aragats Alpine Reserve.",
-      marz_aragacotn_nkaragir58: "Kari Lich Reserve.",
-      marz_aragacotn_nkaragir59: "Byurakan Observatory Arboretum",
+        "In some areas, small oak groves can also be found.",
+      marz_aragacotn_nkaragir56: "Protected Natural Areas",
+      marz_aragacotn_nkaragir57: "Aragats Alpine Sanctuary",
+      marz_aragacotn_nkaragir58: "Kari Lake Nature Reserve",
+      marz_aragacotn_nkaragir59:
+        "Dendropark of the Byurakan Astrophysical Observatory",
       marz_aragacotn_nkaragir60: "Relief",
       marz_aragacotn_nkaragir61:
-        "The relief of Aragatsotn region is mountainous, with large (3140 m) altitude variations and is very diverse.",
-      marz_aragacotn_nkaragir62: "Lowest point: 950 m above sea level.",
+        "The relief of the Aragatsotn region is predominantly mountainous, with significant elevation differences of up to 3,140 meters and a highly diverse landscape.",
+      marz_aragacotn_nkaragir62: "Lowest point: 950 m above sea level",
       marz_aragacotn_nkaragir63:
-        "Highest point: 4090 m above sea level, Aragats mountain peak.",
-      marz_aragacotn_nkaragir64:
-        "The variations in altitude of the territory are: 3140 m.",
-      marz_aragacotn_nkaragir65: "Mountains (≥ 2000 m above sea level).",
+        "Highest point: 4,090 m (summit of Mount Aragats)",
+      marz_aragacotn_nkaragir64: "Total elevation difference: 3,140 m",
+      marz_aragacotn_nkaragir65: "Major Peaks (≥ 2000 m a.s.l.)",
       marz_aragacotn_nkaragir66:
-        "The highest peak of the Republic of Armenia is Aragats - 4090 m.",
-      marz_aragacotn_nkaragir67: "Nigasar – 3424 m (Aragats mountain slope)",
-      marz_aragacotn_nkaragir68: "akvakar – 3303 m",
-      marz_aragacotn_nkaragir69: "gravakar – 3025 m",
-      marz_aragacotn_nkaragir70: "umtakar – 2861 m (Aragatsotn / Kotayk)",
-      marz_aragacotn_nkaragir71: "ghenis – 2851 m (Aragatsotn / Kotayk)",
-      marz_aragacotn_nkaragir72: "anchik – 2793 m (Aragatsotn / Kotayk)",
-      marz_aragacotn_nkaragir73: "apanu – 2781 m (Aragatsotn /Kotayk)",
-      marz_aragacotn_nkaragir74: "ukhmanuk – 2761 m",
-      marz_aragacotn_nkaragir75: "amar – 2738 m (Aragatsotn /Lori)",
-      marz_aragacotn_nkaragir76: "Mount Odzatagh – 2744 m",
-      marz_aragacotn_nkaragir77: "Mount Arkayit – 2687 m",
-      marz_aragacotn_nkaragir78: "Tsilkar – 2558 m",
-      marz_aragacotn_nkaragir79: "Aklorakar – 2511 m",
-      marz_aragacotn_nkaragir80: "Mount Arai – 2577 m",
-      marz_aragacotn_nkaragir81: "Nigsar Mountain – 2462 m",
-      marz_aragacotn_nkaragir82: "Tezharuyk – 2423 m (Aragatsotn / Shirak)",
-      marz_aragacotn_nkaragir83: "Mensar – 2419 m",
-      marz_aragacotn_nkaragir84: "Aghavno – 2309 m",
-      marz_aragacotn_nkaragir85: "Garnasar – 2295 m",
-      marz_aragacotn_nkaragir86: "Tsaghkasar – 2219 m",
-      marz_aragacotn_nkaragir87: "Gaylaru – 2120 m",
-      marz_aragacotn_nkaragir88: "Andzavk – 2219 m",
-      marz_aragacotn_nkaragir89: "Arjutat – 2096 m",
-      marz_aragacotn_nkaragir90: "Irind – 2051 m",
-      marz_aragacotn_nkaragir91: "Mets Arteni – 2047 m",
+        "The highest peak in Armenia is Mount Aragats — 4,090 m.",
+      marz_aragacotn_nkaragir67:
+        "Nigasar — 3,424 m (northeastern slope of Aragats)",
+      marz_aragacotn_nkaragir68: "Kakavakar — 3,303 m",
+      marz_aragacotn_nkaragir69: "Agravakar — 3,025 m",
+      marz_aragacotn_nkaragir70: "Ughtakar — 2,861 m (Aragatsotn / Kotayk)",
+      marz_aragacotn_nkaragir71: "Teghenis — 2,851 m (Aragatsotn / Kotayk)",
+      marz_aragacotn_nkaragir72: "Chanchik — 2,793 m (Aragatsotn / Kotayk)",
+      marz_aragacotn_nkaragir73: "Kapanu — 2,781 m (Aragatsotn / Kotayk)",
+      marz_aragacotn_nkaragir74: "Tukhmanuk — 2,761 m",
+      marz_aragacotn_nkaragir75: "Kamar — 2,738 m (Aragatsotn / Lori)",
+      marz_aragacotn_nkaragir76: "Odzataqh Mountain — 2,744 m",
+      marz_aragacotn_nkaragir77: "Arqayits Mountain — 2,687 m ",
+      marz_aragacotn_nkaragir78: "Tsilkar — 2,558 m",
+      marz_aragacotn_nkaragir79: "Akhlorakar — 2,511 m",
+      marz_aragacotn_nkaragir80: "Ara Mountain — 2,577 m",
+      marz_aragacotn_nkaragir81: "Nigsar Mountain — 2,462 m",
+      marz_aragacotn_nkaragir82: "Tegharuyk — 2,423 m (Aragatsotn / Shirak)",
+      marz_aragacotn_nkaragir83: "Mensar — 2,419 m",
+      marz_aragacotn_nkaragir84: "Aghavno — 2,309 m",
+      marz_aragacotn_nkaragir85: "Garnasar — 2,295 m",
+      marz_aragacotn_nkaragir86: "Tsaghkasar — 2,219 m",
+      marz_aragacotn_nkaragir87: "Gaylaru — 2,120 m",
+      marz_aragacotn_nkaragir88: "Andzavq — 2,219 m",
+      marz_aragacotn_nkaragir89: "Arjutat — 2,096 m",
+      marz_aragacotn_nkaragir90: "Irind — 2,051 m",
+      marz_aragacotn_nkaragir91: "Mets Arteni — 2,047 m",
       marz_aragacotn_nkaragir92:
-        "Erupted volcanoes. Irind, Tsaghkasar, Arteni massif with the peaks of Mets Arteni (2047 m) and Pokr Arteni (1753 m).",
-      marz_aragacotn_nkaragir93: "Mountain ranges",
+        "Extinct Volcanoes: Irind, Tsaghkasar, and the Arteni volcanic massif — including Mets Arteni (2,047 m) and Pokr Arteni (1,753 m) — are remnants of ancient extinct volcanic activity.",
+      marz_aragacotn_nkaragir93: "Mountain Ranges",
       marz_aragacotn_nkaragir94:
-        "Aragats mountain range – with the 4 highest points of the country, in the central part. (100 km circumference, 4000 km² area)",
+        "Aragats Massif — the highest mountain system in Armenia with four main peaks, located in the central part of the region. (approx. 100 km in circumference, ~4,000 km² in area)",
       marz_aragacotn_nkaragir95:
-        "Pambak mountain range –– long. (≥ 100 km), highest peak: Tezh Ler 3101 m (Lori), stretches along the border with Lori region",
+        "Pambak Range — an extensive mountain range (≥100 km), with its highest peak Mount Tezh (3,101 m) in Lori. It stretches along the border with Lori Province. ",
       marz_aragacotn_nkaragir96:
-        "Tsaghkunyats mountain range – length (~42 km), highest peak: Teghenis 2851 m, northwest, towards Kotayk region",
+        "Tsaghkunyats Range — approx. 42 km in length, with its highest peak Teghenis (2,851 m). Located in the northwest, extending toward Kotayk Province.",
       marz_aragacotn_nkaragir97:
-        "Tezharuyk Mountains – length (~9 km), highest point: Tezharuyk: 2423 m. Stretches along the border of Aragatsotn and Shirak regions.",
+        "Tegharuyk Mountains — approx. 9 km in length, highest point.",
       marz_aragacotn_nkaragir98:
-        "Tezharuyk: 2423 m. Stretches along the border of Aragatsotn and Shirak regions.",
-      marz_aragacotn_nkaragir99: "Mountain passes.",
+        "Tegharuyk (2,423 m). Extends along the border between Aragatsotn and Shirak provinces.",
+      marz_aragacotn_nkaragir99: "Mountain Passes",
       marz_aragacotn_nkaragir100:
-        "Tukhmanuk Pass – ▲ 2631 m. On the border of Aragatsotn / Kotayk regions, in the northwest of the Tsaghkunyats Mountains.",
+        "Tukhmanuk Pass — ▲2,631 m. Located on the border between Aragatsotn and Kotayk provinces, in the northwestern part of the Tsaghkunyats Range.",
       marz_aragacotn_nkaragir101:
-        "Pambak Pass – ▲2152 m. In the Pambak mountain range, at the border of Lori and Aragatsotn, the Pambak valley connects the Jrashen-Tsilkar road to Aragatsotn marz.",
+        "Pambak Pass — ▲2,152 m. Located in the Pambak Range at the boundary between Lori and Aragatsotn provinces. It connects the Pambak Valley with Aragatsotn via the Jrashen–Tsilkar road.",
       marz_aragacotn_nkaragir102:
-        "Spitak Pass and Bends – ▲2378 m, in the central part of the Pambak mountains, at the border of Lori/Aragatsotn marz, through which the Aparan-Spitak highway passes.",
-      marz_aragacotn_nkaragir103: "Plains and plateaus,",
+        "Spitak Pass and mountain serpentines — ▲2,378 m. Situated in the central part of the Pambak Range, on the Lori–Aragatsotn border, through which the Aparan–Spitak highway passes.",
+      marz_aragacotn_nkaragir103: "Plains and Plateaus",
       marz_aragacotn_nkaragir104:
-        "Aparan Plain – ▲1800-2000 m above sea level, in the upper reaches of the Kasagh River. It is bordered: in the west by the Aragats massif, in the east by the Tsaghkunyats mountain range. It stretches from northwest to southeast, length (~ 30 km), width (5- 8 km), area (~ 200 km²)",
+        "Aparan Plain — ▲1800–2000 m above sea level, located in the basin of the upper Kasakh River.Aparan Plain — ▲1800–2000 m above sea level, located in the basin of the upper Kasakh River. It is bordered by the Aragats mountain massif to the west and the Tsaghkunyats Range to the east. It stretches from northwest to southeast, with a length of ~30 km, a width of 5–8 km, and an area of ~200 km².",
       marz_aragacotn_nkaragir105:
-        "Talin Plateau – ▲ 1250-1800 m above sea level, stretches between the Aragats massif and the Akhuryan River.",
+        "Talin Plateau — ▲1250–1800 m above sea level. Located between the Aragats massif and the Akhuryan River.",
       marz_aragacotn_nkaragir106:
-        "Kasakh Valley – ▲ 1100-1400 m above sea level. One of the important natural formations of Kotayk region, in its southern and southwestern parts, between the Yeghvard plain and the Hrazdan plateau. It stretches along the middle course of the Kasakh River, about 10–15 km long, 2–3 km wide, covering an area of ​​about 30 km². The valley was formed as a result of the erosion activity of the river and has a deep canyon-like appearance, in the zone of intersection of steppe and forest landscapes.",
+        "Kasakh River Valley — ▲1100–1400 m above sea level. An important natural formation extending into the southern and southwestern parts of the Kotayk region, between the Yegvard Plain and the Hrazdan Plateau. It stretches along the middle course of the Kasakh River for ~10–15 km, with an average width of 2–3 km, covering about 30 km². The valley was formed by river erosion and has a deep canyon-like structure within a transitional zone between steppe and forest landscapes.",
       marz_aragacotn_nkaragir107:
         "Shorzha Valley – ▲ 1930 m, on the northeastern shore of Sevan, in the valley of the Shorzha (Aghaqar) River.",
-      marz_aragacotn_nkaragir108: "Water system",
+      marz_aragacotn_nkaragir108: "Water System",
       marz_aragacotn_nkaragir109:
-        "The water network of Aragatsotn is underdeveloped due to the absorbent properties of the lava layers. However, numerous cold springs and fast-flowing mountain rivers flow from the foothills of Mount Aragats, from which the Kasakh River originates, the basin of which is the main water artery of the region.",
+        "The hydrographic network of the Aragatsotn region is relatively underdeveloped due to the high permeability of volcanic lava formations. However, numerous cold mountain springs and fast-flowing streams originate from the foothills of Mount Aragats, fed by snowmelt and precipitation. The main water artery of the region is the Kasakh River, whose basin serves as the primary hydrological system of Aragatsotn.",
       marz_aragacotn_nkaragir110: "Watersheds",
       marz_aragacotn_nkaragir111:
-        "The Aragats massif is the main watershed, which separates the western streams (Talin, Ararat Valley) and the southeastern streams (Kasakh, Aparan). The water resources of the region are formed from the snowmelt of Aragats, precipitation and mountain springs, providing rich reserves of drinking water.",
+        "The Aragats massif serves as the main watershed, dividing western runoff (towards Talin and the Ararat Plain) from south-eastern drainage basins (Kasagh and Aparan). The region’s water resources are formed by snowmelt from Mount Aragats, precipitation, and mountain springs, ensuring abundant freshwater reserves.",
       marz_aragacotn_nkaragir112:
-        "The Pambak and Tsaghkunyats mountain ranges provide watersheds for the northern and western rivers of the region.",
+        "The Pambak and Tsaghkunyats mountain ranges form watersheds for the northern and western river systems of the region.",
       marz_aragacotn_nkaragir113:
-        "The Mastara Stream, Arzni-Shamiram Irrigation and Talin Canal systems are also in operation. In addition to natural waters, the region has 29 artificial reservoirs, the largest of which is the Aparan Reservoir (91 million m³) on the Kasakh.",
+        "Irrigation infrastructure also includes the Mastara flood channel, the Arzni–Shamiram irrigation canal, and the Talin canal system. In addition to natural water resources, the region has 29 artificial reservoirs, the largest of which is the Aparan Reservoir (91 million m³) on the Kasagh River.",
       marz_aragacotn_nkaragir114: "Rivers",
       marz_aragacotn_nkaragir115:
-        "Kasakh - the left tributary of the Metsamor, the main river of Aragatsotn. Length: 89 km, drainage area: 1480 km², source: from the southern slopes of the Pambak Mountains.",
+        "Kasagh — left tributary of the Metsamor River, the main river of Aragatsotn. Length: 89 km, basin area: 1480 km². Source: ▲southern slopes of the Pambak Mountains.",
       marz_aragacotn_nkaragir116:
-        "Tributaries - Amberd, Ashnak, Gegharot, Garnhovit Geghadzor, Dashtak Jur, Tsaghkahovit, Mantash, Shamiram mudflow Shaghvard and etc.",
+        "Tributaries include Ambherd, Ashnak, Gegharot, Garnhovit, Geghadzor, Dashtaki Jur, Tsaghkahovit, Mantash, Shamiram stream, Shaghvard, and others.",
       marz_aragacotn_nkaragir117:
-        "Amberd - right tributary of Kasakh. Length: 36 km, Source: ▲3700 m, southern slopes of Mount Aragats. Flow: mixed (snowfall, groundwater).",
+        "Ambherd — right tributary of Kasagh. Length: 36 km. Source: ▲ 3700 m, southern slopes of Mount Aragats. Flow: mixed (snow-rain and groundwater).",
       marz_aragacotn_nkaragir118:
-        "Ashnak - left tributary of Mastara mudflow. Length: 33/38 km, Source: ▲southwestern slopes of Mount Aragats. Flow: spring.",
+        "Ashnak — left tributary of the Mastara stream. Length: 33–38 km. Source: ▲south-western slopes of Aragats. Seasonal flow.",
       marz_aragacotn_nkaragir119:
-        "Araget – Right tributary of Hrazdan. Length: 17 km. Source: ▲2700 m, Southern slopes of Tsaghkunyats Mountains. Flow: Snowfall.",
+        "Araget — right tributary of the Hrazdan River. Length: 17 km. Source: ▲2700 m, southern slopes of the Tsaghkunyats range. Snow-rain fed.",
       marz_aragacotn_nkaragir120:
-        "Arkashen – Left tributary of Amberd. Length: 13 km. Source: ▲Western shore of Qari Lake, slopes of Mount Aragats. Flow: Snowmelt.",
+        "Arkashen — left tributary of Ambherd. Length: 13 km. Source: ▲western shore of Lake Kari, Aragats slopes. Snow-fed.",
       marz_aragacotn_nkaragir121:
-        "Bazmaberd – Right tributary of Shamiram mudflow. Length: 18 km. Source: ▲Southwestern slopes of Aragats. Flow: Spring.",
+        "Bazmaberd — right tributary of the Shamiram stream. Length: 18 km. Source: ▲ south-western slopes of Aragats.",
       marz_aragacotn_nkaragir122:
-        "Garnhovit – Left tributary of Karkachan. Length: 35 km, Source: ▲ Western slopes of Aragats. Flow: Snowfall.",
+        "Garnhovit — left tributary of Karkachan. Length: 35 km. Source: ▲western slopes of Aragats. Snow-rain fed.",
       marz_aragacotn_nkaragir123:
-        "Geghadzor – Left tributary of Karkachan. Length: 34 km, Source: ▲3300 m, Northern slopes of Aragats. Flow: Snowfall.",
+        "Geghadzor — left tributary of Karkachan. Length: 34 km. Source: ▲3300 m, northern slopes of Aragats.",
       marz_aragacotn_nkaragir124:
-        "Gegharot – Right tributary of Kasakh. Length: 25 km, Source: ▲3600 m, Eastern slopes of Aragats. Flow: Meltwater (69%).",
+        "Gegharot — right tributary of Kasagh. Length: 25 km. Source: ▲3600 m, eastern slopes of Aragats. Predominantly meltwater-fed (69%).",
       marz_aragacotn_nkaragir125:
-        "Dashtak Jur – Left tributary of Karaghbyur (beginning of Kasakh). Length: 25 km, Source: ▲Northern slopes of Aragats. Flow: from meltwater.",
+        "Dashtaki Jur — left tributary of Kharaghbyur (upper Kasagh basin). Length: 25 km. Source: ▲ northern slopes of Aragats. Snowmelt-fed.",
       marz_aragacotn_nkaragir126:
-        "Dianidzor – Right tributary of Shamiram mudflow. Length: 19 km, Source: ▲Southern slopes of Aragats. Flow: spring, temporary.",
+        "Dianidzor — right tributary of Shamiram stream. Length: 19 km. Source: ▲southern slopes of Aragats. Seasonal watercourse.",
       marz_aragacotn_nkaragir127:
-        "Yengo – Right tributary of Kasakh. Length: 20 km, Source: ▲Southeastern slopes of Aragats. Flow: meltwater.",
+        "Yengo — right tributary of Kasagh. Length: 20 km. Source: ▲south-eastern slopes of Aragats. Meltwater-fed.",
       marz_aragacotn_nkaragir128:
-        "Zugaghbyur – right tributary of the Shaghvard. Length: 18 km, Source: ▲Southern slopes of Aragats, in the southern part of the village of Parpi.",
+        "Zugaghbyur — right tributary of Shaghvard. Length: 18 km. Source: ▲southern slopes of Aragats, near Parpi village.",
       marz_aragacotn_nkaragir129:
-        "Talysh – the spawning ground of the Shamiram mudflow. Length: 24 km, Source: ▲Southern slopes of Aragats. Flows in the area of ​​Talin and Ashtarak.",
+        "Talish — tributary of Shamiram stream. Length: 24 km. Source: ▲southern slopes of Aragats. Flows through Talin and Ashtarak areas.",
       marz_aragacotn_nkaragir130:
-        "Tsaghkahovit – left tributary of the Dashtak water. Length: 20 km, Source: ▲Northern slopes of Aragats.",
+        "Tsaghkahovit — left tributary of Dashtaki Jur. Length: 20 km. Source: ▲northern slopes of Aragats.",
       marz_aragacotn_nkaragir131:
-        "Tsaghkashat – Aparan reservoir basin. Length: 20 km, Source: ▲eastern slopes of Aragats.",
+        "Tsaghkashat — part of the Aparan Reservoir basin. Length: 20 km. Source: ▲eastern slopes of Aragats.",
       marz_aragacotn_nkaragir132:
-        "Katnaghbyur – left tributary of Mastara mudflow. Length: 40 km, Source: ▲southwestern slopes of Aragats. Flow: temporary, spring.",
+        "Katnaghbyur — left tributary of Mastara stream. Length: 40 km. Source: ▲south-western slopes of Aragats. Seasonal flow.",
       marz_aragacotn_nkaragir133:
-        "Mastara mudflow – tributary of Metsamor. Length: 98 km, Source: ▲2500 m, southwestern slopes of Aragats. Feed: snow-rain, flow: spring.",
+        "Mastara stream — tributary of the Metsamor River. Length: 98 km. Source: ▲2500 m, south-western slopes of Aragats. Snow-rain fed, mainly spring flow.",
       marz_aragacotn_nkaragir134:
-        "Shaghvard – right tributary of Kasakh. Length: 28 km, Source: ▲Southeastern slopes of Aragats. Flow: through the villages of Parpi and Bazmaghbyur.",
+        "Shaghvard — right tributary of Kasagh. Length: 28 km. Source: ▲south-eastern slopes of Aragats.",
       marz_aragacotn_nkaragir135:
-        "Shamirami mudflow – left tributary of the Armavir canal. Length: 40 km, Source: ▲Southwestern slopes of Aragats. Flow: spring, temporary.",
+        "Shamiram stream — left tributary of the Armavir irrigation canal. Length: 40 km. Source: ▲ south-western slopes of Aragats. Seasonal flow.",
       marz_aragacotn_nkaragir136:
-        "Sasunashen – tributary of the Mastara mudflow. Length: 22 km, Source: ▲Southwestern slopes of Aragats. Flow: spring.",
+        "Sasunashen — tributary of Mastara stream. Length: 22 km. Source: ▲south-western slopes of Aragats.",
       marz_aragacotn_nkaragir137:
-        "Karaghbyur – Right tributary of Dashtak River (beginning of Kasakh). Length: 25 km, Source: ▲Southern slopes of Pambak Mountains.",
+        "Kharaghbyur — right tributary of Dashtaki Jur (upper Kasagh basin). Length: 25 km. Source: ▲southern slopes of the Pambak Mountains.",
       marz_aragacotn_nkaragir138: "Springs",
       marz_aragacotn_nkaragir139:
-        "Aparan springs – feed the Aparan and Pambak valleys",
+        "Aparan springs — supply the Aparan and Pambak valleys",
       marz_aragacotn_nkaragir140:
-        "Talin springs – springs on the Talin plateau",
+        "Talin springs — located on the Talin plateau",
       marz_aragacotn_nkaragir141:
-        "Sources of the Kasakh River - originate in the Aragats Mountains",
+        "Kasagh River springs — originate from Mount Aragats",
       marz_aragacotn_nkaragir142:
-        "Sources of Mantash and Gegharot - small streams, ponds that feed large rivers",
+        "Mantash and Gegharot springs — small streams feeding larger rivers and ponds",
       marz_aragacotn_nkaragir143:
-        "Sources of the Aragats slopes - natural springs originating in highlands",
+        "Springs of the Aragats slopes — natural high-altitude springs originating in the upper mountain zones",
       marz_aragacotn_nkaragir144: "Waterfalls",
       marz_aragacotn_nkaragir145:
-        "Kasakh Waterfall – Height ≈ 25–30 m, ▲ ≈ 1570 m BSP Total depth of the gorge (from top to bottom) ▼ ≈ 70 m On the Kasakh River, in the Kasakh Gorge, opposite Hovhannavank.",
+        "Kasagh Waterfall — height: ≈25–30 m, altitude: ≈1570 m Total gorge depth: ≈70 m Located on the Kasagh River within the Kasagh Gorge, opposite Hovhannavank Monastery.",
       marz_aragacotn_nkaragir146:
-        "Gegharot Waterfall – Height ≈ 17-20 m, ▲ ≈3000 m BSP Depth of the gorge (from top to bottom) – ▼ ≈ 60 m On the southwestern slope of Mount Aragats, in the upper reaches of the Gegharot tributary of the Kasagh River, 12 km northwest of the village of Aragats.",
+        "Gegharot Waterfall — height: ≈17–20 m, altitude: ≈3000 m Gorge depth: ≈60 m Located on the southwestern slopes of Mount Aragats, in the upper course of the Gegharot tributary of the Kasagh River, about 12 km northwest of Aragats village.",
       marz_aragacotn_nkaragir147: "Lakes",
       marz_aragacotn_nkaragir148:
-        "The Hittite landscape of the Aragats massif is further decorated with picturesque mountain lakes, among which there are also nameless lakes. They are mainly small glacial lakes between the peaks of Aragats.",
+        "The high plateau of the Aragats massif is enriched by picturesque mountain lakes, including several unnamed glacial lakes. These are mainly small alpine lakes located in the saddle zones between the peaks of Mount Aragats.",
       marz_aragacotn_nkaragir149:
-        "Kari Lich – ▲ 3207 m, ◯ 0.12 km², ▼ ~ 8 m on the slope of Mount Aragats, on the subglacial plateau",
+        "Lake Kari — altitude: ▲3207 m, ◯  area: 0.12 km², ▼depth: ~8 m Located on the slopes of Mount Aragats, on a near-summit plateau.",
       marz_aragacotn_nkaragir150:
-        "Amberd (lake) – ▲ 3220 m, ◯ 0.17 km², ▼ ~ 1.7 m  in the southwest of the subglacial plateau of Aragats",
+        "Lake Amberd (pond) —▲ 3220 m, ◯ 0.17 km², ▼ ~1.7 m Located in the southwestern part of the near-summit plateau of Aragats.",
       marz_aragacotn_nkaragir151:
-        "Lake Astgkan – ▲ 3116 m, ◯ 1.04 ha ▼ ~ 8 m on the slopes of Aragats, on the northern slope, on the right bank of the Dashtak Jur river, 15 km southeast of the village of Mets Mantash.",
+        "Astghkan Lake — ▲ 3116 m ◯ 1.04 ha ▼ ~8 m . Located on the northern slope of Mount Aragats, on the right bank of the Dashtak Jur River, about 15 km southeast of Mets Mantash village.",
       marz_aragacotn_nkaragir152:
-        "Lake Mtnalich – ▲ 3446 m, ◯ 0.7 ha ▼ ~ 8 m on the northern slope under the highest peak of Aragats, on the bank of the Dashtak Jur river, 15.2 km southeast of the village of Mets Mantash.",
+        "Mtnalich Lake — ▲ 3446 m ◯ 0.7 ha ▼ ~8 m . Located beneath the highest peak of Mount Aragats, on the northern slope, near the Dashtak Jur river basin, ~15 km southeast of Mets Mantash village.",
       marz_aragacotn_nkaragir153:
-        "Lake Karasunk – ▲ 2862 m, ◯ 0.1 ha ▼ ~ m in the northern part of Aragats, 5.5 km southeast of the village of Geghadzor.",
+        "Karrasunq Lakes — ▲ 2862 m ◯ 0.1 ha . Located in the northern part of Mount Aragats, about 5.5 km southeast of Geghadzor village.",
       marz_aragacotn_nkaragir154:
-        "Lake Lessing – ▲ 3200 m, ◯ 1.6 ha ▼ ~ 2.5 m on the northeastern slope of the Aragats massif, from the village of Tsaghkashen",
+        "Lessing Lake — ▲ 3200 m ◯ 1.6 ha ▼ ~2.5 m .Located on the northeastern slope of the Aragats massif, about 8 km northwest of Tsaghkashen village.",
       marz_aragacotn_nkaragir155:
-        "Lake Umroy – ▲ 3050 m, ◯ 20 ha ▼ ~ m is the largest lake in Aragats. On the eastern slope of the Aragats massif, 8 km northwest of the village of Tsaghkashen.",
+        "Umroy Lake — ▲ 3050 m ◯ 20 ha .The largest lake of the Aragats massif, located on the eastern slope, about 8 km northwest of Tsaghkashen village.",
       marz_aragacotn_nkaragir156:
-        "Kuraghbyur – ▲ 2985 m, ◯ 0.1 km², ▼ ~ 2.5 m on the northeastern slope of the Aragats massif",
+        "Kuraghbyur Lake — ▲ 2985 m ◯ 0.1 km² ▼ ~2.5 m.. Located on the northeastern slope of Mount Aragats.",
       marz_aragacotn_nkaragir157:
-        "Yeghnaliich – ▲ 3016m, ◯ 0.1 km², ▼ ~ m  On the northeastern slope of the Aragats massif",
+        "Yeghnalich Lake — ▲ 3016 m ◯ 0.1 km² . Located on the northeastern slope of Mount Aragats.",
       marz_aragacotn_nkaragir158:
-        "Mirak Lake – ▲ 2050 m, ◯ 0.5 km², ▼ ~ m  On the right bank of the Kasakh River, at an altitude of 2050 m above sea level, 4 km southwest of the village of Melik",
+        "Mirak Lake — ▲ 2050 m ◯ 0.5 km² . Located on the right bank of the Kasagh River, 4 km southwest of Melikgyugh village.",
       marz_aragacotn_nkaragir159:
-        "Hortakheghd Lake – ▲ 3317 m, ◯ 1.2 ha ▼ ~ m On the eastern slope of the Aragats massif, 13 km southeast of the village of Geghadzor",
+        "Hortakheghd Lake — ▲ 3317 m ◯ 1.2 ha .Located on the eastern slope of Mount Aragats, about 13 km southeast of Geghadzor village.",
       marz_aragacotn_nkaragir160:
-        "Saylalich – ▲ 3148 m, ◯ 0.4 ha ▼ ~ m on the western slope of the Aragats massif",
+        "Saylalich Lake — ▲ 3148 m ◯ 0.4 ha . Located on the western slopes of Mount Aragats.",
       marz_aragacotn_nkaragir161: "Reservoirs",
       marz_aragacotn_nkaragir162:
-        "There are 29 artificial reservoirs in the region, of which are",
+        "There are 29 artificial reservoirs in the region, including:",
       marz_aragacotn_nkaragir163:
-        "Aparan Reservoir – ▲ 1850 m, ◯ 7.9 km², ▼ ~ 50 m 91 million m³ Built in 1962-1967.. In the upper reaches of the Kasagh River. The water is used mainly for irrigation. Fish are bred in the reservoir, the main fish species is the local bream, Sevan trout, whitefish, bream, and recently crayfish. There are recreation areas in the vicinity. Between the villages of Kuchak and Yeghipatrush. ",
+        "Aparan Reservoir – ▲ 1850 m, ◯ 7.9 km², ▼ ~50 m 91 million m³. Constructed in 1962–1967 on the upper course of the Kasagh River. The water is mainly used for irrigation. Fish farming is carried out in the reservoir; the main species is the local koghak (barbel). Sevan trout, whitefish (sig), carp, and more recently crayfish have also been introduced. There are recreational areas around the reservoir. Between Kuchak and Yeghipatrush villages.",
       marz_aragacotn_nkaragir164:
-        "Lernapar Reservoir – ▲ 2100 m, 1.2 million m³ Lernapar village. ",
+        "Lernapar Reservoir – ▲ 2100 m, 1.2 million m³ Lernapar village.",
       marz_aragacotn_nkaragir165:
-        "Kakavadzor Reservoir –▲ 2000 m, ◯ 0.14 km², ▼ ~ 35 m 1 million m³ Built in 1986. The waters are used for irrigation purposes. 15 km east of Talin city",
+        "Kakavadzor Reservoir – ▲ 2000 m, ◯ 0.14 km², ▼ ~35 m 1 million m³. Constructed in 1986. Water is used for irrigation. 15 km east of Talin town.",
       marz_aragacotn_nkaragir166:
-        "Halavar Reservoir –▲ 2030 m, ◯ 0.46 km², ▼ ~ 8 m 5.5 million m³ Built in 1981. ,On Mirak Lake. The waters are used for irrigation purposes. It is the reservoir of the village of Melik. 8 km east of the village of Tsaghkahovit.",
+        "Halavar Reservoir – ▲ 2030 m, ◯ 0.46 km², ▼ ~8 m 5.5 million m³. Constructed in 1981 on Lake Mirak. Water is used for irrigation. Reservoir of Melik village; 8 km east of Tsaghkahovit village.",
       marz_aragacotn_nkaragir167:
-        "Nerkin Sasnashen Reservoir – Built in 1963.▲ 1770m, ◯ 0.18 km², ▼ ~ 6.5m 1.15 million m³ near the village of Nerkin Sasnashen.",
+        "Nerkin Sasnashen Reservoir – Constructed in 1963. ▲ 1770 m, ◯ 0.18 km², ▼ ~6.5 m 1.15 million m³ Near Nerkin Sasnashen village (37–38–39–40–41)",
       marz_aragacotn_nkaragir168: "Historical Canals",
       marz_aragacotn_nkaragir169:
-        "The historical Menua Canal, about 70 km long, built of giant Cyclopean stones, is considered one of the gems of Armenian hydro-heritage (9th century BC), and still retains its function.",
-      marz_aragacotn_nkaragir170: "Mines and deposits",
+        "The region is crossed by the historical Menua Canal, approximately 70 km long, built from massive cyclopean stones. It is considered one of the gems of Armenian hydraulic heritage (9th century BC) and still functions today.",
+      marz_aragacotn_nkaragir170: "Mines and Mineral Resources",
       marz_aragacotn_nkaragir171:
-        "The subsoil of Aragatsotn is rich in minerals: multi-colored tuffs, andesite, basalt, perlite, volcanic slag, which serve as high-quality building materials.",
+        "The subsoil of Aragatsotn is rich in mineral resources: multicolored tuffs, andesite, basalt, perlite, volcanic scoria, all used as high-quality construction materials.",
       marz_aragacotn_nkaragir172:
-        "Among the minerals that are also exploited are silver (Ag), gold (Au), obsidian (Aragatsavan) and other mines.",
+        "Active extraction includes silver (Ag), gold (Au), obsidian (Aragatsavan), and other deposits.",
       marz_aragacotn_nkaragir173:
-        "There are also mines that are not yet exploited.",
-      marz_aragacotn_nkaragir174: "ECONOMY,",
+        "There are also several currently unexploited mineral deposits.",
+      marz_aragacotn_nkaragir174: "ECONOMY",
       marz_aragacotn_nkaragir175:
-        "Aragatsotn region is one of the most developed regions of Armenia. The main branches of the economy, industry and agriculture, dominate the total volume.",
+        "Aragatsotn Province is one of the most economically developed regions of Armenia. The main branches of the economy are industry and agriculture, which dominate the overall structure of production.",
       marz_aragacotn_nkaragir176: "Industry",
       marz_aragacotn_nkaragir177:
-        "The industrial sector of the region specializes in:",
+        "The industrial sector of the region is specialized in:",
       marz_aragacotn_nkaragir178:
-        "Exploitation of construction materials mines,",
-      marz_aragacotn_nkaragir179: "Production of precious items,",
+        "Extraction and processing of construction materials",
+      marz_aragacotn_nkaragir179: "Production of jewelry and precious items",
       marz_aragacotn_nkaragir180:
-        "Production of food and beverages (meat, meat products, fruits, vegetables, dairy products, grape processing, wine raw materials).",
+        "Food and beverage production (meat and meat products, fruits, vegetables, dairy products, grape processing, and wine materials)",
       marz_aragacotn_nkaragir181:
-        "There are 4211 operating enterprises registered in the region, including",
-      marz_aragacotn_nkaragir182: "77 manufacturing,",
-      marz_aragacotn_nkaragir183: "562 commercial organizations.",
+        "There are 4,211 registered operating enterprises in the region, including:",
+      marz_aragacotn_nkaragir182: "77 manufacturing enterprises",
+      marz_aragacotn_nkaragir183: "562 commercial organizations",
       marz_aragacotn_nkaragir184:
-        "Production centers: Ashtarak, Aparan, Talin.",
-      marz_aragacotn_nkaragir185: "Famous food and beverage enterprises.",
-      marz_aragacotn_nkaragir186: "'Ashtarakian wines'",
-      marz_aragacotn_nkaragir187: "'Ashtarak-egg' and 'Ashtarak-milk'",
-      marz_aragacotn_nkaragir188: "'Aparan cheese factory'",
-      marz_aragacotn_nkaragir189: "«Tamara Fruit» CJSC",
+        "Main industrial centers: Ashtarak, Aparan, Talin",
+      marz_aragacotn_nkaragir185: "Well-known food and beverage enterprises",
+      marz_aragacotn_nkaragir186: "“Ashtarak Wines”",
+      marz_aragacotn_nkaragir187: "“Ashtarak-Dzu” and “Ashtarak-Kat”",
+      marz_aragacotn_nkaragir188: "Aparan Cheese Factory",
+      marz_aragacotn_nkaragir189: "“Tamara Fruit” LLC",
       marz_aragacotn_nkaragir190:
-        "«Van Ardi» and «Golden Grape Armas» wine companies",
-      marz_aragacotn_nkaragir191: "«Hayasi Group» OJSC",
+        "“Van Ardi” and “Golden Grape ArmAs” wineries",
+      marz_aragacotn_nkaragir191:
+        "“Hayasy Group” CJSC (dairy and wine production images)",
       marz_aragacotn_nkaragir192: "Agriculture",
       marz_aragacotn_nkaragir193:
-        "Agriculture mainly specializes in crop production and animal husbandry.",
-      marz_aragacotn_nkaragir194: "Crop production",
+        "Agriculture is mainly focused on crop production and livestock farming.",
+      marz_aragacotn_nkaragir194: "Crop Production",
       marz_aragacotn_nkaragir195:
-        "Production of grain crops, perennial plantations, fodder crops",
-      marz_aragacotn_nkaragir196: "Growing of potatoes and vegetables",
-      marz_aragacotn_nkaragir197: "Growing of fruit and grape plantations",
-      marz_aragacotn_nkaragir198: "Animal husbandry",
+        "Production of grain crops, perennial plantations, and forage crops",
+      marz_aragacotn_nkaragir196: "Cultivation of potatoes and vegetables",
+      marz_aragacotn_nkaragir197: "Development of fruit orchards and vineyards",
+      marz_aragacotn_nkaragir198: "Livestock Farming",
       marz_aragacotn_nkaragir199:
-        "Livestock breeding, animal husbandry and dairy production development, which is facilitated by the slopes of Aragats, which are excellent alpine pastures",
+        "Livestock breeding and dairy production are well developed, supported by the slopes of Mount Aragats, which provide excellent alpine pastures for grazing.",
       marz_aragacotn_nkaragir200: "SCIENCE",
       marz_aragacotn_nkaragir201:
-        "Aragatsotn region is a major scientific and educational center of the republic.",
+        "Aragatsotn Province is one of the major scientific and educational centers of the Republic of Armenia.",
       marz_aragacotn_nkaragir202:
-        "Ashtarak region – 6 scientific research institutes of the RA Academy of Sciences, including",
+        "Ashtarak area – home to 6 research institutes of the National Academy of Sciences of Armenia, including:",
       marz_aragacotn_nkaragir203:
-        "Institute of Physical Research in Radiophysics and Electronics,",
+        "Institute of Physical Research in Radio Physics and Electronics",
       marz_aragacotn_nkaragir204:
-        "Institute of Physical Research after M. Ter-Mikaelyan,",
+        "M. Ter-Mikaelyan Institute for Physical Research",
       marz_aragacotn_nkaragir205:
-        "'Transistor' Scientific and Production Association,",
+        "“Transistor” Scientific-Production Association ",
       marz_aragacotn_nkaragir206:
-        "Scientific and Production Association of Optical Angular and Linear Displacement Meters.",
+        "Scientific-Production Association for Optical Angular and Linear Displacement Measuring Devices.",
       marz_aragacotn_nkaragir207:
-        "BAO - Byurakan Observatory - founded by Viktor Hambardzumyan, 1946.",
+        "BAO – Byurakan Astrophysical Observatory – founded in 1946 by Viktor Ambartsumian",
       marz_aragacotn_nkaragir208:
-        "'Aragats' High-Altitude Station - founded in 1943 by the efforts of Artem Alikhanyan.",
-      marz_aragacotn_nkaragir209: "Byurakan Observatory,",
+        "“Aragats” High-Altitude Station – established in 1943 through the efforts of Artem Alikhanyan",
+      marz_aragacotn_nkaragir209: "Byurakan Astrophysical Observatory",
       marz_aragacotn_nkaragir210:
-        "In the village of Byurakan, Aragatsotn region, on the slopes of Mount Aragats, one of the most famous scientific structures in Armenia is located, BAO - Byurakan Observatory, which is a prominent observatory.",
+        "Located in Byurakan village on the slopes of Mount Aragats, it is one of the most renowned scientific institutions in Armenia.",
       marz_aragacotn_nkaragir211:
-        "BAO belongs to the Academy of Sciences of the Republic of Armenia and is managed with its funds.",
+        "BAO is part of the National Academy of Sciences of Armenia and is funded and managed by it.",
       marz_aragacotn_nkaragir212:
-        "BAO is considered one of the most important observatories in Eastern Europe and the Middle East. It continues to operate as an international scientific research center.",
-      marz_aragacotn_nkaragir213: "'Aragats' Station",
+        "It is considered one of the most important observatories in Eastern Europe and the Middle East and continues to operate as an international center for astronomical research.",
+      marz_aragacotn_nkaragir213: "“Aragats” Station",
       marz_aragacotn_nkaragir214:
-        "The Aragats high-altitude station was established near Lake Kari, at an altitude of 3200 m above sea level, for the study of cosmic rays. It was established in 1943 by the efforts of Artem Alikhanyan.",
+        "The Aragats high-altitude scientific station was established near Kari Lake at an elevation of 3,200 meters above sea level for the study of cosmic rays, founded in 1943 by Artem Alikhanyan.",
       marz_aragacotn_nkaragir215:
-        "Near Lake Kari, at an altitude of 3200 m, there is a high-altitude scientific station, 'Aragats', which was established in 1943 by Artem Alikhanyan. It is engaged in constant observation of cosmic rays.",
+        "Located near Kari Lake at 3,200 m altitude, it continues to operate as a high-mountain research station dedicated to the continuous observation of cosmic rays.",
       marz_aragacotn_nkaragir216: "EDUCATION",
       marz_aragacotn_nkaragir217:
-        "A well-developed educational system operates in the Aragatsotn region.",
-      marz_aragacotn_nkaragir218: "122 general education institutions",
+        "Aragatsotn Province has a well-developed educational system:",
+      marz_aragacotn_nkaragir218: "122 general education schools",
       marz_aragacotn_nkaragir219: "1 special school",
       marz_aragacotn_nkaragir220: "28 preschools",
       marz_aragacotn_nkaragir221:
-        "10 music, art, fine arts schools and children's and youth creative centers",
+        "10 music, arts, fine arts schools and children’s creative centers",
       marz_aragacotn_nkaragir222:
-        "2 state primary vocational educational institutions",
+        "2 state primary vocational education institutions",
       marz_aragacotn_nkaragir223:
-        "1 state secondary vocational educational institution",
+        "1 state secondary vocational education institution",
       marz_aragacotn_nkaragir224:
-        "There are sports schools in the cities of the region: in Ashtarak, Talin, Aparan, as well as in the village of Kuchak.",
+        "Sports schools operate in the towns of Ashtarak, Talin, Aparan, as well as in Kuchak village.",
       marz_aragacotn_nkaragir225: "Libraries",
-      marz_aragacotn_nkaragir226: "There are 71 libraries, of which:",
-      marz_aragacotn_nkaragir227: "1 regional,",
-      marz_aragacotn_nkaragir228: "3 urban,",
-      marz_aragacotn_nkaragir229: "65 rural,",
-      marz_aragacotn_nkaragir230: "CULTURE,",
+      marz_aragacotn_nkaragir226:
+        "There are 71 libraries in the region, including:",
+      marz_aragacotn_nkaragir227: "1 regional library",
+      marz_aragacotn_nkaragir228: "3 urban libraries",
+      marz_aragacotn_nkaragir229: "65 rural libraries",
+      marz_aragacotn_nkaragir230: "CULTURE",
       marz_aragacotn_nkaragir231:
-        "Theaters in Ashtarak, Aparan, Talin - local performances and concerts.",
+        "Theaters in Ashtarak, Aparan, and Talin host local performances and concerts",
       marz_aragacotn_nkaragir232:
-        "Music and art centers - creative courses, galleries and exhibitions.",
+        "Music and arts centers offer creative education, exhibitions, and galleries",
       marz_aragacotn_nkaragir233:
-        "Museums and exhibitions - history of Aragatsotn, cultural heritage, souvenirs.",
+        "Museums and exhibitions present the history, cultural heritage, and artifacts of Aragatsotn",
       marz_aragacotn_nkaragir234:
-        "Festivals and cultural events - local celebrations, music and art festivals for visitors.",
-      marz_aragacotn_nkaragir235: "Museums.",
+        "Festivals and cultural events include local celebrations, music, and art festivals for visitors",
+      marz_aragacotn_nkaragir235: "Museums",
       marz_aragacotn_nkaragir236:
-        "Ashtarak History Museum – local history, souvenirs, photos, archaeological finds.",
+        "Ashtarak History Museum – local history, artifacts, photographs, archaeological finds",
       marz_aragacotn_nkaragir237:
-        "Aparan History Museum – cultural and historical heritage of the region.",
+        "Aparan History Museum – cultural and historical heritage of the region",
       marz_aragacotn_nkaragir238:
-        "Talini Regional Museum – archaeological materials, folk art, exhibits of rural life.",
+        "Talin Regional Museum – archaeological materials, folk art, rural life exhibits",
       marz_aragacotn_nkaragir239:
-        "Gevorg Chaush Museum – Armenian national hero, historical exhibits.",
+        "Geghvorg Chaush Museum – dedicated to the Armenian national hero, historical exhibits",
       marz_aragacotn_nkaragir240:
-        "Perch Proshyan Museum – monument to a prominent person, manuscripts, photos.",
+        "Perch Proshyan Museum – memorial house of the famous writer, manuscripts, photographs",
       marz_aragacotn_nkaragir241:
-        "Museum of the History of Wine – The first Museum of the History of Wine in the territory of the Republic of Armenia, where the 6000-year history of Armenian winemaking and the 8000-year history of horticulture are presented.",
+        "Wine History Museum – the first wine history museum in Armenia, presenting 6,000 years of winemaking and 8,000 years of viticulture history",
       marz_aragacotn_nkaragir242:
-        "Rural community museums – traditions, handicrafts, souvenirs in local communities.",
+        "Rural community museums – traditions, crafts, and local heritage exhibitions",
       marz_aragacotn_nkaragir243:
-        "Chocolate Museum – an exhibition hall-museum of the 'Gourme-Durme' chocolate brand in Ashtarak where visitors deal with both the taste and history of chocolate.",
+        "Chocolate Museum – “Gourme Dourme” chocolate brand museum-exhibition in Ashtarak, where visitors experience both the taste and history of chocolate",
       marz_aragacotn_nkaragir244: "TOURISM",
       marz_aragacotn_nkaragir245:
-        "Aragatsotn is not among the most popular tourist destinations in Armenia, but the region has exceptional opportunities for the development of nature, historical-cultural, adventure and scientific tourism. The region's tourism advantages are.",
-      marz_aragacotn_nkaragir246: "Accessible from Yerevan in about 1 hour",
+        "Aragatsotn Region is not among the most widely known tourist destinations in Armenia, however it has exceptional potential for the development of nature-based, cultural-historical, adventure, and scientific tourism. The main advantages of the region include:",
+      marz_aragacotn_nkaragir246:
+        "It is accessible from Yerevan in approximately 1 hour",
       marz_aragacotn_nkaragir247:
-        "The regional center of Ashtarak is 20 km from Yerevan.",
-      marz_aragacotn_nkaragir248: "Natural monuments",
+        "The regional center, Ashtarak, is located only 20 km from Yerevan",
+      marz_aragacotn_nkaragir248: "Natural Monuments",
       marz_aragacotn_nkaragir249:
-        "The surroundings of Mount Aragats - beautiful mountains, springs, waterfalls",
+        "The surroundings of Mount Aragats – scenic mountains, springs, and waterfalls",
       marz_aragacotn_nkaragir250:
-        "Aragats State Alpine Reserve: at an altitude of 3200–3500 m, an adventure and ecotourism center",
+        "Aragats Alpine State Reserve (3200–3500 m) – a center for adventure and eco-tourism",
       marz_aragacotn_nkaragir251:
-        "Natural monuments: 'Basalt Sun', Kari Lake, etc.",
+        "Natural landmarks such as the “Basalt Sun,” Lake Kari, and others",
       marz_aragacotn_nkaragir252:
-        "Nature of the Aparan Reservoir and the upper reaches of the Kasagh River as an ecotourism attraction.",
-      marz_aragacotn_nkaragir253: "Kasagh Gorge and ruins.",
-      marz_aragacotn_nkaragir254: "Historical and cultural monuments",
+        "The nature of the Aparan Reservoir and the upper Kasagh River as eco-tourism attractions",
+      marz_aragacotn_nkaragir253: "Kasagh Gorge and its terraces",
+      marz_aragacotn_nkaragir254: "Historical and Cultural Monuments",
       marz_aragacotn_nkaragir255:
-        "Aragatsotn region is rich in ancient and medieval fortresses, monastery complexes and churches.",
+        "Aragatsotn Province is rich in ancient and medieval castles, monastic complexes, and churches:",
       marz_aragacotn_nkaragir256:
-        "Amberd fortress (VII-XIII centuries) - built on the slope of Mount Aragats at an altitude of 2300 m, a powerful fortress of strategic importance.",
+        "Amberd Fortress (7th–13th c.) – located on the slopes of Mount Aragats at 2,300 m altitude; a powerful fortress of strategic importance",
       marz_aragacotn_nkaragir257:
-        "Talin Cathedral (VII century) - one of the masterpieces of early medieval Armenian architecture.",
+        "Talin Cathedral (7th c.) – one of the masterpieces of early medieval Armenian architecture",
       marz_aragacotn_nkaragir258:
-        "Artik St. Gregory Church (VII century) - a basilica-type structure.",
+        "St. Gregory Church of Artik (7th c.) – a basilica-type structure",
       marz_aragacotn_nkaragir259:
-        "Saghmosavank (XII-XIII centuries) - a monastery complex on the edge of the Vardenis River gorge.",
+        "Saghmosavank Monastery (12th–13th c.) – located on the edge of the Vardenis River gorge",
       marz_aragacotn_nkaragir260:
-        "Hovhanavank (XII-XIII centuries) - a monastery complex built on the edge of the Kasagh River gorge.",
+        "Hovhannavank Monastery (12th–13th c.) – built on the edge of the Kasagh River gorge",
       marz_aragacotn_nkaragir261:
-        "Small church in Tallinn (VII century) – a unique architectural monument.",
+        "Small Church of Talin (7th c.) – a unique architectural monument",
       marz_aragacotn_nkaragir262:
-        "St. Mesrop Mashtots Church in Oshakan (V century) – where the relics of Mashtots are buried.",
+        "St. Mesrop Mashtots Church of Oshakan (5th c.) – burial site of Mesrop Mashtots’ relics",
       marz_aragacotn_nkaragir263:
-        "Old church in Kasagh (IV-V centuries) – one of the ancient Christian sanctuaries.",
+        "Old Kasagh Church (4th–5th c.) – one of the early Christian sanctuaries",
       marz_aragacotn_nkaragir264:
-        "Archaeological ruins in the area of ​​the Byurakan Observatory.",
-      marz_aragacotn_nkaragir265: "Types of tourism.",
+        "Archaeological ruins in the territory of Byurakan Observatory.",
+      marz_aragacotn_nkaragir265: "Types of Tourism",
       marz_aragacotn_nkaragir266:
-        "Aragatsotn region has great potential to develop many types of tourism.",
-      marz_aragacotn_nkaragir267: "Adventure / Mountaineering",
-      marz_aragacotn_nkaragir268: "Ecotourism",
-      marz_aragacotn_nkaragir269: "Historical and cultural tourism",
-      marz_aragacotn_nkaragir270: "Gastronomic / Winery",
-      marz_aragacotn_nkaragir271: "Scientific (Byurakan, Aragats station)",
-      marz_aragacotn_nkaragir272: "Ethnic tourism",
-      marz_aragacotn_nkaragir273: "Agrotourism",
-      marz_aragacotn_nkaragir274: "Spiritual tourism",
-      marz_aragacotn_nkaragir275: "Tourist infrastructure",
-      marz_aragacotn_nkaragir276: "About 10 hotel and recreation complexes",
+        "Aragatsotn has great potential for developing multiple tourism types:",
+      marz_aragacotn_nkaragir267: "Adventure / mountaineering tourism",
+      marz_aragacotn_nkaragir268: "Eco-tourism",
+      marz_aragacotn_nkaragir269: "Historical-cultural tourism",
+      marz_aragacotn_nkaragir270: "Gastronomic / wine tourism",
+      marz_aragacotn_nkaragir271:
+        "Scientific tourism (Byurakan Observatory, Aragats Station)",
+      marz_aragacotn_nkaragir272: "Ethno-tourism",
+      marz_aragacotn_nkaragir273: "Agro-tourism",
+      marz_aragacotn_nkaragir274: "Religious tourism",
+      marz_aragacotn_nkaragir275: "Tourism Infrastructure",
+      marz_aragacotn_nkaragir276: "Around 10 hotels and resort complexes",
       marz_aragacotn_nkaragir277:
         "Rural guesthouses and seasonal recreation areas",
-      marz_aragacotn_nkaragir278: "Public catering establishments",
+      marz_aragacotn_nkaragir278: "Public catering facilities",
       marz_aragacotn_nkaragir279: "Local guide services",
       marz_aragacotn_nkaragir280: "LOGISTICS",
-      marz_aragacotn_nkaragir281: "Highways",
+      marz_aragacotn_nkaragir281: "Roads",
       marz_aragacotn_nkaragir282:
-        "Important highways of republican significance pass through Aragatsotn: Yerevan-Gyumri (M-1), Yerevan-Spitak (M-3), as well as the North-South interstate highway. They connect the region both to the capital and to Georgia and Turkey.",
+        "Major national highways pass through Aragatsotn, including Yerevan–Gyumri (M-1), Yerevan–Spitak (M-3), and the North–South interstate corridor. These roads connect the region not only with the capital but also with Georgia and Turkey directions.",
       marz_aragacotn_nkaragir283: "Railway",
       marz_aragacotn_nkaragir284:
-        "About 30 km of the main railway of Armenia passes through the territory of Aragatsotn, providing freight and passenger transportation to Gyumri and Yerevan.",
-      marz_aragacotn_nkaragir285: "Air communications",
+        "About 30 km of Armenia’s main railway passes through Aragatsotn, ensuring cargo and passenger transportation to Gyumri and Yerevan.",
+      marz_aragacotn_nkaragir285: "Air Transport",
       marz_aragacotn_nkaragir286:
-        "The closest airport to the center of the region is Zvartnots International Airport (Yerevan), which is located about 25–30 minutes away.",
-      marz_aragacotn_nkaragir287: "Mountain passes",
+        "The nearest airport is Zvartnots International Airport (Yerevan), located approximately 25–30 minutes away.",
+      marz_aragacotn_nkaragir287: "Mountain Passes",
       marz_aragacotn_nkaragir288:
-        "A number of important mountain passes (Amberd, Kari Likh, Spitak) pass through the territory of Aragatsotn, which provide the region's connection with neighboring Lori, Kotayk and Shirak.",
+        "Several important mountain passes cross Aragatsotn, including Amberd, Kari Lake, and Spitak passes, connecting the region with Lori, Kotayk, and Shirak provinces.",
       marz_aragacotn_nkaragir289: "Conclusion",
       marz_aragacotn_nkaragir290:
-        "Aragatsotn region is distinguished by its natural landscapes, historical and cultural heritage and scientific centers, which make it a special tourist destination in Armenia. Mount Aragats, the highest peak in Armenia, gives the region symbolic value and environmental importance. Ancient history, spiritual life and modern scientific and educational centers, such as the Byurakan Observatory and the Ashtarak Physics Institute, come together here. Aragatsotn can become a leading region thanks to the development of multi-sector tourism. Along with the growth of tourism, the demand for public infrastructure will also increase, which also promises new economic prospects for the region.",
+        "Aragatsotn Refion stands out for its natural landscapes, historical-cultural heritage, and scientific centers, making it a unique tourist destination in Armenia.Mount Aragats—the highest peak of Armenia—gives the region symbolic value and environmental significance. Here, ancient history, spiritual heritage, and modern scientific-educational centers such as the Byurakan Astrophysical Observatory and Ashtarak physics institutes coexist.Aragatsotn has the potential to become a leading region in diversified tourism development. With the growth of tourism, the demand for infrastructure will increase, opening new economic perspectives for the region.",
 
       //bnakavayrer
       bnakavayrer1: "RESIDENTIAL",
       bnakavayrer3: "Regional Center (ASHTARAK)",
-      bnakavayrer4: "PROFILE",
+      bnakavayrer4: "Overview",
       bnakavayrer5: "DATA",
       bnakavayrer6: "Area",
       bnakavayrer7: "Coordinates",
@@ -3116,16 +3122,16 @@
     ru: {
       // aragacotn
       marz_aragacotn_title: "АРАГАТСОТН",
-      marz_aragacotn_bnutagir1: "ХАРАКТЕРИСТИКИ",
+      marz_aragacotn_bnutagir1: "Обзор",
       marz_aragacotn_bnutagir2: "ДАННЫЕ",
       marz_aragacotn_bnutagir3: "Направление",
-      marz_aragacotn_bnutagir4: "С Севера",
-      marz_aragacotn_bnutagir5: "С северо-востока",
-      marz_aragacotn_bnutagir6: "С Востока",
-      marz_aragacotn_bnutagir7: "С юга",
-      marz_aragacotn_bnutagir8: "С юго-запада",
-      marz_aragacotn_bnutagir9: "С Запада",
-      marz_aragacotn_bnutagir10: "Приграничный регион",
+      marz_aragacotn_bnutagir4: "Север",
+      marz_aragacotn_bnutagir5: "Северо-восток",
+      marz_aragacotn_bnutagir6: "Восток",
+      marz_aragacotn_bnutagir7: "Юг",
+      marz_aragacotn_bnutagir8: "Юго-запад",
+      marz_aragacotn_bnutagir9: "Запад",
+      marz_aragacotn_bnutagir10: "Соседние области",
       marz_aragacotn_bnutagir11: "Ширак",
       marz_aragacotn_bnutagir12: "Лори",
       marz_aragacotn_bnutagir13: "Котайк",
@@ -3133,35 +3139,35 @@
       marz_aragacotn_bnutagir15: "Ереван",
       marz_aragacotn_bnutagir16: "Соседние страны",
       marz_aragacotn_bnutagir17: "Турция (35 км)",
-      marz_aragacotn_bnutagir18: "Учреждение",
+      marz_aragacotn_bnutagir18: "Основание",
       marz_aragacotn_bnutagir19:
-        "Арагацотнская область образована 12 апреля 1995 года",
-      marz_aragacotn_bnutagir20: "Территория",
+        "Арагацотнская область была сформирована 12 апреля 1995 года.",
+      marz_aragacotn_bnutagir20: "Площадь",
       marz_aragacotn_bnutagir21:
-        "Регион средних размеров, занимающий 9,3% от общей площади Республики Армения (2756 км²)",
+        "Регион среднего размера, занимает 9,3% общей территории РА (2 756 км²).",
       marz_aragacotn_bnutagir22: "Административный центр",
       marz_aragacotn_bnutagir23:
-        "Аштарак – самый крупный город региона. Он расположен в 20 км к северо-западу от Еревана. Местность была заселена с древних времен, согласно письменным источникам, с VII века. Городское поселение было с IX–X веков, во времена царства Багратуни",
-      marz_aragacotn_bnutagir24: "Индекс",
+        "Аштарак — крупнейший город региона. Расположен в 20 км к северо-западу от Еревана. Территория заселена с древнейших времён, в письменных источниках упоминается с VII века. Городское поселение существует с IX–X веков, в период правления Багратидов.",
+      marz_aragacotn_bnutagir24: "Показатель",
       marz_aragacotn_bnutagir25: "Площадь",
       marz_aragacotn_bnutagir26: "Координаты",
       marz_aragacotn_bnutagir27: "Высота",
-      marz_aragacotn_bnutagir28: "Высочайшая вершина",
+      marz_aragacotn_bnutagir28: "Самая высокая вершина",
       marz_aragacotn_bnutagir29: "Самая низкая точка",
       marz_aragacotn_bnutagir30: "Административный центр",
       marz_aragacotn_bnutagir31: "Регионы",
       marz_aragacotn_bnutagir32: "Города",
-      marz_aragacotn_bnutagir33: "Деревни",
+      marz_aragacotn_bnutagir33: "Сёла",
       marz_aragacotn_bnutagir34: "Население",
       marz_aragacotn_bnutagir35: "Расстояние от Еревана",
-      marz_aragacotn_bnutagir36: "Почтовый индекс",
+      marz_aragacotn_bnutagir36: "Почтовые индексы",
       marz_aragacotn_bnutagir37: "Горячая линия",
       marz_aragacotn_bnutagir38: "Веб-сайт",
       marz_aragacotn_bnutagir39: "Данные",
-      marz_aragacotn_bnutagir40: "2756 кв. км (9,3%)",
-      marz_aragacotn_bnutagir41: "40°52′45″ с.ш.,",
-      marz_aragacotn_bnutagir42: "950 м, в среднем 1030–4090 м",
-      marz_aragacotn_bnutagir43: "Арагац (4090 м)",
+      marz_aragacotn_bnutagir40: "2 756 км² (9,3%)",
+      marz_aragacotn_bnutagir41: "40°52′45″ с. ш., 45°08′34″ в. д.",
+      marz_aragacotn_bnutagir42: "950 м, ср. 1030–4090 м",
+      marz_aragacotn_bnutagir43: "4 090 м (гора Арагац)",
       marz_aragacotn_bnutagir44: "950 м",
       marz_aragacotn_bnutagir45: "Аштарак",
       marz_aragacotn_bnutagir46: "Аштарак, Арагац, Апаран, Талин",
@@ -3169,555 +3175,564 @@
       marz_aragacotn_bnutagir48: "18 км",
       marz_aragacotn_bnutagir49: "Высочайшая вершина Арагац (4090 м)",
       marz_aragacotn_bnutagir50: "Региональные телефонные коды",
-      marz_aragacotn_bnutagir51: "Резиденция",
+      marz_aragacotn_bnutagir51: "Населённый пункт",
       marz_aragacotn_bnutagir52: "Аштарак",
       marz_aragacotn_bnutagir53: "Талин",
       marz_aragacotn_bnutagir54: "Апаран",
       marz_aragacotn_bnutagir55: "Цахкаовит",
       marz_aragacotn_bnutagir56: "Код",
-      marz_aragacotn_bnutagir57: "Региональная администрация/Контакт",
-      marz_aragacotn_bnutagir58: "Адрес: Аштарак, 4",
+      marz_aragacotn_bnutagir57: "Областная администрация",
+      marz_aragacotn_bnutagir58: "Адрес: г. Аштарак, 4",
       marz_aragacotn_bnutagir59: "Веб-сайт: aragatsotn.mtad.am",
-      marz_aragacotn_bnutagir60: "Электронная почта: aragatsotn@mta.gov.am",
+      marz_aragacotn_bnutagir60: "Эл. почта: aragatsotn@mta.gov.am",
       marz_aragacotn_bnutagir61: "Тел./факс: (+374 232) 32251",
-      marz_aragacotn_bnutagir62: "КАК ТУДА ДОБРАТЬСЯ",
-      marz_aragacotn_bnutagir63: "Шоссе/дороги",
+      marz_aragacotn_bnutagir62: "КАК ДОБРАТЬСЯ",
+      marz_aragacotn_bnutagir63: "Автомагистрали / дороги",
       marz_aragacotn_bnutagir64:
-        "Через территорию Арагацотна проходят три основные национальные автомагистрали",
+        "Через Арагацотнскую область проходят 3 основные республиканские автомагистрали:",
       marz_aragacotn_bnutagir65: "Ереван – Аштарак – Талин – Гюмри (М-1)",
       marz_aragacotn_bnutagir66: "Ереван – Аштарак – Спитак (М-3)",
       marz_aragacotn_bnutagir67: "Ереван – Армавир – Каракерт – Гюмри",
       marz_aragacotn_bnutagir68:
-        "Через область также проходит межгосударственная автодорога Север-Юг",
+        "Через регион также проходит межгосударственная трасса Север–Юг.",
       marz_aragacotn_bnutagir69:
-        "Регион соединяется со столицей Аштаракским шоссе",
+        "Через Аштаракское шоссе область соединяется со столицей.",
       marz_aragacotn_bnutagir70:
-        "Межгосударственные дороги находятся в относительно хорошем состоянии.",
-      marz_aragacotn_bnutagir71: "Как добраться до Аштарака?",
-      marz_aragacotn_bnutagir72: "Лучший вариант — автобус или маршрутка.",
+        "Межгосударственные дороги в целом находятся в удовлетворительном состоянии.",
+      marz_aragacotn_bnutagir71: "Как добраться до Аштарака",
+      marz_aragacotn_bnutagir72:
+        "Лучший вариант — автобус или маршрутное такси.",
       marz_aragacotn_bnutagir73:
-        "Они отправляются с автовокзала Киликия и Центрального железнодорожного вокзала.",
-      marz_aragacotn_bnutagir74: "Путешествие занимает около 40 минут.",
+        "Отправление осуществляется с Киликийского автовокзала и Центрального железнодорожного вокзала.",
+      marz_aragacotn_bnutagir74: "Время в пути составляет около 40 минут.",
       marz_aragacotn_bnutagir75: "Стоимость билета: 250 драм.",
-      marz_aragacotn_bnutagir76: "Железная дорога.",
+      marz_aragacotn_bnutagir76: "Железная дорога",
       marz_aragacotn_bnutagir77:
-        "По территории Арагацотна проходит 30-километровый участок главной железной дороги РА.",
-      marz_aragacotn_bnutagir78: "КЛИМАТ.",
+        "Около 30 км основной железнодорожной линии Армении проходит через территорию Арагацотнской области.",
+      marz_aragacotn_bnutagir78: "КЛИМАТ",
       marz_aragacotn_bnutagir79:
-        "Климат Арагацотна отличается большим разнообразием климатических условий из-за больших перепадов высот.",
-      marz_aragacotn_bnutagir80: "Особенности климата.",
+        "Климат Арагацотнской области отличается большим разнообразием природно-климатических условий, обусловленных значительными перепадами высот.",
+      marz_aragacotn_bnutagir80: "Особенности климата",
       marz_aragacotn_bnutagir81:
-        "В регионе имеются как засушливые и жаркие равнинные зоны, так и холодные высокогорные районы. В низменных зонах (районы, прилегающие к Арарату В долине Талина лето жаркое, зима умеренно холодная. В высокогорной зоне (Арагацкий горный хребет) лето прохладное, зима суровая.",
+        "В регионе присутствуют как жаркие и засушливые низменные зоны, так и холодные высокогорные районы. В низменных районах (примыкающих к Араратской долине) лето жаркое, зима умеренно холодная. В высокогорных районах (гора Арагац) лето прохладное, а зима суровая и холодная.",
       marz_aragacotn_bnutagir82:
         "Регион характеризуется постоянными прохладными бризами.",
       marz_aragacotn_bnutagir83: "В низинах умеренный горный климат.",
       marz_aragacotn_bnutagir84:
         "В прибрежных районах климат мягче, на горных перевалах суровый.",
-      marz_aragacotn_bnutagir85: "Характеристики погоды.",
+      marz_aragacotn_bnutagir85: "Характеристики времен года",
       marz_aragacotn_bnutagir86:
-        "Зима – долгая, холодная, со снегопадами и туманами. Особенно в высокогорных зонах снежный покров стабильный и толстый. Снегопады – в среднем 6 дней в Талине, 17 дней в Апаране, до 80 дней в горах Арагац». диапазон.",
+        "Зима – продолжительная, холодная, с метелями и туманами. В высокогорных районах снежный покров устойчивый и толстый. Метели: в среднем 6 дней в Талине, 17 дней в Апаране и до 80 дней в высокогорной зоне Арагаца.",
       marz_aragacotn_bnutagir87:
-        "Лето - жаркое и сухое в низинах, прохладное и дождливое в горных районах.",
+        "Лето – жаркое и сухое в низменных районах, в горных — прохладное и более влажное.",
       marz_aragacotn_bnutagir88:
-        "Весна - прохладная, с большим количеством осадков, часто с ветром и грозами.",
+        "Весна – прохладная, с обильными осадками, часто ветреная с грозами.",
       marz_aragacotn_bnutagir89:
-        "Осень - относительно мягкая, сначала солнечная, затем более влажная, с туманами.",
+        "Осень – относительно мягкая; в начале солнечная, затем более влажная с туманами.",
       marz_aragacotn_bnutagir90: "Температура",
-      marz_aragacotn_bnutagir91: "В низине",
-      marz_aragacotn_bnutagir92: "Июль: средняя температура: +22°C…+25°C",
-      marz_aragacotn_bnutagir93: "Январь: средняя температура: -3°C…-4°C",
-      marz_aragacotn_bnutagir94: "В предгорьях",
+      marz_aragacotn_bnutagir91: "Низменная зона",
+      marz_aragacotn_bnutagir92: "Июль: средняя температура +22°C…+25°C",
+      marz_aragacotn_bnutagir93: "Январь: средняя температура −3°C…−4°C",
+      marz_aragacotn_bnutagir94: "Предгорная зона",
       marz_aragacotn_bnutagir95: "Среднегодовая температура: +8°C…+11°C",
-      marz_aragacotn_bnutagir96: "Летом: +22…+25°C",
-      marz_aragacotn_bnutagir97: "В горных зонах",
-      marz_aragacotn_bnutagir98: "Средняя годовая температура: +4°С…+6°С",
+      marz_aragacotn_bnutagir96: "Лето: +22°C…+25°C",
+      marz_aragacotn_bnutagir97: "Горные зоны",
+      marz_aragacotn_bnutagir98: "Среднегодовая температура: +4°C…+6°C",
       marz_aragacotn_bnutagir99:
-        "В высокогорной зоне (гора Арагац, выше 2700 м)",
+        "Высокогорная зона (гора Арагац, выше 2 700 м)",
       marz_aragacotn_bnutagir100: "Среднегодовая температура: ниже 0°C",
       marz_aragacotn_bnutagir101:
-        "На вершине Арагаца (3229 м) над уровнем моря: до −2,6°C.",
-      marz_aragacotn_bnutagir102: "Июль: средняя температура: +9°C…+15°C",
-      marz_aragacotn_bnutagir103:
-        "Январь: средняя температура от -2,6°C до -12°C",
+        "На вершине Арагаца (3 229 м): до −2,6°C среднегодовая температура",
+      marz_aragacotn_bnutagir102: "Июль: +9°C…+15°C",
+      marz_aragacotn_bnutagir103: "Январь: −2,6°C до −12°C",
       marz_aragacotn_bnutagir104:
-        "Абсолютные температуры в регионе колеблются от +41°C (Аштарак) до −34°C (горный хребет Арагац).",
+        "Абсолютные температуры в регионе варьируются от +41°C (Аштарак) до −34°C (высокогорные районы Арагаца).",
       marz_aragacotn_bnutagir105: "Осадки",
-      marz_aragacotn_bnutagir106: "В горных районах: 850–1100 мм в год",
-      marz_aragacotn_bnutagir107: "В низинах: 300–320 мм в год",
+      marz_aragacotn_bnutagir106: "В привершинных районах: 850–1100 мм в год",
+      marz_aragacotn_bnutagir107: "В низменных районах: 300–320 мм в год",
       marz_aragacotn_bnutagir108:
-        "Снежные участки сохраняются в верховьях Арагаца даже летом",
-      marz_aragacotn_bnutagir109: "Грозы часто сопровождаются градом.",
+        "Вблизи вершины Арагаца снежные пятна сохраняются даже летом",
+      marz_aragacotn_bnutagir109: "Грозы часто сопровождаются градом",
       marz_aragacotn_bnutagir110:
-        "Относительная влажность в регионе достигает 80–90% в высокогорных районах.",
-      marz_aragacotn_bnutagir111: "Наблюдается туман 60–160 дней в году.",
-      marz_aragacotn_bnutagir112: "Ветры",
-      marz_aragacotn_bnutagir113: "Средняя годовая скорость: 1–2 м/с",
+        "Относительная влажность в высокогорных районах достигает 80–90%",
+      marz_aragacotn_bnutagir111:
+        "Туманы наблюдаются в течение 60–160 дней в году",
+      marz_aragacotn_bnutagir112: "Ветер",
+      marz_aragacotn_bnutagir113: "Среднегодовая скорость: 1–2 м/с",
       marz_aragacotn_bnutagir114:
-        "Максимум: 18–22 м/с, в горных районах: до 35 м/с, при порывах: до 40 м/с.",
-      marz_aragacotn_bnutagir115: "Солнечный свет",
+        "Максимальная: 18–22 м/с, в горных районах до 35 м/с, с порывами до 40 м/с",
+      marz_aragacotn_bnutagir115: "Солнечное сияние",
       marz_aragacotn_bnutagir116:
-        "Средняя годовая продолжительность: 2471–2968 часов.",
+        "Среднегодовая продолжительность: 2 471–2 968 часов.",
+
       // marz_aragacotn_nkaragir
       marz_aragacotn_nkaragir1: "ОПИСАНИЕ",
       marz_aragacotn_nkaragir2:
-        "Данные/Природа/Экономика/Наука/Образование/Культура/Туризм/Логистика",
-      marz_aragacotn_nkaragir3: "Арагац - священная гора армянского народа",
+        "Данные / Природа / Экономика / Наука / Образование / Культура / Туризм / Логистика",
+      marz_aragacotn_nkaragir3: "Арагац — священная гора армянского народа",
       marz_aragacotn_nkaragir4:
-        "Арагацотнская область простирается на западе Армении, на склонах величественного и белоснежного четырехвершинного Арагаца. Гора Арагац – это не только высочайшая вершина Республики Армения (4090 м), но и символ региона и священная гора армянского народа, воплощение силы, надежды, мечты и бессмертия, вокруг которой сплетены многочисленные легенды (Светильник Просветителя)",
-      marz_aragacotn_nkaragir5:
-        "Из Альпийского «От лугов до вулканических озер",
+        "Арагацотнская область  простирается на западе Армении —  на склонах величественного, белоснежного, четырёхвершинного Арагаца. Гора Арагац — не только самая высокая вершина Республики Армения (4 090 м), но и символ области, а также священная гора армянского народа, олицетворяющая силу, надежду, мечту и бессмертие. С ней связано множество легенд, одна из самых известных — «Лампада Просветителя».",
+      marz_aragacotn_nkaragir5: "От альпийских лугов до вулканических озёр",
       marz_aragacotn_nkaragir6:
-        "От крутых гор до глубоких долин — это Арагацотн, один из самых удивительных уголков Армении. Четыре вершины горы Арагац, заснеженные пики и альпийские луга веками очаровывали путешественников и вдохновляли творческий ум армянского народа. Регион сочетает в себе разнообразные ландшафты: плодородные речные долины, альпийские луга и вулканические озера, венчающие горные вершины",
-      marz_aragacotn_nkaragir7: "Историческое и культурное богатство",
+        "От величественных гор до глубоких ущелий — таков Арагацотн, один из самых удивительных уголков Армении. Четыре вершины горы Арагац, её заснеженные высоты         и альпийские луга восхищали путешественников на протяжении веков и вдохновляли художественное творчество армянского народа. На территории области гармонично сочетаются самые разнообразные ландшафты: плодородные речные долины, альпийские луга и вулканические озёра, венчающие горные вершины.",
+      marz_aragacotn_nkaragir7: "Историко-культурное богатство",
       marz_aragacotn_nkaragir8:
-        "Историческое и культурное наследие Арагацотна поразительно: от циклопических крепостей и древних гробниц до средневековых крепостей и церквей, от тысяч хачкаров до великолепных мемориальных комплексов современности, гармонично вписывающихся в окружающую среду и дополняющих ее». «На перекрестке традиций и науки",
-      marz_aragacotn_nkaragir9: "На перекрестке традиций и науки",
+        "Поразительно богатое историко-культурное наследие Арагацотна: от циклопических крепостей и древних кладбища до средневековых замков           и церквей, от тысяч хачкаров до великолепных мемориальных комплексов современности. гармонично сочетающихся с природной средой и дополняющих её.",
+      marz_aragacotn_nkaragir9: "На перекрёстке легенд и науки",
       marz_aragacotn_nkaragir10:
-        "Земля, где легенда и наука сливаются воедино. Согласно легенде, Ной и его семья, потомки Арарата, увидели Ошакана, освобожденного из воды, и воскликнули: «Ош акан», что означает «Благословение для наших глаз». Так гласит легенда. История также отметила это живописное поселение Арагацотн, когда в V веке здесь были похоронены останки самого выдающегося человека армянского народа, Маштоца. Арагацотн передал науке Бюраканскую обсерваторию и исследовательские станции, работающие на склонах горы Арагац. И если Маштоц увековечил деревню Ошакан, то Виктор Амбардзумян придал новое значение Бюракану, а братья Артем и Авраам Алиханян дали новое значение прекрасной богине Арагаца, Каменному озеру, окруженному древними мегалиты, основав в 1942 году Ереванский физический институт. Станцию ​​первичной регистрации и исследования космических лучей. ",
+        "Арагацотн — это  край, где легенды и наука переплетаются. По преданию, праотец Ной со своей семьёй, спустившись с горыАрарат, увидел освобождённый от воды Ошакан и воскликнул: «Ош акан!» — что означает «Счастливы наши очи». Так рассказывает легенда. История также увековечила этот живописный уголок Арагацотна, когда в V веке здесь был погребён прах величайшей личности армянского народа —  Месропа Маштоца. Арагацотн подарил науке Бюраканскую астрофизическую обсерваторию и научно-исследовательские станции, действующие на склонах горы Арагац. Если Маштоц навсегда прославил Ошакан, то Виктор Амбарцумян придал новое значение Бюракану, а братья Артём Алиханян и Абрам Алиханов по-новому раскрыли научную ценность живописного озера Кари, окружённого древними мегалитами. основав здесь в 1942 году станцию регистрации и исследования первичных космических лучей Ереванского физического института Ереванский физический институт, Ереванского физического института. Если Маштоц навсегда прославил Ошакан, а Виктор Амбарцумян придал новое значение Бюракану, то братья Артём Алиханян и Абрам Алиханов  по-новому раскрыли научную ценность живописного озера Кари, окружённого древними мегалитами, основав в 1942 году здесь станцию регистрации и исследования первичных космических лучей Ереванского физического института.",
       marz_aragacotn_nkaragir11: "ДАННЫЕ",
-      marz_aragacotn_nkaragir12: "Географическое/Историческое/Демографическое/",
+      marz_aragacotn_nkaragir12:
+        "Географические / Исторические / Демографические",
       marz_aragacotn_nkaragir13: "Географическое положение",
       marz_aragacotn_nkaragir14:
-        "Арагацотнская область расположена в западной части Армении, на склонах Арагацкого массива, включая восточную часть Араратской долины, между столицей Ереваном и самой высокой вершиной страны Арагацем",
-      marz_aragacotn_nkaragir15: "Высота от 950 м до 4090 м",
-      marz_aragacotn_nkaragir16: "Самый длинный участок является",
-      marz_aragacotn_nkaragir17: "С юго-запада на северо-восток: 60-65 км",
-      marz_aragacotn_nkaragir18: "С севера на юг: около 50-57 км",
-      marz_aragacotn_nkaragir19: "Приграничные территории",
+        "Арагацотнская область расположена в западной части Армении, на склонах массива Арагац, включая восточную часть Араратской равнины — между столицей Ереваном и высочайшей вершиной страны, горой Арагац.",
+      marz_aragacotn_nkaragir15: "Высоты варьируются от 950 до 4090 м.",
+      marz_aragacotn_nkaragir16: "Наибольшая протяжённость:",
+      marz_aragacotn_nkaragir17: "с юго-запада на северо-восток — 60–65 км",
+      marz_aragacotn_nkaragir18: "с севера на юг — около 50–57 км",
+      marz_aragacotn_nkaragir19: "Сопредельные территории",
       marz_aragacotn_nkaragir20:
-        "Регионы: Ширак, Лори, Котайк, Армавир, Ереван",
+        "Области: Ширак, Лори, Котайк, Армавир, Ереван",
       marz_aragacotn_nkaragir21: "Международные границы: Турция",
       marz_aragacotn_nkaragir22: "Историческое наследие",
       marz_aragacotn_nkaragir23:
-        "Арагацотн получил свое название в честь исторической провинции Арагацотн, что означало «подножие Арагаца",
+        "Арагацотн получил своё название в честь исторической области Арагацотн, что означает «подножие Арагаца».",
       marz_aragacotn_nkaragir24:
-        "Гегамские горы и Гегамское море (современное озеро Севан) также названы в честь Гегама",
+        "Горы Гегама и море Гегама (современное озеро Севан) также названы в честь Гегама.",
       marz_aragacotn_nkaragir25:
-        "Население: Это одно из древнейших населенных пунктов Армянского нагорья. Первым крупным государством в регионе была Великая Армения (331–428 гг. до н.э.). Нынешний регион занимает территорию части Айраратской, Арагацотнской, Нигской и Ширакской областей Великой Армении.",
+        "Заселённость: территория Армянского нагорья является одним из древнейших очагов человеческого расселения. На территории области первое крупное государство — Великая Армения (331 г. до н. э. – 428 г. н. э.). Современная область охватывает части исторических гава́ров Великой Армении: Айрарат, Арагацотн,Ниг и Ширак (исторические административные единицы).",
       marz_aragacotn_nkaragir26:
-        "Исторические столицы: Две древние армянские столицы находились в провинции Арагацотн.",
+        "Исторические столицы: на территории гавара Арагацотн располагались две древние столицы Армении:",
       marz_aragacotn_nkaragir27:
-        "Армавир 2-й (1032 г. до н. э.-331-220 до н. э. Царство Ервандуни)",
+        "Армавир — вторая столица (династия Ервандуни, 1032 г. до н. э. – 331 г. до н. э.)",
       marz_aragacotn_nkaragir28:
-        "Вагаршапат, VI (2 век до н.э.,-120-336 до н.э. Царство Аршакуни)",
-      marz_aragacotn_nkaragir29: "Население",
+        "Вагаршапат — шестая столица (II в. до н. э. – 120–336 гг., династия Аршакидов)",
+      marz_aragacotn_nkaragir29: "Население и быт",
       marz_aragacotn_nkaragir30:
-        "По численности населения регион превосходит Вайоц Дзор и Тавуш",
+        "По численности населения область превосходит области Вайоц Дзор и Тавуш.",
       marz_aragacotn_nkaragir31:
-        "Территория отличается благоприятными условиями жизни, благодаря которым она на протяжении веков привлекала большие потоки людей.",
+        "Благодаря благоприятным условиям для жизни эта территория на протяжении веков привлекала многочисленные потоки переселенцев.",
       marz_aragacotn_nkaragir32:
-        "Основная масса населения традиционно сосредоточена в среднем бассейне реки Касах и ее притоках.",
+        "Основная часть населения традиционно была сосредоточена в среднем течении бассейна реки Касах и её притоков.",
       marz_aragacotn_nkaragir33:
-        "Предки нынешнего армянского населения иммигрировали сюда из Сасунской, Мушской и Алашкертской областей Западной Армении в конце XVIII — начале XX веков.",
+        "Предки современного армянского населения переселялись сюда с конца XVIII до начала XX века из гаваров Западной Армении: Сасун, Муш и Алашкерт.",
       marz_aragacotn_nkaragir34: "ПРИРОДА",
       marz_aragacotn_nkaragir35:
-        "Арагацотн расположен на склонах Арагацкого массива, окруженного горами с трех сторон. Регион включает северо-восточные, восточные и южные склоны Арагаца, начиная от вершины горы и достигая высот 1000 м. На юге территория сливается с Араратской долиной, а на севере простирается до вершины Арагац, самой высокой точки страны. Арагацкий массив изрезан крупными радиально расходящимися долинами, такими как Гегарот, Амберд, Манташ и др. Регион также включает в себя территории между горными хребтами Памбак и Цахкуняц, Апаранскую равнину, Талинское плато и котловины верхнего и среднего течения Касаха. Арагацотн соединен с Лорийской областью через горные перевалы Памбак и Спитак. На западе территория простирается до турецкой границы.",
-      marz_aragacotn_nkaragir36: "Зоны",
+        "Арагацотн расположен на склонах горного массива Арагац и с трёх сторон окружён горами. Область охватывает северо-восточные, восточные и южные склоны Арагаца — от его вершины до высоты около 1000 м. На юге территория плавно переходит в Араратская равнина, а на севере простирается до вершины Арагаца — самой высокой точки Армении. Горный массив Арагац расчленён крупными радиально расходящимися долинами, среди которых наиболее известны Гегарот, Амберд и Манташ. В состав области также входят территории между Памбакский хребет и Цахкуняцкий хребет, Апаранская равнина, Талинское плато, а также бассейны верхнего и среднего течения реки Касах. Через Памбакский и Спитакский перевалы Арагацотнская область связана с Лорийской областью.На западе её территория простирается до границы с Турцией.",
+      marz_aragacotn_nkaragir36: "Поясность (зоны)",
       marz_aragacotn_nkaragir37:
-        "Арагацотн — один из уникальных регионов Армении, где благодаря рельефу местности и высоте над уровнем моря (▲ 4000 м +) выражены все 6 известных в Республике восходящих ландшафтных зон, от полупустынной до снежной (нивальной), и 5 климатических зон. Регион отличается резкими контрастами природных условий и зональным разнообразием, что также определяет его богатую флору и фауну.",
+        "Арагацотнская область — один из немногих регионов Армении, где представлены 6 ландшафтных и 5 климатических зон страны. Такое природное разнообразие обусловливает богатый растительный и животный мир области.",
       marz_aragacotn_nkaragir38: "Ландшафтные зоны",
-      marz_aragacotn_nkaragir39: "Полупустыня – ▲ 950–1200 м",
-      marz_aragacotn_nkaragir40: "Сухая степь – ▲ 1200–1400 м",
-      marz_aragacotn_nkaragir41: "Горная степь – ▲ 1400–1800 м",
+      marz_aragacotn_nkaragir39:
+        "Сухая степная — ▲900–1200 м (предгорная зона) ",
+      marz_aragacotn_nkaragir40:
+        "Горно-степная — ▲1200–1400 м (предгорная зона) ",
+      marz_aragacotn_nkaragir41: "Горно-лесная — ▲1500–2000 м ",
       marz_aragacotn_nkaragir42:
-        "Горная степь (чернозем) и лесостепь – ▲ 1800–2200 м",
-      marz_aragacotn_nkaragir43:
-        "Субальпийский и альпийский пояс – ▲ 2200–3500 м",
-      marz_aragacotn_nkaragir44: "Снежная (нивальная) зона – ▲ выше 3500 м",
+        "Горно-луговая и субальпийская — ▲2000–2600 м ",
+      marz_aragacotn_nkaragir43: "Высокогорная альпийская — ▲2700 м и выше ",
+      marz_aragacotn_nkaragir44: "Нивальная (снежная) — ▲свыше 3000 м",
       marz_aragacotn_nkaragir45: "Климатические зоны",
-      marz_aragacotn_nkaragir46: "Сухая, очень сухая – ▲ до 1000 м",
-      marz_aragacotn_nkaragir47: "Умеренно сухая – ▲ 1000–1400 м",
-      marz_aragacotn_nkaragir48: "Умеренно-горная – ▲ 1400–2400 м",
-      marz_aragacotn_nkaragir49: "Холодная горная – ▲ 2400–3500 м",
+      marz_aragacotn_nkaragir46: "Сухая субтропическая — ▲до ~1000 м",
+      marz_aragacotn_nkaragir47: "Умеренно континентальная — ▲~1000–1400 м ",
+      marz_aragacotn_nkaragir48: "Умеренная горная — ▲~1500–2300 м",
+      marz_aragacotn_nkaragir49: "Холодная горная — ▲~2400–2700 м",
       marz_aragacotn_nkaragir50:
-        "Снежная (очень холодная высокая гора) – ▲ выше 3500 м",
-      marz_aragacotn_nkaragir51: "Почва и растительность",
+        "Нивальная, с крайне холодным высокогорным климатом — ▲2700–3000 м и выше",
+      marz_aragacotn_nkaragir51: "Почвы и растительность",
       marz_aragacotn_nkaragir52:
-        "В регионе широко распространены горные черноземы, горно-луговые и альпийские почвы.",
+        "В области распространены горные чернозёмы, горно-луговые и альпийские почвы.",
       marz_aragacotn_nkaragir53:
-        "Доминирующей растительностью являются степные, субальпийские и альпийские виды растений.",
+        "Преобладают степная, субальпийская и альпийская растительность.",
       marz_aragacotn_nkaragir54:
-        "В высокогорных зонах распространены богатые луга, иногда перемежающиеся скальными обнажениями и крутыми обрывами.",
+        "В высокогорных районах широко распространены богатые горные луга, местами чередующиеся с каменистыми осыпями и обнажёнными скалами.",
       marz_aragacotn_nkaragir55:
-        "В некоторых регионах встречаются небольшие дубовые леса.",
-      marz_aragacotn_nkaragir56: "Особо охраняемые территории (ООО)",
-      marz_aragacotn_nkaragir57: "Арагацкий горный заповедник.",
-      marz_aragacotn_nkaragir58: "Заповедник Кари Лич.",
-      marz_aragacotn_nkaragir59: "Дендрарий Бюраканской обсерватории",
-      marz_aragacotn_nkaragir60: "Облегчение",
+        "В отдельных районах встречаются небольшие дубовые леса.",
+      marz_aragacotn_nkaragir56: "Особо охраняемые природные территории (ООПТ)",
+      marz_aragacotn_nkaragir57: "Альпийский заказник «Арагац»",
+      marz_aragacotn_nkaragir58: "Заказник «Кари лич»",
+      marz_aragacotn_nkaragir59:
+        "Дендропарк Бюраканской астрофизической обсерватории",
+      marz_aragacotn_nkaragir60: "Рельеф",
       marz_aragacotn_nkaragir61:
-        "Рельеф Арагацотнского региона гористый, с большими (3140 м) перепадами высот и очень разнообразен.",
-      marz_aragacotn_nkaragir62: "Самая низкая точка: 950 м над уровнем моря.",
+        "Рельеф Арагацотнской области горный, отличается значительными перепадами высот (3140 м) и большим разнообразием.",
+      marz_aragacotn_nkaragir62: "Самая низкая точка — 950 м над уровнем моря.",
       marz_aragacotn_nkaragir63:
-        "Высшая точка: 4090 м над уровнем моря, гора Арагац. пик.",
+        "Самая высокая точка — 4090 м над уровнем моря — вершина горы Арагац.",
       marz_aragacotn_nkaragir64:
-        "Перепады высот территории составляют: 3140 м.",
-      marz_aragacotn_nkaragir65: "Горы (≥ 2000 м над уровнем моря).",
+        "Перепад высот на территории области составляет 3140 м.",
+      marz_aragacotn_nkaragir65: "Горные вершины (≥ 2000 м над уровнем моря)",
       marz_aragacotn_nkaragir66:
-        "Самая высокая вершина Республики Армения - Арагац - 4090 м.",
-      marz_aragacotn_nkaragir67: "Нигасар – 3424 м (склон горы Арагац)",
-      marz_aragacotn_nkaragir68: "аквакар – 3303 м",
-      marz_aragacotn_nkaragir69: "гравакар – 3025 м",
-      marz_aragacotn_nkaragir70: "умтакар – 2861 м (Арагацотн/ Котайк)",
-      marz_aragacotn_nkaragir71: "Генис – 2851 м (Арагацотн/Котайк)",
-      marz_aragacotn_nkaragir72: "анчик – 2793 м (Арагацотн/Котайк)",
-      marz_aragacotn_nkaragir73: "апану – 2781 м (Арагацотн/Котайк)",
-      marz_aragacotn_nkaragir74: "ухманук – 2761 м",
-      marz_aragacotn_nkaragir75: "амар – 2738 м (Арагацотн/Лори)",
-      marz_aragacotn_nkaragir76: "Гора Одзатах – 2744 м",
-      marz_aragacotn_nkaragir77: "Гора Аркайит – 2687 м",
-      marz_aragacotn_nkaragir78: "Цилкар – 2558 м",
-      marz_aragacotn_nkaragir79: "Аклоракар – 2511 м",
-      marz_aragacotn_nkaragir80: "Гора Арай – 2577 м",
-      marz_aragacotn_nkaragir81: "Гора Нигсар – 2462 м",
-      marz_aragacotn_nkaragir82: "Тежаруйк – 2423 м (Арагацотн/Ширак)",
-      marz_aragacotn_nkaragir83: "Менсар – 2419 м",
-      marz_aragacotn_nkaragir84: "Агавно – 2309 м",
-      marz_aragacotn_nkaragir85: "Гарнасар – 2295 м",
-      marz_aragacotn_nkaragir86: "Цахкасар – 2219 м",
-      marz_aragacotn_nkaragir87: "Гайлару – 2120 м",
-      marz_aragacotn_nkaragir88: "Андзавк – 2219 м",
-      marz_aragacotn_nkaragir89: "Арджутат – 2096 м",
-      marz_aragacotn_nkaragir90: "Иринд – 2051 м",
-      marz_aragacotn_nkaragir91: "Мец Артени – 2047 м",
+        "Самая высокая вершина Армении — Арагац — 4090 м",
+      marz_aragacotn_nkaragir67:
+        "Нигасар — 3424 м (северо-восточный склон Арагаца) ",
+      marz_aragacotn_nkaragir68: "Какавакар — 3303 м ",
+      marz_aragacotn_nkaragir69: "Агравакар — 3025 м ",
+      marz_aragacotn_nkaragir70: "Ухтакар — 2861 м (Арагацотн / Котайк) ",
+      marz_aragacotn_nkaragir71: "Тегенис — 2851 м (Арагацотн / Котайк) ",
+      marz_aragacotn_nkaragir72: "Чанчик — 2793 м (Арагацотн / Котайк) ",
+      marz_aragacotn_nkaragir73: "Капану — 2781 м (Арагацотн / Котайк) ",
+      marz_aragacotn_nkaragir74: "Тухманук — 2761 м ",
+      marz_aragacotn_nkaragir75: "Камар — 2738 м (Арагацотн / Лори) ",
+      marz_aragacotn_nkaragir76: "Гора Одзатаг — 2744 м ",
+      marz_aragacotn_nkaragir77: "Гора Аркаиц — 2687 м",
+      marz_aragacotn_nkaragir78: "Цилкар — 2558 м ",
+      marz_aragacotn_nkaragir79: "Аклоракар — 2511 м ",
+      marz_aragacotn_nkaragir80: "Гора Ара — 2577 м ",
+      marz_aragacotn_nkaragir81: "Гора Нигсар — 2462 м ",
+      marz_aragacotn_nkaragir82: "Тежаруйк — 2423 м (Арагацотн / Ширак) ",
+      marz_aragacotn_nkaragir83: "Менсар — 2419 м ",
+      marz_aragacotn_nkaragir84: "Агавно — 2309 м ",
+      marz_aragacotn_nkaragir85: "Гарнасар — 2295 м ",
+      marz_aragacotn_nkaragir86: "Цахкасар — 2219 м ",
+      marz_aragacotn_nkaragir87: "Гайлару — 2120 м ",
+      marz_aragacotn_nkaragir88: "Андзавк — 2219 м ",
+      marz_aragacotn_nkaragir89: "Арчутат — 2096 м ",
+      marz_aragacotn_nkaragir90: "Иринд — 2051 м ",
+      marz_aragacotn_nkaragir91: "Большой Артени — 2047 м",
       marz_aragacotn_nkaragir92:
-        "Извергающиеся вулканы. Иринд, Цахкасар, массив Артени с вершинами Мец Артени (2047 м) и Покр Артени (1753 м).",
+        "Потухшие вулканы. Иринд, Цахкасар и горный массив Артени, включающий вершины Большой Артени (2047 м) и Малый Артени (1753 м).",
       marz_aragacotn_nkaragir93: "Горные хребты",
       marz_aragacotn_nkaragir94:
-        "Горный массив Арагац – с 4 высочайшими точками страны, в центральной части. (окружность 100 км, 4000 км²). область)",
+        "Арагацкий горный массив — самая высокая горная система страны с 4 высочайшими вершинами, расположен в центральной части области. (около 100 км в окружности, площадь ~4000 км²)",
       marz_aragacotn_nkaragir95:
-        "Горный хребет Памбак – длина (≥ 100 км), самая высокая вершина: Теж Лер 3101 м (Лори), простирается вдоль границы с Лорийской областью",
+        "Памбакский хребет — протяжённый хребет (≥100 км), с высшей точкой гора Теж — 3101 м (Лори). Тянется вдоль границы с Лорийской областью.",
       marz_aragacotn_nkaragir96:
-        "Горный хребет Цахкуняц – длина (~42 км), самая высокая вершина: Тегенис 2851 м, северо-запад, в сторону Котайкской области",
+        "Цахкуняцкий хребет — протяжённость ~42 км, высшая точка Техенис — 2851 м. Расположен на северо-западе, в направлении Котайкской области.",
       marz_aragacotn_nkaragir97:
-        "Горы Тежаруйк – длина (~9 км), самая высокая точка: Тежаруйк: 2423 м. Простирается вдоль границы Арагацотнской и Ширакской областей",
+        "Тежаруйкские горы — протяжённость ~9 км, высшая точка.",
       marz_aragacotn_nkaragir98:
-        "Тежаруйк: 2423 м. Простирается вдоль границы Арагацотнской и Ширакской областей регионы.",
-      marz_aragacotn_nkaragir99: "Горные перевалы.",
+        "Тежаруйк — 2423 м. Тянутся вдоль границы Арагацотнской и Ширакской областей.",
+      marz_aragacotn_nkaragir99: "Перевалы",
       marz_aragacotn_nkaragir100:
-        "Перевал Тухманук – ▲ 2631 м. На границе Арагацотнской/Котайкской областей, на северо-западе гор Цахкуняц.",
+        "Тухманукский перевал — ▲2631 м. На границе Арагацотнской и Котайкской областей, в северо-западной части Цахкуняцкого хребта.",
       marz_aragacotn_nkaragir101:
-        "Перевал Памбак – ▲ 2152 м. В горном хребте Памбак, на границе Лори и Арагацотна, долина Памбак соединяет дорогу Джрашен-Цилкар с марсом Арагацотн.",
+        "Памбакский перевал — ▲2152 м. В Памбакском хребте, на стыке Лорийской и Арагацотнской областей. Связывает Памбакскую долину с Арагацотнской областью через дорогу Джрашен–Цилкар.",
       marz_aragacotn_nkaragir102:
-        "Перевал Спитак и повороты – ▲ 2378 м, в центральной части гор Памбак, на границе Лори/Марса Арагацотн, через который Перевалы на шоссе Апаран-Спитак.",
+        "Спитакский перевал и серпантины — ▲2378 м. Центральная часть Памбакского хребта, на границе Лорийской и Арагацотнской областей, через который проходит автодорога Апаран–Спитак.",
       marz_aragacotn_nkaragir103: "Равнины и плато",
       marz_aragacotn_nkaragir104:
-        "Апаранская равнина – ▲1800-2000 м над уровнем моря, в верховьях реки Касах. Граничит: на западе с массивом Арагац, на востоке с горным хребтом Цахкуняц. Простирается с северо-запада на юго-восток, длина (~ 30 км), ширина (5-8 км), площадь (~ 200 км²)",
+        "Апаранское поле — ▲1800–2000 м над уровнем моря, в бассейне верхнего течения реки Касах. Ограничено: на западе — Арагацким горным массивом, на востоке — Цахкуняцким хребтом. Протяжённость — около 30 км (с северо-запада на юго-восток), ширина — 5–8 км, площадь — ~200 км².",
       marz_aragacotn_nkaragir105:
-        "Плато Талин – ▲1250-1800 м над уровнем моря, простирается между массивом Арагац и рекой Ахурян.",
+        "Талинское плато — ▲1250–1800 м над уровнем моря. Расположено между Арагацким массивом и долиной реки Ахурян.",
       marz_aragacotn_nkaragir106:
-        "Долина Касах – ▲ 1100-1400 м над уровнем моря. Одно из важных природных образований Котайкской области, расположенное в её южной и юго-западной частях, между Егвардской равниной и Разданским плато. Простирается вдоль среднего течения реки Касах, длиной около 10–15 км, шириной 2–3 км, занимая площадь около 30 км². Долина образовалась в результате эрозионной активности реки и имеет вид глубокого каньона, в зоне пересечения степных и лесных ландшафтов.",
+        "Долина реки Касах — ▲1100–1400 м над уровнем моря. Одно из важных природных образований Котайкской области, расположено в её южной и юго-западной части — между Ехвардской равниной и Разданским плато. Долина тянется вдоль среднего течения реки Касах на протяжении ~10–15 км, при средней ширине 2–3 км, занимая около 30 км². Образована в результате эрозионной деятельности реки и имеет глубокий каньонообразный характер, находясь в зоне перехода степных и лесных ландшафтов.",
       marz_aragacotn_nkaragir107:
         "Долина Шоржа – ▲ 1930 м, на северо-восточном берегу Севана, в долине реки Шоржа (Агакар).",
       marz_aragacotn_nkaragir108: "Водная система",
       marz_aragacotn_nkaragir109:
-        "Водная сеть Арагацотна слабо развита из-за абсорбирующих свойств лавовых слоев. Однако многочисленные холодные источники и быстротекущие горные реки вытекают из предгорий горы Арагац, из которых берет начало река Касах, бассейн которой является главной водной артерией региона.",
+        "Гидрографическая сеть Арагацотнской области развита слабо, что связано с высокой водопроницаемостью лавовых покровов. Однако у подножия горы Арагац формируется множество холодных горных источников и быстрых горных рек, питаемых снегами и осадками. Основным водным стержнем региона является река Касах, бассейн которой представляет собой главную водную артерию области.",
       marz_aragacotn_nkaragir110: "Водоразделы",
       marz_aragacotn_nkaragir111:
-        "Арагацкий массив является главным водоразделом, разделяющим западные реки (Талин, Араратская долина) и юго-восточные реки (Касах, Апаран). Водные ресурсы региона формируются за счет таяния снегов Арагаца, осадков и горных источников, обеспечивая богатые запасы питьевой воды.",
+        "Арагацкий горный массив является главным водоразделом области, разделяющим западные стоки (в сторону Талина и Араратской равнины) и юго-восточные стоки (бассейн рек Касах и Апаран). Водные ресурсы формируются за счёт снеготаяния Арагаца, атмосферных осадков и горных источников, обеспечивая значительные запасы питьевой воды.",
       marz_aragacotn_nkaragir112:
-        "Горные хребты Памбак и Цахкуняц обеспечивают водоразделы для северных и западных рек региона.",
+        "Памбакский и Цахкуняцкий хребты формируют водоразделы для северных и западных речных систем региона.",
       marz_aragacotn_nkaragir113:
-        "Также действуют системы ручья Мастара, ирригационного канала Арзни-Шамирам и канала Талин. Помимо природных вод, в регионе имеется 29 искусственных водохранилищ, крупнейшим из которых является Апаранское водохранилище (91 миллион м³) на Касах.",
+        "Также функционируют системы Мастаринского водоотводного канала, Арзни–Шамирамского ирригационного канала и Талинского канала. Помимо природных водных ресурсов, в области имеется 29 искусственных водохранилищ, крупнейшим из которых является Апаранское водохранилище (91 млн м³) на реке Касах.",
       marz_aragacotn_nkaragir114: "Реки",
       marz_aragacotn_nkaragir115:
-        "Касах — левый приток Мецамора, главной реки Арагацотна. Длина: 89 км, площадь водосбора: 1480 км², исток: с южных склонов гор Памбак.",
+        "Касах — левый приток реки Раздан (Мецаморской системы), главная река Арагацотнской области. Длина — 89 км, площадь бассейна — 1480 км². Истоки —▲ южные склоны Памбакских гор.",
       marz_aragacotn_nkaragir116:
-        "Притоки - Амберд, Ашнак, Гегарот, Гарновит, Гехадзор, Даштак Джур, Цахкаовит, Манташ, Шамирам, сель, Шагвард и др.",
+        "Притоки: Амберд, Ашнак, Гехарот, Гарнховит, Гехадзор, Даштаки джур, Цахкаховит, Манташ, Шамирами селав, Шахвард и др.",
       marz_aragacotn_nkaragir117:
-        "Амберд - правый приток Касаха. Длина: 36 км, Источник: ▲3700 м, южные склоны горы. Арагац. Поток: смешанный (снегопад, грунтовые воды).",
+        "Амберд — правый приток Касаха. Длина — 36 км, исток — ▲3700 м, южные склоны Арагаца. Питание смешанное (снегово-дождевое, подземное).",
       marz_aragacotn_nkaragir118:
-        "Ашнак – левый приток селя Мастары. Длина: 33/38 км, Источник: ▲юго-западные склоны горы Арагац. Поток: родник.",
+        "Ашнак — левый приток Мастаринского селава. Длина — 33–38 км, истоки — ▲юго-западные склоны Арагаца. Весенний режим стока.",
       marz_aragacotn_nkaragir119:
-        "Арагет – Правый приток Раздана. Длина: 17 км. Источник: ▲2700 м, южные склоны гор Цахкуняц. Поток: Снегопад.",
+        "Араге́т — правый приток реки Раздан. Длина — 17 км, исток — ▲2700 м, южные склоны Цахкуняцкого хребта. Снегово-дождевое питание.",
       marz_aragacotn_nkaragir120:
-        "Аркашен – левый приток Амберда. Длина: 13 км. Источник: ▲Западный берег озера Кари, склоны горы Арагац. Сток: Таяние снега.",
+        "Аркашен — левый приток Амберда. Длина — 13 км, исток — ▲западное побережье озера Кари, склоны Арагаца. Снеговое питание.",
       marz_aragacotn_nkaragir121:
-        "Базмаберд – Правый приток селя Шамирам. Длина: 18 км. Источник: ▲Юго-западные склоны Арагаца. Сток: Родник.",
+        "Базмаберд — правый приток Шамирами селава. Длина — 18 км, истоки — ▲юго-западные склоны Арагаца. Весенний режим.",
       marz_aragacotn_nkaragir122:
-        "Гарнховит – левый приток Каркачана. Длина: 35 км, Источник: ▲ Западные склоны Арагаца. Сток: Снегопад.",
+        "Гарнховит — левый приток Каркача́на. Длина — 35 км, истоки — ▲западные склоны Арагаца. Снегово-дождевое питание. ",
       marz_aragacotn_nkaragir123:
-        "Гехадзор – левый приток Каркачана. Длина: 34 км, Источник: ▲3300 м, северные склоны Арагаца. Поток: Снегопад.",
+        "Гехадзор — левый приток Каркача́на. Длина — 34 км, истоки — ▲3300 м, северные склоны Арагаца.",
       marz_aragacotn_nkaragir124:
-        "Гегарот – правый приток Касаха. Длина: 25 км, Источник: ▲3600 м, восточные склоны Арагаца. Поток: Талая вода (69%)",
+        "Гехарот — правый приток Касаха. Длина — 25 км, истоки — ▲3600 м, восточные склоны Арагаца. Преобладает талое питание.",
       marz_aragacotn_nkaragir125:
-        "Даштак Джур – левый приток Карахпюра (начало Касаха). Длина: 25 км, Источник: ▲Северные склоны Арагаца. Сток: из талых вод.",
+        "Даштаки джур — левый приток Каркарчана (верховья Касаха). Длина — 25 км, истоки — ▲ северные склоны Арагаца. Питание — снеговое.",
       marz_aragacotn_nkaragir126:
-        "Дианидзор – Правый приток селя Шамирам. Длина: 19 км, Источник: ▲Южные склоны Арагаца. Поток: родниковый, временный.",
+        "Дианидзор — правый приток Шамирами селава. Длина — 19 км, истоки — ▲южные склоны Арагаца. Временный весенний водоток.",
       marz_aragacotn_nkaragir127:
-        "Енго – Правый приток Касаха. Длина: 20 км. Источник: ▲Юго-восточные склоны Арагаца. Сток: талая вода.",
+        "Енго — правый приток Касаха. Длина — 20 км, истоки —▲ юго-восточные склоны Арагаца. Талое питание.",
       marz_aragacotn_nkaragir128:
-        "Зугахбюр – правый приток Шахварда. Длина: 18 км, Источник: ▲Южные склоны Арагаца, в южной части села Парпи.",
+        "Зугагбюр — правый приток Шахварда. Длина — 18 км, истоки — ▲южные склоны Арагаца, южнее села Парпи.",
       marz_aragacotn_nkaragir129:
-        "Талыш – нерестилище селя Шамирам. Длина: 24 км, Источник: ▲Южные склоны Арагаца. Протекает в районе Талина и Аштарака.",
+        "Талиш — приток Шамирами селава. Длина — 24 км, истоки —▲ южные склоны Арагаца. Проходит через районы Талина и Аштарака",
       marz_aragacotn_nkaragir130:
-        "Цахкаовит – левый приток воды Даштака. Длина: 20 км, Источник: ▲Северные склоны Арагаца.",
+        "Цахкаховит — левый приток Даштаки джура. Длина — 20 км, истоки —▲ северные склоны Арагаца.",
       marz_aragacotn_nkaragir131:
-        "Цахкашат – Бассейн Апаранского водохранилища. Длина: 20 км, Источник: ▲восточные склоны Арагаца.",
+        "Цахкашат — бассейн Апаранского водохранилища. Длина — 20 км, истоки — ▲восточные склоны Арагаца.",
       marz_aragacotn_nkaragir132:
-        "Катнахпюр – левый приток селя Мастары. Длина: 40 км, Источник: ▲юго-западные склоны Арагаца. Поток: временный, весенний.",
+        "Катнагбюр — левый приток Мастаринского селава. Длина — 40 км, истоки — ▲ юго-западные склоны Арагаца. Весенний временный сток.",
       marz_aragacotn_nkaragir133:
-        "Селевой поток Мастара – приток Мецамора. Длина: 98 км, Источник: ▲2500 м, юго-западные склоны Арагаца. Питание: снегово-дождевое, течение: родниковое.",
+        "Мастаринский селав — приток реки Раздан (Мецаморской системы). Длина — 98 км, истоки — ▲2500 м, юго-западные склоны Арагаца. Весеннее снегово-дождевое питание.",
       marz_aragacotn_nkaragir134:
-        "Шагвард – правый приток Касаха. Длина: 28 км. Источник: ▲Юго-восточные склоны Арагаца. Течение: через села Парпи и Базмагбюр.",
+        "Шахвард — правый приток Касаха. Длина — 28 км, истоки — юго-восточные склоны Арагаца.",
       marz_aragacotn_nkaragir135:
-        "Сель Шамирами – левый приток Армавирского канала. Длина: 40 км, Источник: ▲Юго-западные склоны Арагаца. Поток: родниковый, временный.",
+        "Шамирами селав — левый приток Армавирского канала. Длина — 40 км, истоки — ▲юго-западные склоны Арагаца. Временный весенний водоток.",
       marz_aragacotn_nkaragir136:
-        "Сасунашен – приток селевого потока Мастара. Длина: 22 км, Источник: ▲Юго-западные склоны Арагаца. Поток: родник.",
+        "Сасунашен — приток Мастаринского селава. Длина — 22 км, истоки —▲ юго-западные склоны Арагаца.",
       marz_aragacotn_nkaragir137:
-        "Карахбюр – Правый приток реки Даштак (начало Касаха). Длина: 25 км, Источник: ▲Южные склоны гор Памбак.",
-      marz_aragacotn_nkaragir138: "Пружины",
+        "Карагбюр — правый приток Даштаки джура (верховья Касаха). Длина — 25 км, истоки — ▲южные склоны Памбакских гор.",
+      marz_aragacotn_nkaragir138: "Источники",
       marz_aragacotn_nkaragir139:
-        "Апаранские источники – питают долины Апарана и Памбака",
+        "Апаранские источники — питают Апаранскую и Памбакскую долины.",
       marz_aragacotn_nkaragir140:
-        "Талинские источники – родники на Талинском плато",
+        "Талинские источники — расположены на Талинском плато.",
       marz_aragacotn_nkaragir141:
-        "Истоки реки Касах – берут начало в горах Арагац",
+        "Источники реки Касах — берут начало на склонах горы Арагац.",
       marz_aragacotn_nkaragir142:
-        "Источники Манташа и Гегарота – небольшие ручьи, пруды, питающие большие реки",
+        "Источники Манташ и Гехарот — образуют небольшие ручьи и водоёмы, питающие крупные реки региона.",
       marz_aragacotn_nkaragir143:
-        "Источники склонов Арагаца – природные источники, берущие свое начало в высокогорье",
+        "Источники склонов Арагаца — природные высокогорные источники, берущие начало в верхних зонах горы.",
       marz_aragacotn_nkaragir144: "Водопады",
       marz_aragacotn_nkaragir145:
-        "Водопад Касах – Высота ≈ 25–30 м, ▲ ≈ 1570 м БСП Общая глубина ущелья (сверху вниз) ▼ ≈ 70 м На реке Касах, в ущелье Касах, напротив Хованнаванк.",
+        "Касахский водопад — высота ≈ 25–30 м, ▲≈1570 м над уровнем моря Глубина каньона ▼≈70 м Расположен на реке Касах, в Касахском каньоне, напротив монастыря Ованнаванк.",
       marz_aragacotn_nkaragir146:
-        "Водопад Гегарот – высота ≈ 17-20 м, ▲ ≈3000 м BSP. Глубина ущелья (сверху вниз) – ▼ ≈ 60 м. На юго-западном склоне горы Арагац, в верховьях притока Гегарот реки Касаг, в 12 км к северо-западу от деревни Арагац.",
+        "Гехаротский водопад — высота ≈ 17–20 м, ▲≈3000 м над уровнем моря Глубина ущелья ▼≈60 м Южно-западный склон горы Арагац, на верхнем течении притока Касаха — Гехарот, примерно в 12 км северо-западнее села Арагац.",
       marz_aragacotn_nkaragir147: "Озера",
       marz_aragacotn_nkaragir148:
-        "Хеттский ландшафт массива Арагац дополнительно украшен живописными горными озерами, среди которых есть и безымянные озера. В основном это небольшие ледниковые озера между вершинами Арагац.",
+        "Плато Арагацкого горного массива украшают живописные высокогорные озёра ледникового происхождения. Многие из них расположены в мозаике небольших котловин между вершинами Арагаца.",
       marz_aragacotn_nkaragir149:
-        "Кари Лич – ▲ 3207 м, ◯ 0,12 км², ▼ ~ 8 м на склоне горы Арагац, на подледниковом плато",
+        "Озеро Кари (Кари лич) — ▲3207 м, ◯0,12 км², ▼~8 м Склоны горы Арагац, привершинное плато.",
       marz_aragacotn_nkaragir150:
-        "Амберд (озеро) – ▲ 3220 м, ◯ 0,17 км², ▼ ~ 1,7 м  на юго-западе подледникового плато Арагац",
+        "Озеро Амберд — ▲3220 м, ◯0,17 км², ▼~1,7 м Юго-западная часть привершинного плато Арагаца.",
       marz_aragacotn_nkaragir151:
-        "Озеро Астгкан – ▲ 3116 м, ◯ 1,04 га ▼ ~ 8 м на склонах Арагаца, на северном склоне, на правом берегу реки Даштак Джур, 15 км. юго-восточнее села Мец Манташ.",
+        "Озеро Астхик (Астхкан лич) — ▲3116 м, ◯1,04 га, ▼~8 м Северный склон Арагаца, бассейн реки Даштаки джур, ~15 км от села Мец Манташ.",
       marz_aragacotn_nkaragir152:
-        "Озеро Мтналич – ▲ 3446 м, ◯ 0,7 га ▼ ~ 8 м на северном склоне под самой высокой вершиной Арагаца, на берегу реки Даштак Джур, в 15,2 км юго-восточнее села Мец Манташ.",
+        "Озеро Мтналич — ▲3446 м, ◯0,7 га, ▼~8 м Под вершиной Арагаца, северный склон.",
       marz_aragacotn_nkaragir153:
-        "Озеро Карасунк – ▲ 2862 м, ◯ 0,1 га ▼ ~ м в северной части Арагаца, в 5,5 км к юго-востоку от села Гехадзор.",
+        "Озёра Карасунк — ▲2862 м, ◯0,1 га Северная часть Арагаца, район села Гехадзор.",
       marz_aragacotn_nkaragir154:
-        "Озеро Лессинг – ▲ 3200 м, ◯ 1,6 га ▼ ~ 2,5 м на северо-восточном склоне массива Арагац, от села Цахкашен",
+        "Озеро Лессинг — ▲3200 м, ◯1,6 га, ▼~2,5 м Северо-восточный склон Арагацкого массива, ~8 км от села Цахкашен.",
       marz_aragacotn_nkaragir155:
-        "Озеро Умрой – ▲ 3050 м, ◯ 20 га ▼ ~ м – самое большое озеро Арагаца. На восточном склоне Арагацкого массива, в 8 км к северо-западу от села Цахкашен.",
+        "Озеро Умрой — ▲3050 м, ◯20 га Восточный склон Арагаца, крупнейшее озеро массива.",
       marz_aragacotn_nkaragir156:
-        "Курахбюр – ▲ 2985 м, ◯ 0,1 км², ▼ ~ 2,5 м на северо-восточном склоне массива Арагац",
+        "Озеро Курагбюр — ▲2985 м, ◯0,1 км², ▼~2,5 м Северо-восточный склон Арагаца.",
       marz_aragacotn_nkaragir157:
-        "Егналиич – ▲ 3016м, ◯ 0,1 км², ▼ ~ м  На северо-восточном склоне массива Арагац",
+        "Озеро Егналич — ▲3016 м, ◯0,1 км² Северо-восточный склон Арагаца.",
       marz_aragacotn_nkaragir158:
-        "Озеро Мирак – ▲ 2050 м, ◯ 0,5 км², ▼ ~ м  На правом берегу реки Касах, на высоте 2050 м над уровнем моря, в 4 км юго-западнее села Мелик",
+        "Озеро Мирак — ▲2050 м, ◯0,5 км² Правобережье реки Касах, ~4 км юго-западнее села Меликгюх.",
       marz_aragacotn_nkaragir159:
-        "Озеро Хортахегд – ▲ 3317 м, ◯ 1,2 га ▼ ~ м. На восточном склоне массива Арагац, в 13 км к юго-востоку от села Гехадзор",
+        "Озеро Хортахехт — ▲3317 м, ◯1,2 га Восточный склон Арагаца, ~13 км юго-восточнее села Гехадзор.",
       marz_aragacotn_nkaragir160:
-        "Сайлалич – ▲ 3148 м, ◯ 0,4 га ▼ ~ м на западном склоне Массив Арагац",
+        "Озеро Сайлалич — ▲3148 м, ◯0,4 га Западный склон Арагацкого массива.",
       marz_aragacotn_nkaragir161: "Водохранилища",
       marz_aragacotn_nkaragir162:
-        "В регионе 29 искусственных водохранилищ, из которых",
+        "В области насчитывается 29 искусственных водохранилищ, среди которых:",
       marz_aragacotn_nkaragir163:
-        "Водохранилище Апаран – ▲ 1850 м, ◯ 7,9 км², ▼ ~ 50 м 91 миллион м³. Построено в 1962-1967 годах. В верховьях реки Касаг. Вода используется в основном для орошения. В водохранилище разводят рыбу, основными видами являются местный лещ, севанская форель, сиг, а в последнее время и раки. В окрестностях есть зоны отдыха. Между деревнями Кучак и Египатруш. ",
+        "Апаранское водохранилище — ▲1850 м, ◯7,9 км², ▼~50 м, 91 млн м³ Построено в 1962–1967 гг. на верхнем течении реки Касах. Вода используется главным образом для орошения. В водохранилище ведётся рыбоводство (карповые, сазан, сиг, форель, а также в последние годы — пресноводный рак). Расположено между сёлами Кучак и Ехипатруш. Также вокруг находятся зоны отдыха.",
       marz_aragacotn_nkaragir164:
-        "Лернапарское водохранилище – ▲ 2100 м, 1,2 млн м³ село Лернапар.",
+        "Лернапарское водохранилище — ▲2100 м, 1,2 млн м³ Село Лернапар.",
       marz_aragacotn_nkaragir165:
-        "Какавадзорское водохранилище – ▲ 2000 м, ◯ 0,14 км², ▼ ~ 35 м 1 млн м³ Построено в 1986 году. Воды используются для ирригационных целей. 15 км к востоку от города Талин",
+        "Каквадзорское водохранилище — ▲2000 м, ◯0,14 км², ▼~35 м, 1 млн м³ Построено в 1986 г., используется для орошения. В 15 км к востоку от города Талин.",
       marz_aragacotn_nkaragir166:
-        "Халаварское водохранилище – ▲ 2030 м, ◯ 0,46 км², ▼ ~ 8 м 5,5 млн м³ Построено в 1981 году. ,На озере Мирак. Воды используются для ирригационных целей. водохранилище села Мелик. В 8 км восточнее села Цахкаовит.",
+        "Халаварское водохранилище — ▲2030 м, ◯0,46 км², ▼~8 м, 5,5 млн м³ Построено в 1981 г. на базе озера Мирок. Используется для орошения. В 8 км к востоку от села Цахкаховит (район Мелик-гюха).",
       marz_aragacotn_nkaragir167:
-        "Неркин-Саснашенское водохранилище – построено в 1963 году.▲ 1770 м, ◯ 0,18 км², ▼ ~ 6,5 м 1,15 млн м³ возле села Неркин-Саснашен.",
+        "Водохранилище Нижний Саснашен — ▲1770 м, ◯0,18 км², ▼~6,5 м, 1,15 млн м³ Построено в 1963 г. Около села Нижний Саснашен.",
       marz_aragacotn_nkaragir168: "Исторические каналы",
       marz_aragacotn_nkaragir169:
-        "Исторический канал Менуа длиной около 70 км, построенный из гигантских циклопических камней, считается одной из жемчужин армянского гидронаследия (9 век до н.э.) и до сих пор сохраняет свою функцию.",
-      marz_aragacotn_nkaragir170: "Шахты и месторождения",
+        "Канал Менуа (Менуа-канал) проходит по территории области и является одним из древнейших гидротехнических сооружений региона.Его длина составляет около 70 км. Построен из крупных циклопических камней (IX век до н.э.). Считается жемчужиной армянского гидротехнического наследия и до сих пор частично сохраняет свою функцию.",
+      marz_aragacotn_nkaragir170: "Рудники и месторождения",
       marz_aragacotn_nkaragir171:
-        "Подпочва Арагацотна богата минералами: разноцветными туфами, андезитом, базальтом, перлитом, вулканическим шлаком, которые служат высококачественными строительными материалами.",
+        "Основные строительные материалы: туф различных оттенков, андезит, базальт, перлит, вулканический шлак, используемые в строительной индустрии.",
       marz_aragacotn_nkaragir172:
-        "Среди добываемых минералов — серебро (Ag), золото (Au), обсидиан (Арагацаван) и другие месторождения.",
-      marz_aragacotn_nkaragir173: "Есть также неразработанные месторождения.",
-      marz_aragacotn_nkaragir174: "ЭКОНОМИКА.",
+        "Металлические и редкие ресурсы: месторождения золота (Au) и серебра (Ag), а также проявления других металлов. Обсидиан добывается в районе Арагацаван и используется как декоративный и поделочный камень.",
+      marz_aragacotn_nkaragir173:
+        "В области также имеются перспективные, но пока неразработанные месторождения. ",
+      marz_aragacotn_nkaragir174: "ЭКОНОМИКА",
       marz_aragacotn_nkaragir175:
-        "Арагацотнская область — один из наиболее развитых регионов Армении. Основные отрасли экономики, промышленность и сельское хозяйство, доминируют в общей структуре экономики объем.",
+        "Арагацотнская область является одним из наиболее развитых регионов Армении. Основными отраслями экономики являются промышленность и сельское хозяйство, которые занимают ведущую долю в общем объёме производства.",
       marz_aragacotn_nkaragir176: "Промышленность",
       marz_aragacotn_nkaragir177:
-        "Промышленный сектор региона специализируется на:",
+        "Промышленный сектор области специализируется на:",
       marz_aragacotn_nkaragir178:
-        "Эксплуатация рудников строительных материалов",
-      marz_aragacotn_nkaragir179: "Производство драгоценных предметов,",
+        "добыче и переработке строительных материалов,",
+      marz_aragacotn_nkaragir179:
+        "производстве ювелирных изделий и продукции высокой ценности,",
       marz_aragacotn_nkaragir180:
-        "Производство продуктов питания и напитков (мяса, мясопродуктов, фруктов, овощей, молочной продукции, переработка винограда, виноматериала).",
+        "производстве пищевых продуктов и напитков (мясо и мясные изделия, фрукты, овощи, молочная продукция, переработка винограда и виноматериалы).",
       marz_aragacotn_nkaragir181:
-        "В области зарегистрировано 4211 действующих предприятий, в том числе",
-      marz_aragacotn_nkaragir182: "77 производство,",
-      marz_aragacotn_nkaragir183: "562 коммерческих организации.",
+        "В области зарегистрировано 4211 действующих предприятий, включая:",
+      marz_aragacotn_nkaragir182: "77 производственных организаций,",
+      marz_aragacotn_nkaragir183: "562 торговые компании.",
       marz_aragacotn_nkaragir184:
-        "Производственные центры: Аштарак, Апаран, Талин.",
+        "Основные промышленные центры: Аштарак, Апаран, Талин.",
       marz_aragacotn_nkaragir185:
-        "Известные предприятия продуктов питания и напитков.",
-      marz_aragacotn_nkaragir186: "Аштаракские вина",
-      marz_aragacotn_nkaragir187: "Аштарак-яйцо и Аштарак-молоко",
-      marz_aragacotn_nkaragir188: "Апаранский сырный завод",
-      marz_aragacotn_nkaragir189: "ЗАО «Тамара Фрут»",
+        "Известные предприятия пищевой и винодельческой отрасли",
+      marz_aragacotn_nkaragir186: "«Аштаракские вина»",
+      marz_aragacotn_nkaragir187: "«Аштарак-Яйцо» и «Аштарак-Молоко»",
+      marz_aragacotn_nkaragir188: "«Апаранский сырный завод»",
+      marz_aragacotn_nkaragir189: "«Тамара Фрут» ЗАО",
       marz_aragacotn_nkaragir190:
-        "Винные компании «Ван Арди» и «Голден Грейп Армас»",
-      marz_aragacotn_nkaragir191: "«Хаяси Группа» ОАО",
+        "винодельческие компании «Van Ardi» и «Golden Grape ArmAs»",
+      marz_aragacotn_nkaragir191: "«Hayasy Group» ЗАО",
       marz_aragacotn_nkaragir192: "Сельское хозяйство",
       marz_aragacotn_nkaragir193:
-        "Сельское хозяйство в основном специализируется на растениеводстве и животноводстве.",
+        "Сельское хозяйство области в основном специализируется на растениеводстве и животноводстве.",
       marz_aragacotn_nkaragir194: "Растениеводство",
       marz_aragacotn_nkaragir195:
-        "Производство зерновых культур, многолетних насаждений, кормовых культур",
-      marz_aragacotn_nkaragir196: "Выращивание картофеля и овощей",
-      marz_aragacotn_nkaragir197:
-        "Выращивание фруктовых и виноградных плантаций",
+        "выращивание зерновых культур, многолетних насаждений и кормовых культур",
+      marz_aragacotn_nkaragir196: "производство картофеля и овощей",
+      marz_aragacotn_nkaragir197: "развитие садоводства и виноградарства",
       marz_aragacotn_nkaragir198: "Животноводство",
       marz_aragacotn_nkaragir199:
-        "Развитию животноводства, животноводства и молочного производства, чему способствуют склоны Арагаца, являющиеся прекрасными высокогорными пастбища",
+        "животноводство и производство молочной продукции,	развитие мясного и молочного скотоводства, важную роль играют склоны Арагаца, которые служат высококачественными альпийскими пастбищами, способствующими развитию животноводства в регионе",
       marz_aragacotn_nkaragir200: "НАУКА",
       marz_aragacotn_nkaragir201:
-        "Арагацотнская область – крупный научный и образовательный центр республики.",
+        "Арагацотнская область является одним из крупнейших научно-образовательных центров Армении.",
       marz_aragacotn_nkaragir202:
-        "Аштаракский регион – 6 научно-исследовательских институтов Академии наук РА, в том числе",
+        "В Аштраке действуют 6 научно-исследовательских институтов Национальной академии наук РА, включая:",
       marz_aragacotn_nkaragir203:
         "Институт физических исследований радиофизики и электроники",
       marz_aragacotn_nkaragir204:
         "Институт физических исследований имени М. Тер-Микаеляна",
       marz_aragacotn_nkaragir205:
-        "Научно-производственное объединение 'Транзистор'",
+        "Научно-производственное объединение «Транзистор»",
       marz_aragacotn_nkaragir206:
-        "Научно-производственное объединение оптических измерителей угловых и линейных перемещений.",
+        "Научно-производственное объединение оптических угловых и линейных измерительных приборов",
       marz_aragacotn_nkaragir207:
-        "БАО – Бюраканская обсерватория – основана Виктором Амбарцумяном, 1946г.",
+        "Обсерватория основана в 1946 году академиком Виктором Амбарцумяном.",
       marz_aragacotn_nkaragir208:
         "Высотная станция «Арагац» - основана в 1943 году стараниями Артема Алиханяна.",
-      marz_aragacotn_nkaragir209: "Бюраканская обсерватория,",
+      marz_aragacotn_nkaragir209: "Бюраканская астрофизическая обсерватория",
       marz_aragacotn_nkaragir210:
-        "В селе Бюракан Арагацотнской области, на склонах горы Арагац, расположено одно из самых известных научных сооружений Армении, БАО – Бюраканская обсерватория, являющаяся выдающимся обсерватория.",
+        "В селе Бюракан, на склоне горы Арагац, расположена одна из самых известных научных организаций Армении — Бюраканская астрофизическая обсерватория (BAO).",
       marz_aragacotn_nkaragir211:
-        "БАО принадлежит Академии наук Республики Армения и управляется ее средствами.",
+        "Она относится к Национальной академии наук Армении и финансируется государством.",
       marz_aragacotn_nkaragir212:
-        "БАО считается одной из важнейших обсерваторий Восточной Европы и Ближнего Востока. Она продолжает работать как международный научно-исследовательский центр.",
-      marz_aragacotn_nkaragir213: "Станция 'Арагац'",
+        "BAO считается одним из ведущих астрономических центров Восточной Европы и Ближнего Востока и продолжает активно участвовать в международных исследованиях.",
+      marz_aragacotn_nkaragir213: "Станция «Арагац»",
       marz_aragacotn_nkaragir214:
-        "Высотная станция Арагац была создана вблизи озера Кари, на высоте 3200 м над уровнем моря, для изучения космических лучей. Она была создана в 1943 году стараниями Артема Алиханяна",
+        "Высокогорная научная станция «Арагац» расположена в районе озера Кари, на высоте около 3200 м над уровнем моря. Основана в 1943 году усилиями академика Артёма Алиханяна.",
       marz_aragacotn_nkaragir215:
-        "Рядом с озером Кари, на высоте 3200 м, находится высотная научная станция, «Арагац», основанный в 1943 году Артемом Алиханяном. Он занимается постоянным наблюдением космических лучей",
+        "Предназначена для изучения космических лучей и ведения постоянных наблюдений. Станция остаётся действующим научным объектом международного значения. ",
       marz_aragacotn_nkaragir216: "ОБРАЗОВАНИЕ",
       marz_aragacotn_nkaragir217:
-        "В Арагацотнской области действует хорошо развитая система образования.",
-      marz_aragacotn_nkaragir218: "122 общеобразовательных учреждения",
+        "В Арагацотнской области действует развитая система образования:",
+      marz_aragacotn_nkaragir218: "122 общеобразовательные школы",
       marz_aragacotn_nkaragir219: "1 специальная школа",
       marz_aragacotn_nkaragir220: "28 дошкольных учреждений",
       marz_aragacotn_nkaragir221:
-        "10 школ музыки, искусства, изобразительного искусства и детско-юношеских творческих центров",
+        "10 музыкальных, художественных и творческих школ, а также центры детско-юношеского творчества",
       marz_aragacotn_nkaragir222:
-        "2 государственных начальных профессиональных образовательных учреждения",
+        "2 государственных учреждения начального профессионального образования",
       marz_aragacotn_nkaragir223:
-        "1 государственное среднее профессиональное образовательное учреждение",
+        "1 государственное учреждение среднего профессионального образования",
       marz_aragacotn_nkaragir224:
-        "Спортивные школы есть в городах области: в Аштараке, Талине, Апаране, а также в селе Кучак",
+        "В городах области работают спортивные школы: в Аштараке, Талине, Апаране, а также в селе Кучак",
       marz_aragacotn_nkaragir225: "Библиотеки",
-      marz_aragacotn_nkaragir226: "Есть 71 библиотека, из них:",
-      marz_aragacotn_nkaragir227: "1 региональный,",
-      marz_aragacotn_nkaragir228: "3 городских,",
-      marz_aragacotn_nkaragir229: "65 сельских,",
+      marz_aragacotn_nkaragir226:
+        "В области функционирует 71 библиотека, включая:",
+      marz_aragacotn_nkaragir227: "1 областную",
+      marz_aragacotn_nkaragir228: "3 городские",
+      marz_aragacotn_nkaragir229: "65 сельских",
       marz_aragacotn_nkaragir230: "КУЛЬТУРА",
       marz_aragacotn_nkaragir231:
-        "Театры Аштарака, Апарана, Талина – местные спектакли и концерты.",
+        "театры в Аштараке, Апаране и Талине с местными постановками и концертами",
       marz_aragacotn_nkaragir232:
-        "Музыкальные и художественные центры – творческие курсы, галереи и выставки.",
+        "музыкальные и художественные центры, галереи и выставочные площадки",
       marz_aragacotn_nkaragir233:
-        "Музеи и выставки – история Арагацотна, культурное наследие, сувениры.",
+        "музеи и экспозиции, посвящённые истории и культурному наследию области",
       marz_aragacotn_nkaragir234:
-        "Фестивали и культурные мероприятия – местные праздники, фестивали музыки и искусства для посетителей.",
-      marz_aragacotn_nkaragir235: "Музеи.",
+        "фестивали и культурные мероприятия, открытые для жителей и туристов.",
+      marz_aragacotn_nkaragir235: "Музеи",
       marz_aragacotn_nkaragir236:
-        "Музей истории Аштарака – краеведение, сувениры, фотографии, археологические находки.",
+        "Музей истории Аштарака — местная история, археологические находки, фотографии",
       marz_aragacotn_nkaragir237:
-        "Музей истории Апарана – культурно-историческое наследие региона.",
+        "Музей истории Апарана — культурное и историческое наследие региона",
       marz_aragacotn_nkaragir238:
-        "Талинский краеведческий музей – археологические материалы, народное искусство, экспонаты сельской жизни.",
+        "Региональный музей Талина — археология, народное искусство, сельский быт",
       marz_aragacotn_nkaragir239:
-        "Музей Геворга Чауша – национальный герой Армении, исторические экспонаты.",
+        "Музей Геворга Чауша — материалы о национальном герое Армении",
       marz_aragacotn_nkaragir240:
-        "Музей Перча Прошяна – памятник выдающемуся человеку, рукописи, фотографии.",
+        "Музей Перча Прошяна — рукописи, фотографии и мемориальные экспонаты",
       marz_aragacotn_nkaragir241:
-        "Музей истории вина – первый музей истории вина на территории Республики Армения, где представлена ​​6000-летняя история армянского виноделия и 8000-летняя история садоводства.",
+        "Музей истории вина — первый винный музей в Армении, представляющий 6000-летнюю историю виноделия и 8000-летнюю историю садоводства",
       marz_aragacotn_nkaragir242:
-        "Сельские общественные музеи – традиции, ремесла, сувениры в местных сообщества.",
+        "Сельские общинные музеи — традиции, ремёсла, локальное наследие",
       marz_aragacotn_nkaragir243:
-        "Музей шоколада – выставочный зал-музей шоколадной марки «Гурмэ-Дурме» в Аштараке, где посетители знакомятся как со вкусом, так и с историей шоколада.",
+        "Музей шоколада («Gourme Dourme») — выставочный зал-музей в Аштараке, где посетители знакомятся с историей и процессом производства шоколада",
       marz_aragacotn_nkaragir244: "ТУРИЗМ",
       marz_aragacotn_nkaragir245:
-        "Арагацотн не входит в число самых популярных туристических направлений в Армении, но регион обладает исключительными возможностями для развития природного, историко-культурного, приключенческого и научного туризма. Туристические преимущества региона есть.",
-      marz_aragacotn_nkaragir246: "Доступно из Еревана примерно за 1 час",
+        "Арагацотнская область не входит в число самых известных туристических направлений Армении, однако обладает исключительным потенциалом для развития природного, историко-культурного, приключенческого и научного туризма.Основные преимущества области:",
+      marz_aragacotn_nkaragir246: "расстояние от Еревана — около 1 часа пути",
       marz_aragacotn_nkaragir247:
-        "Районный центр Аштарак находится в 20 км от Еревана.",
-      marz_aragacotn_nkaragir248: "Натуральный памятники",
+        "город Аштарак расположен всего в 20 км от столицы",
+      marz_aragacotn_nkaragir248: "Природные памятники",
       marz_aragacotn_nkaragir249:
-        "Окрестности горы Арагац – красивые горы, родники, водопады",
+        "окрестности горы Арагац — живописные горные ландшафты, источники, водопады",
       marz_aragacotn_nkaragir250:
-        "Арагацкий государственный высокогорный заповедник: на высоте 3200–3500 м, центр приключений и экотуризма",
+        "государственный альпийский заказник Арагаца (3200–3500 м) — центр приключенческого и экотуризма",
       marz_aragacotn_nkaragir251:
-        "Памятники природы: «Базальтовое солнце», озеро Кари и др.",
+        "природные памятники: «Базальтовое солнце», озеро Кари и др.",
       marz_aragacotn_nkaragir252:
-        "Природа Апаранского водохранилища и верховьев реки Касах как объект экотуризма",
-      marz_aragacotn_nkaragir253: "Ущелье Касах и руины.",
-      marz_aragacotn_nkaragir254: "Историко-культурный памятники",
+        "природа Апаранского водохранилища и верхнего течения реки Касах как экотуристические зоны",
+      marz_aragacotn_nkaragir253: "Касахское ущелье и его скальные террасы.",
+      marz_aragacotn_nkaragir254: "Историко-культурные памятники",
       marz_aragacotn_nkaragir255:
-        "Регион Арагацотн богат древними и средневековыми крепостями, монастырскими комплексами и церквями.",
+        "Арагацотнская область богата древними и средневековыми крепостями, монастырями и храмами:",
       marz_aragacotn_nkaragir256:
-        "Крепость Амберд (VII-XIII вв.) – построенная на склоне горы Арагац на высоте 2300 м, мощная крепость стратегического значения.",
+        "Крепость Амберд (VII–XIII вв.) — расположена на склоне Арагаца на высоте около 2300 м, мощный стратегический комплекс",
       marz_aragacotn_nkaragir257:
-        "Талинский собор (VII век) – один из шедевров раннесредневековой армянской архитектуры.",
+        "Талинский кафедральный собор (VII в.) — шедевр раннесредневековой армянской архитектуры",
       marz_aragacotn_nkaragir258:
-        "Артикская церковь Св. Григория (VII век) – строение типа базилики.",
+        "Церковь Св. Григория в Артике (VII в.) — базилика",
       marz_aragacotn_nkaragir259:
-        "Сагмосаванк (XII-XIII вв.) – монастырский комплекс на берегу реки Варденис. ущелье.",
+        "Монастырь Сагмосаванк (XII–XIII вв.) — на краю ущелья реки Ворданис",
       marz_aragacotn_nkaragir260:
-        "Оганаванк (XII-XIII вв.) – монастырский комплекс, построенный на краю ущелья реки Касах.",
+        "Монастырь Ованнаванк (XII–XIII вв.) — на краю Касахского ущелья",
       marz_aragacotn_nkaragir261:
-        "Маленькая церковь в Таллинне (VII век) – уникальный памятник архитектуры.",
+        "Малая церковь Талина (VII в.) — уникальный архитектурный памятник",
       marz_aragacotn_nkaragir262:
-        "Церковь Св. Месропа Маштоца в Ошакане (V век) – где захоронены мощи Маштоца.",
+        "Церковь Св. Месропа Маштоца в Ошакане (V в.) — место захоронения великого просветителя",
       marz_aragacotn_nkaragir263:
-        "Старая церковь в Касахе (IV-V вв.) – одно из древних христианских святилищ.",
+        "Древняя церковь Касаха (IV–V вв.) — один из раннехристианских памятников",
       marz_aragacotn_nkaragir264:
-        "Археологические руины в районе Бюраканской обсерватории.",
-      marz_aragacotn_nkaragir265: "Виды туризма.",
+        "Археологические руины на территории Бюраканской астрофизической обсерватории.",
+      marz_aragacotn_nkaragir265: "Виды туризма",
       marz_aragacotn_nkaragir266:
-        "Арагацотнская область имеет большой потенциал для развития многих видов туризма.",
-      marz_aragacotn_nkaragir267: "Приключение / Альпинизм",
-      marz_aragacotn_nkaragir268: "Экотуризм",
-      marz_aragacotn_nkaragir269: "Исторический и культурный туризм",
-      marz_aragacotn_nkaragir270: "Гастрономия / Виноделие",
-      marz_aragacotn_nkaragir271: "Научный (Бюракан, станция Арагац)",
-      marz_aragacotn_nkaragir272: "Этнический туризм",
-      marz_aragacotn_nkaragir273: "Агротуризм",
-      marz_aragacotn_nkaragir274: "Духовный туризм",
+        "Арагацотнская область обладает значительным потенциалом для развития различных видов туризма:",
+      marz_aragacotn_nkaragir267: "приключенческий / горный туризм",
+      marz_aragacotn_nkaragir268: "экотуризм",
+      marz_aragacotn_nkaragir269: "историко-культурный туризм",
+      marz_aragacotn_nkaragir270: "гастрономический / винный туризм",
+      marz_aragacotn_nkaragir271:
+        "научный туризм (Бюраканская обсерватория, станция «Арагац»)",
+      marz_aragacotn_nkaragir272: "этнографический туризм",
+      marz_aragacotn_nkaragir273: "агротуризм",
+      marz_aragacotn_nkaragir274: "религиозный туризм",
       marz_aragacotn_nkaragir275: "Туристическая инфраструктура",
       marz_aragacotn_nkaragir276:
-        "Около 10 гостинично-оздоровительных комплексов",
-      marz_aragacotn_nkaragir277: "Сельские пансионаты и сезонные зоны отдыха",
-      marz_aragacotn_nkaragir278: "Предприятия общественного питания",
-      marz_aragacotn_nkaragir279: "Местный гид услуги",
+        "около 10 гостиниц и туристических комплексов",
+      marz_aragacotn_nkaragir277:
+        "сельские гостевые дома и сезонные зоны отдыха",
+      marz_aragacotn_nkaragir278: "объекты общественного питания",
+      marz_aragacotn_nkaragir279: "услуги местных гидов",
       marz_aragacotn_nkaragir280: "ЛОГИСТИКА",
-      marz_aragacotn_nkaragir281: "Автомагистрали",
+      marz_aragacotn_nkaragir281: "Автомобильные дороги",
       marz_aragacotn_nkaragir282:
-        "Через Арагацотн проходят важные автомагистрали республиканского значения: Ереван-Гюмри (М-1), Ереван-Спитак (М-3), а также межгосударственная автомагистраль Север-Юг. Они соединяют регион как со столицей, так и с Грузией и Турцией",
-      marz_aragacotn_nkaragir283: "Железная дорога",
+        "Через Арагацотнскую область проходят важные автомагистрали республиканского значения: Ереван–Гюмри (М-1), Ереван–Спитак (М-3), Международная трасса Север–Юг. Эти дороги обеспечивают связь Арагацотна как со столицей, так и с направлениями на Грузию и Турцию",
+      marz_aragacotn_nkaragir283: "Железнодорожный транспорт",
       marz_aragacotn_nkaragir284:
-        "По территории Арагацотна проходит около 30 км главной железной дороги Армении, обеспечивающей грузовые и пассажирские перевозки в Гюмри и Ереван",
+        "Около 30 км главной железнодорожной линии Армении проходит через территорию области, обеспечивая грузовые и пассажирские перевозки между Ереваном и Гюмри.",
       marz_aragacotn_nkaragir285: "Воздушное сообщение",
       marz_aragacotn_nkaragir286:
-        "Ближайший к центру региона аэропорт — Международный аэропорт Звартноц (Ереван), расположенный примерно в 25–30 минутах езды.",
-      marz_aragacotn_nkaragir287: "Горные перевалы",
+        "Ближайший международный аэропорт к региону — «Звартноц» (Ереван), расположенный примерно в 25–30 минутах езды.",
+      marz_aragacotn_nkaragir287: "Перевалы",
       marz_aragacotn_nkaragir288:
-        "Через территорию Арагацотна проходит ряд важных горных перевалов (Амберд, Кари-Лих, Спитак), которые обеспечивают связь региона с соседними Лори, Котайком и Шираком.",
+        "Через территорию Арагацотна проходят важные горные перевалы — Амбердский, Кари-личский, Спитакский, которые обеспечивают связь с Лорийской, Котайкской и Ширакской областями.",
       marz_aragacotn_nkaragir289: "Заключение",
       marz_aragacotn_nkaragir290:
-        "Арагацотнский регион отличается своими природными ландшафтами, историко-культурным наследием и научными центрами, что делает его особым туристическим направлением в Армении. Гора Арагац, самая высокая вершина Армении, придает региону символическое значение и «Значимость для окружающей среды. Здесь сочетаются древняя история, духовная жизнь и современные научно-образовательные центры, такие как обсерватория Бюракан и Физический институт Аштарака. Благодаря развитию многоотраслевого туризма Арагацотн может стать ведущим регионом. Наряду с ростом туризма, возрастет и спрос на общественную инфраструктуру, что также открывает новые экономические перспективы для региона",
+        "Арагацотнская область выделяется своими природными ландшафтами, богатым историко-культурным наследием и научными центрами, что делает её уникальным туристическим направлением Армении.Гора Арагац, самая высокая вершина страны, придаёт региону символическое значение               и важную экологическую роль. Здесь сочетаются древняя история, духовная жизнь и современные научно-образовательные центры, такие как Бюраканская обсерватория и физические институты в Аштараке.Арагацотн имеет потенциал стать ведущим регионом Армении в сфере многопрофильного туризма.",
 
       // bnakavayrer
       bnakavayrer1: "ЖИЛОЙ",
       bnakavayrer3: "Региональный центр (Аштарак)",
-      bnakavayrer4: "ПРОФИЛЬ",
+      bnakavayrer4: "Обзор",
       bnakavayrer5: "ДАННЫЕ",
       bnakavayrer6: "Район",
       bnakavayrer7: "Координаты",

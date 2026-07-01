@@ -152,11 +152,10 @@
         "Տվյալներ/Բնություն /Տնտեսություն /Գիտություն/Կրթություն/Մշակույթ /Զբոսաշրջություն /Լոգիիստիկա",
       marz_ararat_nkaragir3: "Արարատը՝ հայ ժողովրդի խորհրդանիշ",
       marz_ararat_nkaragir4:
-        "Արարատի մարզը տարածվում է բիբլիական Արարատ լեռան ոտորտին՝ լեռ, որ Հայաստանի գլխավոր խորհրդանիշն է և հայ ժողովրդի ինքնության մարմնավորումը, որից էլ մարզը ստացել է իր անվանումը։ Արարատի վսեմ ու վսեմաշուք համայնապատկերը դարեր շարունակ ոգեշնչել է հայ մարդու հոգին և գրավել բազմաթիվ զբոսաշրջիկների։ Արարատի մարզում Արարատն ամենուրեք է:",
-      marz_ararat_nkaragir5:
-        "Արարատյան դաշտի բնական ու մշակութային հարուստ պատկերներ",
+        "Արարատի մարզը տարածվում է բիբլիական Արարատ լեռան ոտորտին՝ լեռ, որ Հայաստանի գլխավոր խորհրդանիշն է և հայ ժողովրդի ինքնության մարմնավորումը, որից էլ մարզը ստացել է իր անվանումը։ Արարատի վսեմ ու վսեմաշուք համայնապատկերը դարեր շարունակ ոգեշնչել է հայ ժողովրդին և գրավել բազմաթիվ ճանապարհորդների։ Արարատի մարզում Արարատն ամենուրեք է:",
+      marz_ararat_nkaragir5: "Արարատյան դաշտի բնական և մշակութային պատկերները",
       marz_ararat_nkaragir6:
-        "Արարատի դիմաց բացվում է Արարատյան դաշտը՝ երկրի մշտաբաբախ սիրտը, ծածկված փարթամ այգիներով ու խաղողի վազերով, որոնք հազարամյակների խորքերից մեզ են հասցրել Հայաստանի գինեգործության ու այգեգործության հարուստ ավանդույթներն ու մշակութային ժառանգությունը։",
+        "Վեհաշուք Արարատի դիմաց փռված է Արարատյան դաշտը՝ երկրի մշտաբաբախ սիրտը, ծածկված փարթամ այգիներով ու խաղողի վազերով, որոնք հազարամյակների խորքերից մեզ են հասցրել Հայաստանի գինեգործության ու այգեգործության հարուստ ավանդույթներն ու մշակութային ժառանգությունը։",
       marz_ararat_nkaragir7:
         "Բնության, պատմության ու մշակույթի ներդաշնակություն",
       marz_ararat_nkaragir8:
@@ -164,7 +163,7 @@
       marz_ararat_nkaragir9:
         "Խոսրովի անռառից մինչև «Խոսրովի անտառ» պետական արգելոց",
       marz_ararat_nkaragir10:
-        "Երբ հայոց արքա Խոսրավ Կոտակը դեռ 4-րդ դարում տնկեց իր հրաշալի անտառը, Արարատի մարզը դեռ չկար։ Այսօր այն իր ամենահեքիաթային վայրն է, ուր այցելուները հայտնվում են կուսական գեղեցկության ու միջնադարյան պատմության խաչմերուկում։ Անտառի խիտ լանջերը, հինավուրց ծառերը և վայրի կենդանական աշխարհը դարձնում են այն նյութական և հոգևոր բերկրանքի անկյուն",
+        "Երբ հայոց արքա Խոսրավ Կոտակը դեռ 4-րդ դարում տնկեց իր հրաշալի անտառը, Արարատի մարզը դեռ չկար։ Այսօր այն իր ամենահեքիաթային վայրն է, ուր այցելուները հայտնվում են կուսական գեղեցկության ու միջնադարյան պատմության խաչմերուկում։ Անտառի խիտ լանջերը, հինավուրց ծառերը և վայրի կենդանական աշխարհը դարձնում են այն բնության ու հոգևոր վայելքի անկյուն։",
       marz_ararat_nkaragir11: "ՏՎՅԱԼՆԵՐ",
       marz_ararat_nkaragir12: "Աշխարհագրական/Պատմական/ Ժողովրդագրական/",
       marz_ararat_nkaragir13: "Աշխարհագրական դիրք",
@@ -177,9 +176,8 @@
       marz_ararat_nkaragir18: "Արևմուտքից արևելք՝ 40-45 կմ",
       marz_ararat_nkaragir19: "Սահմանակցող տարածքներ․",
       marz_ararat_nkaragir20:
-        "Մարզեր՝ Վայոց ձոր, Կոտայք, Գեղարքունիք: Գենուտից մինչև Գնդասար՝ Վայոց ձորի մարզ: Մինչև Կոտայք՝ Գեղարքունիք",
-      marz_ararat_nkaragir21:
-        "Միջազգային սահմաններ՝ Ադրբեջան (Նախիջևան) Իրանի հետ - հարավային սահման",
+        "Մարզեր՝ Արմավիր, Երևան, Կոտայք, Գեղարքունիք, Վայոց ձոր:",
+      marz_ararat_nkaragir21: "Միջազգային սահմաններ՝ Թուրքիա և Ադրբեջան /ՆԻՀ/",
       marz_ararat_nkaragir22: "Պատմական ժառանգություն",
       marz_ararat_nkaragir23: "Բնակեցվածություն",
       marz_ararat_nkaragir24:
@@ -588,7 +586,7 @@
       marz_ararat_nkaragir290: "Հուշարձաններ և տեսարժան վայրեր",
       marz_ararat_nkaragir291: "Արտաշատ",
       marz_ararat_nkaragir292:
-        "Արտաշատի հնավայր, Խոր Վիրապ, Սուրբ Հովհաննես Ավետարանիչ եկեղեցի (2015թ.), Ամո Խարազյանի անվան պետական թատրոն",
+        "Արտաշատի հնավայր, Սուրբ Հովհաննես Ավետարանիչ եկեղեցի (2015թ.), Ամո Խարազյանի անվան պետական թատրոն",
       marz_ararat_nkaragir293: "Արարատ",
       marz_ararat_nkaragir294:
         "Սերոբին նվիրված հուշարձան (1992թ.), Երկրորդ աշխարհամարտի զոհերի հուշարձան (1985թ.)",
@@ -637,41 +635,39 @@
         "Էլեկտրական գնացքներով երթուղին սահմանափակ է, մշտական ուղևորափոխադրում չկա",
       marz_ararat_nkaragir324: "Եզրափակիչ",
       marz_ararat_nkaragir325:
-        "Հայաստանի արևաշատ սրտում տեղակայված մարզը ունի զարգացման լայն հնարավորություններ՝ առաջին հերթին Արարատյան դաշտի բերրի հողերի և հինավուրց ավանդույթների շնորհիվ, որոնք ձևավորել են այգեգործության և գինեգործության հարուստ մշակույթ։ Խոր Վիրապի վանական համալիրը Հայաստանի ամենանշանակալի կրոնական ու պատմական վայրերից մեկն է, որը գտնվում է Թուրքիայի սահմանին մոտ, որտեղից բացվում է բացառիկ տեսարան՝ դեպի Արարատ լեռը: Խոսրովի անտառի դրախտային լանջերը, հինավուրց ծառերն ու վայրի կենդանական աշխարհը մարզին նվիրել են նյութական և հոգևոր բերկրանքի եզակի մի անկյուն,ստեղծելով բնապատմական արժեքավոր տարածք։ Զարգացող արդյունաբերությունն ու լոգիստիկ ենթակառուցվածքները, նաև միջազգային մայրուղիները, մոտ ապագայում կարող են Արարատի մարզը դարձնել տուրիստական, տրանսպորտային և լոգիստիկ կարևոր կենտրոն։",
+        "Հայաստանի արևաշատ սրտում տեղակայված մարզը ունի զարգացման լայն հնարավորություններ՝ առաջին հերթին Արարատյան դաշտի բերրի հողերի և հինավուրց ավանդույթների շնորհիվ, որոնք ձևավորել են այգեգործության և գինեգործության հարուստ մշակույթ։ Խոր Վիրապի վանական համալիրը Հայաստանի ամենանշանակալի կրոնական ու պատմական վայրերից մեկն է, որը գտնվում է Թուրքիայի սահմանին մոտ, որտեղից բացվում է բացառիկ տեսարան՝ դեպի Արարատ լեռը: Խոսրովի անտառի դրախտային լանջերը, հինավուրց ծառերն ու վայրի կենդանական աշխարհը մարզին նվիրել են բնության և հոգևոր բերկրանքի եզակի մի անկյուն,ստեղծելով բնապատմական արժեքավոր տարածք։ Զարգացող արդյունաբերությունն ու լոգիստիկ ենթակառուցվածքները, նաև միջազգային մայրուղիները, մոտ ապագայում կարող են Արարատի մարզը դարձնել տուրիստական, տրանսպորտային և լոգիստիկ կարևոր կենտրոն։",
     },
 
     en: {
       // ararat
       marz_ararat_title: "ARARAT",
-      marz_ararat_bnutagir1: "PROFILE",
+      marz_ararat_bnutagir1: "Overview",
       marz_ararat_bnutagir2: "DATA",
       marz_ararat_bnutagir3: "Direction",
-      marz_ararat_bnutagir4: "From the North",
-      marz_ararat_bnutagir5: "From the North-West",
-      marz_ararat_bnutagir6: "From the West",
-      marz_ararat_bnutagir7: "From the South-West",
-      marz_ararat_bnutagir8: "From the East",
-      marz_ararat_bnutagir9: "From the South-East",
-      marz_ararat_bnutagir10: "From the South",
-      marz_ararat_bnutagir11: "Bordering region",
+      marz_ararat_bnutagir4: "North",
+      marz_ararat_bnutagir5: "North-West",
+      marz_ararat_bnutagir6: "West",
+      marz_ararat_bnutagir7: "South-West",
+      marz_ararat_bnutagir8: "East",
+      marz_ararat_bnutagir9: "South-East",
+      marz_ararat_bnutagir10: "South",
+      marz_ararat_bnutagir11: "Bordering Region",
       marz_ararat_bnutagir12: "Kotayk, Yerevan",
       marz_ararat_bnutagir13: "Armavir",
       marz_ararat_bnutagir14: "Gegharkunik",
       marz_ararat_bnutagir15: "Vayots Dzor",
-      marz_ararat_bnutagir16: "Neighboring countries",
+      marz_ararat_bnutagir16: "Neighboring Countries",
       marz_ararat_bnutagir17: "Turkey",
       marz_ararat_bnutagir18: "Turkey",
-      marz_ararat_bnutagir19: "/NIH/",
+      marz_ararat_bnutagir19: "Nakhchivan (Azerbaija)",
       marz_ararat_bnutagir20: "Establishment",
-      marz_ararat_bnutagir21:
-        "Ararat Marz of the Republic of Armenia was established on April 12, 1995.",
-      marz_ararat_bnutagir22: "Territory",
-      marz_ararat_bnutagir23:
-        "Ararat region occupies about 7.1% of the entire territory of Armenia (2096 km²)",
+      marz_ararat_bnutagir21: "April 12, 1995",
+      marz_ararat_bnutagir22: "Area",
+      marz_ararat_bnutagir23: "2,096 km² (~7.1% of Armenia) ",
       marz_ararat_bnutagir24: "Administrative center",
       marz_ararat_bnutagir25:
-        "Ashtarak is the largest city in the region. It is located 20 km northwest of Yerevan. The area has been inhabited since ancient times, in written sources - from the 7th century. It has been an urban settlement since the 9th–10th centuries, during the Bagratid kingdom.",
-      marz_ararat_bnutagir26: "Index",
+        "Artashat is located on the Araks River in the Ararat Plain, about 30 km southeast of Yerevan. It was founded by King Artashes I in 176 BC and served as the capital of Greater Armenia in 185–120 BC",
+      marz_ararat_bnutagir26: "Indicator",
       marz_ararat_bnutagir27: "Area",
       marz_ararat_bnutagir28: "Coordinates",
       marz_ararat_bnutagir29: "Elevation",
@@ -686,17 +682,17 @@
       marz_ararat_bnutagir38: "Hotline",
       marz_ararat_bnutagir39: "Website",
       marz_ararat_bnutagir40: "Data",
-      marz_ararat_bnutagir41: "2,096 sq. km",
+      marz_ararat_bnutagir41: "2,096 km²",
       marz_ararat_bnutagir42: "39°49'53.98 N",
       marz_ararat_bnutagir43: "800 – 3,550 m",
-      marz_ararat_bnutagir44: "Mount Spitakasar (3,555 m)",
+      marz_ararat_bnutagir44: "Spitakasar (3,555 m)",
       marz_ararat_bnutagir45: "Artashat",
       marz_ararat_bnutagir46: "Ararat, Artashat, Masis",
       marz_ararat_bnutagir47: "Artashat, Masis, Ararat, Vedi",
       marz_ararat_bnutagir48: "50 km",
       marz_ararat_bnutagir49: "Highest peak Spitakasar (3,555 m)",
-      marz_ararat_bnutagir50: "Regional phone codes",
-      marz_ararat_bnutagir51: "Residence",
+      marz_ararat_bnutagir50: "Regional Telephone Codes ",
+      marz_ararat_bnutagir51: "Settlement",
       marz_ararat_bnutagir52: "Artashat",
       marz_ararat_bnutagir53: "Ararat",
       marz_ararat_bnutagir54: "Masis",
@@ -705,123 +701,112 @@
       marz_ararat_bnutagir57: "Vedi (CDMA)",
       marz_ararat_bnutagir58: "Urtsadzor",
       marz_ararat_bnutagir59: "Code",
-      marz_ararat_bnutagir60: "Regional Administration/Contact",
-      marz_ararat_bnutagir61: "Address: Artashat, August 23rd Street 60",
-      marz_ararat_bnutagir62: "Tel. (+374) 10 25 60 23, (+374) 23 52 52 26",
-      marz_ararat_bnutagir63: "Fax. (+374) 23 52 52 16",
-      marz_ararat_bnutagir64: "E-mail: ararat.qartughar@mta.gov.am",
-      marz_ararat_bnutagir65: "Web: www.ararat.mtad.am",
-      marz_ararat_bnutagir66: "HOW TO GET THERE",
+      marz_ararat_bnutagir60: "Contact / Administration",
+      marz_ararat_bnutagir61: "Address: 60 August 23 Street, Artashat",
+      marz_ararat_bnutagir62: "Tel: (+374) 10 25 60 23, (+374) 23 52 52 26",
+      marz_ararat_bnutagir63: "Fax: (+374) 23 52 52 16",
+      marz_ararat_bnutagir64: "Email: ararat.qartughar@mta.gov.am",
+      marz_ararat_bnutagir65: "Website: www.ararat.mtad.am",
+      marz_ararat_bnutagir66: "HOW TO GET",
       marz_ararat_bnutagir67: "Highways",
       marz_ararat_bnutagir68:
-        "The Yerevan-Yeraskh highway of republican significance passes through Ararat region.",
-      marz_ararat_bnutagir69: "Route taxi and bus",
-      marz_ararat_bnutagir70:
-        "The trip from Yerevan to Artashat takes about 1 hour 10 minutes.",
+        "The Yerevan–Yeraskh highway passes through Ararat Region.",
+      marz_ararat_bnutagir69: "Public Transport (Bus & Minibus)",
+      marz_ararat_bnutagir70: "Yerevan–Artashat: ~1 hour 10 minutes ",
       marz_ararat_bnutagir71:
         "The cars depart from the Central Railway Station and the Northern Bus Station.",
-      marz_ararat_bnutagir72: "Ticket price.",
-      marz_ararat_bnutagir73: "Yerevan-Masis bus: from 200 drams,",
-      marz_ararat_bnutagir74: "Yerevan-Ararat bus: 500 drams,",
-      marz_ararat_bnutagir75: "Yerevan-Ararat minibus: 400–500 drams.",
+      marz_ararat_bnutagir72: "Ticket price",
+      marz_ararat_bnutagir73: "Yerevan–Masis bus: from 200 AMD",
+      marz_ararat_bnutagir74: "Yerevan–Ararat bus: 500 AMD",
+      marz_ararat_bnutagir75: "Minibuses operate regularly (400–500 AMD)",
       marz_ararat_bnutagir76: "Minibuses",
       marz_ararat_bnutagir77:
-        "Passenger transportation to Yerevan is available.",
-      marz_ararat_bnutagir78: "Contact: 094 51 41 03.",
+        "“Mercedes Sprinter” services operate daily to Yerevan",
+      marz_ararat_bnutagir78: "Contact: 094 51 41 03",
       marz_ararat_bnutagir79: "Railway",
       marz_ararat_bnutagir80:
-        "The Yerevan-Yeraskh railway passes through the region.",
-      marz_ararat_bnutagir81:
-        "The trip from Yerevan to Yeraskh takes about 1 hour 48 minutes.",
+        "Yerevan–Yeraskh railway line passes through the region",
+      marz_ararat_bnutagir81: "Travel time: ~1 hour 48 minutes",
       marz_ararat_bnutagir82:
         "The electric train departs from Yerevan every day at 19:00, from Yeraskh at 06:30.",
       marz_ararat_bnutagir83: "Ticket price.",
-      marz_ararat_bnutagir84: "to Zod station: 350 drams, 06:30.",
-      marz_ararat_bnutagir85: "to Surenavan, Armash, Yeraskh: 700 drams.",
+      marz_ararat_bnutagir84: "to Zod station: 350 AMD, 06:30.",
+      marz_ararat_bnutagir85: "to Surenavan, Armash, Yeraskh: 700 AMD",
       marz_ararat_bnutagir86: "CLIMATE",
       marz_ararat_bnutagir87:
-        "Ararat region is located in the western part of Armenia, covering the eastern part of the Ararat Valley. The region is characterized by a dry climate. In winter, in the middle zone, up to 2000 m above sea level, the weather is warmer and sunnier than in the Ararat Basin.",
+        "The Ararat Region is located in the western part of Armenia, covering the eastern part of the Ararat Plain. The climate is predominantly dry.",
       marz_ararat_bnutagir88: "Climate Features",
       marz_ararat_bnutagir89:
-        "In lowland and plain regions: mild winters, cool summers: average +26°C, often sunny",
-      marz_ararat_bnutagir90:
-        "In highland and mountainous regions: severe winters, cool summers",
+        "Lowlands: mild winters, warm summers (avg. +26°C), mostly sunny",
+      marz_ararat_bnutagir90: "Highlands: cold winters and cool summers ",
       marz_ararat_bnutagir91:
-        "In the summer months, the winds blowing from the Geghama Mountains in the valleys mitigate the heat",
+        "Summer winds from the Geghama Mountains reduce heat in valleys ",
       marz_ararat_bnutagir92:
-        "Starting from mid-May, the temperature exceeds +15 °C, followed by a dry, often stormy summer, which lasts until the second half of September.",
-      marz_ararat_bnutagir93: "Weather characteristics",
+        "From mid-May, temperatures exceed +15°C, followed by a dry summer lasting until mid-September",
+      marz_ararat_bnutagir93: "Seasons",
       marz_ararat_bnutagir94:
-        "Winter - long, frosty, often windy, stable snow cover (up to 140–160 days), thunderstorms occur.",
-      marz_ararat_bnutagir95:
-        "Summer - dry and often hot, cool and sunny (+16…+26°C), rarely with hot days.",
+        "Winter: long, cold, windy, stable snow cover (140–160 days)",
+      marz_ararat_bnutagir95: "Summer: hot and dry, +16…+26°C ",
       marz_ararat_bnutagir96:
-        "Spring – short and fleeting, humid, rainy, often with thunderstorms and hail.",
+        "Spring: short, humid, rainy, with storms and hail ",
       marz_ararat_bnutagir97:
-        "Autumn – initially mild and sunny, then often rainy with cold winds and fogs.",
+        "Autumn: mild, then rainy with fog and cold winds ",
       marz_ararat_bnutagir98: "Temperature",
       marz_ararat_bnutagir99:
-        "The average annual air temperature ranges from +10°C to +13°C (lowlands), + 6°C to -2 °C (highlands).",
-      marz_ararat_bnutagir100:
-        "The average January temperature is -4°C … -12 °C.",
-      marz_ararat_bnutagir101: "The average July temperature is +26 °C.",
-      marz_ararat_bnutagir102:
-        "The absolute maximum and minimum temperatures of the Armenian Highlands are recorded in low-lying areas.",
+        "Annual average: +10°C to +13°C (lowlands), +6°C to −2°C (highlands) ",
+      marz_ararat_bnutagir100: "January: −4°C to −12°C ",
+      marz_ararat_bnutagir101: "July: around +26°C ",
+      marz_ararat_bnutagir102: "Record extremes:",
       marz_ararat_bnutagir103: "The lowest: -33 °C.",
-      marz_ararat_bnutagir104:
-        "The highest: +42 °C (southeast of the Ararat Plain).",
-      marz_ararat_bnutagir105: "Locations.",
-      marz_ararat_bnutagir106: "Annual average: 200–300 mm (low-lying).",
-      marz_ararat_bnutagir107:
-        "Annual average: 350–600 mm, up to 1,000 mm (high-lying).",
-      marz_ararat_bnutagir108: "In the remaining areas: 250-700 mm.",
-      marz_ararat_bnutagir109:
-        "The driest month is August, with two precipitation maxima: May and November",
+      marz_ararat_bnutagir104: "The highest: +42 °C",
+      marz_ararat_bnutagir105: "Precipitation",
+      marz_ararat_bnutagir106: "Lowlands: 200–300 mm",
+      marz_ararat_bnutagir107: "Highlands: 350–600 mm (up to 1000 mm)",
+      marz_ararat_bnutagir108: "Other areas: 250–700 mm ",
+      marz_ararat_bnutagir109: "Driest month: August,	Peaks: May and November ",
       marz_ararat_bnutagir110: "Winds",
-      marz_ararat_bnutagir111:
-        "Mountain and valley winds are typical for the plains.",
-      marz_ararat_bnutagir112:
-        "In the summer, in the afternoon, winds blowing from the Geghama Mountains mitigate the heat of the valleys",
+      marz_ararat_bnutagir111: "Valley winds are typical for plains",
+      marz_ararat_bnutagir112: "Geghama mountain winds cool summer heat ",
       marz_ararat_bnutagir113:
-        "The average annual wind speed is 1-2 m/s, maximum 18-22 m/s, in mountainous regions up to 35 m/s, gusts 40 m/s.",
-      marz_ararat_bnutagir114: "Sunny",
-      marz_ararat_bnutagir115:
-        "The region is characterized by extremely abundant sunshine, with an average annual duration of 2471-2968 hours/year.",
+        "Average speed: 1–2 m/s,Maximum: 18–22 m/s,Mountain gusts: up to 40 m/s",
+      marz_ararat_bnutagir114: "Sunshine",
+      marz_ararat_bnutagir115: "Annual sunshine duration: 2471–2968 hours ",
 
       // marz_ararat_nkaragir
       marz_ararat_nkaragir1: "DESCRIPTION",
       marz_ararat_nkaragir2:
         "Data/Nature /Economy /Science/Education/Culture /Tourism /Logistics",
-      marz_ararat_nkaragir3: "Ararat, a symbol of the Armenian people",
+      marz_ararat_nkaragir3: "Ararat — a symbol of the Armenian people",
       marz_ararat_nkaragir4:
-        "Ararat region extends to the foothills of the biblical Mount Ararat, a mountain that is the main symbol of Armenia and the embodiment of the identity of the Armenian people, from which the region got its name. The majestic and majestic panorama of Ararat has inspired the soul of the Armenian people for centuries and attracted numerous tourists. In Ararat region, Ararat is everywhere.",
+        "The Ararat region is located at the foothills of the biblical Mount Ararat — the main symbol of Armenia and the embodiment of the Armenian national identity, from which the region takes its name. The majestic panorama of Ararat has inspired the Armenian people for centuries and attracted numerous visitors. In the Ararat region, Ararat is everywhere.",
       marz_ararat_nkaragir5:
-        "Natural and culturally rich images of the Ararat Valley",
+        "Natural and cultural panoramas of the Ararat Valley",
       marz_ararat_nkaragir6:
-        "In front of Ararat, the Ararat Valley opens up, the heart of the country, covered with lush gardens and vineyards, which have brought us the rich traditions and cultural heritage of Armenia's winemaking and horticulture from the depths of millennia.",
-      marz_ararat_nkaragir7: "Harmony of nature, history and culture.",
+        "At the foot of Mount Ararat lies the Ararat Valley — the heart of the country, covered with lush orchards and vineyards that preserve the ancient traditions and rich cultural heritage of Armenian winemaking and horticulture, passed down through millennia.",
+      marz_ararat_nkaragir7: "Harmony of nature, history, and culture",
       marz_ararat_nkaragir8:
-        "Ararat region combines majestic and beautiful mountain landscapes, rich agricultural areas and historical and cultural traditions, offering a unique tourist experience for every visitor.",
+        "The Ararat region combines majestic mountain landscapes, fertile agricultural lands, and rich historical and cultural traditions, offering a unique travel experience for every visitor.",
       marz_ararat_nkaragir9:
-        "From Khosrov Anrar to the 'Khosrov Forest' State Reserve.",
+        "From the Khosrov Forest to the “Khosrov Forest” State Reserve",
       marz_ararat_nkaragir10:
-        "When the Armenian king Khosrav Kotak planted his wonderful forest back in the 4th century, the Ararat region did not yet exist. Today it is at its most fairytale-like, where visitors find themselves at the crossroads of virgin beauty and medieval history. The dense slopes of the forest, ancient trees and wild fauna make it a corner of material and spiritual delight",
+        "When King Khosrov Kotak of Armenia planted his famous forest back in the 4th century, the Ararat region did not yet exist in its current form. Today, this area is one of Armenia’s most picturesque and fairytale-like destinations, where visitors find themselves at the crossroads of pristine nature and medieval history.The forest’s steep slopes, ancient trees, and rich wildlife make it a place of both natural beauty and spiritual inspiration.",
       marz_ararat_nkaragir11: "DATA",
-      marz_ararat_nkaragir12: "Geographical/Historical/Demographic/",
-      marz_ararat_nkaragir13: "Geographical location",
+      marz_ararat_nkaragir12: "/Geographical / Historical / Demographic/",
+      marz_ararat_nkaragir13: "Geographical Position",
       marz_ararat_nkaragir14:
-        "Ararat region is located in the southwest of Armenia",
-      marz_ararat_nkaragir15: "Altitude: 800-3550 m above sea level.",
-      marz_ararat_nkaragir16: "Longest stretch:",
+        "The Ararat Region is located in the south-western part of Armenia.",
+      marz_ararat_nkaragir15:
+        "Elevation ranges from 800 to 3550 meters above sea level.",
+      marz_ararat_nkaragir16: "The maximum extent of the region is:",
       marz_ararat_nkaragir17:
-        "From northwest to southeast: 100 km (from the foot of Mount Ararat to the city of Masis):",
-      marz_ararat_nkaragir18: "From west to east: 40-45 km.",
-      marz_ararat_nkaragir19: "Bordering areas.",
+        "From north-west to south-east — 100 km (from the foothills of Mount Ararat to the city of Masis)",
+      marz_ararat_nkaragir18: "From west to east — 40–45 km",
+      marz_ararat_nkaragir19: "Bordering Areas",
       marz_ararat_nkaragir20:
-        "Regions: Vayots Dzor, Kotayk, Gegharkunik. From Genut to Gndasar: Vayots Dzor region. To Kotayk: Gegharkunik",
+        "Regions: Armavir, Yerevan, Kotayk, Gegharkunik, Vayots Dzor",
       marz_ararat_nkaragir21:
-        "International borders: Azerbaijan (Nakhichevan) with Iran - southern border",
-      marz_ararat_nkaragir22: "Historical heritage",
+        "International borders: Turkey and Azerbaijan / Nakhchivan",
+      marz_ararat_nkaragir22: "Historical Heritage",
       marz_ararat_nkaragir23: "Population",
       marz_ararat_nkaragir24:
         "Ayrarat was considered one of the most extensive provinces of Greater Armenia and the economic, political and cultural center of the Armenian people.",
@@ -833,24 +818,24 @@
         "Historical capitals: Artashat (2nd century BC) and Dvin (4th century BC) were located in Vostan Armenia as capitals.",
       marz_ararat_nkaragir28: "Population and lifestyle",
       marz_ararat_nkaragir29:
-        "The current population of the region is mainly Armenian, there are also Russians, Kurds and Assyrians.",
+        "The current population of the region is predominantly Armenian; there are also Russian, Kurdish, and Assyrian communities.",
       marz_ararat_nkaragir30:
-        "The population of Ararat has changed throughout history, along with the rise and fall of Armenian statehood.",
+        "The population of Ararat has changed throughout history, in line with the rise and decline of Armenian statehood.",
       marz_ararat_nkaragir31:
-        "Since the 1830s, tens of thousands of Armenian families from the Salmast and Khoy provinces of Persia have resettled here, making the Armenian population the majority.",
+        "Starting from the 1830s, tens of thousands of Armenian families migrated here from the Salmast and Khoy provinces of Persia, making the Armenian population the majority.",
       marz_ararat_nkaragir32:
-        "In the 19th century, with the incorporation of Eastern Armenia into the Russian Empire, the local Armenians also returned from various provinces of Western Armenia (Van, Alashkert, Manazkert, Karin, Basen, Khnus).",
+        "In the 19th century, after Eastern Armenia became part of the Russian Empire, local Armenians also returned from various regions of Western Armenia (Van, Alashkert, Manazkert, Karin, Basen, Khnus).",
       marz_ararat_nkaragir33:
-        "After 1828, a large number of Armenians who had resettled in Georgia in the 1870s and had been forcibly deported to Tiflis in 1804 returned to their homeland.",
+        "After 1828, many Armenians who had been resettled in Georgia in the 1770s—after being deported to Tbilisi in 1804—returned to their homeland.",
       marz_ararat_nkaragir34:
-        "The emigrant families brought with them elements of Armenian culture, everyday life and costumes, which, mixing with the local culture, created rich and diverse traditions.",
+        "These migrating families brought elements of Armenian culture, lifestyle, and traditional clothing, which blended with local traditions and created a rich and diverse cultural heritage.",
       marz_ararat_nkaragir35: "NATURE",
       marz_ararat_nkaragir36:
-        "Ararat region is divided into two large parts: mountainous and plain.",
+        "The Ararat Region is divided into two large parts: mountainous and lowland areas.",
       marz_ararat_nkaragir37:
-        "The mountainous part makes up ~70%, spread from west to east.",
+        "The mountainous part makes up approximately 70% of the territory and extends from west to east.",
       marz_ararat_nkaragir38:
-        "The plain makes up ~30%, 10–15 km wide, stretches from the Hrazdan River to the state border of Armenia.",
+        "The lowland area accounts for about 30%, with a width of 10–15 km, stretching from the Hrazdan River to the state border of Armenia.",
       marz_ararat_nkaragir39: "Zones",
       marz_ararat_nkaragir40:
         "Ararat region is one of the most diverse natural zones in Armenia, where 5 of the main landscape zones of Armenia follow each other, from plains to alpine and snow-capped mountain peaks, and 5 of the climate types common in Armenia, which follow in ascending zonation.",
@@ -900,13 +885,12 @@
         "Gilan Reserve – (118 ha in Khosrov Forest Reserve).",
       marz_ararat_nkaragir70: "Relief",
       marz_ararat_nkaragir71:
-        "The uniqueness of Ararat region is that the mountainous and plain parts are separated by territory.",
+        "The uniqueness of the Ararat Region lies in the fact that its mountainous and lowland areas are distinctly separated in terms of territory:",
       marz_ararat_nkaragir72:
-        "Lowest point: 801 m, near the Araks River bed (south)",
+        "Lowest point: 801 m, near the channel of the Araks River (south)",
       marz_ararat_nkaragir73:
-        "Highest point: 3555.7 m, Spitakasar peak (northeast)",
-      marz_ararat_nkaragir74:
-        "The variation in altitudes in the territory is 2755 m",
+        "Highest point: 3555.7 m, Mount Spitakasar (north-east)",
+      marz_ararat_nkaragir74: "The elevation range of the territory is 2755 m",
       marz_ararat_nkaragir75: "Mountains (≥ 2000 m above sea level)",
       marz_ararat_nkaragir76: "Spitakasar – 3555.7 m",
       marz_ararat_nkaragir77: "Geghasar – 3443 m",
@@ -930,10 +914,10 @@
       marz_ararat_nkaragir95: "Khosrovasaar – 1988 m",
       marz_ararat_nkaragir96: "Karagagat – 1948 m",
       marz_ararat_nkaragir97: "Karmir kar – 1948 m",
-      marz_ararat_nkaragir98: "Famous mountains below 2000 meters",
+      marz_ararat_nkaragir98: "Well-known mountains below 2000 meters",
       marz_ararat_nkaragir99: "Yeranos – 1824 m",
-      marz_ararat_nkaragir100: "Tezkar – 1735 m",
-      marz_ararat_nkaragir101: "Ilkassar – 1462 m",
+      marz_ararat_nkaragir100: "Tezhkar – 1735 m",
+      marz_ararat_nkaragir101: "Ilkasar – 1462 m",
       marz_ararat_nkaragir102: "Yerakh – 1419 m",
       marz_ararat_nkaragir103: "Mountain ranges",
       marz_ararat_nkaragir104:
@@ -966,9 +950,9 @@
         "Genut Mountains -(~?), highest peak: Genut (~2066 m) on the border of Ararat, Vayots Dzor and Nakhichevan regions of the Republic of Armenia",
       marz_ararat_nkaragir118: "Mountain passes",
       marz_ararat_nkaragir119:
-        "Yerakhi Pass – ▲3707 m, in the territory of Khosrov Forest State Reserve, 4.5 km northwest of Vedi village",
+        "Yerakhi Pass – ▲3707 m, in the territory of Khosrov Forest State Reserve,4.5 km northwest of Vedi village",
       marz_ararat_nkaragir120:
-        "Tukh Manuk Pass – ▲1795 m, (on the border of Ararat/Vayots Dzor marzes), between the Dahnak and Urts mountain ranges",
+        "Tukh Manuk Pass – ▲1795 m, (on the border of Ararat/Vayots Dzor marzes),between the Dahnak and Urts mountain ranges",
       marz_ararat_nkaragir121:
         "Urtsasar mountain pass – ▲1910 m, Connects the Shaghap and Aratso valleys. The national highway H10 (H8 – Vosketap – Vedi – Lanjar – M2) passes through the mountain pass",
       marz_ararat_nkaragir122: "Plains and plateaus",
@@ -978,326 +962,332 @@
         "Tarnist plateau – ▲2500-3500 m in the southwestern part of the Geghama Mountains, in the upper reaches of the Goght River",
       marz_ararat_nkaragir125: "Water system",
       marz_ararat_nkaragir126:
-        "Ararat region extends mainly in the southern and eastern parts of the Ararat Valley, where several watershed systems are formed.",
+        "The Ararat Region is located mainly in the southern and eastern parts of the Ararat Plain, where several watershed systems are formed.",
       marz_ararat_nkaragir127: "Watersheds",
       marz_ararat_nkaragir128:
-        "In the north, by the high parts of the Geghama Mountains (Gndasar, Mankunki, Tsaghkavet)",
+        "In the north — along the high mountainous areas of the Geghama Mountains (Gndasar, Mankunk, Tsaghkavet)",
       marz_ararat_nkaragir129:
-        "In the northwest, by the border mountain ranges of Aragatsotn",
-      marz_ararat_nkaragir130: "In the east, by the Vedi mountain range",
-      marz_ararat_nkaragir131: "In the south, it borders the Araks Valley",
+        "In the north-west — along the border mountain ranges of Aragatsotn",
+      marz_ararat_nkaragir130: "In the east — along the Vedi mountain range",
+      marz_ararat_nkaragir131:
+        "In the south — bounded by the Araks River valley",
       marz_ararat_nkaragir132:
-        "Geghama Mountains Watersheds – The slopes of the Geghama Mountains serve as the main watershed",
+        "Geghama Mountains Watershed – The slopes of the Geghama Mountains serve as a major watershed area:",
       marz_ararat_nkaragir133:
-        "Waters flowing to the north and east go to the Sevan Basin",
+        "Waters flowing north and east drain into the Lake Sevan basin.",
       marz_ararat_nkaragir134:
-        "Rivers flowing to the south and west - the Araks Basin",
+        "Rivers flowing south and west belong to the Araks River basin.",
       marz_ararat_nkaragir135:
-        "Araks Watershed System – The main watershed of the region, almost all rivers and watercourses flow into the Araks River",
+        "Araks Watershed System – The main drainage system of the region. Almost all rivers and streams collect and flow into the Araks River, forming its drainage basin.The watersheds mainly run along the slopes of the Geghama and Urts mountains, directing rivers toward the Araks. The Araks flows along the entire southern border of the region, forming the state border of the Republic of Armenia.",
       marz_ararat_nkaragir136:
-        "Azat Watershed System – In the central and eastern parts of the region",
+        "Azat Watershed System – Formed in the central and eastern parts of the region.",
       marz_ararat_nkaragir137:
-        "The sources are located on the slopes of the Geghama mountain range",
+        "The headwaters are located on the slopes of the Geghama Mountain Range.",
       marz_ararat_nkaragir138:
-        "The Azat River flows into the Araks, receiving the Goght, Dalar, Khosrov and other tributaries",
+        "The Azat River flows into the Araks, receiving tributaries such as the Goght, Dalar, Khosrov, and others.",
       marz_ararat_nkaragir139:
-        "Vedi watershed system - In the central part of the region, the Vedi River basin is also a tributary of the Araks",
+        "Vedi Watershed System – Located in the central part of the region.The Vedi River basin is also a tributary of the Araks.",
       marz_ararat_nkaragir140:
-        "The main tributaries are the Khosrov, Shaghap and Kotuts rivers",
+        "Its main tributaries include the Khosrov, Shaghap, and Kotuts rivers.",
       marz_ararat_nkaragir141:
-        "Sevan Basin Watersheds - The watershed of the waters flowing into the Sevan Basin passes from Gndasar to the Mankunk and Tsaghkavet mountains, along the border of Ararat and Gegharkunik",
+        "Sevan Basin Watersheds – Waters flowing into the Lake Sevan basin pass through the watershed line extending from Gndasar through the Mankunk and Tsaghkavet mountains, along the border between Ararat and Gegharkunik regions.",
       marz_ararat_nkaragir142: "Rivers",
       marz_ararat_nkaragir143:
-        "The rivers of Ararat region mainly have mountain sources and flow into the strong Araks valley. The largest rivers are the Araks, Azat, Hrazdan and Vedi. The Azat River and its tributary Goght flow through the north-eastern part of the region, which originate in the Geghama Mountains. The Vedi River, flowing with its tributaries (Khosrov, Kotuts, Mankunk) through the central part of the Ararat Plain, have an irrigation significance, and the reservoirs and hydroelectric power plants of the region also provide for the agricultural system of the Ararat Plain.",
+        "The rivers of the Ararat region are mainly of mountainous origin and flow toward the Araks valley.The largest rivers in the region are the Araks, Azat, Hrazdan, and Vedi.In the north-eastern part of the region flows the Azat River and its tributary the Ghot, both originating from the Geghama Mountains. The Vedi River, together with its tributaries (Khosrov, Kotuts, Mankunk), flows through the central part of the Ararat plain and has significant irrigation importance. Reservoirs and hydropower plants in the region support the agricultural system of the Ararat Valley.",
       marz_ararat_nkaragir144:
-        "Araks - a tributary of the Kura River. Total length: 1072 km, of which 200 km is in the territory of the Republic of Armenia. The source is in the Byurakn Mountains. It is a border river",
+        "Araks — a tributary of the Kura River. Total length: 1072 km, about 200 km within Armenia. Source: the Byurakan Mountains. A border river.",
       marz_ararat_nkaragir145:
-        "Hrazdan – left tributary of the Araks, flows through Gegharkunik, Kotayk, Ararat and Yerevan. Length: 141 km, source ▲1900m, Lake Sevan",
+        "Hrazdan — left tributary of the Araks. Flows through Gegharkunik, Kotayk, Ararat, and Yerevan. Length: 141 km. Source: Lake Sevan (~1900 m).",
       marz_ararat_nkaragir146:
-        "Azat – tributary of the Araks, flows between the Ararat and Kotayk regions. Length: 55 km, source ▲3000–3200m, Geghama Mountains",
+        "Azat — tributary of the Araks. Flows between Ararat and Kotayk regions. Length: 55 km. Source: Geghama Mountains (3000–3200 m).",
       marz_ararat_nkaragir147:
-        "Aratso – tributary of the Araks, Length: 42 km, source ▲2700m, slopes of the Mzhkatari branch of the Gndasar Mountains",
+        "Aratso — tributary of the Araks. Length: 42 km. Source: slopes of Mount Gndasar, branch of Mzhkatar (~2700 m).",
       marz_ararat_nkaragir148:
-        "Vedi – left tributary of the Araks, Length: 58 km, source ▲2700m, southeastern slopes of the Mankunk peak of the Geghama Mountains",
+        "Vedi — left tributary of the Araks. Length: 58 km. Source: southeastern slopes of the Geghama range, Mount Mankunk (~2700 m).",
       marz_ararat_nkaragir149:
-        "Goght – Azat tributary, Length: 16 km, beginning on the western slopes of the central part of the Geghama Mountains and together with Voskejr forms the Azat River",
+        "Ghot — tributary of the Azat. Length: 16 km. Source: western slopes of the central Geghama Mountains. Together with Voskedjur forms the Azat River.",
       marz_ararat_nkaragir150:
-        "Voskejr – Azat tributary, Length: 21 km, beginning on the western slopes of the central part of the Geghama Mountains, together with Goghtn forms the Azat River. Flows in Ararat and Kotayk regions",
+        "Voskedjur — tributary of the Azat. Length: 21 km. Source: western slopes of the central peak area of the Geghama Mountains.",
       marz_ararat_nkaragir151:
-        "Barakaghbyur – right tributary of the Vedi, Length: 20 km, source ▲1900m, Yeranos Mountains",
+        "Barakaghbyur — right tributary of the Vedi. Length: 20 km. Source: Yeghegnos Mountains (~1900 m).",
       marz_ararat_nkaragir152:
-        "Chorselav – tributary of the Azat River, dry in summer. Length: 35 km, source ▲3600m, Geghama Mountains, Azhdahak slopes",
+        "Chorselav — tributary of the Azat; dries up in summer. Length: 35 km. Source: Geghama Mountains, slopes of Mount Azhdahak (~3600 m).",
       marz_ararat_nkaragir153:
-        "Khosrov – right tributary of the Vedi, Length: 18 km, source ▲2900m, steep slopes of the Geghama Mountains and Urtsadzor village. 4 km, ▲1165m",
+        "Khosrov — right tributary of the Vedi. Length: 18 km. Source: southwestern slopes of the Geghama Mountains and near Urtadzor village (~1165 m).",
       marz_ararat_nkaragir154:
-        "Kotuts – right tributary of Vedi, Length: 18 km, source ▲1900m, slopes of the Yeranos Mountains",
+        "Kotuts — right tributary of the Vedi. Length: 18 km. Source: slopes of the Yeghegnos Mountains (~1900 m).",
       marz_ararat_nkaragir155:
-        "Mankunk – right tributary of Vedi River, Length: 13–17 km, source ▲2800m, southern slopes of Tsaghkavet peak of the Geghama Mountains",
+        "Mankunk — right tributary of the Vedi. Length: 13–17 km. Source: southern slopes of Mount Tsaghkavet (~2800 m).",
       marz_ararat_nkaragir156:
-        "Kajaru/Darband – Azat tributary, Length: 13–15 km, source ▲3100–3300m, southwestern slopes of the Geghasar peak",
+        "Kajarrou / Daraband — tributary of the Azat. Length: 13–15 km. Source: southwestern slopes of Mount Geghasar (3100–3300 m).",
       marz_ararat_nkaragir157: "Waterfalls",
       marz_ararat_nkaragir158:
-        "Nare Waterfall in Khosrov Forest Reserve (Dzhokki Dzor)",
+        "Nare Waterfall — located in the Khosrov Forest State Reserve (Hell Gorge).",
       marz_ararat_nkaragir159:
-        "Astghik Waterfall – in the Khosrov Reserve, considered a beautiful and touristic place",
+        "Astghik Waterfall — located within the Khosrov Reserve; considered a beautiful and attractive tourist site.",
       marz_ararat_nkaragir160:
-        "Vahagni Waterfall – in the Khosrov Reserve, named after Vahagn Ditsi",
+        "Vahagn Waterfall — located in the Khosrov Reserve, named after the god Vahagn.",
       marz_ararat_nkaragir161:
-        "Small waterfalls of the Vedi River – formed in the mountainous parts of the Vedi River and its tributaries, especially from spring snowmelt",
+        "Small waterfalls of the Vedi River — formed in the mountainous sections of the Vedi River and its tributaries, especially during spring snowmelt.",
       marz_ararat_nkaragir162:
-        "Waterfalls of the Khosrov Reserve – seasonal, small waterfalls appear on the mountain streams of the reserve (especially from the slopes of Itsasar and Mankunk)",
+        "Waterfalls of the Khosrov Reserve — seasonal small waterfalls formed on mountain streams, especially those descending from the slopes of Mount Itsasar and Mankunk.",
       marz_ararat_nkaragir163: "Springs",
       marz_ararat_nkaragir164:
-        "Khotorakan – in the Khosrov Forest State Reserve",
+        "Khotorakn — located in the Khosrov Forest State Reserve.",
       marz_ararat_nkaragir165:
-        "Katnaghbyur – right bank of the Vedi River, 3 km northwest of the village of Jermanis",
-      marz_ararat_nkaragir166: "Mineral healing springs",
+        "Katnaghbyur — on the right bank of the Vedi River, 3 km north-west of the former village of Dzhermanis.",
+      marz_ararat_nkaragir166: "Mineral medicinal springs",
       marz_ararat_nkaragir167:
-        "In the Urts Mountains – about 30 mineral springs, for the production of 'ARARAT' natural mineral water",
+        "Urts Mountains — around 30 mineral springs, including in the Borot Aghbyur gorge (1500 m a.s.l.). The waters are used for producing “ARARAT” natural mineral water and belong to the hydrocarbonate water group (GOST 13273-88).",
       marz_ararat_nkaragir168:
-        "Cold springs in the vicinity of Artashat – several small springs used by locals",
+        "Cold springs around Artashat — several small springs used by local residents.",
       marz_ararat_nkaragir169:
-        "Springs of the Khosrov Forest – preserved in nature, clean, mountain waters",
-      marz_ararat_nkaragir170: "Barakajur Aghbyur",
+        "Springs of the Khosrov Forest — clean natural mountain waters preserved in their natural environment.",
+      marz_ararat_nkaragir170: "Barakajur spring",
       marz_ararat_nkaragir171: "Lakes",
       marz_ararat_nkaragir172:
-        "Karmrak Lake – ▲ 2350 m, ◯ 0.6 ha, ▼, on the southern western slope of the Geghama Mountains, on the right bank of the Vedi River",
+        "Lake Karmrak — ▲ 2350 m, ◯ 0.6 ha, ▼ — On the southwestern slopes of the Geghama Mountains, in the basin of the right tributary of the Vedi River.",
       marz_ararat_nkaragir173:
-        "Kapuyt Lake – ▲ 823 m, ◯ 0.05 km², ▼3 m, near the village of Hovtashen",
+        "Blue Lake — ▲ 823 m, ◯ 0.05 km², ▼ 3 m Near the village of Hovtashen.",
       marz_ararat_nkaragir174:
-        "Pghtor Lake – ▲ 2700 m, ◯ 0.6 ha, ▼, on the southwestern slope of the Geghama Mountains, in the upper reaches of the Mankunk River",
+        "Lake Pghtor — ▲ 2700 m, ◯ 0.6 ha, ▼ — On the southwestern slopes of the Geghama Mountains, in the upper course of the Mankunk River.",
       marz_ararat_nkaragir175:
-        "Vishapalich – ▲ 2620 m, ◯ 30 ha, ▼, Used for irrigation, registered in the list of state natural monuments of the RA Ministry of Nature Protection, Geghama Mountains, in the upper reaches of the Goght River, north of Geghardavank",
+        "Lake Vishapalich — ▲ 2620 m, ◯ 30 ha, ▼ — Also used for irrigation; listed as a state natural monument of Armenia. Geghama Mountains, upper course of the Ghot River, north of Geghard Monastery.",
       marz_ararat_nkaragir176: "Reservoirs",
       marz_ararat_nkaragir177:
-        "Azat Reservoir – Built in 1976, in the middle reaches of the Azat River, ▲ ~1000 m, ◯ ~2.85 km², ▼ ~72.4 m, 70 million m³, near the village of Lanjarat",
+        "Azat Reservoir — built in 1976 on the middle course of the Azat River. ▲ ~1000 m+, ◯ ~2.85 km², ▼ ~72.4 m, 70 million m³. Near the village of Lanjarat.",
       marz_ararat_nkaragir178:
-        "Zangakatan Reservoir – Built in 1986, on the Aratso River, for irrigation, ▲ ~1850 m, ◯ ~13.5 ha, 2 million m³, 3.5 km northeast of the village of Zangakatun, near the settlement of Hortun",
+        "Zangakatun Reservoir — built in 1986 on the Aratso River, used for irrigation. ▲ ~1850 m, ◯ ~13.5 ha, 2 million m³. 3.5 km north-east of Zangakatun village, near the settlement of Hortun.",
       marz_ararat_nkaragir179: "Historical Canals",
       marz_ararat_nkaragir180:
-        "Kakhanov Canal – built in 1870–1874, length: 36 km, reconstructed in 1930",
-      marz_ararat_nkaragir181: "Artashat Canal – built in 1930, length: 61 km",
+        "Kakhanov Canal — built in 1870–1874 along the route of an ancient canal. It was initiated by General Kakhanov, who leased the semi-desert lands of Arzdayan for sugar beet cultivation. The canal is 36 km long. It was reconstructed in 1930.",
+      marz_ararat_nkaragir181:
+        "Artashat Canal — built in 1930 from the left bank of the Hrazdan River in the territory of Yerevan. It is 61 km long.",
       marz_ararat_nkaragir182: "Natural Resources",
-      marz_ararat_nkaragir183: "The region is rich in natural resources",
+      marz_ararat_nkaragir183:
+        "The Ararat region is rich in natural resources.",
       marz_ararat_nkaragir184:
-        "Mountainous and plain areas are suitable for agriculture and industrial production",
+        "Its mountainous and lowland areas are suitable for agriculture and industrial production.",
       marz_ararat_nkaragir185:
-        "Due to the land and water resources, agriculture and fish farming are developed",
+        "Thanks to its land and water resources, agriculture and fish farming are well developed.",
       marz_ararat_nkaragir186:
-        "Suitable for industrial use: travertine, limestone, sand, marble",
-      marz_ararat_nkaragir187: "ECOMICITY",
+        "Suitable for industrial use: travertine, limestone, sand, marble.",
+      marz_ararat_nkaragir187: "Economy",
       marz_ararat_nkaragir188:
-        "Ararat region is one of the most economically developed regions of Armenia. Most of the Ararat Valley is located in this region, due to which it provides a significant part of the country's agricultural output.",
+        "The Ararat region is one of the most economically developed regions of Armenia. A large part of the Ararat plain is located within this region, which allows it to produce a significant share of the country’s agricultural output.",
       marz_ararat_nkaragir189: "Agriculture",
       marz_ararat_nkaragir190:
-        "Agricultural production is particularly important in the Ararat region. This is one of the most developed regions of Armenia, with the lowland areas widely covered with vineyards and orchards and fields of vegetable crops.",
+        "Agricultural production plays a particularly important role in the Ararat Region. This is one of the most intensively cultivated areas of Armenia, where the lowland zones are widely covered with vineyards, orchards, and vegetable fields.",
       marz_ararat_nkaragir191:
-        "Agriculture is especially developed, mainly with irrigated systems, using river water, artesian well water, and drip irrigation.",
+        "Crop farming is well developed, mainly based on irrigated agriculture using river water, artesian wells, and drip irrigation systems.",
       marz_ararat_nkaragir192:
-        "The rivers flowing through the Ararat Plain are also important for irrigation. The Azat River and its tributary Goght pass along the northern border of the region.",
+        "Rivers flowing through the Ararat Plain are also essential for irrigation. In the northern part of the region flow the Azat River and its tributary, the Goght River.",
       marz_ararat_nkaragir193:
-        "Agriculture is mainly irrigated: river water, canals, artesian wells, and modern drip irrigation systems are used.",
-      marz_ararat_nkaragir194: "Main crops and gardens,",
+        "Agriculture is predominantly irrigated, relying on river water, irrigation canals, artesian wells, and modern drip irrigation systems.",
+      marz_ararat_nkaragir194: "Main Crops and Orchards",
       marz_ararat_nkaragir195:
-        "Crops: watermelon, pumpkin, melon, cucumber, onion, tomato, bean, chickpea, green and red pepper",
+        "Crops: watermelon, pumpkin, melon, cucumber, onion, garlic, tomato, beans, chickpeas, green and red peppers.",
       marz_ararat_nkaragir196:
-        "Orchards: grapes, apricots, peaches, cherries, plums, apples, pears and other fruits",
-      marz_ararat_nkaragir197: "Animal husbandry and cattle breeding",
+        "Orchards: grapes, apricots, peaches, cherries, plums, apples, pears, and other fruits.",
+      marz_ararat_nkaragir197: "Animal Husbandry and Livestock",
       marz_ararat_nkaragir198:
-        "Sheep breeding and cattle breeding are especially developed in mountainous areas.",
+        "In mountainous areas, sheep farming and cattle breeding are especially well developed.",
       marz_ararat_nkaragir199: "Fish farming",
       marz_ararat_nkaragir200:
-        "Fish farming is rapidly developing in Ararat, using artesian water basins.",
+        "Fish farming is rapidly developing in the Ararat region, using artesian water basins.",
       marz_ararat_nkaragir201:
-        "Not only herbivorous fish are produced, but also rainbow trout and river trout (red trout) bred in cold waters.",
+        "Both herbivorous fish and cold-water species such as rainbow trout and river trout are produced.",
       marz_ararat_nkaragir202:
-        "Fish farms are mainly concentrated in the settlements of Masis community: Hovtashat, Sis, Sipanik, Hayanist, Darbnik, Dashtavan, Zorak, Nizami, Sayat-Nova, Ranchpar, Noramarg.",
+        "Fish farms are mainly concentrated in the settlements of the Masis community: Hovtashat, Sis, Sipanik, Hayanist, Darbnik, Dashtavan, Zorak, Nizami, Sayat-Nova, Ranchpar, Noramarg.",
       marz_ararat_nkaragir203:
-        "Climatic conditions are favorable for commercial fish production in all seasons of the year.",
-      marz_ararat_nkaragir204: "Food industry and beverages.",
+        "The climatic conditions are favorable for year-round production of marketable fish.",
+      marz_ararat_nkaragir204: "Food industry and Beverages",
       marz_ararat_nkaragir205:
-        "The food industry is developed in the region: jams, natural juices, canned goods, tomato pastes.",
+        "The region has a well-developed food industry, producing jams, natural juices, canned goods, and tomato paste.",
       marz_ararat_nkaragir206:
-        "Dried fruits from Ararat's sunny fruits are made according to ancient traditions.",
+        "Dried fruits made from the sun-ripened produce of Ararat are prepared according to long-standing traditional methods.",
       marz_ararat_nkaragir207:
-        "The Ararat region is also key in the production of Armenian alcoholic beverages: brandy, wine, vodka.",
+        "The Ararat Region also plays a key role in Armenia’s alcoholic beverage production, including brandy, wine, and vodka.",
       marz_ararat_nkaragir208:
-        "Famous mineral waters: Ararat and Vedi, Ararat water has 2400–2800 mg/l mineralization, hydrocarbonate, calcium-sodium.",
-      marz_ararat_nkaragir209: "Mining industry",
+        "Well-known mineral waters include Ararat and Vedi. The Ararat mineral water has a mineralization level of 2400–2800 mg/l, and is hydrocarbonate, calcium-sodium type.",
+      marz_ararat_nkaragir209: "Mining Industry",
       marz_ararat_nkaragir210:
-        "Travertine, limestone, and sand are mined in the vicinity of Ararat.",
+        "Travertine, limestone, and sand are extracted in the Ararat area.",
       marz_ararat_nkaragir211:
-        "The Araratcement factory operates in the city of Ararat, one of the two factories producing Portland cement in Armenia, belonging to the Multi Group concern.",
+        "In Ararat city operates the Ararat Cement Plant, one of only two Portland cement factories in Armenia, owned by the Multi Group holding.",
       marz_ararat_nkaragir212: "EDUCATION / SPORTS",
-      marz_ararat_nkaragir213: "Secondary schools",
+      marz_ararat_nkaragir213: "General Education Schools",
       marz_ararat_nkaragir214:
-        "There are 112 secondary schools in the region, of which:",
+        "There are 112 general education schools in the region, including:",
       marz_ararat_nkaragir215: "86 secondary schools",
-      marz_ararat_nkaragir216: "5 high schools",
+      marz_ararat_nkaragir216: "5 senior schools",
       marz_ararat_nkaragir217: "Distribution of schools by settlements:",
-      marz_ararat_nkaragir218: "In 21 cities",
-      marz_ararat_nkaragir219: "In 91 rural settlements",
+      marz_ararat_nkaragir218: "21 in urban areas",
+      marz_ararat_nkaragir219: "91 in rural settlements",
       marz_ararat_nkaragir220: "Art and music schools",
       marz_ararat_nkaragir221:
-        "They are located in all cities and villages of the region",
-      marz_ararat_nkaragir222: "Aygezard (Ashugh Kaghni Art School)",
+        "They operate in all towns of the region as well as in rural settlements, including:",
+      marz_ararat_nkaragir222: "Aygezard (Art School named after Ashugh Kaghn)",
       marz_ararat_nkaragir223: "Mkhchyan",
-      marz_ararat_nkaragir224: "Kaghtsrashen",
+      marz_ararat_nkaragir224: "Kaghcrashen",
       marz_ararat_nkaragir225: "Norashen",
-      marz_ararat_nkaragir226: "Upper Artashat",
+      marz_ararat_nkaragir226: "Verin Artashat",
       marz_ararat_nkaragir227: "Shahumyan",
       marz_ararat_nkaragir228: "Arbat",
       marz_ararat_nkaragir229: "Argavand",
-      marz_ararat_nkaragir230: "Artashat Aesthetic Center",
-      marz_ararat_nkaragir231: "Sports centers",
+      marz_ararat_nkaragir230: "“Artashat Aesthetic Center”",
+      marz_ararat_nkaragir231: "Sports Centers",
       marz_ararat_nkaragir232:
-        "The 'Ayg' football stadium is located in the city of Ararat, which is part of the 'Ayg' sports complex.",
+        "In the city of Ararat there is the “Aygh” football stadium, which is part of the “Aygh” sports complex.",
       marz_ararat_nkaragir233: "The sports complex includes:",
       marz_ararat_nkaragir234: "Indoor swimming pool",
       marz_ararat_nkaragir235: "Gym",
       marz_ararat_nkaragir236:
         "Mini football field and other sports facilities",
       marz_ararat_nkaragir237: "CULTURE",
-      marz_ararat_nkaragir238: "House of Culture and clubs",
+      marz_ararat_nkaragir238: "Culture House and Clubs",
       marz_ararat_nkaragir239:
-        "There is a house of culture in the region, where painting, dance and other groups and ensembles operate.",
-      marz_ararat_nkaragir240: "State Theater named after Amo Kharazyan.",
+        "The region has a House of Culture where various clubs and ensembles operate, including drawing, dance, and other artistic groups.",
+      marz_ararat_nkaragir240: "Amo Kharazyan State Theatre",
       marz_ararat_nkaragir241:
-        "It was founded in 1943 in a building that was put into operation. In 1956, it was reorganized as an inter-regional theater on the basis of the state regional theater operating in Ghamarlu from 1934 to 1956 (there was an amateur theater group since 1921). The theater building was partially renovated in 1998.",
+        "Founded in 1943 in an already operating building. In 1956 it was reorganized as an inter-district theatre based on the former state district theatre that operated in Ghamarlu from 1934–1956 (originally established in 1921 as an amateur theatre group). The theatre building was partially renovated in 1998.",
       marz_ararat_nkaragir242:
-        "The theater is a regional cultural center. More than 70 performances are shown every year, including 3-4 premieres. The repertoire is regularly updated and enriched, staging new performances and restoring old ones.",
+        "The theatre is a key cultural center of the region. Each year it stages over 70 performances, including 3–4 premieres. The repertoire is regularly updated with new productions and revivals of classic plays.",
       marz_ararat_nkaragir243: "Museums",
       marz_ararat_nkaragir244: "House-Museum of Sparapet Vazgen Sargsyan",
       marz_ararat_nkaragir245: "House-Museum of Paruyr Sevak",
-      marz_ararat_nkaragir246: "Bell House (Sovetashen Village)",
+      marz_ararat_nkaragir246: "Zangakatun (Sovetashen village)",
       marz_ararat_nkaragir247: "TOURISM",
       marz_ararat_nkaragir248:
-        "Ararat region is considered one of the main tourist destinations in Armenia, with its historical and cultural monuments, natural beauties and unique environmental areas. The biblical snow-capped Ararat is visible from any point in the region, which further enhances the region's tourist appeal. There are state specially protected areas (SPAs) in Ararat, where tourists can get acquainted with rare flora and fauna. The Khor Virap monastery complex is a major tourist center, which gives the Ararat region an irreplaceable charm and symbolic value. Khor Virap is one of the most visited ancient sanctuaries in Armenia, where the magnificent view of the biblical Mount Ararat has made it one of the most important visiting cards of Armenia, creating a unique and remarkable combination of history, culture and nature.",
-      marz_ararat_nkaragir249: "Natural attractions",
+        "The Ararat region is considered one of the main tourist destinations in Armenia due to its historical and cultural monuments, natural beauty, and unique protected areas. From almost any point in the region, the biblical snow-capped Mount Ararat is visible, which greatly enhances its touristic appeal.The region contains state protected natural areas (SPNAs), where visitors can discover rare flora and fauna. One of the major tourist centers is the Khor Virap Monastery complex, which gives the region exceptional symbolic value and unique charm. Khor Virap is one of the most visited ancient sacred sites in Armenia, and its majestic view of the biblical Mount Ararat has made it one of the country’s key landmarks, offering a unique blend of history, culture, and nature.",
+      marz_ararat_nkaragir249: "Natural Attractions",
       marz_ararat_nkaragir250:
-        "Mount Ararat panorama - the main tourist attraction of Armenia, the natural beauty of the mountain.",
+        "Mount Ararat panorama — the main tourist attraction of Armenia, showcasing the natural beauty of the mountain.",
       marz_ararat_nkaragir251:
-        "Ararat Valley with fruit trees, vineyards, crops - fruit trees, vineyards, crops.",
+        "Ararat Plain — a region of vineyards, orchards, and agricultural fields.",
       marz_ararat_nkaragir252:
-        "Azat Reservoir surroundings - a wonderful natural environment surrounding the reservoir, surrounded by the majestic Yeranos mountains, where the sky and clouds are reflected in the lake waters, giving the reservoir a unique appearance. A place of rest, a beautiful area, and also an important habitat for birds.",
+        "Azat Reservoir surroundings — a picturesque natural area surrounded by the majestic Yeghegnos Mountains. The reservoir reflects the sky and clouds, creating a unique scenic view. A recreation area and an important bird habitat.",
       marz_ararat_nkaragir253:
-        "Araks River Basin, Near-Araks Plains and Small Ponds – Wonderful Landscape, Natural Beauties, Aquatic Ecosystems, Bird Watching Sites.",
-      marz_ararat_nkaragir254: "Specially Protected Areas (SPAs):.",
-      marz_ararat_nkaragir255: "Khosrov Forest State Reserve.",
+        "Araks River basin, near-Araks plains, and small lakes — beautiful landscapes, aquatic ecosystems, and birdwatching sites.",
+      marz_ararat_nkaragir254: "Specially Protected Natural Areas (SPNAs)",
+      marz_ararat_nkaragir255: "Khosrov Forest State Reserve",
       marz_ararat_nkaragir256:
-        "Establishment: 4th century (officially a reserve since 1958).",
-      marz_ararat_nkaragir257: "Area: 27,000 ha.",
+        "Founded in the 4th century (officially a reserve since 1958)",
+      marz_ararat_nkaragir257: "Area: 27,000 ha",
       marz_ararat_nkaragir258:
-        "Khosrov Forest Reserve Waterfalls - charming waterfalls located deep in the forest, which are also beautiful in winter, freezing and creating impressive natural scenery.",
+        "Waterfalls of the Khosrov Reserve — scenic waterfalls hidden deep in the forest, turning into impressive frozen natural formations in winter.",
       marz_ararat_nkaragir259:
-        "On the southwestern slopes of the Geghama mountain range.",
-      marz_ararat_nkaragir260: "Khor Virap State Reserve.",
-      marz_ararat_nkaragir261: "Established in the 1970s.",
-      marz_ararat_nkaragir262: "Area: 50.28 ha.",
-      marz_ararat_nkaragir263: "Pokr Vedi Rural Community.",
-      marz_ararat_nkaragir264: "Goravan Sand Dunes.",
+        "Southwestern slopes of the Geghama mountain range.",
+      marz_ararat_nkaragir260: "Khor Virap State Sanctuary",
+      marz_ararat_nkaragir261: "Established in the 1970s",
+      marz_ararat_nkaragir262: "Area: 50.28 ha",
+      marz_ararat_nkaragir263: "Mets Vedi community.",
+      marz_ararat_nkaragir264: "Goravan Sands",
       marz_ararat_nkaragir265: "Established in 1959",
       marz_ararat_nkaragir266: "Area: 95.9 ha",
       marz_ararat_nkaragir267:
-        "Salt marsh near mineral springs, 850 m above sea level",
-      marz_ararat_nkaragir268: "Gilan Reserve",
+        "850 m a.s.l., southeast of Goravan village, near mineral springs.",
+      marz_ararat_nkaragir268: "Gilan Sanctuary",
       marz_ararat_nkaragir269: "Established in 2008",
       marz_ararat_nkaragir270: "Area: 118 ha",
       marz_ararat_nkaragir271:
-        "On the banks of the Mili tributary of the Azat River",
-      marz_ararat_nkaragir272: "Natural monuments",
+        "On the bank of the Mili tributary of the Azat River.",
+      marz_ararat_nkaragir272: "Natural Monuments",
       marz_ararat_nkaragir273: "Barakaghbyur Gorge",
-      marz_ararat_nkaragir274: "Angel Valley",
-      marz_ararat_nkaragir275: "Deep Well Fossil System",
-      marz_ararat_nkaragir276: "Big Well Fossil System",
-      marz_ararat_nkaragir277: "Fossil fauna of the Vedi River Basin",
-      marz_ararat_nkaragir278: "Fossil flora of Germanis",
-      marz_ararat_nkaragir279: "Fossil flora of Hortuni",
-      marz_ararat_nkaragir280: "Historical and cultural monuments",
+      marz_ararat_nkaragir274: "Valley of Angels",
+      marz_ararat_nkaragir275: "Khore Hor Cave System",
+      marz_ararat_nkaragir276: "Mets Hor Cave System",
+      marz_ararat_nkaragir277: "Fossil fauna of the Vedi River basin",
+      marz_ararat_nkaragir278: "Fossil flora of Dzhermanis",
+      marz_ararat_nkaragir279: "“Hortun” fossil flora (122–125)",
+      marz_ararat_nkaragir280: "Historical and Cultural Monuments",
       marz_ararat_nkaragir281:
-        "Khor Virap monastery complex (127) - 1.6 km northwest of the village of Lusarat, one of the most sacred Armenian shrines, associated with the history of Gregory the Illuminator and the establishment of Christianity.",
+        "Khor Virap Monastery – located 1.6 km north-west of Lusarat village. One of the most sacred sites in Armenia, closely connected with the history of Gregory the Illuminator and the adoption of Christianity in Armenia.",
       marz_ararat_nkaragir282:
-        "Ancient sites of Artashat and Dvin, Dvin Apakeblur pyramid (128) - ruins of the historical capitals of Armenia.",
+        "Ruins of Ancient city of Artashat and Ancient city of Dvin, including the Apakeblur structure — remains of Armenia’s ancient capitals.",
       marz_ararat_nkaragir283:
-        "Tapi berd (129) - X-XIII centuries. Covered, with a semicircular apse, walls and towers.",
+        "Tapi Fortress (also known as Gevorg Marzpetuni Fortress) – X–XIII centuries. A fortified complex with vaulted halls, a semicircular apse, defensive walls, and towers.",
       marz_ararat_nkaragir284:
-        "Havuts Tar Monastery Complex (130) - 2.8-3.4 km east of Garni village",
+        "Havuts Tar Monastery – located 2.8–3.4 km east of Garni village.",
       marz_ararat_nkaragir285:
-        "12th century St. Karapet Monastery (131) - 5.7-6.3 km northwest of Lanjar village",
+        "12th-century Saint Karapet Monastery (Landjar) – located 5.7–6.3 km north-west of Landjar village.",
       marz_ararat_nkaragir286:
-        "Kakavaberd (132) - 12.3-13 km southeast of Garni village",
+        "Kakavaberd Fortress – located 12.3–13 km south-east of Garni village (also known as Geghi or Keghi Fortress).",
       marz_ararat_nkaragir287:
-        "Aghjots Monastery (133) - 6.1-6.5 km southeast of Garni village",
-      marz_ararat_nkaragir288: "Sightseeing spots in cities",
+        "Aghjots Monastery – located 6.1–6.5 km south-east of Garni village.",
+      marz_ararat_nkaragir288: "Urban Attractions",
       marz_ararat_nkaragir289: "City",
-      marz_ararat_nkaragir290: "Monuments and sights",
+      marz_ararat_nkaragir290: "Monuments and Attractions",
       marz_ararat_nkaragir291: "Artashat",
       marz_ararat_nkaragir292:
-        "Artashat ancient site, Khor Virap, St. John the Evangelist Church (2015), Amo Kharazyan State Theater",
+        "Ancient city of Artashat, Surb Hovhannes Avetaranich (St. John the Evangelist) Church (2015), Amo Kharazyan State Theatre",
       marz_ararat_nkaragir293: "Ararat",
       marz_ararat_nkaragir294:
-        "Monument dedicated to Serob (1992), Monument to the victims of World War II (1985)",
+        "Monument to Serob Aghbyur (1992), Monument to the victims of World War II (1985)",
       marz_ararat_nkaragir295: "Vedi",
       marz_ararat_nkaragir296:
-        "St. Astvatsatsin Church (2001), Museum of Patriotic Studies, Fortress of the 8th-13th centuries, Cemetery of the 19th-20th centuries",
+        "Surb Astvatsatsin (Holy Mother of God) Church (2001), Local History Museum, 8th–13th century fortress, 19th–20th century cemetery",
       marz_ararat_nkaragir297: "Masis",
       marz_ararat_nkaragir298:
-        "St. Astvatsatsin Church (19th century), St. Thaddeus the Apostle Chapel (16th century, restored in the 20th century), 19th-20th century cemetery, St. Thaddeus Church (1991-2015), St. Gevorg Church (2009), Monument to the Victims of World War II (1983)",
-      marz_ararat_nkaragir299: "Sightseeing Sites in Rural Settlements",
-      marz_ararat_nkaragir300: "Khor Virap (13th century)",
-      marz_ararat_nkaragir301: "Khosrov Reserve (4th century)",
-      marz_ararat_nkaragir302: "Dvin Ruins",
+        "Surb Astvatsatsin Church (19th century), Surb Thaddeus the Apostle Chapel (16th century, restored in the 20th century), 19th–20th century cemetery, Surb Thaddeus Church (1991–2015), Surb Gevorg Church (2009), Monument to the victims of World War II (1983)",
+      marz_ararat_nkaragir299: "Rural Attractions",
+      marz_ararat_nkaragir300: "Khor Virap Monastery (13th century)",
+      marz_ararat_nkaragir301:
+        "Khosrov Forest State Reserve (4th century, established)",
+      marz_ararat_nkaragir302: "Ruins of Ancient city of Dvin",
       marz_ararat_nkaragir303: "Hovhannes Karapet Monastery (1301)",
       marz_ararat_nkaragir304:
-        "«Gevorg Marzpetuni» Monastery-Fortress (X-XIII centuries)",
-      marz_ararat_nkaragir305: "St. Stepanos Church (XIII century)",
+        "Gevorg Marzpetuni Monastery-Fortress (10th–13th centuries)",
+      marz_ararat_nkaragir305: "Saint Stepanos Church (13th century)",
       marz_ararat_nkaragir306: "LOGISTICS",
-      marz_ararat_nkaragir307: "The total length of regional roads is 405 km.",
+      marz_ararat_nkaragir307:
+        "The total length of roads of regional significance is 405 km.",
       marz_ararat_nkaragir308: "Highways",
       marz_ararat_nkaragir309:
-        "The M-2 highway passes through Ararat Marz, connecting the capital Yerevan with the state borders of Southern Armenia and Iran.",
+        "The M-2 highway passes through the Ararat Region, connecting the capital Yerevan with Southern Armenia and the state border with Iran.",
       marz_ararat_nkaragir310:
-        "The M-2 highway is of interstate significance and is one of the most important sections of the Armenian highway network.",
+        "The M-2 road is of interstate significance and is one of the most important sections of Armenia’s road network.",
       marz_ararat_nkaragir311:
-        "The length of the highway is 384.3 km, which from Yerevan reaches the settlements of Yeraskh, Goris, Meghri, and continues to the Armenia-Iran border.",
-      marz_ararat_nkaragir312: "Mountain passes",
+        "The total length of the highway is 384.3 km. Starting from Yerevan, it passes through Yeraskh, Goris, and Meghri, and continues to the Armenia–Iran border.",
+      marz_ararat_nkaragir312: "Mountain Passes",
       marz_ararat_nkaragir313:
-        "On the border of Ararat and Vayots Dzor, the M-2 highway rises into the mountains,",
-      marz_ararat_nkaragir314: "Lower section: Ararat Valley (about 800 m),",
+        "At the border of the Ararat and Vayots Dzor regions, the M-2 highwayascends into mountainous terrain.",
+      marz_ararat_nkaragir314: "Lower section — Ararat Plain (about 800 m)",
       marz_ararat_nkaragir315:
-        "Middle section: Paruyr Sevak (former Sevakavan, 1170 m),",
-      marz_ararat_nkaragir316: "Upper section: Zangakatun village (1650 m).",
+        "Middle section — Paruyr Sevak (formerly Sevakan, 1170 m)",
+      marz_ararat_nkaragir316: "Upper section — Zangakatun village (1650 m)",
       marz_ararat_nkaragir317:
-        "The mountainous section of the road is the bends of Tigranashen, then the Tukh Manuk mountain pass, which is a connecting link between the two regions.",
+        "The mountainous section of the road includes the Tigranashen serpentines, followed by the Tukh Manuk pass, which serves as a connecting link between the two regions.",
       marz_ararat_nkaragir318:
-        "On the mountain slopes, the road sometimes freezes in winter, but rarely becomes impassable.",
+        "In winter, these mountain sections may occasionally become icy, but the road is rarely completely impassable.",
       marz_ararat_nkaragir319: "Railway",
       marz_ararat_nkaragir320:
-        "Yeraskh station is located in the village of Yeraskh, Ararat region, on the left bank of the Araks River",
+        "The Yeraskh railway station is located in Yeraskh village of the Ararat Region, on the left bank of the Araks River.",
       marz_ararat_nkaragir321:
-        "It is the last railway station located in Armenia",
-      marz_ararat_nkaragir322: "Freight transportation ends at Ararat station",
+        "It is the last railway station located within the territory of Armenia.",
+      marz_ararat_nkaragir322:
+        "Freight transportation on this line ends at Ararat station.",
       marz_ararat_nkaragir323:
-        "The route with electric trains is limited, there is no permanent passenger transportation",
-      marz_ararat_nkaragir324: "Final",
+        "The station operates limited electric train services; there is no regular passenger transport.",
+      marz_ararat_nkaragir324: "Conclusion",
       marz_ararat_nkaragir325:
-        "Located in the sunny heart of Armenia, the region has broad development opportunities, primarily due to the fertile lands of the Ararat Valley and ancient traditions that have shaped a rich culture of horticulture and winemaking. The Khor Virap monastery complex is one of the most significant religious and historical sites in Armenia, located near the Turkish border, from where an exceptional view of Mount Ararat opens. The paradise slopes of the Khosrov Forest, ancient trees and wild fauna have gifted the region with a unique corner of material and spiritual delight, creating a valuable natural and historical area. Developing industry and logistics infrastructure, as well as international highways, can make Ararat region an important tourist, transport and logistics center in the near future.",
+        "Located in the sunniest heart of Armenia, the region has vast development potential, primarily due to the fertile lands of the Ararat Plain and ancient traditions that have shaped a rich culturen of horticulture and winemaking. Khor Virap Monastery is one of the most significant religious and historical sites in Armenia. It is located near the border with Turkey, offering a unique and exceptional view of Mount Ararat.The paradise-like slopes of Khosrov Forest State Reserve, its ancient forests, and rich wildlife have created a unique corner of natural and spiritual heritage, forming a valuable historical and environmental landscape. In the near future, the development of industry, logistics infrastructure, and international highways may turn the Ararat Region into an important tourism, transport, and logistics hub.",
     },
 
     ru: {
       // ararat
       marz_ararat_title: "АРАРАТ",
-      marz_ararat_bnutagir1: "ПРОФИЛЬ",
+      marz_ararat_bnutagir1: "Обзор",
       marz_ararat_bnutagir2: "ДАННЫЕ",
       marz_ararat_bnutagir3: "Направление",
-      marz_ararat_bnutagir4: "С севера",
-      marz_ararat_bnutagir5: "С северо-запада",
-      marz_ararat_bnutagir6: "С Запада",
-      marz_ararat_bnutagir7: "С юго-запада",
-      marz_ararat_bnutagir8: "С Востока",
-      marz_ararat_bnutagir9: "С юго-востока",
-      marz_ararat_bnutagir10: "С юга",
-      marz_ararat_bnutagir11: "Приграничный регион",
+      marz_ararat_bnutagir4: "Север",
+      marz_ararat_bnutagir5: "Северо-запад",
+      marz_ararat_bnutagir6: "Запад",
+      marz_ararat_bnutagir7: "Юго-запад",
+      marz_ararat_bnutagir8: "Восток",
+      marz_ararat_bnutagir9: "Юго-восток",
+      marz_ararat_bnutagir10: "Юг",
+      marz_ararat_bnutagir11: "Сопредельные области",
       marz_ararat_bnutagir12: "Котайк, Ереван",
       marz_ararat_bnutagir13: "Армавир",
       marz_ararat_bnutagir14: "Гегаркуник",
@@ -1305,42 +1295,41 @@
       marz_ararat_bnutagir16: "Соседние страны",
       marz_ararat_bnutagir17: "Турция",
       marz_ararat_bnutagir18: "Турция",
-      marz_ararat_bnutagir19: "/NIH/",
-      marz_ararat_bnutagir20: "Основание",
+      marz_ararat_bnutagir19: "Нахичевань (Азербайджан)",
+      marz_ararat_bnutagir20: "Образование",
       marz_ararat_bnutagir21:
-        "Араратская область Республики Армения образована 12 апреля 1995 года",
-      marz_ararat_bnutagir22: "Территория",
-      marz_ararat_bnutagir23:
-        "Араратская область занимает около 7,1% всей территории Армении (2096 км²)",
+        "Арташатская область Республики Армения была создана 12 апреля 1995 года.",
+      marz_ararat_bnutagir22: "Площадь",
+      marz_ararat_bnutagir23: "2 096 км² (около 7,1% территории Армении)",
       marz_ararat_bnutagir24: "Административный центр",
       marz_ararat_bnutagir25:
-        "Аштарак – крупнейший город региона. Он расположен в 20 км к северо-западу от Еревана. Местность заселена с древних времен, в письменных источниках – с VII века. Городское поселение с IX–X веков, во времена царства Багратидов.",
-      marz_ararat_bnutagir26: "Индекс",
-      marz_ararat_bnutagir27: "Область",
+        "Арташат расположен на берегу реки Аракс, в Араратской равнине, примерно в 30 км к юго-востоку от Еревана. Он был основан царём Арташесом I в 176 г. до н.э. и служил одной из столиц Великой Армении (185–120 гг. до н.э.).",
+      marz_ararat_bnutagir26: "Показатель",
+      marz_ararat_bnutagir27: "Площадь",
       marz_ararat_bnutagir28: "Координаты",
       marz_ararat_bnutagir29: "Высота",
-      marz_ararat_bnutagir30: "Самая высокая вершина",
-      marz_ararat_bnutagir31: "Административный центр",
+      marz_ararat_bnutagir30: "Высшая точка",
+      marz_ararat_bnutagir31: "Адм. центр",
       marz_ararat_bnutagir32: "Регионы",
       marz_ararat_bnutagir33: "Города",
-      marz_ararat_bnutagir34: "Деревни",
+      marz_ararat_bnutagir34: "Сёла",
       marz_ararat_bnutagir35: "Население",
-      marz_ararat_bnutagir36: "Расстояние от Ереван",
-      marz_ararat_bnutagir37: "Почтовый индекс",
+      marz_ararat_bnutagir36: "Расстояние до Еревана",
+      marz_ararat_bnutagir37: "Почтовые индексы",
       marz_ararat_bnutagir38: "Горячая линия",
-      marz_ararat_bnutagir39: "Веб-сайт",
-      marz_ararat_bnutagir40: "Данные",
-      marz_ararat_bnutagir41: "2096 кв. км",
+      marz_ararat_bnutagir39: "Сайт",
+      marz_ararat_bnutagir40: "Значение",
+      marz_ararat_bnutagir41: "2 096 км²",
       marz_ararat_bnutagir42: "39°49'53,98 с.ш.",
       marz_ararat_bnutagir43: "800 – 3550 м",
-      marz_ararat_bnutagir44: "Гора Спитакасар (3555 м)",
+      marz_ararat_bnutagir44: "гора Спитакасар (3 555 м)",
       marz_ararat_bnutagir45: "Арташат",
       marz_ararat_bnutagir46: "Арарат, Арташат, Масис",
       marz_ararat_bnutagir47: "Арташат, Масис, Арарат, Веди",
       marz_ararat_bnutagir48: "50 км",
       marz_ararat_bnutagir49: "Самая высокая вершина Спитакасар (3555 м)",
       marz_ararat_bnutagir50: "Региональные телефонные коды",
-      marz_ararat_bnutagir51: "Резиденция",
+      marz_ararat_bnutagir51: "Населённый пункт",
       marz_ararat_bnutagir52: "Арташат",
       marz_ararat_bnutagir53: "Арарат",
       marz_ararat_bnutagir54: "Масис",
@@ -1349,587 +1338,565 @@
       marz_ararat_bnutagir57: "Веди (CDMA)",
       marz_ararat_bnutagir58: "Урцадзор",
       marz_ararat_bnutagir59: "Код",
-      marz_ararat_bnutagir60: "Региональная администрация/Контакт",
-      marz_ararat_bnutagir61: "Адрес: Арташат, улица 23 Августа 60",
-      marz_ararat_bnutagir62: "Тел. (+374) 10 25 60 23, (+374) 23 52 52 26",
-      marz_ararat_bnutagir63: "Факс. (+374) 23 52 52 16",
-      marz_ararat_bnutagir64: "Электронная почта: ararat.qartughar@mta.gov.am",
+      marz_ararat_bnutagir60: "Мэрия / Связь",
+      marz_ararat_bnutagir61: "Адрес: г. Арташат, ул. 23 Августа, 60",
+      marz_ararat_bnutagir62: "Тел.: (+374) 10 25 60 23, (+374) 23 52 52 26",
+      marz_ararat_bnutagir63: "Факс: (+374) 23 52 52 16",
+      marz_ararat_bnutagir64: "Email: ararat.qartughar@mta.gov.am",
       marz_ararat_bnutagir65: "Веб-сайт: www.ararat.mtad.am",
-      marz_ararat_bnutagir66: "КАК ТУДА ДОБРАТЬСЯ",
+      marz_ararat_bnutagir66: "КАК ДОБРАТЬСЯ",
       marz_ararat_bnutagir67: "Автомагистрали",
-      marz_ararat_bnutagir68:
-        "Резервная автомагистраль Ереван-Ерасх, имеющая республиканское значение, проходит через Араратскую область.",
-      marz_ararat_bnutagir69: "Маршрут такси и автобуса",
-      marz_ararat_bnutagir70:
-        "Поездка из Еревана в Арташат занимает около 1 часа 10 минут.",
+      marz_ararat_bnutagir68: "Через регион проходит автодорога Ереван–Ерасх. ",
+      marz_ararat_bnutagir69: "Общественный транспорт (автобусы и маршрутки)",
+      marz_ararat_bnutagir70: "Ереван–Арташат: ~1 ч 10 мин",
       marz_ararat_bnutagir71:
         "Автомобили отправляются с Центрального железнодорожного вокзала и Северного автовокзала.",
-      marz_ararat_bnutagir72: "Цена билета.",
-      marz_ararat_bnutagir73: "Автобус Ереван-Масис: от 200 драмов",
-      marz_ararat_bnutagir74: "Автобус Ереван-Арарат: 500 драмов",
-      marz_ararat_bnutagir75: "Минибус Ереван-Арарат: 400–500 драмов",
-      marz_ararat_bnutagir76: "Минибусы",
-      marz_ararat_bnutagir77: "Доступен пассажирский транспорт до Еревана",
+      marz_ararat_bnutagir72: "Цена билета",
+      marz_ararat_bnutagir73: "Ереван–Масис: от 200 драм",
+      marz_ararat_bnutagir74: "Ереван–Арарат: 500 драм",
+      marz_ararat_bnutagir75: "Маршрутки: 400–500 драм",
+      marz_ararat_bnutagir76: "Маршрутные такси",
+      marz_ararat_bnutagir77: "Регулярные рейсы “Mercedes Sprinter” в Ереван ",
       marz_ararat_bnutagir78: "Контакт: 094 51 41 03",
       marz_ararat_bnutagir79: "Железная дорога",
-      marz_ararat_bnutagir80:
-        "Через этот регион проходит Ереванско-Ерасхская железная дорога",
-      marz_ararat_bnutagir81:
-        "Поездка из Еревана в Ерасх занимает около 1 часа 48 минут",
-      marz_ararat_bnutagir82:
-        "Электропоезд отправляется из Еревана ежедневно в 19:00, из Ерасха в 06:30",
-      marz_ararat_bnutagir83: "Билет цена.",
-      marz_ararat_bnutagir84: "до станции Зод: 350 драмов, 06:30.",
-      marz_ararat_bnutagir85: "до Суренавана, Армаша, Ерасха: 700 драмов.",
+      marz_ararat_bnutagir80: "Проходит линия Ереван–Ерасх",
+      marz_ararat_bnutagir81: "Время в пути: ~1 ч 48 мин",
+      marz_ararat_bnutagir82: "Расписание: из Еревана: 19:00 из Ерасха: 06:30 ",
+      marz_ararat_bnutagir83: "Цена билета: ",
+      marz_ararat_bnutagir84: "350 драм",
+      marz_ararat_bnutagir85: "700 драм",
       marz_ararat_bnutagir86: "КЛИМАТ",
       marz_ararat_bnutagir87:
-        "Араратский регион расположен в западной части Армении, занимая восточную часть Араратской долины. Для региона характерен сухой климат. Зимой в средней зоне, до 2000 м над уровнем моря, погода теплее и солнечнее, чем в Араратской котловине.",
-      marz_ararat_bnutagir88: "Климатические особенности",
-      marz_ararat_bnutagir89:
-        "В низинных и равнинных районах: мягкие зимы, прохладное лето: в среднем +26°C, часто солнечно",
-      marz_ararat_bnutagir90:
-        "В высокогорных и горных районах: суровые зимы, прохладное лето",
-      marz_ararat_bnutagir91:
-        "В летние месяцы ветры, дующие с гор Гегама в долинах, смягчают жару",
-      marz_ararat_bnutagir92:
-        "Начиная с середины мая, температура превышает +15 °C, за ней следует сухое, часто штормовое лето, которое длится до второй половины сентября.",
-      marz_ararat_bnutagir93: "Характеристики погоды",
+        "Араратская область расположена в западной части Армении и занимает восточную часть Араратской равнины. Климат преимущественно засушливый.",
+      marz_ararat_bnutagir88: "Особенности климата",
+      marz_ararat_bnutagir89: "Низменности: мягкая зима, тёплое лето (+26°C)",
+      marz_ararat_bnutagir90: "Горные районы: холодная зима и прохладное лето ",
+      marz_ararat_bnutagir91: "Летние ветры с Гегамских гор смягчают жару",
+      marz_ararat_bnutagir92: "С середины мая температура превышает +15°C ",
+      marz_ararat_bnutagir93: "Времена года",
       marz_ararat_bnutagir94:
-        "Зима - долгая, морозная, часто ветреная, устойчивый снежный покров (до 140–160 дней), бывают грозы.",
-      marz_ararat_bnutagir95:
-        "Лето - сухое и часто жаркое, прохладное и солнечное (+16…+26 °C), редко с жаркими днями.",
-      marz_ararat_bnutagir96:
-        "Весна - короткая и быстротечная, влажная, дождливая, часто с грозами и град.",
-      marz_ararat_bnutagir97:
-        "Осень – сначала мягкая и солнечная, затем часто дождливая с холодным ветром и туманом.",
-      marz_ararat_bnutagir98: "Температура.",
+        "Зима: длительная, холодная, ветреная (140–160 дней снежного покрова)",
+      marz_ararat_bnutagir95: "Лето: жаркое и сухое (+16…+26°C)",
+      marz_ararat_bnutagir96: "Весна: короткая, влажная, дождливая ",
+      marz_ararat_bnutagir97: "Осень: мягкая, затем дождливая и туманная ",
+      marz_ararat_bnutagir98: "Температура",
       marz_ararat_bnutagir99:
-        "Среднегодовая температура воздуха колеблется от +10°C до +13°C (низины), от +6°C до -2°C (горья).",
-      marz_ararat_bnutagir100:
-        "Средняя температура января составляет -4°C … -12°C.",
-      marz_ararat_bnutagir101: "Средняя температура июля составляет +26°C.",
+        "Среднегодовая: +10…+13°C (низины), +6…−2°C (горы)",
+      marz_ararat_bnutagir100: "Январь: −4…−12°C",
+      marz_ararat_bnutagir101: "Июль: около +26°C ",
       marz_ararat_bnutagir102:
         "Абсолютные максимальные и минимальные температуры Армянского нагорья регистрируются в низинах.",
-      marz_ararat_bnutagir103: "Самая низкая: -33 °C.",
-      marz_ararat_bnutagir104:
-        "Наивысшая температура: +42 °C (юго-восток Араратской равнины).",
-      marz_ararat_bnutagir105: "Места.",
-      marz_ararat_bnutagir106:
-        "Среднегодовое количество осадков: 200–300 мм (низменности).",
-      marz_ararat_bnutagir107:
-        "Среднегодовое количество осадков: 350–600 мм, до 1000 мм (высокогорные районы).",
-      marz_ararat_bnutagir108: "В остальных районах: 250–700 мм.",
-      marz_ararat_bnutagir109:
-        "Самый сухой месяц — август, с двумя максимумами осадков: май и ноябрь.",
-      marz_ararat_bnutagir110: "Ветры",
-      marz_ararat_bnutagir111: "Горные и долинные ветры типичны для равнин.",
-      marz_ararat_bnutagir112:
-        "Летом, во второй половине дня, ветры, дующие с гор Гегама, смягчают жару в долинах.",
+      marz_ararat_bnutagir103: "Самая низкая: −33°C",
+      marz_ararat_bnutagir104: "Наивысшая температура: +42°C",
+      marz_ararat_bnutagir105: "Осадки",
+      marz_ararat_bnutagir106: "Низины: 200–300 мм",
+      marz_ararat_bnutagir107: "Горы: 350–600 мм (до 1000 мм) ",
+      marz_ararat_bnutagir108: "Остальные зоны: 250–700 мм ",
+      marz_ararat_bnutagir109: "Самый сухой месяц: август, Пики: май и ноябрь ",
+      marz_ararat_bnutagir110: "Ветер",
+      marz_ararat_bnutagir111: "Характерны долинные ветры",
+      marz_ararat_bnutagir112: "Летом горные ветры охлаждают долины",
       marz_ararat_bnutagir113:
-        "Среднегодовая скорость ветра составляет 1-2 м/с, максимальная 18-22 м/с, в горных районах до 35 м/с, порывы 40 м/с.",
-      marz_ararat_bnutagir114: "Солнечно",
-      marz_ararat_bnutagir115:
-        "Регион характеризуется чрезвычайно обильным солнечным светом, средняя годовая продолжительность которого составляет 2471-2968 часов в год.",
+        "Средняя скорость: 1–2 м/с,Максимум: 18–22 м/с,Порывы: до 40 м/с",
+      marz_ararat_bnutagir114: "Солнечность",
+      marz_ararat_bnutagir115: "2471–2968 часов солнечного сияния в год",
 
       // marz_ararat_nkaragir
       marz_ararat_nkaragir1: "ОПИСАНИЕ",
       marz_ararat_nkaragir2:
         "Данные/Природа/Экономика/Наука/Образование/Культура/Туризм/Логистика",
-      marz_ararat_nkaragir3: "Арарат, символ армянского народа",
+      marz_ararat_nkaragir3: "Арарат — символ армянского народа",
       marz_ararat_nkaragir4:
-        "Араратский регион простирается до предгорий библейской горы Арарат, горы, которая является главным символом Армении и воплощением идентичности армянского народа, от которой регион и получил свое название. Величественная и захватывающая панорама Арарата веками вдохновляла души армянского народа и привлекала многочисленных туристов. В Араратском регионе Арарат повсюду.",
+        "Араратская область расположена у подножия библейской горы Арарат — главного символа Армении и воплощения национальной идентичности армянского народа. Именно благодаря этой священной горе область получила своё название. Величественная панорама Арарата веками вдохновляла армянский народ и привлекала многочисленных путешественников. В Араратской области Арарат — повсюду.",
       marz_ararat_nkaragir5:
-        "Природные и культурно богатые образы Араратской долины",
+        "Природные и культурные панорамы Араратской долины",
       marz_ararat_nkaragir6:
-        "Перед Арарат, Араратская долина, открывается в сердце страны, покрытая пышными садами и виноградниками, которые на протяжении тысячелетий хранят богатые традиции и культурное наследие армянского виноделия и садоводства.",
-      marz_ararat_nkaragir7: "Гармония природы, истории и культуры.",
+        "Перед величественным Араратом раскинулась Араратская долина—бьющееся сердце страны, покрытое плодородными садами и виноградниками. Именно здесь на протяжении тысячелетий бережно сохраняются богатые традиции армянского виноделия, садоводства и уникальное культурное наследие.",
+      marz_ararat_nkaragir7: "Гармония природы, истории и культуры",
       marz_ararat_nkaragir8:
-        "Араратский регион сочетает в себе величественные и прекрасные горные пейзажи, богатые сельскохозяйственные угодья и исторические и культурные традиции, предлагая уникальный туристический опыт для каждого посетителя.",
+        "Араратская область гармонично сочетает величественные горные пейзажи, плодородные сельскохозяйственные земли и богатые историко-культурные традиции, предлагая каждому гостю незабываемые впечатления и уникальный туристический опыт.",
       marz_ararat_nkaragir9:
-        "От Хосрова Анрара до государственного заповедника 'Хосровский лес'.",
+        "От леса Хосрова до государственного заповедника «Хосровский лес»",
       marz_ararat_nkaragir10:
-        "Когда армянский царь Хосров Котак посадил свой чудесный лес в IV веке, Араратского региона еще не существовало. Сегодня он наиболее похож на сказочное место, где посетители оказываются на перекрестке девственной красоты и средневековая история. Густые склоны леса, древние деревья и дикая фауна делают его уголком материальных и духовных наслаждений",
+        "Когда армянский царь Хосров III Котак в IV веке заложил свой знаменитый лес, Араратской области ещё не существовало. Сегодня именно здесь находится одно из самых сказочных мест Армении, где посетители попадают на перекрёсток первозданной природы и средневековой истории. Густые лесные склоны, древние деревья и богатый животный мир делают этот уголок источником как эстетического наслаждения, так и духовного вдохновения.",
       marz_ararat_nkaragir11: "ДАННЫЕ",
-      marz_ararat_nkaragir12: "Географические/Исторические/Демографические/",
+      marz_ararat_nkaragir12: "Географические / Исторические / Демографические",
       marz_ararat_nkaragir13: "Географическое положение",
       marz_ararat_nkaragir14:
-        "Араратский регион расположен на юго-западе Армении.",
-      marz_ararat_nkaragir15: "Высота: 800-3550 м над уровнем моря.",
-      marz_ararat_nkaragir16: "Самый длинный участок:",
+        "Араратская область расположена на юго-западе Армении.",
+      marz_ararat_nkaragir15: "Высота над уровнем моря — 800–3550 м.",
+      marz_ararat_nkaragir16: "Наибольшая протяжённость:",
       marz_ararat_nkaragir17:
-        "С северо-запада на юго-восток: 100 км (от подножия горы Арарат до города Масис):",
-      marz_ararat_nkaragir18: "С запада на восток: 40-45 км.",
-      marz_ararat_nkaragir19: "Приграничные районы.",
+        "с северо-запада на юго-восток — 100 км (от подножия горы Арарат до города Масис);",
+      marz_ararat_nkaragir18: "с запада на восток — 40–45 км.",
+      marz_ararat_nkaragir19: "Соседние территории",
       marz_ararat_nkaragir20:
-        "Регионы: Вайоцдзор, Котайк, Гегаркуник. От Генута до Гндасара: регион Вайоцдзор. К Котайку: Гегаркуник",
+        "Области Армении: Армавирская, Котайкская, Гегаркуникская и Вайоцдзорская области, а также город Ереван.",
       marz_ararat_nkaragir21:
-        "Международные границы: Азербайджан (Нахичевань) с Ираном - южная граница",
+        "Государственные границы: Турция и Азербайджан (Нахичеванская Автономная Республика).",
       marz_ararat_nkaragir22: "Историческое наследие",
-      marz_ararat_nkaragir23: "Население",
+      marz_ararat_nkaragir23: "Заселение территории",
       marz_ararat_nkaragir24:
-        "Айрарат считался одной из самых обширных провинций Великой Армении и экономическим, политическим и культурным центром армянского народа",
+        "Айрарат считался одной из крупнейших провинций Великой Армении и был экономическим, политическим и культурным центром армянского народа.",
       marz_ararat_nkaragir25:
-        "Территория региона в прошлом включала в себя провинции Востан-Айоц, Урц и Арат исторического армянского мира Айрарата",
+        "Территория современной Араратской области в прошлом входила в историческую область Айрарат и включала гавары Востан Айоц, Урц и Арац.",
       marz_ararat_nkaragir26:
-        "По данным «Ашкархацойца» VII века, площадь этих трех провинций составляла 2175 кв. км.",
+        "Согласно армянскому географическому труду VII века «Ашхарацуйц», площадь этих трёх гаваров составляла 2175 км².",
       marz_ararat_nkaragir27:
-        "Исторические столицы: Арташат (II век до н.э.) и Двин (IV век до н.э.) располагались в Востанской Армении в качестве столиц.",
-      marz_ararat_nkaragir28: "Население и образ жизни.",
+        "Исторические столицы: в гаваре Востан Айоц располагались древние столицы Армении — Арташат (II век до н. э.) и Двин (IV век н. э.).",
+      marz_ararat_nkaragir28: "Население и быт",
       marz_ararat_nkaragir29:
-        "Нынешнее население региона в основном армянское, также есть русские, курды и ассирийцы.",
+        "Современное население области преимущественно составляют армяне. Здесь также проживают русские, курды и ассирийцы.",
       marz_ararat_nkaragir30:
-        "Население Арарата менялось на протяжении истории, наряду с подъемом и падением армянской государственности.",
+        "На протяжении истории численность и этнический состав населения Араратской области менялись вместе с подъёмами и периодами упадка армянской государственности.",
       marz_ararat_nkaragir31:
-        "С 1830-х годов десятки тысяч армянских семей из Салмастской и Хойской провинций Персии переселились сюда, сделав армянское население большинством.",
+        "Начиная с 1830-х годов сюда переселились десятки тысяч армянских семей из персидских областей Салмаст и Хой, благодаря чему армяне стали большинством населения области.",
       marz_ararat_nkaragir32:
-        "В XIX веке, с После включения Восточной Армении в состав Российской империи местные армяне также вернулись из различных провинций Западной Армении (Ван, Алашкерт, Маназкерт, Карин, Басен, Хнус).",
+        "В XIX веке, после вхождения Восточной Армении в состав Российской империи, сюда также переселились армяне из различных районов Западной Армении — Вана, Алашкерта, Маназкерта, Карина (Эрзрума), Басена и Хнуса.",
       marz_ararat_nkaragir33:
-        "После 1828 года большое количество армян, переселившихся в Грузию в 1870-х годах и насильно депортированных в Тифлис в 1804 году, вернулись на родину.",
+        "После 1828 года на родину вернулось также большое число армян, переселённых в Грузию в 1770-х годах и впоследствии депортированных в Тифлис в 1804 году.",
       marz_ararat_nkaragir34:
-        "Семьи эмигрантов привезли с собой элементы армянской культуры, повседневной жизни и костюмов, которые, смешиваясь с местной культурой, создали богатые и разнообразные традиции.",
+        "Переселенцы принесли с собой богатые традиции армянской культуры, быт и национального костюма, которые, переплетаясь с местными обычаями, сформировали богатое и многогранное культурное наследие региона.",
       marz_ararat_nkaragir35: "ПРИРОДА",
       marz_ararat_nkaragir36:
-        "Араратский регион разделен на две большие части: горную и равнинную.",
+        "Араратская область делится на две основные части — горную и равнинную.",
       marz_ararat_nkaragir37:
-        "Горная часть составляет ~70%, простирается с запада на восток.",
+        "Горная часть составляет около 70% территории и простирается с запада на восток.",
       marz_ararat_nkaragir38:
-        "Равнина составляет ~30%, шириной 10–15 км, простирается от реки Раздан до государственной границы Армении.",
-      marz_ararat_nkaragir39: "Зоны",
+        "Равнинная часть занимает около 30% территории, имеет ширину 10–15 км и тянется от реки Раздан до государственной границы Армении.",
+      marz_ararat_nkaragir39: "Поясность (зоны)",
       marz_ararat_nkaragir40:
-        "Араратский регион — одна из самых разнообразных природных зон Армении, где 5 основных ландшафтных зон Армении следуют друг за другом, от равнин до альпийских и заснеженных горных вершин, и 5 типов климата, распространенных в Армении, которые следуют в восходящей зональности.",
-      marz_ararat_nkaragir41: "Ландшафт зоны",
-      marz_ararat_nkaragir42: "Полупустыня – ▲ 800–1000 м",
-      marz_ararat_nkaragir43: "Сухая степь – ▲ 1000–1500 м",
-      marz_ararat_nkaragir44: "Горная степь – ▲ 1500–2400 м",
-      marz_ararat_nkaragir45: "Горный лес (редкий лес) – ▲ 1600–2300 м",
-      marz_ararat_nkaragir46: "Подгорный и альпийский – ▲ 2400–3400 м",
-      marz_ararat_nkaragir47: "Снежный (нивальный) – ▲ выше 3400 м",
+        "Араратская область является одной из самых природно разнообразных регионов Армении, где последовательно сменяются 5 основных nландшафтных поясов страны — от равнин до альпийских и снежных высокогорных вершин, а также 5 климатических типов, проявляющихся в условиях высотной поясности.",
+      marz_ararat_nkaragir41: "Ландшафтные зоны",
+      marz_ararat_nkaragir42: "Полупустынная — ▲800–1000 м",
+      marz_ararat_nkaragir43: "Сухостепная — ▲1000–1500 м",
+      marz_ararat_nkaragir44: "Горностепная — ▲1500–2400 м",
+      marz_ararat_nkaragir45: "Горнолесная (редколесная) — ▲1600–2300 м",
+      marz_ararat_nkaragir46: "Субальпийская и альпийская — ▲2400–3400 м",
+      marz_ararat_nkaragir47: "Снежная (нивальная) — ▲3400 м и выше",
       marz_ararat_nkaragir48:
-        "Снежная зона - территории выше 3500 м очень ограничены.",
+        "Снежная зона представлена очень ограниченно, в основном на высотах выше 3500 м.",
       marz_ararat_nkaragir49: "Климатические зоны",
-      marz_ararat_nkaragir50: "Сухая, строго континентальная – ▲ 800–1100 м",
+      marz_ararat_nkaragir50: "Сухой, резко континентальный — ▲800–1100 м",
       marz_ararat_nkaragir51:
-        "Умеренно континентальная (с сухим жарким летом) – ▲ 1100–1500 м",
+        "Умеренно континентальный (с сухим жарким летом) — ▲1100–1500 м",
       marz_ararat_nkaragir52:
-        "Умеренно горная (с коротким прохладным летом) – ▲ 1500–2400 м",
+        "Умеренно горный (с прохладным коротким летом) — ▲1500–2400 м",
       marz_ararat_nkaragir53:
-        "Холодная горная (с длинной зимой) – ▲ 2400–3000 м",
+        "Холодный горный (с продолжительной зимой) — ▲2400–3000 м",
       marz_ararat_nkaragir54:
-        "Горная, чрезвычайно холодная (снежная) – ▲ выше 3000 м",
-      marz_ararat_nkaragir55: "Почва и растительность",
+        "Высокогорный резко холодный (снежный) — ▲3000 м и выше",
+      marz_ararat_nkaragir55: "Почвы и растительность",
       marz_ararat_nkaragir56:
-        "Черные почвы, бурые почвы и полупустынные, заснеженные зоны широко распространены.",
+        "На территории области распространены чернозёмы, бурые почвы, полупустынные и высокогорные почвы снежных зон.",
       marz_ararat_nkaragir57:
-        "Доминирующая растительность: полупустынные и лесные типы.",
+        "Преобладающая растительность — полупустынные и лесные виды.",
       marz_ararat_nkaragir58:
-        "Основные виды деревьев: дуб, граб, клен, ясень, можжевельник.",
-      marz_ararat_nkaragir59: "Особо охраняемые территории.",
-      marz_ararat_nkaragir60: "Хосровский лесной заповедник – (▲1600–2300 м).",
+        "Основные древесные породы: дуб, граб, клён, ясень, можжевельник.",
+      marz_ararat_nkaragir59: "Особо охраняемые природные территории (ООПТ)",
+      marz_ararat_nkaragir60:
+        "Государственный заповедник «Хосровский лес» (▲1600–2300 м)",
       marz_ararat_nkaragir61:
-        "Флора: 1849 видов растений, 146 в Красной книге, можжевеловые и дубовые леса, полупустыни и средиземноморские леса пейзажи сохранены.",
+        "Флора: 1849 видов растений, 146 занесены в Красную книгу. Сохранились можжевеловые и дубовые леса, полупустынные и средиземноморские ландшафты.",
       marz_ararat_nkaragir62:
-        "Фауна: 283 позвоночных животных: безоаровый козел, армянский ибис, бурый медведь, леопард.",
-      marz_ararat_nkaragir63:
-        "Государственный заповедник Хор Вирап – (▲800–1100 м)",
+        "Фауна: 283 вида позвоночных животных, включая безоарового козла, кавказского леопарда, бурого медведя и армянского ибиса.",
+      marz_ararat_nkaragir63: "Заказник «Хор Вирап» (▲800–1100 м)",
       marz_ararat_nkaragir64:
-        "Флора: Редкие виды водно-болотных растений: Сибех, Клгум Ошеин, Кармранский осьминог.",
+        "Флора: редкие водно-болотные растения — сибех, кльмух ошеин, краснолистные виды осоковых.",
       marz_ararat_nkaragir65:
-        "Фауна: Водоплавающие птицы: Мраморная поганка, Белоголовая утка.",
-      marz_ararat_nkaragir66:
-        "Заповедник Гораванские песчаные дюны – (▲920–980 м)",
+        "Фауна: водоплавающие птицы — мраморный чирок, белоголовая утка.",
+      marz_ararat_nkaragir66: "Заповедник «Гораванские пески» (▲920–980 м)",
       marz_ararat_nkaragir67:
-        "Флора: 162 вида растений, 11 занесены в Красную книгу, песчаная пустыня джузгун.",
+        "Флора: 162 вида растений, 11 занесены в Красную книгу; песчаные пустынные экосистемы.",
       marz_ararat_nkaragir68:
-        "Фауна: 33 позвоночных, 700 беспозвоночных, эндемичные и исчезающие виды.",
+        "Фауна: 33 вида позвоночных и около 700 беспозвоночных, включая эндемичные и исчезающие виды.",
       marz_ararat_nkaragir69:
-        "Гиланский заповедник – (118 га в Хосровском лесном заповеднике).",
-      marz_ararat_nkaragir70: "Облегчение",
+        "Заказник «Гилан» (118 га, в составе Хосровского лесного заповедника)",
+      marz_ararat_nkaragir70: "Рельеф",
       marz_ararat_nkaragir71:
-        "Уникальность региона Арарат заключается в том, что горная и равнинная части разделены территорией.",
+        "Уникальность Араратской области заключается в том, что её горные и равнинные части чётко пространственно отделены друг от друга.",
       marz_ararat_nkaragir72:
-        "Самая низкая точка: 801 м, около русла реки Аракс (юг)",
+        "Самая низкая точка — 801 м, около русла реки Аракс (юг)",
       marz_ararat_nkaragir73:
-        "Самая высокая точка: 3555,7 м, пик Спитакасар (северо-восток)",
-      marz_ararat_nkaragir74: "Разброс высот на территории составляет 2755 м",
-      marz_ararat_nkaragir75: "Горы (≥ 2000 м над уровнем моря)",
+        "Самая высокая точка — 3555,7 м, вершина горы Спитакасар (северо-восток)",
+      marz_ararat_nkaragir74: "Амплитуда высот территории составляет 2755 м",
+      marz_ararat_nkaragir75: "Горные вершины (≥ 2000 м над уровнем моря)",
       marz_ararat_nkaragir76: "Спитакасар – 3555,7 м",
-      marz_ararat_nkaragir77: "Гегхасар – 3443 м",
+      marz_ararat_nkaragir77: "Гегасар – 3443 м",
       marz_ararat_nkaragir78: "Ухтусар – 3170 м",
       marz_ararat_nkaragir79: "Вишапасар – 3157 м",
       marz_ararat_nkaragir80: "Цахкавет – 3076 м",
       marz_ararat_nkaragir81: "Аркашен – 2971 м",
       marz_ararat_nkaragir82: "Манкунк – 2927 м",
-      marz_ararat_nkaragir83: "Гора Мигасар – 2858 м",
+      marz_ararat_nkaragir83: "Мигасар – 2858 м",
       marz_ararat_nkaragir84: "Тасанорд – 2535 м",
       marz_ararat_nkaragir85: "Бнут – 2532 м",
-      marz_ararat_nkaragir86: "Урц — 2446 м",
-      marz_ararat_nkaragir87: "Вершина Урца – 2445,9 м",
+      marz_ararat_nkaragir86: "Уртц – 2446 м",
+      marz_ararat_nkaragir87: "Вершина Уртц – 2445,9 м",
       marz_ararat_nkaragir88: "Шогер – 2356 м",
       marz_ararat_nkaragir89: "Хандасар – 2292 м",
       marz_ararat_nkaragir90: "Црдут – 2114 м",
-      marz_ararat_nkaragir91: "Еритсасар – 2083 м",
+      marz_ararat_nkaragir91: "Ерицасар – 2083 м",
       marz_ararat_nkaragir92: "Катарасар – 2069 м",
       marz_ararat_nkaragir93: "Котуц – 2061,5 м",
       marz_ararat_nkaragir94: "Барсегисар – 1993 м",
-      marz_ararat_nkaragir95: "Хосровасаар – 1988 м",
+      marz_ararat_nkaragir95: "Хосровасар – 1988 м",
       marz_ararat_nkaragir96: "Карагагат – 1948 м",
       marz_ararat_nkaragir97: "Кармир кар – 1948 м",
-      marz_ararat_nkaragir98: "Знаменитые горы ниже 2000 метров",
+      marz_ararat_nkaragir98: "Известные горы ниже 2000 м",
       marz_ararat_nkaragir99: "Еранос – 1824 м",
-      marz_ararat_nkaragir100: "Тезкар – 1735 м",
-      marz_ararat_nkaragir101: "Илькассар – 1462 м",
+      marz_ararat_nkaragir100: "Тежкар – 1735 м",
+      marz_ararat_nkaragir101: "Илкасар – 1462 м",
       marz_ararat_nkaragir102: "Ерах – 1419 м",
       marz_ararat_nkaragir103: "Горные хребты",
       marz_ararat_nkaragir104:
-        "Гегамские горы – (~70 км), самая высокая вершина: Аждахак (3597 м)",
+        "Гегамские горы – (~70 км), высшая вершина: Аждаак (3597 м)",
       marz_ararat_nkaragir105:
-        "Горы Уртс – (~25 км), самая высокая вершина: Уртс (2446 м)",
+        "Уртцские горы – (~25 км), высшая вершина: Уртц (2446 м)",
       marz_ararat_nkaragir106:
-        "Горы Йерах – (~16 км), самая высокая вершина: Алсар (1853 м)",
+        "Ерахские горы – (~16 км), высшая вершина: Алсар (1853 м)",
       marz_ararat_nkaragir107:
-        "Горы Манкунк – (~13 км), самая высокая вершина: Манкунк (2927 м)",
+        "Манкункские горы – (~13 км), высшая вершина: Манкунк (2927 м)",
       marz_ararat_nkaragir108:
-        "Горный хребет Угтупар / Гегасар – (~12 км), основание: Гегасар (3443 м)",
+        "Ухтупар / Гегасарский горный узел – (~12 км), в.в. Гегасар (3443 м)",
       marz_ararat_nkaragir109:
-        "Десятые, горы Дахнаки – (~12 км), основание: Десятые (2535 м)",
+        "Тасанордские и Дахнакские горы – (~12 км), в.в.: Тасанорд (2535 м)",
       marz_ararat_nkaragir110:
-        "Горы Мжкатари – (~10 км), самая высокая вершина: Мигасар (2858 м)",
+        "Мжкатарские горы – (~10 км), высшая вершина: Мигасар (2858 м)",
       marz_ararat_nkaragir111:
-        "Горы Црдут – (~10 км), самая высокая вершина: Црдут (2114 м)",
+        "Црдутские горы – (~10 км), высшая вершина: Црдут (2114 м)",
       marz_ararat_nkaragir112:
-        "Горы Катарасар – (~2,5 км), самая высокая точка: Катар (2069 м)",
+        "Катарсарские горы – (~2,5 км), высшая точка: Катар (2069 м)",
       marz_ararat_nkaragir113:
-        "Горы Хачери – (~4 км), самая высокая вершина: Аркашен (2971 м)",
+        "Хачерские горы – (~4 км), высшая вершина: Аркашен (2971 м)",
       marz_ararat_nkaragir114:
-        "Горы Ицасар – (~3,5 км), самая высокая вершина: Ицасар (1926 м) м)",
+        "Ицасарские горы – (~3,5 км), высшая вершина: Ицасар (1926 м)",
       marz_ararat_nkaragir115:
-        "Горы Шогер – (~2 км), самая высокая вершина: Шогер (2356 м)",
+        "Шогерские горы – (~2 км), высшая вершина: Шогер (2356 м)",
       marz_ararat_nkaragir116:
-        "Горы Еранос – (~?), самая высокая вершина: Еранос (~1824 м)",
+        "Ераносские горы – (~?), высшая вершина: Еранос (~1824 м)",
       marz_ararat_nkaragir117:
-        "Горы Генут – (~?), самая высокая вершина: Генут (~2066 м) на границе Араратской, Вайоцдзорской и Нахичеванской областей Республики Армения",
+        "Генутские горы – (~?), высшая вершина: Генут (~2066 м)- На стыке границ Араратской и Вайоцдзорской областей и Нахичеванской АР.",
       marz_ararat_nkaragir118: "Горные перевалы",
       marz_ararat_nkaragir119:
-        "Перевал Ерахи – ▲3707 м, на территории Государственного лесничества Хосров, в 4,5 км к северо-западу от Веди деревня",
+        "Ерахский перевал – ▲3707 м, находится на территории государственного заповедника «Хосровский лес», в 4,5 км северо-западнее села Веди.",
       marz_ararat_nkaragir120:
-        "Перевал Тух Манук – ▲1795 м (на границе марзов Арарат/Вайоц Дзор), между горными хребтами Дахнак и Урц",
+        "Перевал Тух Манук – ▲1795 м (на стыке Араратской и Вайоцдзорской областей), между хребтами Дахнак и Урц.",
       marz_ararat_nkaragir121:
-        "Горный перевал Урцасар – ▲1910 м, соединяет долины Шагхап и Арацо. Через горный перевал проходит национальная автомагистраль H10 (H8 – Воскетап – Веди – Ланджар – M2)",
+        "Урцасарский перевал – ▲1910 м, соединяет долины Шагап и Арацо. Через перевал проходит автодорога республиканского значения H10 (H8 – Воскеатеп – Веди – Ланджар – M2).",
       marz_ararat_nkaragir122: "Равнины и плато",
       marz_ararat_nkaragir123:
-        "Долина Арарат – ▲800-1000 м, простирается на запад региона вдоль реки Аракс, длиной 90 км",
+        "Араратская равнина – ▲800–1000 м, расположена в западной части региона, вдоль реки Аракс, протяжённостью около 90 км.",
       marz_ararat_nkaragir124:
-        "Плато Тарнист – ▲2500-3500 м в юго-западной части гор Гегама, в верховьях реки Гогт",
+        "Плато Тарнист – ▲2500–3500 м, находится в юго-западной части Гегамских гор, в верхнем течении реки Гохт.",
       marz_ararat_nkaragir125: "Водная система",
       marz_ararat_nkaragir126:
-        "Регион Арарат простирается в основном в южной и восточной частях Араратской долины, где образуются несколько водораздельных систем.",
+        "Араратская область в основном расположена в южной и восточной частях Араратской равнины, где формируются несколько водораздельных систем.",
       marz_ararat_nkaragir127: "Водоразделы",
       marz_ararat_nkaragir128:
-        "На севере, у высоких частей гор Гегама (Гндасар, Манкунки, Цахкавет)",
+        "На севере — по высокогорным частям Гегамского хребта (Гндасар, Манкунки, Цахкавет).",
       marz_ararat_nkaragir129:
-        "На северо-западе, у границ горных хребтов Арагацотн",
-      marz_ararat_nkaragir130: "На востоке, у горного хребта Веди",
-      marz_ararat_nkaragir131: "На юге граничит с Араканской долиной",
+        "На северо-западе — по пограничным хребтам Арагацотна.",
+      marz_ararat_nkaragir130: "На востоке — по Веди́йскому хребту.",
+      marz_ararat_nkaragir131: "На юге — ограничены долиной реки Аракс.",
       marz_ararat_nkaragir132:
-        "Водоразделы гор Гегама – склоны «Гегамские горы служат главным водоразделом",
+        "Водоразделы Гегамских гор – склоны Гегамского хребта являются главным водоразделом:",
       marz_ararat_nkaragir133:
-        "Воды, текущие на север и восток, попадают в бассейн реки Севан",
+        "воды, стекающие на север и восток, направляются в бассейн озера Севан,",
       marz_ararat_nkaragir134:
-        "Реки, текущие на юг и запад, – бассейн реки Аракс",
+        "воды, стекающие на юг и запад, — в бассейн реки Аракс.",
       marz_ararat_nkaragir135:
-        "Водораздельная система Аракса – главный водораздел региона, почти все реки и водотоки впадают в реку Аракс",
+        "Система водораздела Аракса – основной водораздел региона. Почти все реки и водотоки собираются и впадают в реку Аракс, формируя её водосборный бассейн. Водоразделы проходят по склонам Гегамских и Уртских гор, откуда реки текут в сторону Аракса. Аракс протекает по всей южной границе области, образуя государственную границу РА.",
       marz_ararat_nkaragir136:
-        "Водораздельная система Азата – в центральной и восточной частях региона",
-      marz_ararat_nkaragir137:
-        "Источники расположены на склонах Гегамского горного хребта",
+        "Система водораздела Азат – формируется в центральной и восточной частях региона:",
+      marz_ararat_nkaragir137: "истоки находятся на склонах Гегамского хребта,",
       marz_ararat_nkaragir138:
-        "Река Азат впадает в Аракс, принимая реки Гогт, Далар, Хосров и другие». притоки",
+        "река Азат течёт к Араксу, принимая притоки Гохт, Далар, Хосров и др.",
       marz_ararat_nkaragir139:
-        "Водосборная система Веди - В центральной части региона бассейн реки Веди также является притоком Аракса",
-      marz_ararat_nkaragir140:
-        "Главными притоками являются реки Хосров, Шагхап и Котуц",
+        "Система водораздела Веди – расположена в центральной части региона:формируется бассейн реки Веди,река Веди также является притоком Аракса,",
+      marz_ararat_nkaragir140: "основные притоки — Хосров, Шагап и Котуц.",
       marz_ararat_nkaragir141:
-        "Водосборные бассейны Севана - Водосборный бассейн вод, впадающих в бассейн Севана, проходит от Гндасара до гор Манкунк и Цахкавет, вдоль границы Арарата и Гегаркуника",
+        "Водораздел бассейна Севана – проходит по линии от Гндасара через Манкунки и Цахкавет, вдоль границы Арарата и Гегаркуника.",
       marz_ararat_nkaragir142: "Реки",
       marz_ararat_nkaragir143:
-        "Реки Араратского региона в основном имеют горные истоки и впадают в мощную Араксскую долину. Крупнейшие реки - Аракс, Азат, Раздан и Веди. Река Азат и её приток Гогт протекают через северо-восточную часть региона, беря начало в горах Гегама. Река Веди, протекающая со своими притоками (Хосров, Котуц, Манкунк) через центральную часть Араратской равнины, имеет ирригационное значение, а водохранилища и гидроэлектростанции региона также обеспечивают сельскохозяйственную систему Араратской равнины.",
+        "Реки Араратской области в основном имеют горное происхождение и стекают в долину реки Аракс. Крупнейшие реки региона — Аракс, Азат, Раздан и Веди. В северо-восточной части области протекает река Азат и её приток Гохт, которые берут начало в Гегамских горах. Река Веди вместе со своими притоками (Хосров, Котуц, Манкунок) протекает через центральную часть Араратской равнины и имеет важное оросительное значение. Также водохранилища и ГЭС региона обеспечивают сельское хозяйство Араратской долины.",
       marz_ararat_nkaragir144:
-        "Аракс — приток реки Кура. Общая длина: 1072 км, из которых 200 км находится на территории Республики Армения. Источник находится в горах Бюракн. Это пограничная река.",
+        "Аракс — приток реки Кура. Общая длина: 1072 км, из них около 200 км — по территории РА. Исток — Бюраканские горы. Пограничная река.",
       marz_ararat_nkaragir145:
-        "Раздан — левый приток Аракса, протекает через Гегаркуник, Котайк, Арарат и Ереван. Длина: 141 км, источник ▲1900 м, озеро Севан",
+        "Раздан — левый приток Аракса. Протекает через Гегаркуник, Котайк, Арарат и Ереван. Длина: 141 км. Исток: озеро Севан (≈1900 м).",
       marz_ararat_nkaragir146:
-        "Азат – приток Арака, протекает между Араратским и Котайкским районами. Длина: 55 км, исток ▲3000–3200 м, горы Гегама",
+        "Азат — приток Аракса. Протекает между Араратской и Котайкской областями. Длина: 55 км. Исток: Гегамские горы (3000–3200 м).",
       marz_ararat_nkaragir147:
-        "Аратсо – приток Арака, длина: 42 км, исток ▲2700 м, склоны Мжкатарского рукава гор Гндасар",
+        "Арацо — приток Аракса. Длина: 42 км. Исток: склоны гор Гндасар, ответвления Мжкатар. (≈2700 м).",
       marz_ararat_nkaragir148:
-        "Веди – левый приток Арака, длина: 58 км, исток ▲2700 м, юго-восточные склоны вершины Манкунк гор Гегама",
+        "Веди — левый приток Аракса. Длина: 58 км. Исток: юго-восточные склоны гор Гегамского хребта (гора Манкунок, ≈2700 м).",
       marz_ararat_nkaragir149:
-        "Гогт – Азат приток, длина: 16 км, берет начало на западных склонах центральной части гор Гегама и вместе с Воскейром образует реку Азат",
+        "Гохт — приток Азата. Длина: 16 км. Истоки: западные склоны центральной части Гегамских гор. Совместно с рекой Воскеджур формирует реку Азат.",
       marz_ararat_nkaragir150:
-        "Приток Воскейр – Азат, длина: 21 км, берет начало на западных склонах центральной части гор Гегама, вместе с Гогтном образует реку Азат. Течет в Араратском и Котайкском регионах",
+        "Воскеджур — приток Азата. Длина: 21 км. Истоки: западные склоны центральной вершины Гегамских гор.",
       marz_ararat_nkaragir151:
-        "Баракагбюр – правый приток Веди, длина: 20 км, исток ▲1900 м, горы Еранос",
+        "Баракагбюр — правый приток Веди. Длина: 20 км. Исток: Ераносские горы (≈1900 м).",
       marz_ararat_nkaragir152:
-        "Хорселав – приток реки Азат, пересыхает летом. Длина: 35 км, исток ▲3600 м, горы Гегама, склоны Аждахак",
+        "Чорселав — приток Азата, летом пересыхает. Длина: 35 км. Исток: Гегамские горы, склоны Аждахака (≈3600 м).",
       marz_ararat_nkaragir153:
-        "Хосров – правый приток Веди, длина: 18 км, исток ▲2900 м, крутые склоны гор Гегама и села Урцадзор. 4 км, ▲1165 м",
+        "Хосров — правый приток Веди. Длина: 18 км. Исток: юго-западные склоны Гегамских гор и район с. Уртсадзор (≈1165 м).",
       marz_ararat_nkaragir154:
-        "Котуц – правый приток Веди, длина: 18 км, исток ▲1900м, склоны гор Еранос",
+        "Котуц — правый приток Веди. Длина: 18 км. Исток: склоны Ераносских гор (≈1900 м).",
       marz_ararat_nkaragir155:
-        "Манкунк – правый приток реки Веди, Длина: 13–17 км, исток ▲2800 м, южные склоны вершины Цахкавет Гегамских гор",
+        "Манкунок — правый приток Веди. Длина: 13–17 км. Исток: южные склоны горы Цахкавет (≈2800 м).",
       marz_ararat_nkaragir156:
-        "Каджару/Дарбанд – приток Азата, Длина: 13–15 км, исток ▲3100–3300 м, юго-западные склоны пика Гегасар",
+        "Каджарру / Дарабанд — приток Азата. Длина: 13–15 км. Исток: юго-западные склоны горы Гегасар (≈3100–3300 м).",
       marz_ararat_nkaragir157: "Водопады",
       marz_ararat_nkaragir158:
-        "Водопад Наре в Хосровском лесном заповеднике (Джокки Дзор)",
+        "Водопад Наре — расположен в Хосровском лесном заповеднике (ущелье Дьок (Адская долина)).",
       marz_ararat_nkaragir159:
-        "Водопад Астхик – в Хосровский заповедник, считающийся красивым и туристическим местом",
+        "Водопад Астхик — находится на территории Хосровского заповедника, считается красивым и популярным туристическим местом.",
       marz_ararat_nkaragir160:
-        "Водопад Вахагни – в Хосровском заповеднике, названный в честь Вахагна Дици",
+        "Водопад Ваган — расположен в Хосровском заповеднике, назван в честь бога Вагана.",
       marz_ararat_nkaragir161:
-        "Небольшие водопады реки Веди – образуются в горных районах реки Веди и ее притоков, особенно от весеннего таяния снега",
+        "Малые водопады реки Веди — формируются в горной части реки Веди и её притоков, особенно во время весеннего таяния снега.",
       marz_ararat_nkaragir162:
-        "Водопады Хосровского заповедника – сезонные, небольшие водопады появляются на горных ручьях заповедника (особенно на склонах Ицасара и Манкунка)",
+        "Водопады Хосровского заповедника — сезонные небольшие водопады, образующиеся на горных ручьях заповедника (особенно на стоках, спускающихся со склонов Ицасара и Манкунка).",
       marz_ararat_nkaragir163: "Источники",
       marz_ararat_nkaragir164:
-        "Хоторакан – в Хосровском лесном государственном заповеднике",
+        "Хоторакан — расположен в Хосровском лесном государственном заповеднике.",
       marz_ararat_nkaragir165:
-        "Катнагбюр – правый берег реки Веди, в 3 км к северо-западу от села Джерманис",
-      marz_ararat_nkaragir166: "Минеральные целебные источники",
+        "Катнағбюр — на правобережье реки Веди, в 3 км к северо-западу от бывшего села Джерманис.",
+      marz_ararat_nkaragir166: "Минеральные лечебные источники",
       marz_ararat_nkaragir167:
-        "В горах Урц – около 30 минеральных источников для производства природной минеральной воды АРАРАТ",
+        "Урцкие горы — около 30 минеральных источников, в частности в ущелье Борот Агбюр (1500 м над уровнем моря). Воды используются для производства природной минеральной воды «ARARAT», относятся к группе гидрокарбонатных вод (ГОСТ 13273-88).",
       marz_ararat_nkaragir168:
-        "Холодные источники в окрестностях Арташата – несколько небольших источников, используемых местными жителями",
+        "Холодные источники окрестностей Арташата — несколько небольших источников, используемых местным населением.",
       marz_ararat_nkaragir169:
-        "Источники Хосровского леса – сохранившиеся в природе, чистые горные воды",
-      marz_ararat_nkaragir170: "Баракаджур Агбюр",
+        "Источники Хосровского леса — чистые, природные горные воды, сохраняющиеся в естественном состоянии.",
+      marz_ararat_nkaragir170: "Источник Баракаджур",
       marz_ararat_nkaragir171: "Озера",
       marz_ararat_nkaragir172:
-        "Озеро Кармрак – ▲ 2350 м, ◯ 0,6 га, ▼, на юго-западном склоне гор Гегама, на правом берегу реки Веди",
+        "Озеро Кармрак — ▲ 2350 м, ◯ 0,6 га, ▼ — На юго-западных склонах Гегамских гор, в бассейне правого притока реки Веди.",
       marz_ararat_nkaragir173:
-        "Озеро Капуйт – ▲ 823 м, ◯ 0,05 км², ▼3 м, недалеко от деревни Ховташен",
+        "Голубое озеро — ▲ 823 м, ◯ 0,05 км², ▼ 3 м Около села Ховташен.",
       marz_ararat_nkaragir174:
-        "Озеро Пхтор – ▲ 2700 м, ◯ 0,6 га, ▼, на юго-западном склоне гор Гегама, в верховьях Манкунка Река",
+        "Озеро Пгтор — ▲ 2700 м, ◯ 0,6 га, ▼ — На юго-западных склонах Гегамских гор, в верхнем течении реки Манкунок.",
       marz_ararat_nkaragir175:
-        "Вишапалич – ▲ 2620 м, ◯ 30 га, ▼, Используется для орошения, внесен в список государственных памятников природы Министерства охраны природы РА, Гегамские горы, в верховьях реки Гохт, к северу от Гегардаванка",
-      marz_ararat_nkaragir176: "Резервуары",
+        "Озеро Вишапалич — ▲ 2620 м, ◯ 30 га, ▼ — Используется также для орошения, включено в список государственных природных памятников РА. Гегамские горы, в верхнем течении реки Гохт, к северу от монастыря Гегард.",
+      marz_ararat_nkaragir176: "Водохранилища",
       marz_ararat_nkaragir177:
-        "Азатское водохранилище – Построено в 1976 году, в среднем течении реки Азат, ▲ ~1000 м, ◯ ~2,85 км², ▼ ~72,4 м, 70 млн м³, вблизи села Ланджарат",
+        "Азатское водохранилище — построено в 1976 году на среднем течении реки Азат. ▲ ~1000 м+, ◯ ~2,85 км², ▼ ~72,4 м, 70 млн м³. Около села Ланджарат.",
       marz_ararat_nkaragir178:
-        "Зангакатанское водохранилище – построено 1986 год, на реке Арацо, для орошения, ▲ ~1850 м, ◯ ~13,5 га, 2 миллиона м³, 3,5 км к северо-востоку от села Зангакатун, недалеко от поселка Хортун",
+        "Зангакатанское водохранилище — построено в 1986 году на реке Арацо, используется для орошения. ▲ ~1850 м, ◯ ~13,5 га, 2 млн м³. В 3,5 км северо-восточнее села Зангакатан, рядом с населённым пунктом Хортун.",
       marz_ararat_nkaragir179: "Исторические каналы",
       marz_ararat_nkaragir180:
-        "Кахановский канал – построен в 1870–1874 годах, длина: 36 км, реконструирован в 1930 году",
+        "Кахановский канал — построен в 1870–1874 гг. по трассе древнего канала. Инициирован генералом Кахановым, который арендовал полупустынные земли Араздайана для выращивания сахарной свёклы. Длина канала — 36 км. В 1930 году был реконструирован.",
       marz_ararat_nkaragir181:
-        "Арташатский канал – построен в 1930 году, длина: 61 км",
+        "Арташатский канал — построен в 1930 году с левого берега реки Раздан на территории Еревана. Длина — 61 км.",
       marz_ararat_nkaragir182: "Природные ресурсы",
-      marz_ararat_nkaragir183: "Регион богат природными ресурсами ресурсы",
+      marz_ararat_nkaragir183:
+        "Араратская область богата природными ресурсами.",
       marz_ararat_nkaragir184:
-        "Горные и равнинные районы пригодны для сельского хозяйства и промышленного производства",
+        "Горные и равнинные территории благоприятны для сельского хозяйства и промышленного производства.",
       marz_ararat_nkaragir185:
-        "Благодаря земельным и водным ресурсам развиты сельское хозяйство и рыбоводство",
+        "Благодаря земельным и водным ресурсам региона развиты сельское хозяйство и рыбоводство.",
       marz_ararat_nkaragir186:
-        "Пригодны для промышленного использования: травертин, известняк, песок, мрамор",
-      marz_ararat_nkaragir187: "ЭКОНОМИЧНОСТЬ",
+        "Для промышленного использования пригодны: травертин, известняк, песок, мрамор.",
+      marz_ararat_nkaragir187: "Экономика",
       marz_ararat_nkaragir188:
-        "Араратский регион — один из наиболее экономически развитых регионов Армении. Большая часть Араратской долины расположена в этом регионе, благодаря чему он обеспечивает значительную часть сельскохозяйственной продукции страны",
+        "Араратская область является одним из наиболее экономически развитых регионов Армении. Большая часть Араратской равнины расположена именно в этой области, благодаря чему она обеспечивает значительную долю сельскохозяйственной продукции страны.",
       marz_ararat_nkaragir189: "Сельское хозяйство",
       marz_ararat_nkaragir190:
-        "Сельскохозяйственное производство особенно важно в Араратском регионе. Это один из наиболее развитых регионов. Армянская территория, низменные районы которой широко покрыты виноградниками, садами и полями овощных культур.",
+        "В Араратской области сельскохозяйственное производство имеет особое значение. Это один из наиболее освоенных регионов Армении — равнинные территории широко покрыты виноградниками, фруктовыми садами и полями овощных культур.",
       marz_ararat_nkaragir191:
-        "Сельское хозяйство особенно развито, в основном с использованием орошаемых систем, речной воды, воды артезианских колодцев и капельного орошения.",
+        "Особенно развито земледелие, преимущественно на орошаемых землях, с использованием речной воды, артезианских скважин и систем капельного орошения.",
       marz_ararat_nkaragir192:
-        "Реки, протекающие по Араратской равнине, также важны для орошения. Река Азат и ее приток Гогт протекают вдоль северной границы региона.",
+        "Реки, протекающие через Араратскую равнину, также играют важную роль в орошении. По северной границе региона проходят река Азат и её приток Гохт.",
       marz_ararat_nkaragir193:
-        "Сельское хозяйство в основном орошаемое: используются речная вода, каналы, артезианские колодцы и современные системы капельного орошения.",
-      marz_ararat_nkaragir194: "Основные культуры и огороды.",
+        "Сельское хозяйство в основном орошаемое: используются воды рек, каналы, артезианские скважины и современные системы капельного орошения.",
+      marz_ararat_nkaragir194: "Основные сельскохозяйственные культуры и сады",
       marz_ararat_nkaragir195:
-        "Культуры: арбуз, тыква, дыня, огурец, лук, помидор, фасоль, нут, зеленая и красная фасоль перец",
+        "Полевые культуры: арбуз, тыква, дыня, огурец, лук, чеснок, помидор, фасоль, нут, зелёный и красный перец.",
       marz_ararat_nkaragir196:
-        "Сады: виноград, абрикосы, персики, черешни, сливы, яблоки, груши и другие фрукты",
-      marz_ararat_nkaragir197:
-        "Животноводство и разведение крупного рогатого скота",
+        "Сады: виноград, абрикос, персик, вишня, слива, яблоко, груша и другие фрукты.",
+      marz_ararat_nkaragir197: "Животноводство",
       marz_ararat_nkaragir198:
-        "Овцеводство и разведение крупного рогатого скота особенно развиты в горных районах",
+        "В горных районах особенно развито овцеводство и разведение крупного рогатого скота.",
       marz_ararat_nkaragir199: "Рыбоводство",
       marz_ararat_nkaragir200:
-        "Рыбоводство быстро развивается в Арарате, используя артезианские водоемы",
+        "В Арарате быстро развивается рыбоводство, использующее артезианские водоёмы.",
       marz_ararat_nkaragir201:
-        "Производятся не только травоядные рыбы, но и радужная форель и речная форель (красная форель), разводимые в холодных водах",
+        "Производятся не только растительноядные виды рыб, но и выращиваемые в холодных водах радужная форель и ручьевая форель (краснопёрая форель).",
       marz_ararat_nkaragir202:
-        "Рыбофермы в основном сосредоточены в поселениях общины Масис: Ховташат, Сис, Сипаник, Аянист, Дарбник, Даштаван, Зорак, Низами, Саят-Нова, Ранчпар, Норамарг.",
+        "Рыбоводческие хозяйства в основном сосредоточены в населённых пунктах общины Масис: Ховташат, Сис, Сипаник, Аянист, Дарбник, Даштаван, Зорак, Низами, Саят-Нова, Ранчпар, Норамарг.",
       marz_ararat_nkaragir203:
-        "Климатические условия благоприятны для товарного рыбоводства во все времена года.",
-      marz_ararat_nkaragir204:
-        "Пищевая промышленность и производство напитков.",
+        "Климатические условия благоприятны для круглогодичного производства товарной рыбы.",
+      marz_ararat_nkaragir204: "Пищевая промышленность и напитки",
       marz_ararat_nkaragir205:
-        "В регионе развита пищевая промышленность: джемы, натуральные соки, консервы, томатная паста.",
+        "В регионе развита пищевая промышленность: производство варенья, натуральных соков, консервов и томатной пасты.",
       marz_ararat_nkaragir206:
-        "Сухофрукты из солнечных фруктов Арарата изготавливаются по древним традициям.",
+        "По старинным традициям из солнечных фруктов Араратской равнины изготавливаются сухофрукты.",
       marz_ararat_nkaragir207:
-        "Араратский регион также играет ключевую роль в производстве армянских алкогольных напитков: бренди, вина, водка.",
+        "Араратская область также играет ключевую роль в производстве армянских алкогольных напитков — коньяка, вина и водки.",
       marz_ararat_nkaragir208:
-        "Известные минеральные воды: Арарат и Веди. Вода из Арарата содержит 2400–2800 мг/л минералов, гидрокарбонатов, кальция и натрия.",
-      marz_ararat_nkaragir209: "Горнодобывающая промышленность.",
+        "Известные минеральные воды — «Арарат» и «Веди». Вода «Арарат» имеет минерализацию 2400–2800 мг/л, относится к гидрокарбонатным, кальциево-натриевым водам.",
+      marz_ararat_nkaragir209: "Горнодобывающая промышленность",
       marz_ararat_nkaragir210:
-        "В окрестностях Арарата добываются травертин, известняк и песок.",
+        "В окрестностях Арарата ведётся добыча травертина, известняка и песка.",
       marz_ararat_nkaragir211:
-        "В городе Арарат работает Араратский цементный завод, один из двух заводов по производству портландцемента в Армении, входящих в концерн Мульти Группа.",
+        "В городе Арарат действует завод «Араратцемент» — один из двух предприятий в Армении, производящих портландцемент, принадлежащий концерну Multi Group.",
       marz_ararat_nkaragir212: "ОБРАЗОВАНИЕ / СПОРТ",
-      marz_ararat_nkaragir213: "Средние школы",
+      marz_ararat_nkaragir213: "Общеобразовательные школы",
       marz_ararat_nkaragir214:
-        "Есть В области 112 общеобразовательных школ, из них:",
+        "В области действует 112 общеобразовательных школ, из них:",
       marz_ararat_nkaragir215: "86 средних школ",
-      marz_ararat_nkaragir216: "5 средних школ",
-      marz_ararat_nkaragir217: "Распределение школ по населенным пунктам:",
-      marz_ararat_nkaragir218: "В 21 городе",
-      marz_ararat_nkaragir219: "В 91 сельском населенном пункте",
+      marz_ararat_nkaragir216: "5 старших школ",
+      marz_ararat_nkaragir217: "Распределение школ по населённым пунктам:",
+      marz_ararat_nkaragir218: "21 в городах",
+      marz_ararat_nkaragir219: "91 в сельских населённых пунктах",
       marz_ararat_nkaragir220: "Художественные и музыкальные школы",
       marz_ararat_nkaragir221:
-        "Они расположены во всех городах и селах области",
-      marz_ararat_nkaragir222: "Айгезард (Художественная школа Ашуг Кагни)",
+        "Действуют во всех городах и также в сельских населённых пунктах региона, включая:",
+      marz_ararat_nkaragir222: "Айгезард (школа искусств имени ашуга Кагну)",
       marz_ararat_nkaragir223: "Мхчян",
-      marz_ararat_nkaragir224: "Кахцрашен",
+      marz_ararat_nkaragir224: "Кагцрашен",
       marz_ararat_nkaragir225: "Норашен",
       marz_ararat_nkaragir226: "Верхний Арташат",
       marz_ararat_nkaragir227: "Шаумян",
       marz_ararat_nkaragir228: "Арбат",
       marz_ararat_nkaragir229: "Аргаванд",
-      marz_ararat_nkaragir230: "Арташатский Эстетический Центр",
+      marz_ararat_nkaragir230: "«Арташатский эстетический центр»",
       marz_ararat_nkaragir231: "Спортивные центры",
       marz_ararat_nkaragir232:
-        "Футбольный стадион 'Айг' расположен в городе Арарат и является частью спортивного комплекса 'Айг'",
-      marz_ararat_nkaragir233: "Спортивный комплекс включает в себя:",
+        "В городе Арарат находится футбольный стадион «Айг», который является частью спортивного комплекса «Айг».",
+      marz_ararat_nkaragir233: "Спортивный комплекс включает:",
       marz_ararat_nkaragir234: "Крытый бассейн",
       marz_ararat_nkaragir235: "Тренажерный зал",
       marz_ararat_nkaragir236:
         "Мини-футбольное поле и другие спортивные сооружения",
       marz_ararat_nkaragir237: "КУЛЬТУРА",
-      marz_ararat_nkaragir238: "Дом культуры и клубы",
+      marz_ararat_nkaragir238: "Дом культуры и кружки",
       marz_ararat_nkaragir239:
-        "В регионе есть дом культуры, где занимаются живописью, танцами и другими группами и ансамблями работать.",
-      marz_ararat_nkaragir240: "Государственный театр имени Амо Харазяна.",
+        "В регионе действует Дом культуры, где работают кружки и коллективы по рисованию, танцам и другим направлениям.",
+      marz_ararat_nkaragir240: "Государственный театр имени Амо Харазяна",
       marz_ararat_nkaragir241:
-        "Он был основан в 1943 году в здании, которое было введено в эксплуатацию. В 1956 году он был реорганизован в межрегиональный театр на базе государственного регионального театра, действовавшего в Гамарлу с 1934 по 1956 год (с 1921 года существовала любительская театральная группа). Здание театра было частично отремонтировано в 1998 году.",
+        "Основан в 1943 году в уже действующем здании. В 1956 году был реорганизован в межрайонный театр на базе государственного районного театра, действовавшего в Гамарлу в 1934–1956 гг. (с 1921 года существовал как любительская театральная труппа). Здание театра частично отремонтировано в 1998 году.",
       marz_ararat_nkaragir242:
-        "Театр является региональным культурным центром. Ежегодно здесь проходит более 70 спектаклей, включая 3-4 премьеры. Репертуар регулярно обновляется и обогащается, ставятся новые спектакли и восстанавливаются старые.",
+        "Театр является культурным центром региона. Ежегодно показывается более 70 спектаклей, включая 3–4 премьеры. Репертуар регулярно обновляется и пополняется новыми постановками, а также восстановлением классических спектаклей.",
       marz_ararat_nkaragir243: "Музеи",
       marz_ararat_nkaragir244: "Дом-музей Спарапета Вазгена Саргсяна",
-      marz_ararat_nkaragir245: "Дом-музей Паруйр Севака",
-      marz_ararat_nkaragir246: "Колокольня (село Советашен)",
+      marz_ararat_nkaragir245: "Дом-музей Паруйра Севака",
+      marz_ararat_nkaragir246: "Зангакатун (село Советашен)",
       marz_ararat_nkaragir247: "ТУРИЗМ",
       marz_ararat_nkaragir248:
-        "Араратский регион считается одним из главных туристических направлений в Армении, благодаря своим историческим и культурным памятникам, природным красотам и уникальным природным зонам. Библейский заснеженный Арарат виден из любой точки региона, что еще больше повышает его туристическую привлекательность. В Арарате есть государственные особо охраняемые территории (ООТ), где туристы могут познакомиться с редкой флорой и фауной. Монастырский комплекс Хор-Вирап является крупным туристическим центром, который придает Араратскому региону неповторимое очарование и символическое значение. Хор-Вирап — один из самых посещаемых древних монастырей». святилища в Армении, где великолепный вид на библейскую гору Арарат сделал ее одной из важнейших визитных карточек Армении, создавая уникальное и замечательное сочетание истории, культуры и природы.",
+        "Араратская область считается одним из главных туристических направлений Армении благодаря своим историко-культурным памятникам, природным красотам и уникальным охраняемым территориям. Практически из любой точки региона открывается вид на библейскую заснеженную вершину Арарата, что придаёт области особую туристическую привлекательность. На территории Арарата находятся государственные особо охраняемые природные территории (ООПТ), где туристы могут познакомиться с редкой флорой и фауной. Крупным туристическим центром является монастырский комплекс Хор Вирап, который придаёт региону особое символическое значение и неповторимое очарование. Хор Вирап — один из самых посещаемых древних святых мест Армении, а величественный вид на библейскую гору Арарат сделал его одной из важнейших визитных карточек страны, создавая уникальное сочетание истории, культуры и природы.",
       marz_ararat_nkaragir249: "Природные достопримечательности",
       marz_ararat_nkaragir250:
-        "Панорама горы Арарат - главная туристическая достопримечательность Армении, природная красота горы.",
+        "Панорама горы Арарат — главная туристическая достопримечательность Армении, природная красота горы.",
       marz_ararat_nkaragir251:
-        "Долина Арарата с фруктовыми деревьями, виноградниками, посевами.",
+        "Араратская равнина — регион виноградников, фруктовых садов и сельскохозяйственных культур.",
       marz_ararat_nkaragir252:
-        "Окрестности водохранилища Азат - чудесная природная среда вокруг водохранилища, окруженного величественными горами Еранос, где небо и облака отражаются в водах озера, придавая водохранилищу неповторимый вид. Место отдыха, красивое место, а также важная среда обитания для птиц.",
+        "Окрестности Азатского водохранилища — живописная природная среда, окружённая величественными Ераносскими горами. В водах водохранилища отражаются небо и облака, придавая ему особую красоту. Место отдыха и важная среда обитания для птиц.",
       marz_ararat_nkaragir253:
-        "Бассейн реки Аракс, окрестные равнины Аракса и небольшие пруды - чудесный ландшафт, природные красоты, водные экосистемы, места для наблюдения за птицами.",
-      marz_ararat_nkaragir254: "Особо охраняемые территории (ООТ):",
-      marz_ararat_nkaragir255: "Хосровский лесной заповедник.",
+        "Бассейн реки Аракс, приараксинские равнины и малые озёра — живописные ландшафты, водные экосистемы и места для наблюдения за птицами.",
+      marz_ararat_nkaragir254: "Особо охраняемые природные территории (ООПТ)",
+      marz_ararat_nkaragir255: "Государственный заповедник Хосровского леса",
       marz_ararat_nkaragir256:
-        "Основание: IV век (официально заповедник с 1958 года).",
-      marz_ararat_nkaragir257: "Площадь: 27 000 га.",
+        "Основан в IV веке (официально как заповедник с 1958 г.)",
+      marz_ararat_nkaragir257: "Площадь: 27 000 га",
       marz_ararat_nkaragir258:
-        "Водопады Хосровского лесного заповедника - очаровательные водопады, расположенные в глубине леса, которые прекрасны и зимой, замерзая и создавая впечатляющий природный пейзаж.",
-      marz_ararat_nkaragir259: "На юго-западных склонах горного хребта Гегама.",
-      marz_ararat_nkaragir260: "Хор-Вирапский государственный заповедник.",
-      marz_ararat_nkaragir261: "Основан в 1970-е годы.",
-      marz_ararat_nkaragir262: "Площадь: 50,28 га.",
-      marz_ararat_nkaragir263: "Сельская община Покр Веди.",
-      marz_ararat_nkaragir264: "Песчаные дюны Гораван.",
-      marz_ararat_nkaragir265: "Основан в 1959 году",
+        "Водопады Хосровского заповедника — живописные водопады, скрытые в глубине леса, которые зимой превращаются в впечатляющие ледяные природные формы.",
+      marz_ararat_nkaragir259: "Юго-западные склоны Гегамского хребта.",
+      marz_ararat_nkaragir260: "Хор Вирапский государственный заказник",
+      marz_ararat_nkaragir261: "Основан в 1970-х гг.",
+      marz_ararat_nkaragir262: "Площадь: 50,28 га",
+      marz_ararat_nkaragir263: "Село Мец Веди.",
+      marz_ararat_nkaragir264: "Гораванские пески",
+      marz_ararat_nkaragir265: "Основан в 1959 г.",
       marz_ararat_nkaragir266: "Площадь: 95,9 га",
       marz_ararat_nkaragir267:
-        "Солончак возле минеральных источников, 850 м над уровнем моря",
-      marz_ararat_nkaragir268: "Заповедник Гилян",
-      marz_ararat_nkaragir269: "Основано в 2008 году",
-      marz_ararat_nkaragir270: "Площадь: 118 ха",
-      marz_ararat_nkaragir271: "На берегах притока Мили реки Азат",
+        "850 м над уровнем моря, к юго-востоку от села Гораван, рядом с минеральными источниками.",
+      marz_ararat_nkaragir268: "Гиланский заказник",
+      marz_ararat_nkaragir269: "Основан в 2008 г.",
+      marz_ararat_nkaragir270: "Площадь: 118 га",
+      marz_ararat_nkaragir271: "На берегу притока реки Азат — Мили.",
       marz_ararat_nkaragir272: "Природные памятники",
       marz_ararat_nkaragir273: "Ущелье Баракагбюр",
       marz_ararat_nkaragir274: "Долина Ангелов",
-      marz_ararat_nkaragir275: "Система ископаемых Глубокого Колодца",
-      marz_ararat_nkaragir276: "Система ископаемых Большого Колодца",
+      marz_ararat_nkaragir275: "Пещерная система Хор Хор",
+      marz_ararat_nkaragir276: "Пещерная система Мец Хор",
       marz_ararat_nkaragir277: "Ископаемая фауна бассейна реки Веди",
-      marz_ararat_nkaragir278: "Ископаемая флора Германиса",
-      marz_ararat_nkaragir279: "Ископаемая флора Хортуни",
-      marz_ararat_nkaragir280: "Исторические и памятники культуры",
+      marz_ararat_nkaragir278: "Ископаемая флора Джерманиса",
+      marz_ararat_nkaragir279: "«Хортун» — ископаемая флора",
+      marz_ararat_nkaragir280: "Историко-культурные памятники",
       marz_ararat_nkaragir281:
-        "Монастырский комплекс Хор Вирап (127) - в 1,6 км к северо-западу от села Лусарат, одна из самых священных армянских святынь, связанная с историей Григория Просветителя и утверждением христианства.",
+        "Монастырский комплекс Хор Вирап — расположен в 1,6 км к северо-западу от села Лусарат. Один из самых почитаемых духовных центров Армении, связанный с Григорий Просветитель и историей принятия христианства в Армении.",
       marz_ararat_nkaragir282:
-        "Древние памятники Арташата и Двина, Двинская пирамида Апакеблура (128) - руины исторических столиц Армении.",
+        "Древнее городище Арташат, Древнее городище Двин и Башня Апакеблур — руины исторических столиц Армении.",
       marz_ararat_nkaragir283:
-        "Тапи берд (129) – X-XIII вв. Крытый, с полукруглой апсидой, стенами и башнями.",
+        "Крепость Тапи (крепость имени Геворг Марзпетуни) — X–XIII вв. Крепость с полуциркульной апсидой, сводчатыми помещениями, крепостными стенами и башнями.",
       marz_ararat_nkaragir284:
-        "Монастырский комплекс Хавуц Тар (130) - 2,8-3,4 км к востоку от деревни Гарни",
+        "Монастырский комплекс Авуц Тар — расположен в 2,8–3,4 км к востоку от села Гарни.",
       marz_ararat_nkaragir285:
-        "Монастырь Святого Карапета XII века (131) - 5,7-6,3 км к северо-западу от деревни Ланджар",
+        "Монастырь Сурб Карапет — монастырь XII века, расположен в 5,7–6,3 км к северо-западу от села Ланджар.",
       marz_ararat_nkaragir286:
-        "Какаваберд (132) - 12,3-13 км к юго-востоку от деревни Гарни",
+        "Какаваберд (также известен как крепость Гехи или Кехи) — расположен в 12,3–13км к юго-востоку от села Гарни.",
       marz_ararat_nkaragir287:
-        "Монастырь Агджотс (133) - 6,1-6,5 км к юго-востоку от деревни Гарни",
-      marz_ararat_nkaragir288: "Достопримечательности в городах",
+        "Монастырь Агджоц — расположен в 6,1–6,5 км к юго-востоку от села Гарни.",
+      marz_ararat_nkaragir288: "Достопримечательности городов",
       marz_ararat_nkaragir289: "Город",
       marz_ararat_nkaragir290: "Памятники и достопримечательности",
       marz_ararat_nkaragir291: "Арташат",
       marz_ararat_nkaragir292:
-        "Древнее городище Арташат, Хор Вирап, церковь Св. Иоанна Богослова (2015), Государственный театр Амо Харазяна",
+        "Древнее город Арташат, Монастырский комплекс, церковь Сурб Ованнес Аветаранич (2015 г.), Государственный театр имени Амо Харазяна.",
       marz_ararat_nkaragir293: "Арарат",
       marz_ararat_nkaragir294:
-        "Памятник Серобу (1992 г.), Памятник жертвам Великой Отечественной войны (1985 г.)",
+        "Памятник Сероб Ахпюр (1992 г.), памятник жертвам Великой Отечественной войны (1985 г.).",
       marz_ararat_nkaragir295: "Веди",
       marz_ararat_nkaragir296:
-        "Св. Церковь Аствацацин (2001), Музей патриотических исследований, Крепость VIII-XIII веков, Кладбище XIX-XX веков",
+        "Церковь Сурб Аствацацин (2001 г.), Ведийский краеведческий музей, крепость VIII–XIII вв., кладбище XIX–XX вв.",
       marz_ararat_nkaragir297: "Масис",
       marz_ararat_nkaragir298:
-        "Св. Церковь Аствацацин (XIX век), часовня Святого Фаддея Апостола (XVI век, отреставрирована в XX веке), кладбище XIX-XX веков, церковь Святого Фаддея (1991-2015), церковь Святого Геворга (2009), памятник жертвам Второй мировой войны (1983).",
-      marz_ararat_nkaragir299: "Достопримечательности в сельской местности.",
-      marz_ararat_nkaragir300: "Хор Вирап (XIII век).",
-      marz_ararat_nkaragir301: "Заповедник Хосров (IV век).",
-      marz_ararat_nkaragir302: "Руины Двина",
-      marz_ararat_nkaragir303: "Монастырь Ованнес Карапет. (1301)",
+        "Церковь Сурб Аствацацин (XIX в.), часовня Сурб Тадеос Апостол (XVI в., восстановлена в XX в.), кладбище XIX–XX вв., церковь Сурб Тадеос (1991–2015 гг.), церковь Сурб Геворг (2009 г.), памятник жертвам Второй мировой войны (1983).",
+      marz_ararat_nkaragir299: "Достопримечательности сёл",
+      marz_ararat_nkaragir300: "Монастырский комплекс Хор Вирап (XIII в.)",
+      marz_ararat_nkaragir301:
+        "Хосровский государственный заповедник (основан в IV в.)",
+      marz_ararat_nkaragir302: "Руины древнего Двина",
+      marz_ararat_nkaragir303: "Монастырь Ованнес Карапет (1301 г.)",
       marz_ararat_nkaragir304:
-        "Монастырь-крепость «Геворг Марзпетуни» (X-XIII вв.)",
-      marz_ararat_nkaragir305: "Св. Церковь Степаноса (XIII век)",
+        "Монастырь-крепость «Геворг Марзпетуни» (X–XIII вв.)",
+      marz_ararat_nkaragir305: "Церковь Сурб Степанос (XIII в.)",
       marz_ararat_nkaragir306: "ЛОГИСТИКА",
       marz_ararat_nkaragir307:
-        "Общая протяженность региональных дорог составляет 405 км.",
+        "Общая протяжённость автомобильных дорог областного значения составляет 405 км.",
       marz_ararat_nkaragir308: "Автомагистрали",
       marz_ararat_nkaragir309:
-        "Через Арарат-Марз проходит автомагистраль М-2, соединяющая столицу Ереван с государственными границами Южной Армении и Ирана.",
+        "Через Араратскую область проходит автомагистраль М-2, соединяющая столицу Ереван с Южной Арменией и государственной границей с Ираном.",
       marz_ararat_nkaragir310:
-        "Автомагистраль М-2 имеет межгосударственное значение и является одним из важнейших участков армянской сети автомагистралей.",
+        "Автодорога М-2 имеет межгосударственное значение и является одной из важнейших магистралей автомобильной сети Армении.",
       marz_ararat_nkaragir311:
-        "Длина автомагистрали составляет 384,3 км, которая от Еревана достигает населенных пунктов Ерасх, Горис, Мегри и продолжается до армяно-иранской границы.",
+        "Общая протяжённость автодороги составляет 384,3 км. Она проходит от Еревана через Ерасх, Горис и Мегри и продолжается до государственной границы Армения–Иран.",
       marz_ararat_nkaragir312: "Горные перевалы",
       marz_ararat_nkaragir313:
-        "На границе Арарата и Вайоц-Дзора в горы поднимается автомагистраль М-2",
+        "На границе Араратской и Вайоцдзорской областей дорога М-2 поднимается в горную местность.",
       marz_ararat_nkaragir314:
-        "Нижний участок: Араратская долина (около 800 м)",
+        "Нижний участок — Араратская равнина (около 800 м).",
       marz_ararat_nkaragir315:
-        "Средний участок: Паруйр Севак (бывший Севакаван, 1170 м)",
-      marz_ararat_nkaragir316: "Верхний участок: деревня Зангакатун (1650 м)",
+        "Средний участок — село Паруйр Севак (бывшее Севакаван, 1170 м).",
+      marz_ararat_nkaragir316: "Верхний участок — село Зангакатун (1650 м).",
       marz_ararat_nkaragir317:
-        "Горный участок дороги – это повороты Тигранашена, затем горный перевал Тух Манук, который является связующим звеном между двумя регионами.",
+        "Горный участок дороги включает Тигранашенский серпантин, а затем перевал Тух Манук, который служит связующим звеном между двумя областями.",
       marz_ararat_nkaragir318:
-        "На горных склонах дорога иногда замерзает зимой, но редко становится непроходимым.",
+        "Зимой на горных участках дороги иногда образуется гололёд, однако трасса лишь в редких случаях становится непроходимой.",
       marz_ararat_nkaragir319: "Железная дорога",
       marz_ararat_nkaragir320:
-        "Станция Ерасх расположена в селе Ерасх Араратской области, на левом берегу реки Аракс",
+        "Железнодорожная станция Ерасх расположена в селе Ерасх Араратской области, на левом берегу реки Аракс.",
       marz_ararat_nkaragir321:
-        "Это последняя железнодорожная станция, расположенная в Армении",
+        "Это последняя железнодорожная станция, расположенная на территории Армении.",
       marz_ararat_nkaragir322:
-        "Грузовые перевозки заканчиваются на станции Арарат",
+        "Грузовые перевозки по данной линии заканчиваются на станции Арарат.",
       marz_ararat_nkaragir323:
-        "Маршрут с электропоездами ограничен, постоянного пассажирского сообщения нет",
-      marz_ararat_nkaragir324: "Конечный",
+        "Со станции курсируют электропоезда с ограниченным расписанием; регулярное пассажирское сообщение отсутствует.",
+      marz_ararat_nkaragir324: "Заключение",
       marz_ararat_nkaragir325:
-        "Расположенный в солнечном сердце Армении, этот регион обладает широкими возможностями для развития, прежде всего благодаря плодородным землям Араратской долины и древним традициям, сформировавшим богатую культуру садоводства и виноделия. Монастырский комплекс Хор-Вирап является одним из наиболее значимых религиозно-исторических мест Армении, расположенным недалеко от турецкой границы, откуда открывается исключительный вид на гору Арарат. Райские склоны Хосровского леса, древние деревья и дикая фауна подарили региону уникальный уголок материальных и духовных наслаждений, создав ценную природную и историческую зону. Развитие промышленности и логистической инфраструктуры, а также международных автомагистралей может в ближайшем будущем превратить Араратский регион в важный туристический, транспортный и логистический центр.",
+        "Расположенная в солнечном сердце Армении, Араратская область обладает широкими возможностями для развития. Прежде всего этому способствуют плодородные земли Араратской равнины и многовековые традиции, сформировавшие богатую культуру садоводства и виноделия. Монастырский комплекс Хор Вирап — одна из самых значимых святынь и исторических достопримечательностей Армении. Монастырь расположен недалеко от границы с Турцией, откуда открывается один из самых впечатляющих видов на Гора Арарат. Райские склоны Хосровский государственный заповедник, древние леса и богатый животный мир подарили области уникальный уголок природного и духовного наследия, создав территорию исключительной историко-природной ценности.",
     },
   };
   for (var lang in local) {
