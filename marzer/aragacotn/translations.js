@@ -1721,7 +1721,7 @@
       marz_aragacotn_nkaragir16: "Maximum extent:",
       marz_aragacotn_nkaragir17: "from southwest to northeast — 60–65 km ",
       marz_aragacotn_nkaragir18: "from north to south — approximately 50–57 km",
-      marz_aragacotn_nkaragir19: "Bordering regions:",
+      marz_aragacotn_nkaragir19: "Bordering Areas",
       marz_aragacotn_nkaragir20:
         "Regions: Shirak, Lori, Kotayk, Armavir, Yerevan",
       marz_aragacotn_nkaragir21: "International border: Turkey",
