@@ -1689,7 +1689,7 @@ var translations = {
     data_precip_avg: "Average annual precipitation",
     data_precip_avg_val: "652.6 mm",
     data_admin: "Administrative units",
-    data_admin_val: "Provinces (total: 11)",
+    data_admin_val: "regions (total: 11)",
     data_communities: "Communities",
     data_communities_val: "915 (urban: 49, rural: 866)",
     data_population: "Population",
@@ -1934,7 +1934,7 @@ var translations = {
     description_xohanoc_sub:
       "Armenian cuisine has a history of thousands of years. The Greek historian Xenophon documented that beer was brewed in Armenia in the 5th century BC. Lavash is known for more than 3,000 national dishes considered symbols of Armenian hospitality.",
     description_para1:
-      "The present Republic of Armenia occupies only one-tenth of the historical Armenian lands, formed from parts of the Ayrarat, Syunik, Gugark and Utik provinces.",
+      "The present Republic of Armenia occupies only one-tenth of the historical Armenian lands, formed from parts of the Ayrarat, Syunik, Gugark and Utik regions.",
     description_para2:
       "Armenia is a country where pristine natural landscapes intertwine with millennia of history and culture. This small but powerful nation has preserved its identity, language and faith through the centuries, becoming a bridge between past and present, west and east.",
     description_para3:
@@ -2898,7 +2898,7 @@ var translations = {
     bnashxarh21:
       "As the altitude changes, natural conditions also change: the air temperature decreases, and the amount of precipitation increases. This phenomenon is called natural ascending (vertical) zonation, due to which diverse landscapes and ecosystems have formed in the relatively small territory of Armenia.",
     bnashxarh22:
-      "In the Armenian Highlands and Armenia, 5 landscape zones follow each other in accordance with the change in altitude, changing the appearance of nature, climate, flora and fauna at each altitude. In the Armenian Highlands and Armenia, 5 landscape zones follow each other in accordance with altitude, changing their nature at each depression and altitude.",
+      "In the Armenian Highlands and Armenia, 5 landscape zones follow each other in accordance with the change in altitude, changing the appearance of nature, climate, flora and fauna at each altitude. In the Armenian Highlands and Armenia, 5 landscape zones follow each other in accordance with altitude, changing their nature at each Region and altitude.",
     bnashxarh23: "Landscape zones of the Republic of Armenia",
     bnashxarh24: "Desert and semi-desert – ▲ 800–1400 m",
     bnashxarh25: "Desert and semi-desert – ▲ 800–1400 m",
@@ -3051,7 +3051,7 @@ var translations = {
     relief2:
       "The relief of the Republic of Armenia is extremely complex, rugged and diverse. The complex structure of the relief is one of the main features of the country and gives a unique charm to the nature of Armenia. Armenia occupies an area of ​​29,743 km², most of the surface of which is mountainous, with fast-flowing rivers and sparse forests.",
     relief3:
-      "About 90% of the territory of Armenia is located at an altitude of more than 1000 meters above sea level, and the average altitude is ≈ 1700–1800 meters. About 76.5% of the territory is located at an altitude of 1000–2500 meters, and many regions reach 2500–3000 meters and more. Mountains and plateaus make up more than 1/3 of the country's surface (11 thousand km2) or 36.4% (of the territory of the Republic of Armenia). Intermountain depressions and plains occupy only about 10% of the territory, while the rest is occupied by mountain ranges and plateaus.",
+      "About 90% of the territory of Armenia is located at an altitude of more than 1000 meters above sea level, and the average altitude is ≈ 1700–1800 meters. About 76.5% of the territory is located at an altitude of 1000–2500 meters, and many regions reach 2500–3000 meters and more. Mountains and plateaus make up more than 1/3 of the country's surface (11 thousand km2) or 36.4% (of the territory of the Republic of Armenia). Intermountain Regions and plains occupy only about 10% of the territory, while the rest is occupied by mountain ranges and plateaus.",
     relief4: "Ascending zonation",
     relief5:
       "Due to the mountainous relief, the ascending zonation in Armenia is clearly expressed. Natural landscapes change with increasing altitude, passing from semi-deserts and mountain steppes to forest zones, then to subalpine and alpine meadows, and in the highest parts - to bare rocks and snow-capped peaks.",
@@ -3104,7 +3104,7 @@ var translations = {
     relief44: "Aragats Massif",
     relief45: "Geghama Mountains",
     relief46: "Vardenis Mountains",
-    relief47: "Intermountain depressions",
+    relief47: "Intermountain Regions",
     relief48:
       "The largest of these is the Ararat intermountain plain, through which the Araks River flows and the left-bank part of the plain, which is part of Armenia. The mountain ranges divide the country into numerous plains and valleys, which are significantly higher than sea level. The most famous of them are the valleys of Shirak, Lori and Sevan.",
     relief49: "Volcanic and erosional relief",
@@ -3159,9 +3159,9 @@ var translations = {
       "At elevations above 2,500–3,000 meters, spring in many areas almost transitions directly into winter, while autumn is only weakly expressed. ",
     climate30: "Characteristics of  Climate Zones",
     climate31:
-      "Dry Subtropical (up to 380–450 m) This climate zone is typical of the middle reaches of the Araks River basin (the Ararat Plain) and the Meghri region. It is characterized by long, hot summers, mild winters, and low annual precipitation.   It is distributed in the foothill areas of the Ararat Plain depression, including the southern parts of Ashtarak and Aparan, the Kotayk Plateau, the high-altitude villages of Ararat, the foothills of the Yeranos range, and the northern foothills of Armavir. Summers are very hot, while winters are relatively cold.",
+      "Dry Subtropical (up to 380–450 m) This climate zone is typical of the middle reaches of the Araks River basin (the Ararat Plain) and the Meghri area. It is characterized by long, hot summers, mild winters, and low annual precipitation.   It is distributed in the foothill areas of the Ararat Plain Region, including the southern parts of Ashtarak and Aparan, the Kotayk Plateau, the high-altitude villages of Ararat, the foothills of the Yeranos range, and the northern foothills of Armavir. Summers are very hot, while winters are relatively cold.",
     climate32:
-      "Dry, strongly Continental  (up to 800 m) This zone is distributed in the foothill areas of the Ararat Depression, including the southern parts of Ashtarak and Aparan, the Kotayk Plateau, the highland villages of Ararat Province, the foothills of Yeranos Mountain, and the northern foothills of Armavir Province. Summers are very hot, while winters are relatively cold.      ",
+      "Dry, strongly Continental  (up to 800 m) This zone is distributed in the foothill areas of the Ararat Region, including the southern parts of Ashtarak and Aparan, the Kotayk Plateau, the highland villages of Ararat Province, the foothills of Yeranos Mountain, and the northern foothills of Armavir Province. Summers are very hot, while winters are relatively cold.      ",
     climate33:
       "Dry Continental Climate (800–1200 m).It forms in the foothill areas of the Aragatsotn, Shirak, and Vayots Dzor regions. It is characterized by moderately warm summers and cold winters. Typical settlements are Ashtarak, Oshakan, Ujan, Agarak, Kosh, Artik (and surrounding lowland villages), the lowland villages of Maralik, Akhuryan, and Amasia, as well as Rind, Aghavnadzor, Areni, Getap, Yeghegnadzor, and Vayk.",
     climate34:
@@ -3205,12 +3205,12 @@ var translations = {
     climate57:
       "Average winter temperature: The coldest month is January, when the average temperature in the Javakhk Mountains and the high-altitude zones of the Arpa River reaches around −12°C.",
     climate58:
-      "Notable areas: The Shirak and Gegharkunik provinces (for example, Ashosk) are characterized by long and cold winters. Temperatures range from −2.7°C (high-mountain station of Mount Aragats) to +13.8°C (Syunik valleys such as Kapan and Meghri).",
+      "Notable areas: The Shirak and Gegharkunik regions (for example, Ashosk) are characterized by long and cold winters. Temperatures range from −2.7°C (high-mountain station of Mount Aragats) to +13.8°C (Syunik valleys such as Kapan and Meghri).",
     climate59:
       "During the Soviet period, the lowest temperature recorded in the entire Transcaucasus was registered near Lake Arpi, in Paghakn village, at −46°C.Paghakn is located within the Arpi community, about 1 km north of Berdashen village, on the eastern shore of Lake Arpi, and 20 km northwest of Amasia.",
     climate60: "Hottest Areas",
     climate61:
-      "Absolute maximum temperature: The Meghri region (Syunik Province) and the Ararat Plain (Ararat and Armavir provinces) reach up to +42°C to +43°C (Ararat village).",
+      "Absolute maximum temperature: The Meghri area (Syunik Region) and the Ararat Plain (Ararat and Armavir regions) reach up to +42°C to +43°C (Ararat village).",
     climate62:
       "Average summer temperature: The hottest months are July and August, when the average temperature in the Aras Valley exceeds +26°C.",
     climate63:
@@ -3240,11 +3240,11 @@ var translations = {
     climate79: "Wettest Regions",
     climate80: "Tavush: ~500–600 mm/year",
     climate81: "Lori: ~600–700 mm/year",
-    climate82: "High-altitude areas of Gegharkunik Province: ~440–650 mm/year",
+    climate82: "High-altitude areas of Gegharkunik Region: ~440–650 mm/year",
     climate83: "Forest zones of Syunik: ~300–600 mm/year",
     climate84:
       "One of the wettest areas is the Hankavan mountain area, where annual precipitation reaches 800–850 mm. In some places, it can reach up to 1000 mm or more.",
-    climate85: "Driest Regions",
+    climate85: "Driest Areas",
     climate86: "Ararat Plain: ~200–250 mm/year",
     climate87:
       "Some low-lying valleys of Syunik also receive very low precipitation",
@@ -3271,7 +3271,7 @@ var translations = {
     climate100:
       "In the Ararat Plain, annual sunshine duration is about 2,500 hours. Summers are mostly clear, while in winter long-lasting fogs (temperature inversions) often occur, reducing the annual total. ",
     climate101:
-      "Regions with the highest solar radiation intensity and the largest number of clear days (up to 300 sunny days per year) also include the sunny valleys of Syunik (Meghri region) and Vayots Dzor (Yeghegnadzor).",
+      "Regions with the highest solar radiation intensity and the largest number of clear days (up to 300 sunny days per year) also include the sunny valleys of Syunik (Meghri area) and Vayots Dzor (Yeghegnadzor).",
     climate102:
       "Meghri has the hottest climate and high solar radiation. However, due to its mountainous relief and deep canyon setting, the total sunshine hours are slightly lower than in the open plains of Lake Sevan. Surrounding mountains “reduce” sunlight hours by delaying sunrise and causing earlier sunset. In spring, cloudy days are more frequent than in the high and open basin of Sevan.Meghri’s annual sunshine duration is about 2,400–2,500 hours.",
     climate103:

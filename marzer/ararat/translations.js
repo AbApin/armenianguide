@@ -1393,12 +1393,12 @@
       marz_ararat_bnutagir107: "Горы: 350–600 мм (до 1000 мм) ",
       marz_ararat_bnutagir108: "Остальные зоны: 250–700 мм ",
       marz_ararat_bnutagir109: "Самый сухой месяц: август, Пики: май и ноябрь ",
-      marz_ararat_bnutagir110: "Ветер",
+      marz_ararat_bnutagir110: "Ветры",
       marz_ararat_bnutagir111: "Характерны долинные ветры",
       marz_ararat_bnutagir112: "Летом горные ветры охлаждают долины",
       marz_ararat_bnutagir113:
         "Средняя скорость: 1–2 м/с,Максимум: 18–22 м/с,Порывы: до 40 м/с",
-      marz_ararat_bnutagir114: "Солнечность",
+      marz_ararat_bnutagir114: "Солнечное сияние",
       marz_ararat_bnutagir115: "2471–2968 часов солнечного сияния в год",
 
       // marz_ararat_nkaragir

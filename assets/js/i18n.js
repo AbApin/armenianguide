@@ -9,6 +9,8 @@
     marzer1: { hy: "./assets/img/marzer1.webp", en: "./assets/img/marzer1_en.webp", ru: "./assets/img/marzer1_ru.webp" },
     marzer2: { hy: "./assets/img/marzer2.webp", en: "./assets/img/marzer2_en.webp", ru: "./assets/img/marzer2_ru.webp" },
     temperatureClimate: { hy: "temperature-am.webp", en: "temperature-en.webp", ru: "temperature-ru.webp" },
+    armavir2: { hy: "armavir2.webp", en: "armavir2-en.webp", ru: "armavir2-ru.webp" },
+    armavir3: { hy: "armavir3.webp", en: "armavir3-en.webp", ru: "armavir3-ru.webp" },
     ararat2: { hy: "ararat2-am.webp", en: "ararat2-en.webp", ru: "ararat2-ru.webp" },
     ararat3: { hy: "ararat3-am.webp", en: "ararat3-en.webp", ru: "ararat3-ru.webp" },
     tvyalner1: { hy: "tvyalner1-am.webp", en: "tvyalner1-en.webp", ru: "tvyalner1-ru.webp" },

@@ -148,7 +148,7 @@
       marz_armavir_nkaragir10: "Աշխարհագրական/Պատմական/ Ժողովրդագրական/",
       marz_armavir_nkaragir11: "Աշխարհագրական դիրք",
       marz_armavir_nkaragir12:
-        "Արմավիրի մարզը տեղակայված է Հայաստանի արևմտյան մասում։ Արմավիրի մարզը գտնվում է Արարատյան դաշտի արևմտյան մասում, ընդգրկելով Արագածի նախալեռնային հատվածը, Քասաղ և Հրազդան գետերի ավազանների ստորին մասը, Սևջուր գետի հովիտը, Ախուրյան և Արաքս գետերի ձախափնյա տարածքի մի մասը:",
+        "Արմավիրի մարզը գտնվում է Հայաստանի արևմտյան մասում։ Այն տեղակայված  է Արարատյան դաշտի արևմտյան մասում, ընդգրկելով Արագածի նախալեռնային հատվածը, Քասաղ և Հրազդան գետերի ավազանների ստորին մասը, Սևջուր գետի հովիտը, Ախուրյան և Արաքս գետերի ձախափնյա տարածքի մի մասը:",
       marz_armavir_nkaragir13:
         "Մարզի բարձրությունը՝ 800-1000 մ ծովի մակերևույթից։",
       marz_armavir_nkaragir14: "Ամենաերկար ձգվածությունը՝",
@@ -314,14 +314,14 @@
       marz_armavir_nkaragir128:
         "Արմավիրի մարզը հանրապետությունում առանձնանում է զարգացած արդյունաբերությամբ և գյուղատնտեսությամբ։",
       marz_armavir_nkaragir129:
-        "Մարզի գլխավոր ճյուղը՝ էլեկտրաէներգետիկան․ այստեղ է գտնվում Հայկական Ատոմային էլեկտրակայանը (ՀԱԷԿ), որը ապահովում է երկրի էլեկտրաէներգիայի մոտ 40%-ը։",
+        "Մարզի գլխավոր ճյուղը էլեկտրաէներգետիկան է: Այստեղ է գտնվում Հայկական Ատոմային էլեկտրակայանը (ՀԱԷԿ), որը ապահովում է երկրի էլեկտրաէներգիայի մոտ 40%-ը։",
       marz_armavir_nkaragir130:
         "ՀԱԷԿ-ը բաղկացած է երկու բլոկից․ առաջինը շահագործվել է 1976-ին, երկրորդը՝ 1980-ին։",
       marz_armavir_nkaragir131:
         "1993–1995 թթ. վերագործարկումից հետո անցում կատարվեց շուրջօրյա էներգամատակարարման։",
       marz_armavir_nkaragir132: "Արդյունաբերություն",
       marz_armavir_nkaragir133:
-        "Նախկինում մարզում գործում էին պահածոների, կահույքի և ռազմական արտադրության գործարաններ, այժմ դրանք փոխարինվել են աղմուկ և կոնյակի գործարաններով, ագրոարդյունաբերական փոքր ու միջին ձեռնարկություններով։",
+        "Նախկինում մարզում գործում էին պահածոների, կահույքի և ռազմական արտադրության գործարաններ, այժմ դրանք փոխարինվել են գինու և կոնյակի գործարաններով, ագրոարդյունաբերական փոքր ու միջին ձեռնարկություններով։",
       marz_armavir_nkaragir134:
         "Հոկտեմբերյանի գինու և կոնյակի գործարանը գործում է 1942-ից, արտադրությունում օգտագործվում են ինչպես տեղական, այնպես էլ Հայաստանից և Վրաստանից բերված խաղողի տեսակներ։",
       marz_armavir_nkaragir135:
@@ -457,36 +457,36 @@
       marz_armavir_bnutagir1: "Overview",
       marz_armavir_bnutagir2: "DATA",
       marz_armavir_bnutagir3: "Direction",
-      marz_armavir_bnutagir4: "From the North",
-      marz_armavir_bnutagir5: "From the North-East",
-      marz_armavir_bnutagir6: "From the East",
-      marz_armavir_bnutagir7: "From the South-East",
-      marz_armavir_bnutagir8: "From the West",
-      marz_armavir_bnutagir9: "From the South-West",
-      marz_armavir_bnutagir10: "From the South",
-      marz_armavir_bnutagir11: "Bordering region",
-      marz_armavir_bnutagir12: "Aragatsotn",
-      marz_armavir_bnutagir13: "Kotayk",
+      marz_armavir_bnutagir4: "North",
+      marz_armavir_bnutagir5: "North-East",
+      marz_armavir_bnutagir6: "East",
+      marz_armavir_bnutagir7: "South-East",
+      marz_armavir_bnutagir8: "West",
+      marz_armavir_bnutagir9: "South-West",
+      marz_armavir_bnutagir10: "South",
+      marz_armavir_bnutagir11: "Bordering Regions",
+      marz_armavir_bnutagir12: "Aragatsotn Region",
+      marz_armavir_bnutagir13: "Kotayk Region",
       marz_armavir_bnutagir14: "Yerevan",
-      marz_armavir_bnutagir15: "Ararat",
-      marz_armavir_bnutagir16: "Neighboring countries",
+      marz_armavir_bnutagir15: "Ararat Region",
+      marz_armavir_bnutagir16: "Neighboring Countries",
       marz_armavir_bnutagir17: "Turkey",
       marz_armavir_bnutagir18: "Turkey",
       marz_armavir_bnutagir19: "Turkey",
-      marz_armavir_bnutagir20: "Establishment",
+      marz_armavir_bnutagir20: "Foundation",
       marz_armavir_bnutagir21:
-        "Armavir region of the Republic of Armenia was established on April 12, 1995.",
-      marz_armavir_bnutagir22: "Territory",
+        "The Armavir Region was established on April 12, 1995, as part of the administrative-territorial division of the Republic of Armenia.",
+      marz_armavir_bnutagir22: "Area",
       marz_armavir_bnutagir23:
-        "Armavir region occupies about 4.2% of the entire territory of Armenia (1242 km²)",
+        "The Armavir Region covers about 4.2% of the total territory of Armenia, with an area of 1,242 km².",
       marz_armavir_bnutagir24: "Administrative center",
       marz_armavir_bnutagir25:
-        "Armavir city (Sardarapat, then Hoktemberyan). Located 48 km from Yerevan. The territory was inhabited before the 2nd millennium BC. In the region of the Araratian kingdom (Urartu), around 776 BC, Argishti I built a fortress and called it Argishtikhinili (until the 8th-5th centuries BC). In 189 BC, Artashes I founded the kingdom of Greater Armenia and made Armavir its capital.",
-      marz_armavir_bnutagir26: "Index",
+        "The administrative center is the city of Armavir (formerly Sardarapat, later Hoktemberyan), located 48 km from Yerevan.                                                               Historical Overview:The territory of Armavir has been inhabited since the 2nd millennium BC and earlier. During the Urartian period, around 776 BC, King Argishti I built a fortress and named it Argishtikhinili, which existed until approximately the 8th–5th centuries BC. In 189 BC, Artashes I founded the Kingdom of Greater Armenia and made Armavir its capital, marking the city as one of the ancient political centers of Armenia.",
+      marz_armavir_bnutagir26: "Indicator",
       marz_armavir_bnutagir27: "Area",
       marz_armavir_bnutagir28: "Coordinates",
       marz_armavir_bnutagir29: "Elevation",
-      marz_armavir_bnutagir30: "Highest peak",
+      marz_armavir_bnutagir30: "Highest Point",
       marz_armavir_bnutagir31: "Administrative center",
       marz_armavir_bnutagir32: "Regions",
       marz_armavir_bnutagir33: "Cities",
@@ -498,209 +498,215 @@
       marz_armavir_bnutagir39: "Website",
       marz_armavir_bnutagir40: "Data",
       marz_armavir_bnutagir41: "1,242 km² (4.2%)",
-      marz_armavir_bnutagir42: "44.03° latitude E.",
-      marz_armavir_bnutagir43: "800-1000m",
-      marz_armavir_bnutagir44: "1286 m (Karmratar Mountain)",
+      marz_armavir_bnutagir42: "40.15° N, 44.03° E",
+      marz_armavir_bnutagir43: "800–1,000 m",
+      marz_armavir_bnutagir44: "1,286 m (Karmrathar Mountain)",
       marz_armavir_bnutagir45: "Armavir",
-      marz_armavir_bnutagir46: "Armavir, Echmiadzin, Baghramyan",
+      marz_armavir_bnutagir46: "Armavir, Vagharshapat, Baghramyan",
       marz_armavir_bnutagir47: "Vagharshapat, Armavir, Metsamor",
-      marz_armavir_bnutagir48: "265.8 thousand people (8.9%)",
+      marz_armavir_bnutagir48: "265.8 thousand (8.9%)",
       marz_armavir_bnutagir49: "45 km",
       marz_armavir_bnutagir50: "Highest peak 1286 m (Karmratar Mountain)",
-      marz_armavir_bnutagir51: "Regional phone codes",
-      marz_armavir_bnutagir52: "Residence",
+      marz_armavir_bnutagir51: "Regional Telephone Area Codes",
+      marz_armavir_bnutagir52: "Locality",
       marz_armavir_bnutagir53: "Baghramyan",
       marz_armavir_bnutagir54: "Noraket",
       marz_armavir_bnutagir55: "Jrarat",
-      marz_armavir_bnutagir56: "Khoronq",
+      marz_armavir_bnutagir56: "Khoronk",
       marz_armavir_bnutagir57: "Myasnikyan",
       marz_armavir_bnutagir58: "Mrgashat",
       marz_armavir_bnutagir59: "Bambakashat",
       marz_armavir_bnutagir60: "Tandzut",
-      marz_armavir_bnutagir61: "Code",
-      marz_armavir_bnutagir62: "Regional Administration/Contact",
-      marz_armavir_bnutagir63: "Web: http://armavir.mtad.am/",
-      marz_armavir_bnutagir64: "HOW TO GET THERE",
+      marz_armavir_bnutagir61: "Area Code",
+      marz_armavir_bnutagir62: "Municipality /Contact",
+      marz_armavir_bnutagir63: "Website: http://armavir.mtad.am/",
+      marz_armavir_bnutagir64: "HOW TO GET",
       marz_armavir_bnutagir65: "Highways",
       marz_armavir_bnutagir66:
-        "Armavir region is connected to Yerevan and southern Armenia via the M-5 highway.",
+        "Armavir Region is connected to Yerevan and southern Armenia via the M-5 Highway.",
       marz_armavir_bnutagir67:
-        "The M-3 highway connects Armavir region with northern Armenia.",
-      marz_armavir_bnutagir68: "Route taxi and bus",
-      marz_armavir_bnutagir69: "You can get to Armavir by bus and minibus.",
+        "The M-3 Highway links Armavir Region with northern Armenia.",
+      marz_armavir_bnutagir68: "Minibus & Bus",
+      marz_armavir_bnutagir69:
+        "Armavir city can be reached by bus or minibus (marshrutka).",
       marz_armavir_bnutagir70:
-        "Transportation departs from the Central Railway Station, Noragavit and Kilikia Bus Station.",
-      marz_armavir_bnutagir71: "Ticket price: 350 drams.",
+        "Services depart from Yerevan Central Railway Station, Noragavit Bus Station, and Kilikia Bus Station.",
+      marz_armavir_bnutagir71: "Fare: AMD 350",
       marz_armavir_bnutagir72: "Railway",
-      marz_armavir_bnutagir73: "The train arrives in Armavir in 50 minutes.",
-      marz_armavir_bnutagir74: "Contact and ticket price: the same, 350 drams.",
-      marz_armavir_bnutagir75: "AIR CONDITIONING",
+      marz_armavir_bnutagir73:
+        "The train reaches Armavir in approximately 50 minutes.",
+      marz_armavir_bnutagir74: "Ticket price: AMD 350.",
+      marz_armavir_bnutagir75: "CLIMATE",
       marz_armavir_bnutagir76:
-        "The climate of Armavir region is strictly continental. The surface of the terrain is flat, in the direction of the Araks River it descends evenly by about 1.8 m per kilometer, it is 800-1000 m above sea level, including the surrounding foothills - up to 1200 m.",
-      marz_armavir_bnutagir77: "Climate features",
+        "Armavir Region has a strongly continental climate. The terrain is predominantly flat, gradually descending toward the Araks River by about 1.8 m per kilometer. The elevation ranges from 800 to 1,000 m above sea level, extending to the surrounding foothills at elevations of up to 1,200 m.",
+      marz_armavir_bnutagir77: "Climate Features",
       marz_armavir_bnutagir78:
-        "The cold season lasts from the beginning of December to the end of February.",
-      marz_armavir_bnutagir79: "Weather characteristics",
-      marz_armavir_bnutagir80: "Winter - cold, cloudless and windless",
-      marz_armavir_bnutagir81: "Summer - lasts 4–5 months",
+        "The cold season lasts from early December to the end of February.",
+      marz_armavir_bnutagir79: "Seasons",
+      marz_armavir_bnutagir80: "Winter – cold, clear, and generally calm",
+      marz_armavir_bnutagir81: "Summer – long, lasting 4–5 months",
       marz_armavir_bnutagir82:
-        "Spring – usually short-lived, thunderstorms and hail are observed more often",
+        "Spring – usually short, with frequent thunderstorms and hailstorms",
       marz_armavir_bnutagir83:
-        "Autumn – warm, sunny, without strong winds, suitable for agricultural work",
+        "Autumn – warm, sunny, and generally free of strong winds, providing favorable conditions for agricultural activities",
       marz_armavir_bnutagir84: "Temperature",
       marz_armavir_bnutagir85: "Average annual air temperature: 11–13°C",
-      marz_armavir_bnutagir86: "Average January temperature: -3…-5°C",
-      marz_armavir_bnutagir87: "Average number of frost-free days: 204 days",
+      marz_armavir_bnutagir86: "Average January temperature: −3 to −5°C",
+      marz_armavir_bnutagir87: "Average number of frost-free days: 204",
       marz_armavir_bnutagir88:
-        "Average summer temperature: 24–26°C, heat reaches +40…+42°C",
+        "Average summer temperature: 24–26°C, with highs reaching +40 to +42°C",
       marz_armavir_bnutagir89:
-        "The cold season lasts from the beginning of December to the end of February.",
+        "Cold season: from early December to the end of February",
       marz_armavir_bnutagir90:
-        "Frosts down to -31°C are observed during the winter (Armavir, Merdzavan).",
+        "Winter minimum temperatures may drop to −31°C (Armavir, Merdzavan)",
       marz_armavir_bnutagir91:
-        "The warming season (below 8°C) is from November 6 to March 29 (145 days)",
+        "Heating season (below 8°C): November 6 – March 29 (145 days)",
       marz_armavir_bnutagir92: "Precipitation",
-      marz_armavir_bnutagir93: "Annual precipitation: ≤ 300 mm",
+      marz_armavir_bnutagir93: "Average annual precipitation: ≤300 mm",
       marz_armavir_bnutagir94:
-        "The regions near the Araks River are arid, the amount of precipitation is 160-210 mm, in high-altitude regions - 260-300 mm.",
+        "Areas near the Araks River are particularly arid, receiving 160–210 mm of precipitation annually, while the higher elevations receive 260–300 mm.",
       marz_armavir_bnutagir95:
-        "The average number of days with snow cover is 40 days, the maximum is 126 days, and stable snow cover (30 days or more) occurs once every two years.",
+        "Average number of days with snow cover: 40, with a maximum of 126 days. A stable snow cover (lasting 30 days or more) forms approximately once every two years.",
       marz_armavir_bnutagir96:
-        "Thunderstorms and hail often occur in spring, which are dangerous for agricultural crops.",
+        "Thunderstorms and hail are common in spring and may damage agricultural crops.",
       marz_armavir_bnutagir97:
-        "The average number of foggy days is 11 days (maximum 38 days).",
-      marz_armavir_bnutagir98: "Winds.",
+        "Average number of foggy days: 11, with a maximum of 38 days.",
+      marz_armavir_bnutagir98: "Winds",
       marz_armavir_bnutagir99:
-        "The region is characterized by a mountain-valley circulation of winds.",
+        "The region is characterized by mountain–valley wind circulation.",
       marz_armavir_bnutagir100:
-        "The average annual wind speed is 1-3m/s, maximum 24-30m/s, and gusts reach up to 36m/s.",
-      marz_armavir_bnutagir101: "Calm weather prevails in winter.",
-      marz_armavir_bnutagir102: "Sunny",
-      marz_armavir_bnutagir103: "Duration: 2,578 hours/year",
+        "The average annual wind speed is 1–3 m/s, with maximum speeds of 24–30 m/s and gusts reaching 36 m/s.",
+      marz_armavir_bnutagir101:
+        "Calm weather conditions prevail during winter.",
+      marz_armavir_bnutagir102: "Sunshine",
+      marz_armavir_bnutagir103: "Average annual sunshine duration: 2,578 hour",
 
       // marz_armavir_nkaragir
       marz_armavir_nkaragir1: "DESCRIPTION",
       marz_armavir_nkaragir2:
-        "Data /Nature /Economy /Science /Education /Culture /Tourism Logistics",
-      marz_armavir_nkaragir3: "The fertile reservoir of the Ararat Valley",
+        "Data / Nature / Economy / Science, Education / Culture / Tourism / Logistics",
+      marz_armavir_nkaragir3: "The Fertile Granary  of the Ararat Valley",
       marz_armavir_nkaragir4:
-        "Armavir region extends in the western part of the Ararat Valley, under the majestic view of Mount Ararat. The region is known primarily for its fertile lands, full of sun and harvest. Over the millennia, the sunny plains have turned these places into a storehouse of sun-drenched goods, where gardens bloom, vines climb, from whose fruits the ancient traditions of Armenian winemaking were woven.",
-      marz_armavir_nkaragir5: "The hearth of ancient civilization",
+        "Armavir  region is located in the western part of the Ararat Valley, at the foot of the majestic biblical Mount Ararat. The region is primarily known for its fertile lands, rich in sunlight and abundant harvests. These sun-drenched plains have, over millennia, turned this area into a true storehouse of nature’s generous gifts, where orchards bloom, and grapevines climb upward, their fruit giving rise to the ancient traditions of Armenian winemaking",
+      marz_armavir_nkaragir5: "Cradle of an Ancient Civilization",
       marz_armavir_nkaragir6:
-        "The name of the region itself bears the imprint of millennia of history and civilization. Armavir is the cradle of ancient civilization, with the ancient sites of Argishtikhinili and Metsamor, the magnificent Zvartnots Cathedral and numerous churches, which testify to the rich past of the Armenian people.",
-      marz_armavir_nkaragir7: "The heart of Armenian spiritual life",
+        "The name of the region bears the mark of thousands of years of history and civilization. Armavir is a cradle of ancient civilization, home to the archaeological sites of Argishtikhinili and Metsamor, the magnificent Zvartnots Temple, and numerous churches that bear witness to the rich past of the Armenian people.",
+      marz_armavir_nkaragir7: "The Heart of Armenian Spiritual Life",
       marz_armavir_nkaragir8:
-        "The largest and most historical city of the region is Vagharshapat (Echmiadzin), where the heart of Armenian spiritual life beats, the Mother See of Holy Etchmiadzin, the spiritual center of Armenians, which for centuries has symbolized the faith and identity of the Armenian people, making Armavir a region of exceptional significance.",
+        "The largest and most historically significant city of the region is Vagharshapat (Etchmiadzin), where the heart of Armenian spiritual life beats — the Mother See of Holy Etchmiadzin, a spiritual center that has symbolized the faith and identity of the Armenian people for centuries, contributing to Armavir’s exceptional significance.",
       marz_armavir_nkaragir9: "DATA",
-      marz_armavir_nkaragir10: "Geographical/Historical/Demographic/",
-      marz_armavir_nkaragir11: "Geographical location",
+      marz_armavir_nkaragir10: "Geographical / Historical / Demographic",
+      marz_armavir_nkaragir11: "Geographical Location",
       marz_armavir_nkaragir12:
-        "Armavir region is located in the western part of Armenia. Armavir region is located in the western part of the Ararat Valley, encompassing the foothills of Aragats, the lower part of the Kasagh and Hrazdan river basins, the Sevjur river valley, and part of the left bank of the Akhuryan and Araks rivers.",
-      marz_armavir_nkaragir13:
-        "The altitude of the region is 800-1000 m above sea level.",
-      marz_armavir_nkaragir14: "The longest stretch is",
-      marz_armavir_nkaragir15: "From west to east: about 70 km.",
-      marz_armavir_nkaragir16: "From north to south: about 40 km",
-      marz_armavir_nkaragir17: "Bordering areas",
-      marz_armavir_nkaragir18: "Regions: Aragatsotn, Ararat, Kotayk, Yerevan",
-      marz_armavir_nkaragir19: "International borders with Turkey",
-      marz_armavir_nkaragir20: "Historical heritage",
+        "Armavir Region is located in the western part of Armenia. It occupies the western section of the Ararat Plain, encompassing the foothills of Mount Aragats, the lower basins of the Kasagh and Hrazdan rivers, the Sevjur River valley, and part of the left-bank territories of the Akhuryan and Araks rivers.",
+      marz_armavir_nkaragir13: "Elevation: 800–1,000 m above sea level.",
+      marz_armavir_nkaragir14: "Maximum extent:",
+      marz_armavir_nkaragir15: "West to east: approximately 70 km",
+      marz_armavir_nkaragir16: "North to south: approximately 40 km",
+      marz_armavir_nkaragir17: "Bordering Areas:",
+      marz_armavir_nkaragir18:
+        "Regions: Aragatsotn, Ararat,Kotayk and Yerevan (capital city)",
+      marz_armavir_nkaragir19: "International Border: Turkey",
+      marz_armavir_nkaragir20: "Historical Heritage",
       marz_armavir_nkaragir21:
-        "Armavir inherited its name from the historical city of Armavir, one of the capitals of Greater Armenia",
+        "Name origin: Armavir Region takes its name from the ancient city of Armavir, one of the historic capitals of Greater Armenia.",
       marz_armavir_nkaragir22:
-        "Population: The region has been inhabited since the 5th millennium BC. Ancient fortresses and burial grounds have been preserved around Lake Akna",
+        "Early settlement: The region has been inhabited since the 5th millennium BC. Prehistoric fortresses and burial grounds have been preserved around Lake Akna, making the area one of Armenia's oldest continuously inhabited regions and an important center of early lowland civilization.",
       marz_armavir_nkaragir23:
-        "Ruins: The region is home to the ruins of the ancient city of Yervandashat (5th century BC – 176 AD)",
+        "Ancient ruins: The ruins of the ancient city of Yervandashat (5th century BC – AD 176) are located in the province.",
       marz_armavir_nkaragir24:
-        "Historical capitals: 3 of the 12 capitals of Armenia are located in the region.",
+        "Historic capitals: Three of Armenia's twelve historic capitals are located within the province:",
       marz_armavir_nkaragir25: "Armavir (331–210 BC)",
-      marz_armavir_nkaragir26: "Yervandashat (5th century BC – 176 AD)",
-      marz_armavir_nkaragir27: "Vagharshapat (120–330 AD):",
-      marz_armavir_nkaragir28: "Current significance of the region",
+      marz_armavir_nkaragir26: "Yervandashat (5th century BC – AD 176)",
+      marz_armavir_nkaragir27: "Vagharshapat (AD 120–330)",
+      marz_armavir_nkaragir28: "Present-Day Importance",
       marz_armavir_nkaragir29:
-        "Armavir region is one of the fastest developing and young regions of the Republic of Armenia.",
+        "Armavir is one of Armenia's youngest and fastest-growing regions.",
       marz_armavir_nkaragir30:
-        "The regional center Armavir has a central location and is located on the important highway of Yerevan, Vagharshapat, Aragats, Gyumri.",
+        "The regional centre Armavir occupies a central position in the region, located on the main highway connecting Yerevan, Vagharshapat, Aragats, and Gyumri.",
       marz_armavir_nkaragir31:
-        "Vagharshapat is the spiritual and religious center of all Armenians and the seat of the Catholicos of All Armenians. The Mother Cathedral of Holy Etchmiadzin and the Theological Seminary are located here.",
+        "Vagharshapat is the spiritual and religious center of Armenians worldwide and the seat of the Catholicos of All Armenians. It is home to the Mother Cathedral of Holy Etchmiadzin and the Gevorkian Theological Seminary.",
       marz_armavir_nkaragir32:
-        "The Armenian Nuclear Power Plant is located in Armavir.",
-      marz_armavir_nkaragir33: "Zvartnots Airport is only 18 km from Yerevan.",
+        "The Armenian Nuclear Power Plant is located in Armavir Region.",
+      marz_armavir_nkaragir33:
+        "Zvartnots International Airport is situated just 18 km from Yerevan.",
       marz_armavir_nkaragir34:
-        "The only highway bridge connecting Armenia with Turkey is built on the Araks River, near the village of Margara in Armavir region.",
-      marz_armavir_nkaragir35: "Population and lifestyle,",
+        "The only road bridge connecting Armenia and Turkey spans the Araks River near the village of Margara in Armavir Province.",
+      marz_armavir_nkaragir35: "Population",
       marz_armavir_nkaragir36:
-        "In terms of absolute population (265.8 thousand people (8.9%)), the region occupies an average place, but is the first in terms of density.",
+        "With a population of 265.8 thousand (8.9% of Armenia's population), Armavir ranks among the middle provinces by population size, but has the highest population density in the country.",
       marz_armavir_nkaragir37: "Population density: 216 people/km².",
-      marz_armavir_nkaragir38: "Traditional occupation: agriculture.",
-      marz_armavir_nkaragir39: "NATURE.",
+      marz_armavir_nkaragir38: "Traditional occupation: Agriculture.",
+      marz_armavir_nkaragir39: "NATURE",
       marz_armavir_nkaragir40:
-        "Armavir region is located in the western part of the Ararat Valley. It is characterized by a flat, hot and dry landscape. Most of the territory is at an altitude of 800–900 m above sea level and covers one of the sunniest zones in Armenia. Fertile soils and a warm climate contribute to the development of agriculture in the region. The nature of the region is formed by:",
-      marz_armavir_nkaragir41: "The flat, open areas of the Ararat Valley,",
-      marz_armavir_nkaragir42: "The Arax River Valley,",
-      marz_armavir_nkaragir43: "The developed irrigation system.",
-      marz_armavir_nkaragir44: "Zones,",
+        "Armavir Region is located in the western part of the Ararat Plain, characterized by flat, warm, and dry landscapes. The region is surrounded on three sides by the Aragats, Ararat, and Geghama mountain ranges, all of which are clearly visible from the plain. Most of the region lies at an elevation of 800–900 m above sea level and belongs to one of Armenia's sunniest regions. Its exceptionally fertile soils and warm climate create ideal conditions for agriculture.The region 's natural landscape is shaped by:",
+      marz_armavir_nkaragir41: "The vast open plains of the Ararat Plain.",
+      marz_armavir_nkaragir42: "The Araks River Valley.",
+      marz_armavir_nkaragir43: "An extensive irrigation network.",
+      marz_armavir_nkaragir44: "Zonation",
       marz_armavir_nkaragir45:
-        "The natural landscape of Armavir marz is mainly semi-desert, with desert areas, and cultivated and horticultural landscapes along rivers and canals, which were formed as a result of centuries-old irrigation. The climate of the marz is extremely arid, as it is mainly located in the dry and hot steppe climatic zone,",
-      marz_armavir_nkaragir46: "Landscape zones,",
-      marz_armavir_nkaragir47: "Semi-desert zone – ▲ 850–1100 m",
-      marz_armavir_nkaragir48: "Dry steppe zone – ▲ 1100–1400 m",
-      marz_armavir_nkaragir49: "Climatic zones",
-      marz_armavir_nkaragir50: "Dry subtropical – ▲ 850–1000 m",
-      marz_armavir_nkaragir51: "Moderately dry continental – ▲ 1000–1400 m",
-      marz_armavir_nkaragir52: "Soil and vegetation",
+        "Armavir Region is dominated by semi-desert landscapes with isolated desert areas. Along rivers and irrigation canals, these give way to cultivated farmland, orchards, and gardens, created through centuries of irrigation.The region has a very dry climate, as most of its territory lies within the hot, dry steppe climatic zone.",
+      marz_armavir_nkaragir46: "Landscape Zones",
+      marz_armavir_nkaragir47: "Semi-desert zone – ▲ 850–1,100 m",
+      marz_armavir_nkaragir48: "Dry steppe zone – ▲ 1,100–1,400 m",
+      marz_armavir_nkaragir49: "Climate Zones",
+      marz_armavir_nkaragir50: "Dry subtropical climate – ▲ 850–1,000 m",
+      marz_armavir_nkaragir51:
+        "Temperate dry continental climate – ▲ 1,000–1,400 m",
+      marz_armavir_nkaragir52: "Soils & Vegetation",
       marz_armavir_nkaragir53:
-        "Grey soils with a content of lime and gypsum predominate. Saline and marshy soils are found in the floodplains. The vegetation is poor, with drought-loving and salt-loving species. The natural vegetation cover is represented by halophytes, cactus-like and drought-resistant species, but thanks to irrigation, cultivated fields and horticultural lands have become widespread. Grapes, fruit trees and vegetable crops are widespread.",
-      marz_armavir_nkaragir54: "Animal world",
+        "Grey soils dominate, with a significant content of limestone and gypsum. In floodplains, saline and marshy soils are found.The vegetation is sparse, consisting of drought-tolerant and salt-tolerant species. Natural vegetation cover is represented by halophytic, cactus-like, and drought-resistant species, however, thanks to extensive irrigation, cultivated fields and horticultural lands have become widespread. Grapes, fruit trees, and vegetable crops are widespread.",
+      marz_armavir_nkaragir54: "Wildlife",
       marz_armavir_nkaragir55:
-        "Reptiles are widespread: gyurza, lizard, steppe dragon, horned viper, mammals: wild boar, otter, reed cat. The cochineal insect, which is a natural source of 'ordan karmir' dye, is found.",
-      marz_armavir_nkaragir56: "Specially Protected Areas (SPAs)",
+        "Reptiles such as the blunt-nosed viper, various lizard species, steppe runner, and horned viper are common. Among mammals, the wild boar, otter, and jungle cat are common. The region is also home to the Armenian cochineal, the famous insect that has long served as the natural source of the historic Vordan Karmir (Armenian crimson) dye.",
+      marz_armavir_nkaragir56: "Protected Areas",
       marz_armavir_nkaragir57:
-        "Ordan Karmir Reserve - An endemic insect is preserved, which has been used for centuries to obtain red dye.",
+        "Vordan Karmir Sanctuary – Established to protect the endemic Armenian cochineal, an insect used for centuries to produce the famous natural Armenian crimson dye.",
       marz_armavir_nkaragir58: "Relief",
       marz_armavir_nkaragir59:
-        "The surface of the area is flat, in the direction of the Araks River it descends evenly by about 1.8 m per kilometer, 800–950 m above sea level, including the surrounding foothills up to 1200 m above sea level.",
+        "The region is predominantly flat, with the land gently sloping toward the Araks River at an average gradient of about 1.8 m per kilometre. Elevations generally range from 800–950 m, reaching 1,200 m in the surrounding foothills.",
       marz_armavir_nkaragir60:
-        "Mainly a flat area, with slightly undulating land hills (e.g., around Baghramyan and Nalbandyan), without mountain systems, unlike the highlands typical of other regions of Armenia.",
+        "Armavir is one of Armenia's flattest regions, characterized by broad plains with gently rolling hills (especially around Baghramyan and Nalbandyan) and, unlike most Armenian regions, lacks mountain ranges.",
       marz_armavir_nkaragir61:
-        "In the north and northwest there are only low hilly areas, but they do not form a separate plain.",
+        "Only low hills occur in the north and northwest, but they do not form a separate upland.",
       marz_armavir_nkaragir62:
-        "The altitudes here are low, on average 800–1000 m above sea level.",
+        "Most of the territory lies at 800–1,000 m above sea level",
       marz_armavir_nkaragir63:
-        "The height of the few peaks and hills does not even reach 1500 m.",
+        "The region has very few elevations, and none exceed 1,500 m.",
       marz_armavir_nkaragir64:
-        "The lowest parts of the marz are in the Araks Valley, at altitudes of 820–840 m.",
+        "The lowest areas lie in the Araks River Valley, at elevations of 820–840 m.",
       marz_armavir_nkaragir65:
-        "The highest parts of the region (in the east, on the Mastara-Aknalich side, as well as near the borders of Aragatsotn) can reach about 950–1000 m.",
+        "The highest plains are located in the east (around Mastara and Aknalich) and near the Aragatsotn border, reaching 950–1,000 m.",
       marz_armavir_nkaragir66:
-        "The lowest point is 801 m, near the Araks River bed (in the south).",
+        "Lowest point: 801 m, near the channel of the Araks River.",
       marz_armavir_nkaragir67:
-        "The highest point is 1286 m, the Karmratar volcanic cone, located at the southern foot of the Aragats massif, on the border of Armavir and Aragatsotn regions,",
+        "Highest point: Karmrathar Hill (1,286 m), a volcanic cone located on the southern foothills of Mount Aragats, on the border between Armavir and Aragatsotn regions.",
       marz_armavir_nkaragir68:
-        "The heights around Mrgashat and Echmiadzin are also relatively high, at 1,100 m.",
-      marz_armavir_nkaragir69: "Mountains and hills",
-      marz_armavir_nkaragir70: "Dem mountain (1258 m) 2.",
-      marz_armavir_nkaragir71: "Karmratar mountain (1286 m)",
-      marz_armavir_nkaragir72: "Spitakblur mountain (1255 m)",
-      marz_armavir_nkaragir73: "Hakobisar (1017 m)",
-      marz_armavir_nkaragir74: "Armavir hill (937 m)",
-      marz_armavir_nkaragir75: "Metsamor hill (867 m)",
-      marz_armavir_nkaragir76: "Plains and plateaus",
-      marz_armavir_nkaragir77: "Ararat Valley -▲ 800 -1000 m, total ◯ 6600 km²",
+        "Other relatively elevated areas include the Mrgashat and Etchmiadzin uplands, reaching about 1,100 m.",
+      marz_armavir_nkaragir69: "Mountains & Hills",
+      marz_armavir_nkaragir70: "Dem Mountain – ▲ 1,258 m",
+      marz_armavir_nkaragir71:
+        "Karmratar Mountain – ▲ 1,286 m (highest point of the province)",
+      marz_armavir_nkaragir72: "Spitakblur Mountain – ▲ 1,255 m",
+      marz_armavir_nkaragir73: "Hakobisar Hill – ▲ 1,017 m",
+      marz_armavir_nkaragir74: "Armavir Hill – ▲ 937 m",
+      marz_armavir_nkaragir75: "Metsamor Hill – ▲ 867 m",
+      marz_armavir_nkaragir76: "Plains",
+      marz_armavir_nkaragir77: "Ararat Plain – ▲ 800–1,000 m | ◯ 6,600 km²",
       marz_armavir_nkaragir78:
-        "Almost the entire flat part of Armavir region is located in the Ararat Valley, except for some northern heights (north of Argavand).",
+        "Almost the entire flat part of Armavir Region lies within the Ararat Plain, except for several elevated areas in the north (north of Argavand).",
       marz_armavir_nkaragir79:
-        "From the north, approximately to the line between Artashat and Echmiadzin.",
+        "Northern boundary: approximately the line between Artashat and Etchmiadzin.",
       marz_armavir_nkaragir80:
-        "From the south, to the Araks River, which is also the border between Armenia and Turkey.",
+        "Southern boundary: the Araks River, which also forms the state border between Armenia and Turkey.",
       marz_armavir_nkaragir81:
-        "The major settlements of the Ararat Valley in Armavir region are:",
+        "Major settlements of the Ararat Plain within Armavir Region include:",
       marz_armavir_nkaragir82: "Echmiadzin",
       marz_armavir_nkaragir83: "Musaler",
       marz_armavir_nkaragir84: "Aknalich",
       marz_armavir_nkaragir85: "Merdzavan",
       marz_armavir_nkaragir86: "Baghramyan",
-      marz_armavir_nkaragir87: "Armavir city",
+      marz_armavir_nkaragir87: "Armavir",
       marz_armavir_nkaragir88: "Jrashen",
       marz_armavir_nkaragir89: "Nalbandyan",
       marz_armavir_nkaragir90: "Alashkert",
@@ -708,198 +714,199 @@
       marz_armavir_nkaragir92: "Margara",
       marz_armavir_nkaragir93: "Water system",
       marz_armavir_nkaragir94:
-        "Armavir region is one of the most water-rich regions of Armenia. The water system of the region is based on the Araks River and large irrigation canals, which, together with fish ponds, form a large-scale agricultural landscape. The region is dry by nature, but the man-made water system plays a decisive role here. There are almost no internal rivers in Armavir; therefore, the entire water network is based on the Araks and the canal system. Due to the dry climate, there are few natural swamps, but they do occur.",
-      marz_armavir_nkaragir95: "In the ancient beds of the Araks",
-      marz_armavir_nkaragir96: "In the areas adjacent to fish ponds",
-      marz_armavir_nkaragir97: "In small swamps fed by artificial waters",
+        "The Armavir Region is one of the most water-rich areas in Armenia. The region's water system relies on the Araks River and major irrigation canals, which, together with fish-farming ponds, fors a large-scale agricultural landscape.. In terms of nature, the region is arid; however, the man-made water system plays a decisive role here. There are almost no internal rivers in Armavir; therefore, the entire water network is based on the Arax River and an irrigation canal system.Due to the arid climate, natural wetlands are rare, but they can be found:",
+      marz_armavir_nkaragir95: "Along former channels of the Araks River.",
+      marz_armavir_nkaragir96: "Near fish ponds.",
+      marz_armavir_nkaragir97:
+        "In small marshes supplied by artificial irrigation.",
       marz_armavir_nkaragir98: "Araks River",
-      marz_armavir_nkaragir99: "It is the main river of the region",
+      marz_armavir_nkaragir99: "The main river of the region",
       marz_armavir_nkaragir100:
         "It runs along the entire southern border of the region",
-      marz_armavir_nkaragir101: "Used for large-scale irrigation purposes",
-      marz_armavir_nkaragir102: "One of the most abundant rivers in Armenia.",
+      marz_armavir_nkaragir101:
+        "Serves as the primary source of irrigation water",
+      marz_armavir_nkaragir102:
+        "One of the largest and most water-rich rivers in Armenia.",
       marz_armavir_nkaragir103: "Rivers",
       marz_armavir_nkaragir104:
-        "The rivers of Armavir region belong to the Araks basin. The only river originating within the region is the Metsamor (Sevjur), which is fed by Lake Ayghr and nearby springs. The only major tributary of the Metsamor is the Kasakh River. In spring, the flows of the Araks and Kasakh sometimes rise and cause local flooding.",
+        "All rivers of Armavir Region belong to the Araks River Basin. The only river originating within the region is the Metsamor (Sevjur) River, fed by Lake Ayghr and nearby springs. Its main tributary is the Kasagh River. During spring snowmelt, the Araks and Kasagh occasionally overflow, causing local flooding.",
       marz_armavir_nkaragir105:
-        "Araks - a tributary of the Kur River, forms the natural border of the region in the south. The length of the river is 1072 km, of which 200 km is in Armenia. Source ▲3000 m, Byurakn mountain range, (Bingyol mountain). Flows along the border of the Armavir, Ararat, Syunik regions of the Republic of Armenia, through the territory of Turkey, Iran and Azerbaijan.",
+        "Araks River – tributary of the Kura River; forms the region's southern natural border. Length: 1,072 km (about 200 km in Armenia). Source: ▲ 3,000 m, Byurakan volcanic plateau (Bingöl Mountains). It flows through the borders of Armavir, Ararat, and Syunik regions, as well as Turkey, Iran, and Azerbaijan.",
       marz_armavir_nkaragir106:
-        "Metsamor - a tributary of the Araks, length 40 km, source ▲853 m, Metsamor lake, Flows in the Armavir and Ararat regions.",
+        "Metsamor (Sevjur) River – tributary of the Araks; 40 km long. Source: ▲ 853 m, Lake Metsamor. It flows through the Armavir and Ararat regions.",
       marz_armavir_nkaragir107:
-        "Mastara Selav or Sevjur – a tributary of the Metsamor River. Length: 98 km, source ▲2500m, southwestern slopes of Aragats. Flow: in Aragatsotn and Armavir regions.",
-      marz_armavir_nkaragir108: "Small tributaries originating from Aknalich",
+        "Mastara Seasonal Stream (Sevjur) – tributary of the Metsamor River. Length: 98 km. Source: ▲ 2,500 m, southwestern slopes of Mount Aragats. It flows through the Aragatsotn and Armavir regions.",
+      marz_armavir_nkaragir108: "Small streams originating from Lake Aknalich.",
       marz_armavir_nkaragir109: "Lakes",
       marz_armavir_nkaragir110:
-        "Akna - ▲ 800 m, ◯ 50 ha, ▼ ~2 m, the lowest lake in Armenia. In the village of Aknalich.",
+        "Lake Akna – ▲ 800 m, ◯ 50 ha, ▼ ~2 m. The lowest-elevation lake in Armenia. Located in Aknalich village.",
       marz_armavir_nkaragir111:
-        "Yeghegnut Lake - a tributary of the Sevjur River, ▼ 2 m Ararat Valley",
+        "Yeghgnut Lake – Tributary lake of the Sevjur River, ▼ 2 m. Located in the Ararat Plain.",
       marz_armavir_nkaragir112:
-        "Lake Ayghr (historical Lake Metsamor) – ▲ 860 m, ◯ 0.075 km², ▼ ~9.4 m, in the Ararat Valley, has a stream (Sevjur River).",
-      marz_armavir_nkaragir113: "Fish ponds",
+        "Lake Ayghr (historically Lake Metsamor) – ▲ 860 m, ◯ 0.075 km², ▼ ~9.4 m. Located in the Ararat Plain, with outflow into the Sevjur (Metsamor) River.",
+      marz_armavir_nkaragir113: "Fish Farming Ponds",
       marz_armavir_nkaragir114:
-        "There are also small reservoirs and numerous fish ponds in Armavir marz.",
+        "The region contains numerous small reservoirs and fish-breeding ponds.",
       marz_armavir_nkaragir115:
-        "Fish ponds are mainly concentrated in the villages adjacent to Metsamor, Baghramyan, Nalbandyan, Echmiadzin and the lower parts of the Araks Valley.",
+        "They are mainly concentrated around Metsamor, Baghramyan, Nalbandyan, Etchmiadzin, and the lower Araks Valley.",
       marz_armavir_nkaragir116:
-        "Fish farms have become new forming units of the water ecosystem of the region: where small swampy and water-covered habitats are formed.",
-      marz_armavir_nkaragir117: "Canals",
+        "These fish farms have become an important new ecological component, creating small wetland-like habitats.",
+      marz_armavir_nkaragir117: "Irrigation Canals",
       marz_armavir_nkaragir118:
-        "The irrigation system is developed - several canals crisscross the territory of the region: the Armavir Canal, the Echmiadzin Canal, the Talin Canal with waters coming from Aragatsotn and Ararat.",
-      marz_armavir_nkaragir119: "Natural resources",
+        "The irrigation system is highly developed, with several major canals crossing the region and bringing water from Aragatsotn and Ararat regions.Key canals include: Armavir Canal, Etchmiadzin Canal, Talin Canal",
+      marz_armavir_nkaragir119: "Natural Resources",
       marz_armavir_nkaragir120:
-        "The main wealth of Armavir is fertile lands and water resources.",
+        "The main natural wealth of Armavir Region is its fertile soils and water resources.",
       marz_armavir_nkaragir121:
-        "There are also local mines of raw materials for building materials: clay, sand.",
+        "There are also local deposits of construction materials such as clay and sand.",
       marz_armavir_nkaragir122:
-        "The territory is suitable for all branches of agriculture",
-      marz_armavir_nkaragir123: "viticulture and winemaking,",
-      marz_armavir_nkaragir124: "fruit and vegetable growing,",
-      marz_armavir_nkaragir125: "fish farming.",
-      marz_armavir_nkaragir126: "ECOMICITY",
-      marz_armavir_nkaragir127: "energy",
+        "The region is highly suitable for all major types of agriculture, including:",
+      marz_armavir_nkaragir123: "Viticulture and winemaking",
+      marz_armavir_nkaragir124: "Fruit cultivation, Vegetable farming",
+      marz_armavir_nkaragir125: "Fish farming",
+      marz_armavir_nkaragir126: "ECONOMY",
+      marz_armavir_nkaragir127: "Energy",
       marz_armavir_nkaragir128:
-        "Armavir region is distinguished by its developed industry and agriculture in the republic.",
+        "The Armavir region is distinguished within the country by its developed industry and agriculture.",
       marz_armavir_nkaragir129:
-        "The main branch of the region is the power industry. The Armenian Nuclear Power Plant (ANPP) is located here, which provides about 40% of the country's electricity.",
+        "The main sector is electricity generation: the Armenian Nuclear Power Plant (ANPP) is located here, supplying about 40% of the country’s electricity.",
       marz_armavir_nkaragir130:
-        "The ANPP consists of two units: the first was put into operation in 1976, the second in 1980.",
+        "The ANPP consists of two units: the first was commissioned in 1976, and the second in 1980.",
       marz_armavir_nkaragir131:
-        "After the 1993–1995 restart, a transition to round-the-clock power supply was made.",
+        "After its restart in 1993–1995, round-the-clock power supply was introduced.",
       marz_armavir_nkaragir132: "Industry",
       marz_armavir_nkaragir133:
-        "Previously, canning, furniture, and military production factories operated in the region; now they have been replaced by tobacco and brandy factories, as well as small and medium-sized agro-industrial enterprises.",
+        "In the past, the region hosted canning, furniture, and military production factories, which have now been replaced by wineries, brandy distilleries, and small and medium-sized agro-industrial enterprises.",
       marz_armavir_nkaragir134:
-        "The Hoktemberyan Wine and Brandy Factory has been operating since 1942; both local and imported grape varieties are used in production.",
+        "The Hoktemberyan Wine and Brandy Factory has been operating since 1942, using both local grape varieties and grapes imported from Armenia and Georgia.",
       marz_armavir_nkaragir135:
-        "Since 1995, the factory has been operating the 'Arame' trade mark.",
+        "Since 1995, the factory has produced under the “Arame” commercial brand.",
       marz_armavir_nkaragir136:
-        "In 2000, Milax Group CJSC was founded, which produces furniture, construction, metal-plastic windows and doors.",
+        "In 2000, “Milax Group” CJSC was founded, specializing in furniture production, construction, and manufacturing of metal-plastic windows and doors.",
       marz_armavir_nkaragir137: "Agriculture",
       marz_armavir_nkaragir138:
-        "Armavir region has traditionally been a center of plant and animal husbandry. The lands of the region are especially fertile on the Ararat Valley.",
-      marz_armavir_nkaragir139: "Crop cultivation",
+        "Armavir Region has traditionally been a center of crop production and animal husbandry. The region’s soils are especially fertile due to their location in the Ararat Plain.",
+      marz_armavir_nkaragir139: "Crop Production",
       marz_armavir_nkaragir140:
-        "Fruit growing and viticulture are developed (apples, pears, grapes, apricots, peaches, cherries, etc.).",
+        "Fruit growing and viticulture are well developed, including apple, pear, grape, apricot, peach, cherry, and other fruits.",
       marz_armavir_nkaragir141:
-        "Vegetables and melons are grown, melon farming is developed (watermelon, melon, pumpkin, squash, cucumber, onion, pumpkin, tomato, bean, chickpea, green and red pepper).",
+        "Vegetable cultivation is also highly developed, including watermelon, melon, pumpkin, cabbage, cucumber, onion, garlic, tomato, beans, chickpeas, green and red peppers.",
       marz_armavir_nkaragir142:
-        "The only geranium processing plant operates in the region, where organic agricultural products are grown and geranium essential oil is produced.",
-      marz_armavir_nkaragir143: "Livestock and animal husbandry,",
+        "The region hosts the only geranium processing plant, where organic agricultural products are grown and geranium essential oil is produced.",
+      marz_armavir_nkaragir143: "Animal Husbandry",
       marz_armavir_nkaragir144:
-        "They are engaged in cattle and small cattle breeding, poultry farming.",
+        "The region is engaged in cattle and small ruminant breeding, as well as poultry farming.",
       marz_armavir_nkaragir145:
-        "The largest concentration of pig farming is concentrated in Armavir region; an Armenian meat pig breed has also been created.",
-      marz_armavir_nkaragir146: "Fish farming",
+        "Armavir region has the highest concentration of pig farming in Armenia; a local Armenian meat -type pig breed has also been created.",
+      marz_armavir_nkaragir146: "Fish Farming",
       marz_armavir_nkaragir147:
-        "Armavir region is a major center of fish farming in Armenia.",
+        "Armavir Region is one of the major fish farming centers in Armenia.",
       marz_armavir_nkaragir148:
-        "The pond farms of Yeghegnut community of Armavir region have decades of fish farming traditions, and their annual production of commercial fish (carp and bream) amounts to several thousand tons. The fish farm in Taronik village of the Ararat plain has been producing high-value rainbow trout for years.",
+        "The pond-based fish farms of the Yeghegnut community have long-standing traditions in aquaculture. Their annual production of market fish (carp and silver carp) amounts to several thousand tons. In the fish farm of Taronik village in the Ararat Plain, high-value rainbow trout has been produced for many years.",
       marz_armavir_nkaragir149:
-        "In recent years, new fish farms have developed. For example, 'Armavir Farmer' CJSC annually produces about 25 tons of small fish and 50 tons of commercial fish.",
+        "In recent years, new fish farming enterprises have developed. For example, “Armavir Farmer” CJSC produces around 25 tons of juvenile fish and 50 tons of market fish annually.",
       marz_armavir_nkaragir150:
-        "Whitefish, salmon-shaped species, shamai, crucian carp and other fish species are produced.",
-      marz_armavir_nkaragir151: "EDUCATION / SPORTS",
-      marz_armavir_nkaragir152: "Secondary schools",
+        "Species produced include whitefish, salmonid species, shemaya, crucian carp, and other fish varieties.",
+      marz_armavir_nkaragir151: "EDUCATION",
+      marz_armavir_nkaragir152: "General Education Schools",
       marz_armavir_nkaragir153:
-        "There are numerous educational, cultural and health institutions of regional significance in the Armavir region of the Republic of Armenia. Currently, there are 120 secondary schools, of which:",
+        "Armavir Region hosts a large number of educational, cultural, and healthcare institutions of regional importance. Currently, there are 120 general education schools in the region, including:",
       marz_armavir_nkaragir154: "26 in urban communities",
       marz_armavir_nkaragir155: "94 in rural communities",
-      marz_armavir_nkaragir156:
-        "The involvement of 100 general education schools in the region:",
-      marz_armavir_nkaragir157: "17 primary",
-      marz_armavir_nkaragir158: "83 secondary",
+      marz_armavir_nkaragir156: "Of the region’s schools:",
+      marz_armavir_nkaragir157: "17 are basic schools",
+      marz_armavir_nkaragir158: "83 are secondary schools",
       marz_armavir_nkaragir159: "Laboratories",
       marz_armavir_nkaragir160:
-        "Within the framework of the program for general education schools in the Republic of Armenia, lists of equipment and materials for physics, biology, and geography laboratories have been reviewed and compiled. The new laboratories in schools will prepare students with practical skills to reinforce theoretical knowledge and the opportunity to conduct scientific experiments.",
-      marz_armavir_nkaragir161: "Modular school",
+        "Within the framework of the national general education program, lists of equipment and materials for physics, biology, and geography laboratories have been revised and developed. The new laboratories will enable students to strengthen theoretical knowledge through practical skills and conduct scientific experiments.",
+      marz_armavir_nkaragir161: "Modular School",
       marz_armavir_nkaragir162:
-        "The first modular school in Armavir region was opened in Argina community and put into operation.",
-      marz_armavir_nkaragir163: "Sports centers",
+        "The first modular school in Armavir Region was opened in the community of Argina and put into operation.",
+      marz_armavir_nkaragir163: "Sports Centers",
       marz_armavir_nkaragir164:
-        "Armavir Children's and Youth Sports School - focuses on sports, develops children's physical and sports skills",
+        "The Armavir Children and Youth Sports School focuses on various sports disciplines and develops children’s physical and athletic skills.",
       marz_armavir_nkaragir165:
-        "Children's and Youth Sports Schools by Villages",
+        "Children and Youth Sports Schools by Communities",
       marz_armavir_nkaragir166: "Echmiadzin, Jrarat, Jrarbi",
       marz_armavir_nkaragir167:
         "Yeghegnut, Artashar, Aragats, Zartonk, Vardanashen",
-      marz_armavir_nkaragir168: "Aknalich, Tsaghkunq",
+      marz_armavir_nkaragir168: "Aknalich, Tsaghkunk",
       marz_armavir_nkaragir169: "Shahumyan",
-      marz_armavir_nkaragir170: "Griboyedov, Metsamor, Khoronk, Haykashen",
-      marz_armavir_nkaragir171: "Merdzavan",
+      marz_armavir_nkaragir170: "Griboedov, Metsamor, Khoronk, Haykashen",
+      marz_armavir_nkaragir171: "Mrgavan",
       marz_armavir_nkaragir172: "Lusagyugh",
       marz_armavir_nkaragir173: "CULTURE",
-      marz_armavir_nkaragir174:
-        "There are 87 cultural houses in Armavir region",
-      marz_armavir_nkaragir175: "Communities, as a rule, make allocations",
-      marz_armavir_nkaragir176: "for the maintenance of the cultural house",
-      marz_armavir_nkaragir177: "for the artistic part",
-      marz_armavir_nkaragir178: "group activities",
-      marz_armavir_nkaragir179: "for cleaning and other works",
+      marz_armavir_nkaragir174: "Armavir Region has 87 cultural houses.",
+      marz_armavir_nkaragir175: "As a rule, communities allocate funds for:",
+      marz_armavir_nkaragir176: "maintenance of cultural houses",
+      marz_armavir_nkaragir177: "artistic activities",
+      marz_armavir_nkaragir178: "operation of clubs and groups",
+      marz_armavir_nkaragir179: "cleaning and other related works",
       marz_armavir_nkaragir180: "Museums",
       marz_armavir_nkaragir181:
-        "National Museum of Armenian Ethnography and History of the Liberation Struggle - unique samples of Armenian folk culture, more than 77,000 museum objects",
+        "National Museum of Armenian Ethnography and Liberation Struggle – features unique examples of Armenian folk culture and more than 77,000 museum exhibits.",
       marz_armavir_nkaragir182:
-        "Historical and Ethnographic Museum of Echmiadzin, where the material culture of the indigenous people of the Ararat Plain, the Echmiadzin region, is presented from the 6th millennium BC to the present day. Historical and archaeological materials",
+        "Etchmiatsin Historical-Ethnographic Museum – presents the material culture of the indigenous population of the Ararat Plain and the Etchmiatsin region from the 6th millennium BC to the present day, including historical and archaeological artifacts.",
       marz_armavir_nkaragir183:
-        "Yervandashat Archaeological Museum - results of archaeological excavations, materials from the period of the Yervanduni Kingdom",
+        "Yervandashat Archaeological Museum – displays findings from archaeological excavations and materials from the period of the Yervanduni Kingdom.",
       marz_armavir_nkaragir184:
-        "Regional art centers and exhibitions - in cultural centers and community centers, contemporary art exhibitions, art programs and youth creative courses are held. Museums contribute to the education of the younger generation, the preservation of cultural heritage and the development of community consciousness.",
+        "Regional art centers and exhibitions – cultural houses and community centers host contemporary art exhibitions, artistic programs, and creative workshops for children and youth. Museums contribute to the education of the younger generation, the preservation of cultural heritage, and the development of community awareness.",
       marz_armavir_nkaragir185: "TOURISM",
       marz_armavir_nkaragir186:
-        "Armavir region is rich in historical and cultural structures and unique monuments.",
-      marz_armavir_nkaragir187: "Historical and archaeological sites",
-      marz_armavir_nkaragir188: "Argishtikhinil archaeological site (Urartian)",
-      marz_armavir_nkaragir189: "5000-year-old metal foundry of Metsamor",
+        "Armavir Region is rich in historical and cultural landmarks and unique monuments.",
+      marz_armavir_nkaragir187: "Historical and Archaeological Sites",
+      marz_armavir_nkaragir188:
+        "Argishtikhinili archaeological site (Urartian period)",
+      marz_armavir_nkaragir189: "Metsamor 5,000-year-old metallurgy center",
       marz_armavir_nkaragir190:
-        "Ancient settlement of Lake Akna, prehistoric fortresses and tombs",
+        "Ancient settlement of Lake Akna, prehistoric fortified sites, and burial grounds",
       marz_armavir_nkaragir191:
-        "Ancient Armavir city (on the left bank of the Araks River)",
-      marz_armavir_nkaragir192: "Architectural and religious structures",
+        "Ancient city of Armavir (on the left bank of the Araks River)",
+      marz_armavir_nkaragir192: "Architectural and Religious Monuments",
       marz_armavir_nkaragir193:
-        "Holy Etchmiadzin Cathedral with the Catholicos' throne",
+        "Holy Etchmiadzin Cathedral – the seat of the Catholicos of All Armenians",
       marz_armavir_nkaragir194:
-        "Holy Hripsime, Holy Gayane, Holy Shoghakat, Holy Astvatsatsin churches of Vagharshapat",
-      marz_armavir_nkaragir195: "Targmanchats Monastery (VII century)",
-      marz_armavir_nkaragir196: "Zvartnots Temple (VII century)",
+        "Churches of Vagharshapat: St. Hripsime, St. Gayane, St. Shoghakat, and Holy Mother of God",
+      marz_armavir_nkaragir195: "Translators’ Monastery (7th century)",
+      marz_armavir_nkaragir196: "Zvartnots Cathedral (7th century)",
       marz_armavir_nkaragir197: "Museums",
       marz_armavir_nkaragir198:
-        "State Ethnographic Museum of Armenia (Sardarapat)",
+        "Armenian National Ethnographic Museum (Sardarapat)",
       marz_armavir_nkaragir199:
-        "Archaeological Museums of Metsamor and Zvartnots",
-      marz_armavir_nkaragir200: "Matenadaran of Holy Etchmiadzin",
-      marz_armavir_nkaragir201: "Monuments and memorial complexes",
+        "Archaeological museums of Metsamor and Zvartnots",
+      marz_armavir_nkaragir200: "Matenadaran of Holy Etchmiatsin.",
+      marz_armavir_nkaragir201: "Monuments and Memorial Complexes",
       marz_armavir_nkaragir202:
-        "Sardarapat Memorial Complex (1968) The Sardarapat Memorial Complex represents the greatest historical and architectural value. Armavir region is the site of the decisive Battle of Sardarapat, which took place in 1918 and led to the establishment of the First Republic of Armenia.",
+        "Sardarapat Memorial Complex (1968) – The Sardarapat Memorial Complex is of outstanding historical and architectural significance. Armavir Region was the site of the decisive Battle of Sardarapat in 1918, which led to the establishment of the First Republic of Armenia.",
       marz_armavir_nkaragir203:
-        "Yervand Kochar's 'Zvartnots Eagle' - a symbol of national statehood",
-      marz_armavir_nkaragir204: "Nature and recreation areas",
+        "“Eagle of Zvartnots” by Yervand Kochar – A symbol of Armenian statehood and national identity.",
+      marz_armavir_nkaragir204: "Nature and Recreation Areas",
       marz_armavir_nkaragir205:
-        "Lake Akna with rest houses and tourism opportunities",
-      marz_armavir_nkaragir206: "Musa Ler",
-      marz_armavir_nkaragir207: "Other places of interest",
-      marz_armavir_nkaragir208:
-        "ANPP - Armenian Nuclear Power Plant in Metsamor",
-      marz_armavir_nkaragir209: "Zvartnots International Airport",
+        "Lake Akna – with recreation houses and tourism opportunities",
+      marz_armavir_nkaragir206: "Musa Ler (Mount Musa)",
+      marz_armavir_nkaragir207: "Other Important Sites",
+      marz_armavir_nkaragir208: "ANPP – Metsamor Armenian Nuclear Power Plant",
+      marz_armavir_nkaragir209: "“Zvartnots” International Airport.",
       marz_armavir_nkaragir210: "LOGISTICS",
-      marz_armavir_nkaragir211: "Highways",
+      marz_armavir_nkaragir211: "Roads",
       marz_armavir_nkaragir212:
-        "National highways pass through the territory of Armavir: Yerevan-Armavir, Yerevan-Karakert, Yerevan-Gyumri, as well as the Yerevan-Tbilisi railway.",
+        "Major national highways pass through Armavir Region, including Yerevan–Armavir, Yerevan–Karakert, and Yerevan–Gyumri routes, as well as the Yerevan–Tbilisi railway line.",
       marz_armavir_nkaragir213:
-        "The total length of the roads in the region is 595.3 km.",
-      marz_armavir_nkaragir214: "Interstate significance: 109.0 km",
-      marz_armavir_nkaragir215: "Republican significance: 96.1 km",
-      marz_armavir_nkaragir216: "Regional significance: 279.9 km",
-      marz_armavir_nkaragir217: "Community significance: 110.3 km",
+        "The total length of roads in the region is 595.3 km:",
+      marz_armavir_nkaragir214: "International roads – 109.0 km",
+      marz_armavir_nkaragir215: "Republican roads – 96.1 km",
+      marz_armavir_nkaragir216: "Regional roads – 279.9 km",
+      marz_armavir_nkaragir217: "Community roads – 110.3 km",
       marz_armavir_nkaragir218:
-        "Freight and passenger transportation is mainly carried out by road transport.",
-      marz_armavir_nkaragir219: "Air communication",
+        "Freight and passenger transport is mainly carried out by road transport.",
+      marz_armavir_nkaragir219: "Air Transport",
       marz_armavir_nkaragir220:
-        "The 'Zvartnots' international airport is located in the region, only 18 km from Yerevan.",
+        "“Zvartnots” International Airport is located within the region, just 18 km from Yerevan.",
       marz_armavir_nkaragir221:
-        "Currently, it connects Armenia with different countries and cities around the world by air routes, providing high-level service and commercial services.",
-      marz_armavir_nkaragir222: "Final",
+        "It was founded in 1961 and initially served only flights within the Soviet Union.Today, it connects Armenia with various countries and cities worldwide, providing high-level passenger and commercial services.",
+      marz_armavir_nkaragir222: "Conclusion",
       marz_armavir_nkaragir223:
-        "Armavir is the heart of Armenia's history and spiritual life: it is home to the ruins of the ancient Armenian capitals - Armavir, Bagaran, Yervandashat, Vagharshapat, as well as the first cathedral of the Christian world - Echmiadzin. This makes the region a spiritual and cultural center and one of the main visiting cards of Armenia. For tourists, it opens a gateway to Armenia's historical past and spiritual heritage, thanks to which Armavir can become the main destination for spiritual tourism in Armenia. The territory rich in agriculture makes the region important for both the economy and tourism. The plains of Armavir are located in the most fertile parts of the Ararat Valley, where viticulture and gardening have been around for millennia. Thanks to this, the region can become a leading wine-making and agricultural region. And due to its proximity to the capital and the border, Armavir region is also an important logistics and industrial center.",
+        "Armavir is the heart of Armenia’s historical and spiritual life, home to the ruins of ancient Armenian capitals such as Armavir, Bagaran, Yervandashat, and Vagharshapat, as well as Etchmiatsin, the first cathedral of the Christian world. This makes the region one of Armenia’s key spiritual and cultural centers and one of its main national landmarks. For visitors, it opens a gateway to Armenia’s historical past and spiritual heritage, positioning Armavir as a potential leading destination for religious tourism. The region’s rich agricultural landscape also makes it significant for both the economy and tourism. Located in the most fertile parts of the Ararat Plain, Armavir has a centuries-old tradition of viticulture and horticulture. This allows it to develop further as a leading wine-producing and agricultural region. In addition, its proximity to the capital and to international borders makes Armavir an important logistics and industrial hub.",
     },
 
     ru: {
@@ -908,58 +915,58 @@
       marz_armavir_bnutagir1: "Обзор ",
       marz_armavir_bnutagir2: "ДАННЫЕ",
       marz_armavir_bnutagir3: "Направление",
-      marz_armavir_bnutagir4: "С севера",
-      marz_armavir_bnutagir5: "С северо-востока",
-      marz_armavir_bnutagir6: "С востока",
-      marz_armavir_bnutagir7: "С юго-востока",
-      marz_armavir_bnutagir8: "С запада",
-      marz_armavir_bnutagir9: "С юго-запада",
-      marz_armavir_bnutagir10: "С юга",
-      marz_armavir_bnutagir11: "Граница регион",
-      marz_armavir_bnutagir12: "Арагацотн",
-      marz_armavir_bnutagir13: "Котайк",
+      marz_armavir_bnutagir4: "Север",
+      marz_armavir_bnutagir5: "Северо-восток",
+      marz_armavir_bnutagir6: "Восток",
+      marz_armavir_bnutagir7: "Юго-восток",
+      marz_armavir_bnutagir8: "Запад",
+      marz_armavir_bnutagir9: "Юго-запад",
+      marz_armavir_bnutagir10: "Юг",
+      marz_armavir_bnutagir11: "Сопредельные области",
+      marz_armavir_bnutagir12: "Арагацотнская область",
+      marz_armavir_bnutagir13: "Котайкская область",
       marz_armavir_bnutagir14: "Ереван",
-      marz_armavir_bnutagir15: "Арарат",
+      marz_armavir_bnutagir15: "Араратская область",
       marz_armavir_bnutagir16: "Соседние страны",
       marz_armavir_bnutagir17: "Турция",
       marz_armavir_bnutagir18: "Турция",
       marz_armavir_bnutagir19: "Турция",
-      marz_armavir_bnutagir20: "Создание",
+      marz_armavir_bnutagir20: "Основание",
       marz_armavir_bnutagir21:
-        "Армавирская область Республики Армения была создана 12 апреля 1995 года.",
-      marz_armavir_bnutagir22: "Территория",
+        "Армавирская область Республики Армения образована 12 апреля 1995 года.",
+      marz_armavir_bnutagir22: "Площадь",
       marz_armavir_bnutagir23:
-        "Армавирский регион занимает около 4,2% всей территории Армении (1242 км²)",
+        "Область занимает около 4,2 % территории Армении (1 242 км²).",
       marz_armavir_bnutagir24: "Административный центр",
       marz_armavir_bnutagir25:
-        "Город Армавир (Сардарапат, затем Хоктемберян). Расположен в 48 км от Еревана. Территория была заселена до 2-го тысячелетия до н.э. В регионе Араратского царства (Урарту) около 776 г. до н.э. Аргишти I построил крепость и назвал ее Аргиштихинили (до VIII-V веков до н.э.). В 189 году до н.э. Арташ I основал царство Великой Армении и сделал Армавир его столицей.",
-      marz_armavir_bnutagir26: "Индекс",
+        "Город Армавир (ранее — Сардарапат, затем — Октемберян), расположен в 48 км от Еревана. Территория города  была заселена ещё до II тысячелетия до н.э. Во времена государства Урарту, около 776 г. до н.э., царь Аргишти I построил крепость Аргиштихинили, существовавшую до V века до н.э. В 189 г. до н.э. царь Арташес I основал государство Великая Армения и сделал Армавир его столицей.",
+      marz_armavir_bnutagir26: "Показатель",
       marz_armavir_bnutagir27: "Площадь",
       marz_armavir_bnutagir28: "Координаты",
       marz_armavir_bnutagir29: "Высота",
-      marz_armavir_bnutagir30: "Высочайшая вершина",
+      marz_armavir_bnutagir30: "Наивысшая точка",
       marz_armavir_bnutagir31: "Административный центр",
       marz_armavir_bnutagir32: "Регионы",
       marz_armavir_bnutagir33: "Города",
-      marz_armavir_bnutagir34: "Деревни",
+      marz_armavir_bnutagir34: "Сёла",
       marz_armavir_bnutagir35: "Население",
       marz_armavir_bnutagir36: "Расстояние от Еревана",
-      marz_armavir_bnutagir37: "Почтовый индекс",
+      marz_armavir_bnutagir37: "Почтовый индексы",
       marz_armavir_bnutagir38: "Горячая линия",
       marz_armavir_bnutagir39: "Веб-сайт",
       marz_armavir_bnutagir40: "Данные",
-      marz_armavir_bnutagir41: "1242 км² (4,2%)",
-      marz_armavir_bnutagir42: "44,03° восточной широты",
-      marz_armavir_bnutagir43: "800-1000м",
+      marz_armavir_bnutagir41: "1 242 км² (4,2 %)",
+      marz_armavir_bnutagir42: "40.15° с. ш., 44.03° в. д.",
+      marz_armavir_bnutagir43: "800–1000 м",
       marz_armavir_bnutagir44: "1286 м (гора Кармратар)",
       marz_armavir_bnutagir45: "Армавир",
       marz_armavir_bnutagir46: "Армавир, Эчмиадзин, Баграмян",
       marz_armavir_bnutagir47: "Вагаршапат, Армавир, Мецамор",
-      marz_armavir_bnutagir48: "265,8 тыс. человек (8,9%)",
+      marz_armavir_bnutagir48: "265,8 тыс. человек (8,9 %)",
       marz_armavir_bnutagir49: "45 км",
       marz_armavir_bnutagir50: "Самая высокая вершина 1286 м (гора Кармратар)",
       marz_armavir_bnutagir51: "Региональные телефонные коды",
-      marz_armavir_bnutagir52: "Резиденция",
+      marz_armavir_bnutagir52: "Населённый пункт",
       marz_armavir_bnutagir53: "Баграмян",
       marz_armavir_bnutagir54: "Норакет",
       marz_armavir_bnutagir55: "Джрарат",
@@ -969,196 +976,197 @@
       marz_armavir_bnutagir59: "Бамбакашат",
       marz_armavir_bnutagir60: "Тандзут",
       marz_armavir_bnutagir61: "Код",
-      marz_armavir_bnutagir62: "Региональная администрация/Контакты",
+      marz_armavir_bnutagir62: "Мэрия / Связь",
       marz_armavir_bnutagir63: "Веб: http://armavir.mtad.am/",
       marz_armavir_bnutagir64: "КАК ДОБРАТЬСЯ",
       marz_armavir_bnutagir65: "Автомагистрали",
       marz_armavir_bnutagir66:
-        "Армавирская область соединена с Ереваном и южной Арменией автомагистралью М-5",
+        "Армавирская область связана с Ереваном и южной частью Армении автомагистралью М-5.",
       marz_armavir_bnutagir67:
-        "Автомагистраль М-3 соединяет Армавирскую область с северной Арменией",
-      marz_armavir_bnutagir68: "Маршрут такси и автобус",
+        "Автомагистраль М-3 соединяет область с северными регионами Армении.",
+      marz_armavir_bnutagir68: "Автобусы и маршрутные такси",
       marz_armavir_bnutagir69:
-        "До Армавира можно добраться на автобусе и микроавтобус.",
+        "До города Армавир можно добраться автобусом или маршрутным такси.",
       marz_armavir_bnutagir70:
-        "Транспорт отправляется с Центрального железнодорожного вокзала, Норагавита и автовокзала Киликии.",
-      marz_armavir_bnutagir71: "Стоимость билета: 350 драм.",
-      marz_armavir_bnutagir72: "Железнодорожный",
-      marz_armavir_bnutagir73: "Поезд прибывает в Армавир через 50 минут.",
-      marz_armavir_bnutagir74:
-        "Контакты и стоимость билета: одинаковые, 350 драм.",
-      marz_armavir_bnutagir75: "КОНДИЦИОНЕР",
+        "Транспорт отправляется от Центрального железнодорожного вокзала Еревана, автостанции Норагавит и автовокзала Киликия.",
+      marz_armavir_bnutagir71: "Стоимость проезда — 350 драмов.",
+      marz_armavir_bnutagir72: "Железная дорога",
+      marz_armavir_bnutagir73:
+        "Поезд прибывает в город Армавир примерно за 50 минут.",
+      marz_armavir_bnutagir74: "Стоимость билета — 350 драмов.",
+      marz_armavir_bnutagir75: "КЛИМАТ",
       marz_armavir_bnutagir76:
-        "Климат региона Армавир строго континентальный. Поверхность местности ровная, в направлении реки Аракс она равномерно понижается примерно на 1,8 м на километр, это 800-1000 м над уровнем моря, включая окружающие предгорья - до 1200 м.",
-      marz_armavir_bnutagir77: "Климатические особенности",
+        "Климат Армавирской области резко континентальный. Поверхность территории преимущественно равнинная и плавно понижается в сторону реки Аракс примерно на 1,8 м на каждый километр. Высота над уровнем моря составляет 800–1000 м, включая окружающие предгорья высотой до 1200 м.",
+      marz_armavir_bnutagir77: "Особенности климата",
       marz_armavir_bnutagir78:
-        "Холодный сезон длится с начала декабря до конца февраля.",
-      marz_armavir_bnutagir79: "Характеристики погоды",
-      marz_armavir_bnutagir80: "Зима - холодная, безоблачная и безветренная",
-      marz_armavir_bnutagir81: "Лето - длится 4-5 месяцев",
+        "Холодный период продолжается с начала декабря до конца февраля.",
+      marz_armavir_bnutagir79: "Времена года",
+      marz_armavir_bnutagir80:
+        "Зима — холодная, ясная и преимущественно безветренная.",
+      marz_armavir_bnutagir81: "Лето — продолжительное, длится 4–5 месяцев.",
       marz_armavir_bnutagir82:
-        "Весна - обычно короткая, чаще наблюдаются грозы и град",
+        "Весна — обычно короткая, с частыми грозами и градом.",
       marz_armavir_bnutagir83:
-        "Осень - теплая, солнечная, без сильных ветров, подходит для сельского хозяйства работа",
+        "Осень — тёплая, солнечная, без сильных ветров, благоприятна для сельскохозяйственных работ.",
       marz_armavir_bnutagir84: "Температура",
-      marz_armavir_bnutagir85: "Среднегодовая температура воздуха: 11–13°C",
-      marz_armavir_bnutagir86: "Средняя температура января: -3…-5°C",
-      marz_armavir_bnutagir87:
-        "Среднее количество дней без заморозков: 204 дня.",
+      marz_armavir_bnutagir85: "Среднегодовая температура воздуха — 11–13 °C.",
+      marz_armavir_bnutagir86: "Средняя температура января — −3…−5 °C.",
+      marz_armavir_bnutagir87: "Среднее число безморозных дней — 204.",
       marz_armavir_bnutagir88:
-        "Средняя летняя температура: 24–26°C, жара достигает +40…+42°C.",
+        "Средняя температура летом — 24–26 °C, максимальная достигает +40…+42 °C.",
       marz_armavir_bnutagir89:
         "Холодный сезон длится с начала декабря до конца февраля.",
       marz_armavir_bnutagir90:
-        "Зимой наблюдаются заморозки до -31°C (Армавир, Мердзавань).",
+        "В зимний период температура может опускаться до −31 °C (Армавир, Мердзаван).",
       marz_armavir_bnutagir91:
-        "Потепление (ниже 8°C) длится с 6 ноября по 29 марта (145 дней).",
+        "Отопительный сезон (ниже 8 °C) продолжается с 6 ноября по 29 марта (145 дней).",
       marz_armavir_bnutagir92: "Осадки",
-      marz_armavir_bnutagir93: "Годовое количество осадков: ≤ 300 мм.",
+      marz_armavir_bnutagir93: "Среднегодовое количество осадков — до 300 мм.",
       marz_armavir_bnutagir94:
-        "Районы вблизи реки Аракс засушливые, количество осадков составляет 160-210 мм, в высокогорных районах - 260-300 мм.",
+        "В районах, прилегающих к реке Аракс, выпадает 160–210 мм, в более возвышенных районах — 260–300 мм.",
       marz_armavir_bnutagir95:
-        "Среднее количество дней со снежным покровом составляет 40 дней, максимум — 126 дней, а стабильный снежный покров (30 дней и более) бывает раз в два года.",
+        "Среднее число дней со снежным покровом — 40, максимальное — 126. Устойчивый снежный покров (30 дней и более) формируется примерно один раз в два года.",
       marz_armavir_bnutagir96:
-        "Весной часто бывают грозы и град, которые опасны для сельскохозяйственных культур.",
+        "Весной нередко наблюдаются грозы и град, представляющие опасность для сельскохозяйственных культур.",
       marz_armavir_bnutagir97:
-        "Среднее количество туманных дней составляет 11 дней (максимум 38 дней).",
+        "Среднее число туманных дней — 11, максимальное — 38.",
       marz_armavir_bnutagir98: "Ветры",
       marz_armavir_bnutagir99:
-        "Регион характеризуется горно-долинной циркуляцией ветров.",
+        "Для области характерна горно-долинная циркуляция воздушных масс.",
       marz_armavir_bnutagir100:
-        "Среднегодовая скорость ветра составляет 1-3 м/с, максимум 24-30 м/с, порывы достигают до 36 м/с",
-      marz_armavir_bnutagir101: "Зимой преобладает спокойная погода.",
-      marz_armavir_bnutagir102: "Солнечно",
-      marz_armavir_bnutagir103: "Продолжительность: 2578 часов/год",
+        "Средняя скорость ветра составляет 1–3 м/с, максимальная — 24–30 м/с, порывы достигают 36 м/с.",
+      marz_armavir_bnutagir101: "Зимой преобладает безветренная погода.",
+      marz_armavir_bnutagir102: "Солнечное сияние",
+      marz_armavir_bnutagir103:
+        "Продолжительность солнечного сияния — 2578 часов в год.",
 
       // marz_armavir_nkaragir
       marz_armavir_nkaragir1: "ОПИСАНИЕ",
       marz_armavir_nkaragir2:
-        "Данные /Природа /Экономика /Наука /Образование /Культура /Туризм /Логистика",
-      marz_armavir_nkaragir3: "Плодородный резервуар Араратской долины",
+        "Данные / Природа / Экономика / Наука / Образование / Культура / Туризм / Логистика",
+      marz_armavir_nkaragir3: "Плодородная сокровищница Араратской долины",
       marz_armavir_nkaragir4:
-        "Регион Армавир простирается в западной части Араратской долины, под величественным видом на гору Арарат. Регион известен прежде всего своими плодородными землями, полными солнца и урожая. На протяжении тысячелетий солнечные равнины превратили эти места в хранилище залитых солнцем товаров, где цветут сады, вьются виноградные лозы, из плодов которых были сотканы древние традиции армянского виноделия.",
-      marz_armavir_nkaragir5: "Очаг древнего цивилизация",
+        "Армавирская область расположена в западной части Араратской долины,у подножия величественной библейской горы Арарат. Прежде всего область славится своими плодородными землями, щедро согретыми солнцем и богатыми урожаями. Прежде всего область известна своими плодородными землями, щедро согретыми солнцем и ежегодно приносящими богатые урожаи. На протяжении тысячелетий эти солнечные равнины оставались настоящей сокровищницей щедрых даров природы: где цветут сады, тянутся виноградники, а из их плодов берут начало древние традиции армянского виноделия.",
+      marz_armavir_nkaragir5: "Колыбель древней цивилизации",
       marz_armavir_nkaragir6:
-        "Само название региона несет на себе отпечаток тысячелетий истории и цивилизации. Армавир — колыбель древней цивилизации, с древними памятниками Аргиштихинили и Мецамор, великолепным Звартноцским собором и многочисленными церквями, которые свидетельствуют о богатом прошлом армянского народа.",
-      marz_armavir_nkaragir7: "Сердце армянской духовной жизни",
+        "Само название региона несёт отпечаток тысячелетней истории и цивилизации. Армавир — это колыбель древней цивилизации, где находятся археологические памятники Аргиштихинили и Мецамора, величественный храм Звартноц, а также многочисленные церкви, свидетельствующие о богатом прошлом армянского народа.",
+      marz_armavir_nkaragir7: "Сердце духовной жизни армянского народа",
       marz_armavir_nkaragir8:
-        "Крупнейший и самый исторический город региона — Вагаршапат (Эчмиадзин), где бьется сердце армянской духовной жизни, Престол Святой Эчмиадзины, духовный центр армян, который на протяжении веков символизировал веру и самобытность армянского народа, что делает Армавир регионом исключительного значения.",
+        "Крупнейшим и исторически важным городом области является Вагаршапат (Эчмиадзин), где бьётся сердце духовной жизни армянского народа — Первопрестольный Святой Эчмиадзин, духовный центр армян, который на протяжении веков олицетворял веру и национальную самобытность армянского народа, придавая Армавирской области исключительное значение.",
       marz_armavir_nkaragir9: "ДАННЫЕ",
       marz_armavir_nkaragir10:
-        "Географические/Исторические/Демографические данные",
+        "Географические / Исторические / Демографические",
       marz_armavir_nkaragir11: "Географическое положение",
       marz_armavir_nkaragir12:
-        "Армавирская область расположена в западной части Армении. Армавирская область находится в западной части Араратской долины, охватывая предгорья Арагаца, нижнюю часть бассейнов рек Касаг и Раздан, долину реки Севджур и часть левого берега рек Ахурян и Аракс.",
-      marz_armavir_nkaragir13:
-        "Высота региона составляет 800-1000 м над уровнем моря.",
-      marz_armavir_nkaragir14: "Самый длинный участок составляет",
-      marz_armavir_nkaragir15: "С запада на восток: около 70 км.",
-      marz_armavir_nkaragir16: "С севера на юг: около 40 км",
-      marz_armavir_nkaragir17: "Приграничные районы",
-      marz_armavir_nkaragir18: "Регионы: Арагацотн, Арарат, Котайк, Ереван",
-      marz_armavir_nkaragir19: "Международные границы с Турцией",
+        "Армавирская область расположена в западной части Армении. Она занимает западную часть Араратской равнины, включая предгорья горы Арагац, нижние бассейны рек Касах и Раздан, долину реки Севджур, а также часть левобережных территорий рек Ахурян и Аракс.",
+      marz_armavir_nkaragir13: "Высота над уровнем моря: 800–1000 м.",
+      marz_armavir_nkaragir14: "Максимальная протяжённость:",
+      marz_armavir_nkaragir15: "с запада на восток — около 70 км",
+      marz_armavir_nkaragir16: "с севера на юг — около 40 км",
+      marz_armavir_nkaragir17: "Сопредельные территории",
+      marz_armavir_nkaragir18:
+        "Соседние области: Арагацотн, Арарат, Котайк и Ереван.",
+      marz_armavir_nkaragir19: "Международная граница: с Турцией.",
       marz_armavir_nkaragir20: "Историческое наследие",
       marz_armavir_nkaragir21:
-        "Армавир получил свое название от исторического города Армавир, одной из столиц Великой Армении",
+        "Происхождение названия: Армавирская область унаследовала своё название от древнего города Армавир — одной из исторических столиц Великой Армении.",
       marz_armavir_nkaragir22:
-        "Население: Регион был заселен с 5-го тысячелетия до н.э. Вокруг озера Акна сохранились древние крепости и места захоронений",
+        "Древнейшее заселение: Территория области была заселена ещё в V тысячелетии до н.э.. В окрестностях озера Акна сохранились доисторические крепости и могильники. Этот регион считается одним из древнейших очагов расселения и центров равнинной культуры Армении.",
       marz_armavir_nkaragir23:
-        "Руины: В регионе находятся руины древний город Ервандашат (5 в. до н. э. – 176 г. н. э.)",
+        "Древние руины: На территории области находятся руины древнего города Ервандашат (V век до н.э. — 176 г. н.э.). Руины: В регионе находятся руины древний город Ервандашат (5 в. до н. э. – 176 г. н. э.)",
       marz_armavir_nkaragir24:
-        "Исторические столицы: 3 из 12 столиц Армении расположены в регионе.",
-      marz_armavir_nkaragir25: "Армавир (331–210 до н.э.)",
-      marz_armavir_nkaragir26: "Ервандашат (5 век до н. э. – 176 г. н. э.)",
-      marz_armavir_nkaragir27: "Вагаршапат (120–330 гг. н.э.):",
-      marz_armavir_nkaragir28: "Текущее значение региона",
+        "Исторические столицы: В пределах области расположены три из двенадцати исторических столиц Армении:",
+      marz_armavir_nkaragir25: "Армавир (331–210 гг. до н.э.)",
+      marz_armavir_nkaragir26: "Ервандашат (V век до н.э. — 176 г. н.э.)",
+      marz_armavir_nkaragir27: "Вагаршапат (120–330 гг. н.э.)",
+      marz_armavir_nkaragir28: "Современное значение области",
       marz_armavir_nkaragir29:
-        "Армавирская область – один из наиболее быстро развивающихся и молодых регионов Республики Армения",
+        "Армавирская область является одной из самых молодых и динамично развивающихся областей Армении.",
       marz_armavir_nkaragir30:
-        "Областной центр Армавир расположен в центре города, на важной автомагистрали, соединяющей Ереван, Вагаршапат, Арагац и Гюмри.",
+        "Административный центр — Армавир — занимает выгодное центральное положение на важной автомагистрали, соединяющей Ереван, Вагаршапат, Арагац и Гюмри.",
       marz_armavir_nkaragir31:
-        "Вагаршапат — духовный и религиозный центр всех армян и резиденция Католикоса всех армян. Здесь расположены Материнский собор Святого Эчмиадзина и Богословская семинария.",
+        "Вагаршапат — духовный и религиозный центр армян всего мира, резиденция Католикоса Всех Армян. Здесь находятся Кафедральный собор Святого Эчмиадзина и Духовная семинария Геворкян.",
       marz_armavir_nkaragir32:
-        "В Армавире находится Армянская атомная электростанция.",
+        "На территории области расположена Армянская атомная электростанция.",
       marz_armavir_nkaragir33:
-        "Аэропорт Звартноц находится всего в 18 км от Еревана.",
+        "Международный аэропорт «Звартноц» находится всего в 18 км от Еревана.",
       marz_armavir_nkaragir34:
-        "Единственный автомобильный мост, соединяющий Армению с Турцией, построен через реку Аракс, недалеко от села Маргара в Армавирской области.",
-      marz_armavir_nkaragir35: "Население и образ жизни.",
+        "Единственный автомобильный мост, соединяющий Армению и Турцию, проходит через реку Аракс возле села Маргара Армавирской области.",
+      marz_armavir_nkaragir35: "Население и быт",
       marz_armavir_nkaragir36:
-        "По абсолютной численности населения (265,8 тыс. человек (8,9%)) регион занимает среднее место, но... Первый по плотности населения.",
+        "По численности населения 265,8 тыс. человек (8,9% населения Армении) Армавирская область занимает среднее место среди областей страны, однако по плотности населения является лидером.",
       marz_armavir_nkaragir37: "Плотность населения: 216 человек/км².",
-      marz_armavir_nkaragir38: "Традиционное занятие: сельское хозяйство.",
+      marz_armavir_nkaragir38:
+        "Традиционное занятие населения: сельское хозяйство.",
       marz_armavir_nkaragir39: "ПРИРОДА",
       marz_armavir_nkaragir40:
-        "Армавирский регион расположен в западной части Араратской долины. Он характеризуется равнинным, жарким и сухим ландшафтом. Большая часть территории находится на высоте 800–900 м над уровнем моря и занимает одну из самых солнечных зон Армении. Плодородные почвы и теплый климат способствуют развитию сельского хозяйства в регионе. Природа региона формируется:.",
-      marz_armavir_nkaragir41:
-        "Плоские, открытые пространства Араратской долины",
-      marz_armavir_nkaragir42: "Долина реки Аракс",
-      marz_armavir_nkaragir43: "Развитая ирригационная система",
-      marz_armavir_nkaragir44: "Зоны",
+        "Армавирская область расположена в западной части Араратской равнины, для которой характерны равнинные, тёплые и засушливые ландшафты. С трёх сторон область окружена горными массивами Арагац, Арарат и Гегамский хребет, которые хорошо просматриваются с равнины.Большая часть территории находится на высоте 800–900 м над уровнем моря и относится к самым солнечным районам Армении. Исключительно плодородные почвы и тёплый климат создают благоприятные условия для развития сельского хозяйства.Природный облик области формируют:",
+      marz_armavir_nkaragir41: "Просторные открытые равнины Араратской долины.",
+      marz_armavir_nkaragir42: "Долина реки Аракс.",
+      marz_armavir_nkaragir43: "Развитая оросительная система.",
+      marz_armavir_nkaragir44: "Поясность (зоны)",
       marz_armavir_nkaragir45:
-        "Природный ландшафт Армавирского марца в основном полупустынный, с пустынными участками и возделанными и садоводческими ландшафтами вдоль рек и каналов, которые сформировались в результате многовекового орошения. Климат марца крайне засушливый, так как он расположен в основном в сухой и жаркой степной климатической зоне",
+        "Природный ландшафт Армавирской области преимущественно полупустынный, с отдельными пустынными участками. Вдоль рек и оросительных каналов расположены возделываемые сельскохозяйственные земли, сады и плодовые насаждения, сформировавшиеся благодаря многовековому искусственному орошению. Климат области очень засушливый, поскольку большая часть её территории находится в зоне сухого и жаркого степного климата.",
       marz_armavir_nkaragir46: "Ландшафтные зоны",
       marz_armavir_nkaragir47: "Полупустынная зона – ▲ 850–1100 м",
-      marz_armavir_nkaragir48: "Зона сухой степи – ▲ 1100–1400 м",
+      marz_armavir_nkaragir48: "Сухая степная зона – ▲ 1100–1400 м",
       marz_armavir_nkaragir49: "Климатические зоны",
-      marz_armavir_nkaragir50: "Сухая субтропическая – ▲ 850–1000 м",
-      marz_armavir_nkaragir51: "Умеренно сухая континентальная – ▲ 1000–1400 м",
-      marz_armavir_nkaragir52: "Почва и растительность",
+      marz_armavir_nkaragir50: "Сухой субтропический климат – ▲ 850–1000 м ",
+      marz_armavir_nkaragir51:
+        "Умеренно сухой континентальный климат – ▲ 1000–1400 м",
+      marz_armavir_nkaragir52: "Почвы и растительность",
       marz_armavir_nkaragir53:
-        "Преобладают серые почвы с содержанием извести и гипса. На поймах встречаются засоленные и болотистые почвы. Растительность бедная, с засухоустойчивыми и солелюбивыми видами. Естественный растительный покров представлен галофитами, кактусоподобными и «Засухоустойчивые виды, но благодаря ирригации, обрабатываемые поля и садоводческие угодья получили широкое распространение. Виноград, фруктовые деревья и овощные культуры широко распространены.",
+        "В области преобладают серозёмы, богатые известью и гипсом. В поймах рек встречаются засолённые и болотные почвы.	Естественная растительность небогата и представлена преимущественно засухоустойчивыми и солеустойчивыми видами.	Природный растительный покров включает галофиты, суккулентные (кактусоподобные) и другие ксерофитные растения. Благодаря развитому орошению широко распространены обрабатываемые поля, виноградники, фруктовые сады и овощные угодья.	Основные сельскохозяйственные культуры — виноград, плодовые деревья и овощи.",
       marz_armavir_nkaragir54: "Животный мир",
       marz_armavir_nkaragir55:
-        "Рептилии широко распространены: гуурза, ящерица, степной дракон, рогатая гадюка, млекопитающие: дикий кабан, выдра, камышовая кошка. Встречается кошениль, являющаяся природным источником красителя «ордан кармир.",
-      marz_armavir_nkaragir56: "Особо охраняемые территории (ООТ)",
+        "Среди пресмыкающихся распространены: гюрза, ящерицы, степенная агама и рогатая гадюка.Среди млекопитающих встречаются: дикий кабан, выдра и камышовый кот.Также обитает армянская кошениль — насекомое, являющееся природным источником знаменитой краски «вордан кармир».",
+      marz_armavir_nkaragir56: "Особо охраняемые природные территории",
       marz_armavir_nkaragir57:
-        "Заповедник Ордан кармир — здесь сохраняется эндемичное насекомое, которое веками использовалось для получения красного красителя.",
+        "Заказник «Вордан Кармир» — создан для охраны эндемичного армянского кошенильного червеца, который на протяжении многих веков использовался для получения знаменитого природного красителя «вордан кармир» (армянский кармин).",
       marz_armavir_nkaragir58: "Рельеф",
       marz_armavir_nkaragir59:
-        "Поверхность местности плоская, в направлении реки Аракс она равномерно понижается примерно на 1,8 м на километр, 800–950 м над уровнем моря, включая окружающие предгорья до 1200 м над уровнем моря.",
+        "Поверхность области преимущественно равнинная, плавно понижаясь в сторону реки Аракс со средним уклоном около 1,8 м на километр. Основные высоты составляют 800–950 м, а окружающие предгорья поднимаются до 1200 м над уровнем моря.",
       marz_armavir_nkaragir60:
-        "В основном равнинная местность со слегка волнистым рельефом (например, вокруг Баграмяна и Налбандяна), без горных систем, в отличие от высокогорья, типичного для других регионов Армении.",
+        "Армавир — одна из самых равнинных областей Армении. Для неё характерны широкие равнины с пологими холмами (особенно в районах Баграмяна и Налбандяна), при этом здесь отсутствуют горные системы, типичные для большинства областей страны.",
       marz_armavir_nkaragir61:
-        "На севере и северо-западе расположены только невысокие холмистые участки, но они не образуют отдельной равнины.",
+        "На севере и северо-западе встречаются лишь невысокие холмистые участки, не образующие самостоятельной возвышенности.",
       marz_armavir_nkaragir62:
-        "Высоты здесь низкие, в среднем 800–1000 м над уровнем моря.",
+        "Большая часть территории расположена на высоте 800–1000 м",
       marz_armavir_nkaragir63:
-        "Высота немногочисленных вершин и холмов не достигает даже 1500 м.",
+        "Немногочисленные возвышенности области не достигают даже 1500 м.",
       marz_armavir_nkaragir64:
-        "Самые низкие части марза находятся в Араксской долине, на высотах 820–840 м.",
+        "Самые низкие участки расположены в долине реки Аракс на высоте 820–840 м.",
       marz_armavir_nkaragir65:
-        "Самые высокие части региона (на востоке, со стороны Мастара-Акналич, а также вблизи границ Арагацотна) могут достигать около 950–1000  м.",
-      marz_armavir_nkaragir66:
-        "Самая низкая точка — 801 м, недалеко от русла реки Аракс (на юге).",
+        "Наиболее высокие равнинные участки находятся на востоке (в районе Мастары и Акналича) и у границы с Арагацотнской областью, достигая 950–1000 м. ",
+      marz_armavir_nkaragir66: "Самая низкая точка: 801 м, у русла реки Аракс.",
       marz_armavir_nkaragir67:
-        "Самая высокая точка — 1286 м, вулканический конус Кармратар, расположенный у южного подножия массива Арагац, на границе регионов Армавир и Арагацотн.",
+        "Самая высокая точка: Кармратар (1286 м) — конусообразная возвышенность вулканического происхождения, расположенная у южного подножия массива Арагац на границе Армавирской и Арагацотнской областей.",
       marz_armavir_nkaragir68:
-        "Высоты вокруг Мргашата и Эчмиадзина также относительно высоки, составляя 1100 м.",
+        "Относительно высокими также являются возвышенности в районах Мргашата и Эчмиадзина, достигающие около 1100 м.",
       marz_armavir_nkaragir69: "Горы и холмы",
-      marz_armavir_nkaragir70: "Гора Дем (1258 м) 2.",
-      marz_armavir_nkaragir71: "Гора Кармратар (1286 м)",
-      marz_armavir_nkaragir72: "Гора Спитакблур (1255 м)",
-      marz_armavir_nkaragir73: "Акобисар (1017 м)",
-      marz_armavir_nkaragir74: "Армавирская возвышенность (937 м)",
-      marz_armavir_nkaragir75: "Мецаморский холм (867 м)",
-      marz_armavir_nkaragir76: "Равнины и плато",
-      marz_armavir_nkaragir77:
-        "Араратская долина – ▲ 800 – 1000 м, всего ◯ 6600 км²",
+      marz_armavir_nkaragir70: "Гора Дем – ▲ 1258 м",
+      marz_armavir_nkaragir71:
+        "Гора Кармратар – ▲ 1286 м (высшая точка области)",
+      marz_armavir_nkaragir72: "Гора Спитакблур – ▲ 1255 м",
+      marz_armavir_nkaragir73: "Холм Акобисар – ▲ 1017 м",
+      marz_armavir_nkaragir74: "Холм Армавир – ▲ 937 м",
+      marz_armavir_nkaragir75: "Холм Мецамор – ▲ 867 м",
+      marz_armavir_nkaragir76: "Равнины",
+      marz_armavir_nkaragir77: "Араратская равнина – ▲ 800–1000 м | ◯ 6600 км²",
       marz_armavir_nkaragir78:
-        "Почти вся равнинная часть Армавирской области расположена в Араратской долине, за исключением некоторых северных возвышенностей (к северу от Аргаванда).",
+        "Почти вся равнинная часть Армавирской области расположена в пределах Араратской равнины, за исключением отдельных возвышенных участков на севере (к северу от Аргаванда).",
       marz_armavir_nkaragir79:
-        "С севера, примерно до линии между Арташатом и Эчмиадзином.",
+        "С севера равнина простирается примерно до линии между Арташатом и Эчмиадзином.",
       marz_armavir_nkaragir80:
-        "С юга, до реки Аракс, которая также является границей между Арменией и Турцией.",
+        "С юга ограничена рекой Аракс, которая одновременно является государственной границей между Арменией и Турцией.",
       marz_armavir_nkaragir81:
-        "Крупнейшие населенные пункты Араратской долины в Армавирской области:",
+        "Крупнейшие населённые пункты Араратской равнины в пределах Армавирской области:",
       marz_armavir_nkaragir82: "Эчмиадзин",
       marz_armavir_nkaragir83: "Мусалер",
       marz_armavir_nkaragir84: "Акналич",
       marz_armavir_nkaragir85: "Мердзаван",
       marz_armavir_nkaragir86: "Баграмян",
-      marz_armavir_nkaragir87: "Город Армавир",
+      marz_armavir_nkaragir87: "Армавир",
       marz_armavir_nkaragir88: "Джрашен",
       marz_armavir_nkaragir89: "Налбандян",
       marz_armavir_nkaragir90: "Алашкерт",
@@ -1166,119 +1174,117 @@
       marz_armavir_nkaragir92: "Маргара",
       marz_armavir_nkaragir93: "Водная система",
       marz_armavir_nkaragir94:
-        "Армавирская область – один из самых богатых водой регионов Армении. Основу водной системы региона составляет река Аракс и крупные оросительные каналы. которые вместе с рыбными прудами образуют обширный сельскохозяйственный ландшафт. Регион по своей природе засушливый, но решающую роль здесь играет искусственная система водоснабжения. В Армавире практически нет внутренних рек; поэтому вся водная сеть основана на Араксе и системе каналов. Из-за сухого климата естественных болот мало, но они встречаются.",
-      marz_armavir_nkaragir95: "В древних руслах Аракса",
-      marz_armavir_nkaragir96: "В районах, прилегающих к рыбным прудам",
+        "Крупнейшие населённые пункты Араратской равнины в пределах Армавирской области: Несмотря на засушливый природный климат, решающую роль здесь играет искусственная водохозяйственная система. Собственных рек в области почти нет, поэтому вся водная сеть основана на Араксе и оросительных каналах.Из-за сухого климата естественных болот немного, однако они встречаются:",
+      marz_armavir_nkaragir95: "вдоль старых русел Аракса;",
+      marz_armavir_nkaragir96: "возле рыбоводных прудов;",
       marz_armavir_nkaragir97:
-        "В небольших болотах, питаемых искусственными водами",
+        "на небольших заболоченных участках, питаемых искусственным орошением.",
       marz_armavir_nkaragir98: "Река Аракс",
-      marz_armavir_nkaragir99: "Это главная река региона",
-      marz_armavir_nkaragir100:
-        "Она протекает вдоль всей южной границы региона.",
-      marz_armavir_nkaragir101: "Используется для крупномасштабного орошения",
+      marz_armavir_nkaragir99: "Главная река области.",
+      marz_armavir_nkaragir100: "Проходит вдоль всей южной границы области.",
+      marz_armavir_nkaragir101: "Используется главным образом для орошения.",
       marz_armavir_nkaragir102: "Одна из самых полноводных рек Армении.",
       marz_armavir_nkaragir103: "Реки",
       marz_armavir_nkaragir104:
-        "Реки Армавирской области относятся к бассейну Аракса. Единственная река, берущая начало в этом регионе, — Мецамор (Севджур), питаемая озером Айгр и близлежащими источниками. Единственным крупным притоком Мецамора является река Касах. Весной уровень воды в Араксе и Касахе иногда поднимается и вызывает локальные наводнения.",
+        "Все реки Армавирской области относятся к бассейну реки Аракс. Единственная река, берущая начало в пределах области — Мецамор (Севджур), питающаяся озером Айгр и близлежащими источниками. Её единственный крупный приток — река Касах. Весной во время половодья Аракс и Касах иногда выходят из берегов, вызывая локальные подтопления.",
       marz_armavir_nkaragir105:
-        "Аракс — приток реки Кур, образует естественную границу региона на юге. Длина реки составляет 1072 км, из которых 200 км находится в Армении. Источник ▲3000 м, горный хребет Бюракн (гора Бингёль). Течет вдоль границы Армавирской, Араратской, Сюникской областей Республики Армения, через территорию Турции, Ирана и Азербайджана.",
+        "Аракс — приток Куры; образует естественную южную границу области. Длина: 1072 км, из них около 200 км проходят по территории Армении. Исток: ▲ 3000 м, Бюраканское вулканическое нагорье (горы Бингёль). Протекает вдоль границ Армавирской, Араратской и Сюникской областей, а также по территории Турции, Ирана и Азербайджана.",
       marz_armavir_nkaragir106:
-        "Мецамор — приток Арака, длина 40 км, источник ▲853 м, озеро Мецамор. Течет в Армавирской и Араратской областях.",
+        "Мецамор (Севджур) — приток Аракса. Длина: 40 км. Исток: ▲ 853 м, озеро Мецамор. Протекает по Армавирской и Араратской областям.",
       marz_armavir_nkaragir107:
-        "Мастара Селав или Севджур — приток реки Мецамор. Длина: 98 км, источник ▲2500 м, юго-западные склоны Арагаца. Течет: в Арагацотнской и Армавирской областях.",
-      marz_armavir_nkaragir108: "Небольшие притоки, берущие начало в Акналиче",
+        "Селевой поток Мастара (Севджур) — приток реки Мецамор. Длина: 98 км. Исток: ▲ 2500 м, юго-западные склоны горы Арагац. Протекает по Арагацотнской и Армавирской областям.",
+      marz_armavir_nkaragir108:
+        "Небольшие ручьи, берущие начало из озера Акналич.",
       marz_armavir_nkaragir109: "Озера",
       marz_armavir_nkaragir110:
-        "Акна - ▲ 800 м, ◯ 50 га, ▼ ~2 м, самое низкое озеро в Армении. В селе Акналич.",
+        "Озеро Акна – ▲ 800 м, ◯ 50 га, ▼ ~2 м. Самое низкорасположенное озеро Армении (село Акналич).",
       marz_armavir_nkaragir111:
-        "Озеро Егегнут - приток реки Севджур, ▼ 2 м Араратская долина",
+        "Озеро Егегнут – приточное озеро реки Севджур,▼ 2 м. (Араратская равнина).",
       marz_armavir_nkaragir112:
-        "Озеро Айгр (историческое озеро Мецамор) – ▲ 860 м, ◯ 0,075 км², ▼ ~9,4 м, в Араратской долине, имеет приток (Севджур) Река).",
-      marz_armavir_nkaragir113: "Рыбные пруды",
+        "Озеро Айгр (ист. озеро Мецамор) – ▲ 860 м, ◯ 0,075 км², ▼ ~9,4 м. Протекает по Араратской долине и впадает в реку Мецамор.",
+      marz_armavir_nkaragir113: "Рыбоводные пруды",
       marz_armavir_nkaragir114:
-        "В Армавирском марзе также есть небольшие водохранилища и многочисленные рыбные пруды.",
+        "В области расположены многочисленные малые водохранилища и рыбоводные пруды.",
       marz_armavir_nkaragir115:
-        "Рыбные пруды в основном сосредоточены в деревнях, прилегающих к Мецамору, Баграмяну, Налбандяну, Эчмиадзину и низовьям Араксской долины.",
+        "Основные зоны сосредоточены вокруг Мецамора, Налбандяна, Эчмиадзина Баграмяна, и нижнего течения долины Аракса.",
       marz_armavir_nkaragir116:
-        "Рыбные фермы стали новыми формирующими единицами водной экосистемы региона: здесь формируются небольшие болотистые и заболоченные местообитания.",
+        "Рыбоводные хозяйства стали новым элементом водной экосистемы, формируя небольшие болотистые и водно-болотные биотопы.",
       marz_armavir_nkaragir117: "Каналы",
       marz_armavir_nkaragir118:
-        "Развита ирригационная система — несколько каналов пересекают территорию региона: Армавирский канал, Эчмиадзинский канал, Талинский канал с водами, поступающими из Арагацотна и Арарата.",
+        "Оросительная система хорошо развита: через территорию области проходят несколько крупных каналов, снабжающих водой из Арагацотна и Арарата. Основные каналы: Армавирский канал, Эчмиадзинский канал,	Талинский канал ",
       marz_armavir_nkaragir119: "Природные ресурсы",
       marz_armavir_nkaragir120:
-        "Главное богатство Армавира — плодородные земли и водные ресурсы.",
+        "Главным природным богатством Армавирской области являются плодородные почвы и водные ресурсы.",
       marz_armavir_nkaragir121:
-        "Также имеются местные месторождения сырья для строительных материалов: глины, песка.",
+        "Также имеются местные залежи строительного сырья — глины и песка.",
       marz_armavir_nkaragir122:
-        "Территория пригодна для всех отраслей сельского хозяйства",
+        "Территория полностью пригодна для всех основных направлений сельского хозяйства:",
       marz_armavir_nkaragir123: "виноградарство и виноделие",
-      marz_armavir_nkaragir124: "плодоношение и овощеводство",
-      marz_armavir_nkaragir125: "рыбоводство.",
-      marz_armavir_nkaragir126: "ЭКОНОМИЧНОСТЬ",
-      marz_armavir_nkaragir127: "энергия",
+      marz_armavir_nkaragir124: "плодоводство и овощеводство",
+      marz_armavir_nkaragir125: "рыбоводство",
+      marz_armavir_nkaragir126: "ЭКОНОМИКА",
+      marz_armavir_nkaragir127: "Энергетика",
       marz_armavir_nkaragir128:
-        "Армавирский регион отличается развитой промышленностью и сельским хозяйством в республике.",
+        "Армавирская область выделяется в республике развитой промышленностью и сельским хозяйством.",
       marz_armavir_nkaragir129:
-        "Основной отраслью региона является энергетика. Здесь расположена Армянская атомная электростанция (АЭС), которая обеспечивает около 40% электроэнергии страны.",
+        "Ведущей отраслью экономики области является электроэнергетика. Здесь расположена Армянская атомная электростанция (ААЭС), обеспечивающая около 40 % электроэнергии страны.",
       marz_armavir_nkaragir130:
-        "АЭС состоит из двух энергоблоков: первый был введен в эксплуатацию в 1976 году, второй — в 1980 году.",
+        "ААЭС состоит из двух энергоблоков: первый был введён в эксплуатацию в 1976 году, второй — в 1980 году.",
       marz_armavir_nkaragir131:
-        "После перезапуска в 1993–1995 годах был осуществлен переход на круглосуточное электроснабжение.",
-      marz_armavir_nkaragir132: "Промышленность.",
+        "После возобновления работы станции в 1993–1995 гг. в стране было восстановлено круглосуточное электроснабжение.",
+      marz_armavir_nkaragir132: "Промышленность",
       marz_armavir_nkaragir133:
-        "Ранее в регионе работали консервные, мебельные и военные заводы; теперь их сменили табачные и коньячные фабрики, а также малые и средние агропромышленные предприятия.",
+        "Ранее в области действовали консервные, мебельные и предприятия военного назначения. В настоящее время их место заняли винные и коньячные заводы, а также малые и средние предприятия агропромышленного комплекса.",
       marz_armavir_nkaragir134:
-        "Хоктемберянский завод по производству вина и коньяка работает с 1942 года; в производстве используются как местные, так и импортные сорта винограда.",
+        "Октемберянский винно-коньячный завод работает с 1942 года. В производстве используются как местные сорта винограда, так и виноград, поставляемый из различных регионов Армении и Грузии.",
       marz_armavir_nkaragir135:
-        "С 1995 года завод использует торговую марку 'Араме'.",
+        "С 1995 года завод выпускает продукцию под торговой маркой «Arame».",
       marz_armavir_nkaragir136:
-        "В В 2000 году было основано ЗАО «Милакс Группа», которое производит мебель, строительные материалы, металлопластиковые окна и двери.",
+        "В 2000 году было основано ЗАО «Milax Group», специализирующееся на производстве мебели, строительных материалов, металлопластиковых окон и дверей.",
       marz_armavir_nkaragir137: "Сельское хозяйство",
       marz_armavir_nkaragir138:
-        "Армавирский регион традиционно является центром растениеводства и животноводства. Земли региона особенно плодородны в Араратской долине.",
+        "Армавирская область традиционно является одним из главных центров растениеводства и животноводства Армении. Особенно плодородны земли, расположенные на Араратской равнине.",
       marz_armavir_nkaragir139: "Растениеводство",
       marz_armavir_nkaragir140:
-        "Развиты плодоводство и виноградарство (яблоки, груши, виноград, абрикосы, персики, черешни и др.).",
+        "Широко развиты садоводство и виноградарство (яблоки, груши, виноград, абрикосы, персики, черешня и другие фрукты).",
       marz_armavir_nkaragir141:
-        "Выращиваются овощи и дыни, развито дынное земледелие (арбуз, дыня, тыква, кабачок, огурец, лук, помидор, фасоль, нут, зеленый и красный перец).",
+        "Выращиваются овощные и бахчевые культуры: арбузы, дыни, тыква, капуста, огурцы, лук, чеснок, помидоры, фасоль, нут, зелёный и красный сладкий перец.",
       marz_armavir_nkaragir142:
-        "В регионе работает единственный завод по переработке герани, где выращивается органическая сельскохозяйственная продукция и производится эфирное масло герани.",
+        "В области действует единственный в Армении завод по переработке герани, где выращивается органическая сельскохозяйственная продукция и производится эфирное масло герани.",
       marz_armavir_nkaragir143: "Животноводство",
       marz_armavir_nkaragir144:
-        "Они занимаются разведением крупного рогатого скота и мелкого рогатого скота, птицеводством.",
+        "Развиты разведение крупного и мелкого рогатого скота, а также птицеводство.",
       marz_armavir_nkaragir145:
-        "Наибольшая концентрация свиноводства сосредоточена в Армавирской области; также создана армянская порода мясных свиней.",
+        "В Армавирской области сосредоточена самая высокая плотность свиноводства в Армении; здесь также была выведена армянская мясная порода свиней.",
       marz_armavir_nkaragir146: "Рыбоводство",
       marz_armavir_nkaragir147:
-        "Армавирская область является крупным центром рыбоводства в Армении.",
+        "Армавирская область является одним из крупнейших центров рыбоводства в Армении.",
       marz_armavir_nkaragir148:
-        "Пруды Егегнута Жители Армавирской области десятилетиями занимаются рыбоводством, и их ежегодное производство товарной рыбы (карпа и леща) составляет несколько тысяч тонн. Рыбоводческое хозяйство в селе Тароник Араратской равнины уже много лет выращивает высокоценную радужную форель.",
+        "Прудовые хозяйства общины Егегнут имеют многолетние традиции рыбоводства. Ежегодный объём производства товарной рыбы (карпа и сазана) составляет несколько тысяч тонн. На рыбоводческом хозяйстве села Тароник Араратской равнины на протяжении многих лет выращивается высокоценная радужная форель.",
       marz_armavir_nkaragir149:
-        "В последние годы появились новые рыбоводческие хозяйства. Например, ЗАО «Армавирский фермер» ежегодно производит около 25 тонн мелкой рыбы и 50 тонн товарной рыбы.",
+        "В последние годы активно развиваются новые рыбоводческие хозяйства. Например, ЗАО «Армавир Фермер» ежегодно производит около 25 тонн молоди и 50 тонн товарной рыбы.",
       marz_armavir_nkaragir150:
-        "Производятся сиг, лососевидные виды, шамай, карасье и другие виды рыб.",
-      marz_armavir_nkaragir151: "ОБРАЗОВАНИЕ / СПОРТ",
-      marz_armavir_nkaragir152: "Средние школы",
+        "Выращиваются сиг, лососёвые виды, шамая, карась и другие виды рыб.",
+      marz_armavir_nkaragir151: "ОБРАЗОВАНИЕ",
+      marz_armavir_nkaragir152: "Общеобразовательные школы",
       marz_armavir_nkaragir153:
-        "В регионе расположено множество образовательных, культурных и медицинских учреждений. в Армавирской области Республики Армения. В настоящее время здесь действуют 120 средних школ, из них:",
-      marz_armavir_nkaragir154: "26 в городских поселениях",
+        "В Армавирской области действует множество образовательных, культурных и медицинских учреждений регионального значения.В настоящее время в области насчитывается 120 общеобразовательных школ, из них:",
+      marz_armavir_nkaragir154: "26 в городских общинах",
       marz_armavir_nkaragir155: "94 в сельских общинах",
-      marz_armavir_nkaragir156:
-        "Участие 100 общеобразовательных школ в регионе:",
-      marz_armavir_nkaragir157: "17 начальных",
-      marz_armavir_nkaragir158: "83 средних",
+      marz_armavir_nkaragir156: "Из 100 общеобразовательных школ:",
+      marz_armavir_nkaragir157: "17 — основные школы;",
+      marz_armavir_nkaragir158: "83 — средние школы.",
       marz_armavir_nkaragir159: "Лаборатории",
       marz_armavir_nkaragir160:
-        "В рамках программы для общеобразовательных школ Республики Армения были пересмотрены и составлены перечни оборудования и материалов для физических, биологических и географических лабораторий. Новые лаборатории в школах обеспечат учащихся практическими навыками для закрепления теоретических знаний и возможностью проведения научных экспериментов.",
+        "В рамках государственной программы модернизации общеобразовательных школ Республики Армения были пересмотрены и разработаны перечни оборудования и материалов для лабораторий физики, биологии и географии.Новые лаборатории позволяют учащимся закреплять теоретические знания практическими навыками и проводить научные эксперименты.",
       marz_armavir_nkaragir161: "Модульная школа",
       marz_armavir_nkaragir162:
-        "Первая модульная школа в Армавирской области открыта в общине Аргина и введена в эксплуатацию",
+        "Первая модульная школа в Армавирской области была открыта и введена в эксплуатацию в общине Аргина.",
       marz_armavir_nkaragir163: "Спортивные центры",
       marz_armavir_nkaragir164:
-        "Армавирская детская и юношеская спортивная школа - фокусируется на спорте, развивает физические и спортивные навыки детей",
-      marz_armavir_nkaragir165:
-        "Детские и юношеские спортивные школы по деревням",
-      marz_armavir_nkaragir166: "Эчмиадзин, Джрарат, Джрарби",
+        "Армавирская детско-юношеская спортивная школа — развивает различные виды спорта, способствуя физической и спортивной подготовке детей.",
+      marz_armavir_nkaragir165: "Детско-юношеские спортивные школы по общинам",
+      marz_armavir_nkaragir166: "Эчмиадзин, Джрарат, Джрарпи",
       marz_armavir_nkaragir167: "Егегнут, Арташар, Арагац, Зартонк, Варданашен",
       marz_armavir_nkaragir168: "Акналич, Цахкунк",
       marz_armavir_nkaragir169: "Шаумян",
@@ -1286,81 +1292,78 @@
       marz_armavir_nkaragir171: "Мердзаван",
       marz_armavir_nkaragir172: "Лусагюх",
       marz_armavir_nkaragir173: "КУЛЬТУРА",
-      marz_armavir_nkaragir174: "В Армавирской области 87 домов культуры",
-      marz_armavir_nkaragir175:
-        "Сообщества, как правило, выделяют ассигнования",
-      marz_armavir_nkaragir176: "для поддержания культурного наследия дом",
-      marz_armavir_nkaragir177: "для художественной части",
-      marz_armavir_nkaragir178: "групповые мероприятия",
-      marz_armavir_nkaragir179: "для уборки и других работ",
+      marz_armavir_nkaragir174:
+        "В Армавирской области действует 87 домов культуры.",
+      marz_armavir_nkaragir175: "Как правило, общины выделяют средства на:",
+      marz_armavir_nkaragir176: "содержание домов культуры;",
+      marz_armavir_nkaragir177: "художественную деятельность;",
+      marz_armavir_nkaragir178: "работу кружков и творческих коллективов;",
+      marz_armavir_nkaragir179: "уборку и другие хозяйственные расходы.",
       marz_armavir_nkaragir180: "Музеи",
       marz_armavir_nkaragir181:
-        "Национальный музей армянской этнографии и истории освободительной борьбы - уникальные образцы армянской народной культуры, более 77 000 музейных экспонатов",
+        "Национальный музей этнографии армян и истории освободительной борьбы — хранит уникальные образцы армянской народной культуры и более 77 000 музейных экспонатов.",
       marz_armavir_nkaragir182:
-        "Исторический и этнографический музей Эчмиадзина, где представлена ​​материальная культура коренного населения Араратской равнины, Эчмиадзинская область, с 6-го тысячелетия до н.э. до наших дней. Исторические и археологические материалы",
+        "Эчмиадзинский историко-этнографический музей — представляет материальную культуру коренного населения Эчмиадзинского региона Араратской равнины с VI тысячелетия до н. э. до наших дней, а также исторические и археологические материалы.",
       marz_armavir_nkaragir183:
-        "Ервандашатский археологический музей - результаты археологических раскопок, материалы периода Ервандунского царства",
+        "Ервандашатский археологический музей — экспонирует результаты археологических раскопок и материалы периода царства Ервандидов.",
       marz_armavir_nkaragir184:
-        "Региональные художественные центры и выставки - в культурных и общественных центрах проводятся выставки современного искусства, художественные программы и творческие курсы для молодежи. Музеи способствуют образованию молодого поколения, сохранению культурного наследия и развитию общественного сознания",
+        "Региональные художественные центры и выставки — в домах культуры и общественных центрах регулярно проводятся выставки современного искусства, искусствоведческие программы и творческие занятия для детей и молодёжи.Музеи способствуют образованию молодого поколения, сохранению культурного наследия и развитию общественного самосознания.",
       marz_armavir_nkaragir185: "ТУРИЗМ",
       marz_armavir_nkaragir186:
-        "Армавирский регион богат историческими и культурными сооружениями и уникальными памятниками",
-      marz_armavir_nkaragir187: "Исторические и археологические памятники",
+        "Армавирская область богата историко-культурными памятниками и уникальными достопримечательностями.",
+      marz_armavir_nkaragir187: "Историко-археологические объекты",
       marz_armavir_nkaragir188:
-        "Археологический памятник Аргиштихинил (Урартский)",
-      marz_armavir_nkaragir189: "5000-летний металлургический завод в Мецаморе",
+        "Археологический памятник Аргиштихинили (урартский период)",
+      marz_armavir_nkaragir189: "5000-летний металлургический центр Мецамора",
       marz_armavir_nkaragir190:
-        "Древнее поселение на озере Акна, доисторические крепости и гробницы",
+        "Древнее поселение у озера Акна, доисторические крепости и могильники",
       marz_armavir_nkaragir191:
         "Древний город Армавир (на левом берегу реки Аракс)",
-      marz_armavir_nkaragir192: "Архитектурные и религиозные сооружения",
+      marz_armavir_nkaragir192: "Архитектурные и религиозные памятники",
       marz_armavir_nkaragir193:
-        "Священный Эчмиадзинский собор с троном Католикоса",
+        "Первопрестольный Святой Эчмиадзин — кафедральный собор и резиденция Католикоса всех армян",
       marz_armavir_nkaragir194:
-        "Священные церкви Рипсиме, Гаяне, Шогакат, Аствацацин в Вагаршапате",
-      marz_armavir_nkaragir195: "Монастырь Таргманчатс (VII век)",
+        "Церкви Вагаршапата: Св. Рипсиме, Св. Гаяне, Св. Шогакат и церковь Святой Богородицы",
+      marz_armavir_nkaragir195: "Монастырь Сурб Таргманчац (VII век)",
       marz_armavir_nkaragir196: "Храм Звартноц (VII век)",
       marz_armavir_nkaragir197: "Музеи",
       marz_armavir_nkaragir198:
-        "Государственный этнографический музей Армении (Сардарапат)",
+        "Государственный музей этнографии Армении (Сардарапат)",
       marz_armavir_nkaragir199: "Археологические музеи Мецамора и Звартноца",
       marz_armavir_nkaragir200: "Матенадаран Святого Эчмиадзина",
       marz_armavir_nkaragir201: "Памятники и мемориальные комплексы",
       marz_armavir_nkaragir202:
-        "Мемориальный комплекс Сардарапат (1968). Мемориальный комплекс Сардарапат представляет собой величайшую историческую и архитектурную ценность. Армавирская область является местом решающей битвы за Сардарапат, которая произошла в 1918 году и привела к созданию Первой Армянской Республики.",
+        "Мемориальный комплекс Сардарапат (1968 г.) — выдающийся памятник истории и архитектуры. Именно на территории Армавирской области в 1918 году состоялась решающая Сардарапатская битва, которая привела к основанию Первой Республики Армения.",
       marz_armavir_nkaragir203:
-        "Орел Звартноц работы Ерванда Кочара — символ национальной государственности.",
-
+        "«Орёл Звартноца» работа Ерванда Кочара — символ армянской государственности.",
       marz_armavir_nkaragir204: "Природные и рекреационные зоны",
       marz_armavir_nkaragir205:
-        "Озеро Акна с домами отдыха и возможностями для туризма",
-      marz_armavir_nkaragir206: "Муса Лер",
-      marz_armavir_nkaragir207: "Другие достопримечательности",
+        "Озеро Акна — с домами отдыха и туристическими возможностями",
+      marz_armavir_nkaragir206: "Гора Муса",
+      marz_armavir_nkaragir207: "Другие объекты",
       marz_armavir_nkaragir208:
-        "АНПП — Армянская атомная электростанция в Мецаморе",
-      marz_armavir_nkaragir209: "Международный аэропорт Звартноц",
+        "Армянская атомная электростанция (ААЭС) в Мецаморе",
+      marz_armavir_nkaragir209: "Международный аэропорт «Звартноц»",
       marz_armavir_nkaragir210: "ЛОГИСТИКА",
-      marz_armavir_nkaragir211: "Автомагистрали",
-
+      marz_armavir_nkaragir211: "Автомобильные дороги",
       marz_armavir_nkaragir212:
-        "Через территорию Армавира проходят национальные автомагистрали: Ереван-Армавир, Ереван-Каракерт, Ереван-Гюмри, а также железная дорога Ереван-Тбилиси.",
+        "Через территорию Армавирской области проходят автотрассы республиканского значения: Ереван–Армавир, Ереван–Каракерт, Ереван–Гюмри, а также железнодорожная линия Ереван–Тбилиси.",
       marz_armavir_nkaragir213:
-        "Общая протяженность дорог в регионе составляет 595,3 км.",
-
-      marz_armavir_nkaragir214: "Межгосударственное значение: 109,0 км",
-      marz_armavir_nkaragir215: "Республиканское значение: 96,1 км",
-      marz_armavir_nkaragir216: "Региональное значение: 279,9 км",
-      marz_armavir_nkaragir217: "Общественное значение: 110,3 км",
+        "Общая протяжённость дорог в области составляет 595,3 км:",
+      marz_armavir_nkaragir214: "международного значения — 109,0 км",
+      marz_armavir_nkaragir215: "республиканского значения — 96,1 км",
+      marz_armavir_nkaragir216: "регионального значения — 279,9 км",
+      marz_armavir_nkaragir217: "общинного значения — 110,3 км",
       marz_armavir_nkaragir218:
-        "Грузовые и пассажирские перевозки осуществляются в основном автомобильным транспортом",
+        "Грузовые и пассажирские перевозки в основном осуществляются автомобильным транспортом.",
       marz_armavir_nkaragir219: "Воздушное сообщение",
       marz_armavir_nkaragir220:
-        "Международный аэропорт 'Звартноц' расположен в регионе, всего в 18 км от Еревана",
+        "На территории области расположен международный аэропорт «Звартноц», всего в 18 км от Еревана.",
       marz_armavir_nkaragir221:
-        "В настоящее время он соединяет Армению с различными странами и городами. Вокруг света воздушными путями, обеспечивая высококлассный сервис и коммерческие услуги.",
-      marz_armavir_nkaragir222: "Финал",
+        "Он был основан в 1961 году и первоначально обслуживал только рейсы внутри СССР.Сегодня аэропорт связывает Армению с различными странами и городами мира, обеспечивая высокий уровень пассажирского и коммерческого обслуживания.",
+      marz_armavir_nkaragir222: "Заключение",
       marz_armavir_nkaragir223:
-        "Армавир — сердце истории и духовной жизни Армении: здесь находятся руины древних армянских столиц — Армавира, Багарана, Ервандашата, Вагаршапата, а также первый собор христианского мира — Эчмиадзин. Это делает регион духовным и культурным центром и одной из главных визитных карточек Армении. Для туристов он открывает путь к историческому прошлому и духовному наследию Армении, благодаря чему Армавир может стать главным направлением духовного туризма в Армении. Богатая сельскохозяйственными угодьями территория делает регион важным как для экономики, так и для туризма. Равнины Армавира расположены в самых плодородных частях Араратской долины, где виноградарство и садоводство существуют тысячелетиями. Благодаря этому регион может стать ведущим центром виноделия и сельского хозяйства. регион. А благодаря близости к столице и границе, Армавирская область также является важным логистическим и промышленным центром.",
+        "Армавир — сердце исторической и духовной жизни Армении, где находятся руины древних армянских столиц — Армавир, Багаран, Еревандашат, Вагаршапат, а также Эчмиадзин  — первый храм христианского мира. Это делает область одним из главных духовных и культурных центров страны и её важнейшей визитной карточкой. Для туристов он открывает ворота в историческое прошлое и духовное наследие Армении, благодаря чему Армавир может стать ведущим направлением религиозного туризма.Богатый сельскохозяйственный потенциал области также делает её важной как для экономики, так и для туризма. Расположенный в самой плодородной части Араратской равнины, Армавирская область имеет тысячелетние традиции виноградарства и садоводства, что создаёт условия для её развития как ведущей винодельческой и аграрной зоны. Благодаря близости к столице и государственной границе Армавир также является важным логистическим и промышленным центром.",
     },
   };
   for (var lang in local) {
